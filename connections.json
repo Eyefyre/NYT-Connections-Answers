@@ -1,0 +1,3084 @@
+[
+    {
+        "id": "1",
+        "date": "2023-06-12",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "WET WEATHER",
+                "items": [
+                    "HAIL",
+                    "RAIN",
+                    "SLEET",
+                    "SNOW"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "NBA TEAMS",
+                "items": [
+                    "BUCKS",
+                    "HEAT",
+                    "JAZZ",
+                    "NETS"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "KEYBOARD KEYS",
+                "items": [
+                    "OPTION",
+                    "RETURN",
+                    "SHIFT",
+                    "TAB"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "PALINDROMES",
+                "items": [
+                    "KAYAK",
+                    "LEVEL",
+                    "MOM",
+                    "RACE CAR"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "date": "2023-06-13",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "FOOTWEAR",
+                "items": [
+                    "BOOT",
+                    "LOAFER",
+                    "PUMP",
+                    "SNEAKER"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "UNITS OF LENGTH",
+                "items": [
+                    "FOOT",
+                    "LEAGUE",
+                    "MILE",
+                    "YARD"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "MAGAZINES",
+                "items": [
+                    "ESSENCE",
+                    "PEOPLE",
+                    "TIME",
+                    "US"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "LETTER HOMOPHONES",
+                "items": [
+                    "ARE",
+                    "QUEUE",
+                    "SEA",
+                    "WHY"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "date": "2023-06-14",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "FACIAL FEATURES",
+                "items": [
+                    "CHEEK",
+                    "EYE",
+                    "MOUTH",
+                    "NOSE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SYNONYMS FOR EAT",
+                "items": [
+                    "CHOW",
+                    "GOBBLE",
+                    "SCARF",
+                    "WOLF"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DOG BREEDS, INFORMALLY",
+                "items": [
+                    "LAB",
+                    "PEKE",
+                    "PIT",
+                    "POM"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MEMBERS OF A TRIO",
+                "items": [
+                    "AMIGO",
+                    "KING",
+                    "STOOGE",
+                    "TENOR"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "date": "2023-06-15",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SNEAKER BRANDS",
+                "items": [
+                    "ADIDAS",
+                    "NIKE",
+                    "PUMA",
+                    "REEBOK"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "MUSICALS BEGINNING WITH \u201cC\u201d",
+                "items": [
+                    "CABARET",
+                    "CAROUSEL",
+                    "CATS",
+                    "CHICAGO"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "CLEANING VERBS",
+                "items": [
+                    "DUST",
+                    "MOP",
+                    "SWEEP",
+                    "VACUUM"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ MAN SUPERHEROES",
+                "items": [
+                    "BAT",
+                    "IRON",
+                    "SPIDER",
+                    "SUPER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "date": "2023-06-16",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "STREAMING SERVICES",
+                "items": [
+                    "HULU",
+                    "NETFLIX",
+                    "PEACOCK",
+                    "PRIME"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "CONDIMENTS",
+                "items": [
+                    "KETCHUP",
+                    "MAYO",
+                    "RELISH",
+                    "TARTAR"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SYNONYMS FOR SAD",
+                "items": [
+                    "BLUE",
+                    "DOWN",
+                    "GLUM",
+                    "LOW"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "CLUE CHARACTERS",
+                "items": [
+                    "GREEN",
+                    "MUSTARD",
+                    "PLUM",
+                    "SCARLET"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "date": "2023-06-17",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MONOPOLY SQUARES",
+                "items": [
+                    "BOARDWALK",
+                    "CHANCE",
+                    "GO",
+                    "JAIL"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SHADES OF BLUE",
+                "items": [
+                    "BABY",
+                    "MIDNIGHT",
+                    "POWDER",
+                    "ROYAL"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "RAPPERS",
+                "items": [
+                    "COMMON",
+                    "FUTURE",
+                    "ICE CUBE",
+                    "Q-TIP"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MEMBERS OF A SEPTET",
+                "items": [
+                    "SEA",
+                    "SIN",
+                    "SISTER",
+                    "WONDER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "date": "2023-06-18",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "LEG PARTS",
+                "items": [
+                    "ANKLE",
+                    "KNEE",
+                    "SHIN",
+                    "THIGH"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "BABY ANIMALS",
+                "items": [
+                    "CALF",
+                    "CUB",
+                    "JOEY",
+                    "KID"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SLANG FOR TOILET",
+                "items": [
+                    "CAN",
+                    "HEAD",
+                    "JOHN",
+                    "THRONE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ FISH THAT AREN\u2019T FISH",
+                "items": [
+                    "CRAY",
+                    "JELLY",
+                    "SILVER",
+                    "STAR"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "date": "2023-06-19",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BOARD GAMES",
+                "items": [
+                    "BACKGAMMON",
+                    "CHECKERS",
+                    "CHESS",
+                    "GO"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "MATTRESS SIZES",
+                "items": [
+                    "FULL",
+                    "KING",
+                    "QUEEN",
+                    "TWIN"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "THINGS THAT ARE RED",
+                "items": [
+                    "CHERRY",
+                    "FIRE TRUCK",
+                    "RUBY",
+                    "STOP SIGN"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "THINGS WITH KEYS",
+                "items": [
+                    "CRYPTOGRAPHY",
+                    "FLORIDA",
+                    "LOCKSMITH",
+                    "PIANO"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "date": "2023-06-20",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SPORTS",
+                "items": [
+                    "CRICKET",
+                    "FENCING",
+                    "POLO",
+                    "SQUASH"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TOPS",
+                "items": [
+                    "CAMI",
+                    "HALTER",
+                    "TANK",
+                    "TEE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "VEGETABLES",
+                "items": [
+                    "BEET",
+                    "CARROT",
+                    "CORN",
+                    "ONION"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "INSECTS",
+                "items": [
+                    "ANT",
+                    "BEETLE",
+                    "MANTIS",
+                    "TERMITE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "date": "2023-06-21",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "FRUIT",
+                "items": [
+                    "DATE",
+                    "KIWI",
+                    "LEMON",
+                    "ORANGE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "COUNTRIES",
+                "items": [
+                    "CHAD",
+                    "GEORGIA",
+                    "JORDAN",
+                    "TOGO"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "BIRDS",
+                "items": [
+                    "CRANE",
+                    "JAY",
+                    "SWALLOW",
+                    "TURKEY"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "ZODIAC SYMBOLS",
+                "items": [
+                    "FISH",
+                    "GOAT",
+                    "SCALES",
+                    "TWINS"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "date": "2023-06-22",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SPICES BEGINNING WITH \u201cC\u201d",
+                "items": [
+                    "CARDAMOM",
+                    "CLOVE",
+                    "CORIANDER",
+                    "CUMIN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TERMS OF ENDEARMENT",
+                "items": [
+                    "BOO",
+                    "HONEY",
+                    "SUGAR",
+                    "SWEETIE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "THINGS WITH WINGS",
+                "items": [
+                    "AIRPLANE",
+                    "ANGEL",
+                    "BIRD",
+                    "PEGASUS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SPICE GIRLS",
+                "items": [
+                    "BABY",
+                    "GINGER",
+                    "POSH",
+                    "SCARY"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "date": "2023-06-23",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "ANIMAL GROUP NAMES",
+                "items": [
+                    "FLOCK",
+                    "PACK",
+                    "POD",
+                    "SCHOOL"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "DEADLY SINS",
+                "items": [
+                    "ENVY",
+                    "GREED",
+                    "LUST",
+                    "PRIDE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SLOW ANIMALS",
+                "items": [
+                    "LORIS",
+                    "SLOTH",
+                    "SNAIL",
+                    "TORTOISE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "TRIG FUNCTIONS",
+                "items": [
+                    "COT",
+                    "SEC",
+                    "SIN",
+                    "TAN"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "date": "2023-06-24",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "AIRLINES",
+                "items": [
+                    "FRONTIER",
+                    "SPIRIT",
+                    "UNITED",
+                    "VIRGIN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "GREEK LETTERS",
+                "items": [
+                    "BETA",
+                    "CHI",
+                    "DELTA",
+                    "IOTA"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SILENT \u201cG\u201d",
+                "items": [
+                    "GNAT",
+                    "GNAW",
+                    "GNOCCHI",
+                    "GNOME"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "HOMOPHONES",
+                "items": [
+                    "GNU",
+                    "KNEW",
+                    "NEW",
+                    "NU"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "date": "2023-06-25",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BEDS",
+                "items": [
+                    "BUNK",
+                    "CANOPY",
+                    "MURPHY",
+                    "TRUNDLE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "FAMOUS BROTHERS",
+                "items": [
+                    "JONAS",
+                    "MARX",
+                    "WARNER",
+                    "WRIGHT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "HONDAS",
+                "items": [
+                    "ACCORD",
+                    "CIVIC",
+                    "PASSPORT",
+                    "PILOT"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "VIDEO GAME CHARACTERS",
+                "items": [
+                    "CRASH",
+                    "LINK",
+                    "MARIO",
+                    "SONIC"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "date": "2023-06-26",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BIRD SOUNDS",
+                "items": [
+                    "CAW",
+                    "CHIRP",
+                    "CLUCK",
+                    "TWEET"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "COLORS",
+                "items": [
+                    "BROWN",
+                    "PINK",
+                    "TURQUOISE",
+                    "VIOLET"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FISHING GEAR",
+                "items": [
+                    "LURE",
+                    "REEL",
+                    "ROD",
+                    "TACKLE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "FICTIONAL PIRATES",
+                "items": [
+                    "HOOK",
+                    "JONES",
+                    "SILVER",
+                    "SPARROW"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "date": "2023-06-27",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "COFFEE DRINKS",
+                "items": [
+                    "AMERICANO",
+                    "CAPPUCCINO",
+                    "ESPRESSO",
+                    "LATTE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TREE NUTS",
+                "items": [
+                    "ALMOND",
+                    "CASHEW",
+                    "PECAN",
+                    "WALNUT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SHADES OF GREEN",
+                "items": [
+                    "EMERALD",
+                    "FOREST",
+                    "KELLY",
+                    "OLIVE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MR. ___",
+                "items": [
+                    "BEAN",
+                    "CLEAN",
+                    "FOX",
+                    "PEANUT"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "date": "2023-06-28",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "NECKWEAR",
+                "items": [
+                    "ASCOT",
+                    "BOLO",
+                    "SCARF",
+                    "TIE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SHIP DIRECTIONS",
+                "items": [
+                    "BOW",
+                    "PORT",
+                    "STARBOARD",
+                    "STERN"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DETERGENTS",
+                "items": [
+                    "ALL",
+                    "ERA",
+                    "GAIN",
+                    "TIDE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ TRIANGLE",
+                "items": [
+                    "ACUTE",
+                    "BERMUDA",
+                    "LOVE",
+                    "RIGHT"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "date": "2023-06-29",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MUSCLES, INFORMALLY",
+                "items": [
+                    "LAT",
+                    "PEC",
+                    "QUAD",
+                    "TRI"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "AWARDS",
+                "items": [
+                    "CUP",
+                    "MEDAL",
+                    "RIBBON",
+                    "TROPHY"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "TITLE TV DOCTORS",
+                "items": [
+                    "GREY",
+                    "HOUSE",
+                    "HOWSER",
+                    "QUINN"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "NFL PLAYERS",
+                "items": [
+                    "BEAR",
+                    "BILL",
+                    "BROWN",
+                    "COMMANDER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "date": "2023-06-30",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "OFF-WHITE SHADES",
+                "items": [
+                    "CREAM",
+                    "EGGSHELL",
+                    "IVORY",
+                    "VANILLA"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ANTI-VAMPIRE",
+                "items": [
+                    "CRUCIFIX",
+                    "GARLIC",
+                    "MIRROR",
+                    "STAKE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "KINDS OF MEAT",
+                "items": [
+                    "BEEF",
+                    "PORK",
+                    "POULTRY",
+                    "VENISON"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SYNONYMS FOR ARGUMENT",
+                "items": [
+                    "QUARREL",
+                    "ROW",
+                    "SPAT",
+                    "TIFF"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "date": "2023-07-01",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "GRAINS",
+                "items": [
+                    "BARLEY",
+                    "OAT",
+                    "RYE",
+                    "SPELT"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ROYAL TITLES",
+                "items": [
+                    "BARON",
+                    "EARL",
+                    "KING",
+                    "PRINCE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "UNIVERSITIES",
+                "items": [
+                    "BROWN",
+                    "DUKE",
+                    "HOWARD",
+                    "RICE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "BEST DIRECTOR OSCAR WINNERS",
+                "items": [
+                    "BONG",
+                    "FORD",
+                    "LEE",
+                    "STONE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "date": "2023-07-02",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MUSIC GENRES",
+                "items": [
+                    "JAZZ",
+                    "POP",
+                    "PUNK",
+                    "RAP"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "WEB BROWSERS",
+                "items": [
+                    "CHROME",
+                    "EDGE",
+                    "OPERA",
+                    "SAFARI"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "\u201cLITTLE WOMEN\u201d SISTERS",
+                "items": [
+                    "AMY",
+                    "BETH",
+                    "JO",
+                    "MEG"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "LIL ___ RAPPERS",
+                "items": [
+                    "BABY",
+                    "JON",
+                    "KIM",
+                    "WAYNE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "date": "2023-07-03",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "DOG BREEDS",
+                "items": [
+                    "BOXER",
+                    "DALMATIAN",
+                    "HUSKY",
+                    "POODLE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ANIMAL NOSES",
+                "items": [
+                    "BEAK",
+                    "MUZZLE",
+                    "SNOUT",
+                    "TRUNK"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "TRAFFIC SIGNS",
+                "items": [
+                    "DETOUR",
+                    "SLOW",
+                    "STOP",
+                    "YIELD"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SOUND ___",
+                "items": [
+                    "ASLEEP",
+                    "BARRIER",
+                    "BITE",
+                    "WAVE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "23",
+        "date": "2023-07-04",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "60\u2019s BAND MEMBERS",
+                "items": [
+                    "BEACH BOY",
+                    "BEATLE",
+                    "BYRD",
+                    "MONKEE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "DANCE FADS",
+                "items": [
+                    "DOUGIE",
+                    "MACARENA",
+                    "MASHED POTATO",
+                    "TWIST"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "MAGAZINES",
+                "items": [
+                    "FORTUNE",
+                    "ROLLING STONE",
+                    "VOGUE",
+                    "WIRED"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "THINGS WITH LINKS",
+                "items": [
+                    "CHAIN",
+                    "GOLF COURSE",
+                    "SAUSAGE",
+                    "WEBSITE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "date": "2023-07-05",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "CANDY BARS",
+                "items": [
+                    "BOUNTY",
+                    "CRUNCH",
+                    "HEATH",
+                    "MILKY WAY"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "VIDEO GAME CONSOLES",
+                "items": [
+                    "DREAMCAST",
+                    "GENESIS",
+                    "SWITCH",
+                    "WII"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "EAR PARTS",
+                "items": [
+                    "ANVIL",
+                    "COCHLEA",
+                    "HAMMER",
+                    "STIRRUP"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "BAND NAMES MINUS NUMBERS",
+                "items": [
+                    "BLINK",
+                    "MAROON",
+                    "SUM",
+                    "U"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "date": "2023-07-06",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "DESSERTS",
+                "items": [
+                    "CHEESECAKE",
+                    "FLAN",
+                    "MOUSSE",
+                    "TIRAMISU"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "MILD OATHS",
+                "items": [
+                    "DARN",
+                    "FUDGE",
+                    "HECK",
+                    "SHOOT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ANIMALS WITH TUSKS",
+                "items": [
+                    "ELEPHANT",
+                    "HIPPO",
+                    "NARWHAL",
+                    "WARTHOG"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MUSTACHES",
+                "items": [
+                    "HANDLEBAR",
+                    "HORSESHOE",
+                    "PENCIL",
+                    "WALRUS"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "date": "2023-07-07",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "EUROPEAN COUNTRIES",
+                "items": [
+                    "DENMARK",
+                    "GREECE",
+                    "POLAND",
+                    "PORTUGAL"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SYNONYMS FOR IMITATE",
+                "items": [
+                    "COPY",
+                    "ECHO",
+                    "MIMIC",
+                    "PARROT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "TOMS",
+                "items": [
+                    "CRUISE",
+                    "HOLLAND",
+                    "PETTY",
+                    "WAITS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "WORDS SPELLED WITH ROMAN NUMERALS",
+                "items": [
+                    "DILL",
+                    "LIVID",
+                    "MILD",
+                    "MIX"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "date": "2023-07-08",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "HATS",
+                "items": [
+                    "BERET",
+                    "BOWLER",
+                    "FEDORA",
+                    "FEZ"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ORGANS",
+                "items": [
+                    "HEART",
+                    "KIDNEY",
+                    "LIVER",
+                    "LUNG"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "PARTS OF A BOOK",
+                "items": [
+                    "COVER",
+                    "JACKET",
+                    "PAGE",
+                    "SPINE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "JACK ___",
+                "items": [
+                    "ASS",
+                    "KNIFE",
+                    "POT",
+                    "RABBIT"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "date": "2023-07-09",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SEVEN DWARFS",
+                "items": [
+                    "BASHFUL",
+                    "DOC",
+                    "GRUMPY",
+                    "HAPPY"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "FILE EXTENSIONS",
+                "items": [
+                    "GIF",
+                    "PDF",
+                    "TIFF",
+                    "ZIP"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FLIGHTLESS BIRDS",
+                "items": [
+                    "EMU",
+                    "KIWI",
+                    "OSTRICH",
+                    "PENGUIN"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "TROPICAL FRUITS",
+                "items": [
+                    "BANANA",
+                    "COCONUT",
+                    "MANGO",
+                    "PINEAPPLE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "date": "2023-07-10",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "WINGED INSECTS",
+                "items": [
+                    "FLY",
+                    "GNAT",
+                    "MOTH",
+                    "WASP"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ARITHMETIC OPERATIONS",
+                "items": [
+                    "ADD",
+                    "DIVIDE",
+                    "MULTIPLY",
+                    "SUBTRACT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FISH",
+                "items": [
+                    "SKATE",
+                    "SOLE",
+                    "TANG",
+                    "TETRA"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ CAT",
+                "items": [
+                    "ALLEY",
+                    "COOL",
+                    "COPY",
+                    "LAP"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "date": "2023-07-11",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "NFL PLAYERS",
+                "items": [
+                    "BRONCO",
+                    "COWBOY",
+                    "PACKER",
+                    "RAVEN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "PASTA SHAPES",
+                "items": [
+                    "BOWTIE",
+                    "ELBOW",
+                    "SHELL",
+                    "SPIRAL"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "JOINTS",
+                "items": [
+                    "HIP",
+                    "KNEE",
+                    "SHOULDER",
+                    "WRIST"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MOVIES WITH \u201c!\u201d",
+                "items": [
+                    "AIRPLANE",
+                    "MOTHER",
+                    "OKLAHOMA",
+                    "THEM"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "31",
+        "date": "2023-07-12",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "VEGETABLES THAT ARE ALSO FRUITS",
+                "items": [
+                    "CUCUMBER",
+                    "EGGPLANT",
+                    "PEPPER",
+                    "TOMATO"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "3-D SHAPES",
+                "items": [
+                    "CONE",
+                    "CUBE",
+                    "PYRAMID",
+                    "SPHERE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "WORDS WITH \u201ci\u201d",
+                "items": [
+                    "MAC",
+                    "PAD",
+                    "PHONE",
+                    "POD"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "WORDS WITH TWO PRONUNCIATIONS",
+                "items": [
+                    "JOB",
+                    "LIMA",
+                    "MOBILE",
+                    "POLISH"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "date": "2023-07-13",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SHOE PARTS",
+                "items": [
+                    "HEEL",
+                    "LACE",
+                    "SOLE",
+                    "TONGUE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "BOARD GAMES",
+                "items": [
+                    "CLUE",
+                    "RISK",
+                    "SORRY",
+                    "TROUBLE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FICTIONAL SPIES",
+                "items": [
+                    "BOND",
+                    "HUNT",
+                    "RYAN",
+                    "SMART"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "RUBBER ___",
+                "items": [
+                    "BAND",
+                    "CEMENT",
+                    "DUCKIE",
+                    "SOUL"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "date": "2023-07-14",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BOATS",
+                "items": [
+                    "FERRY",
+                    "JUNK",
+                    "TUG",
+                    "YACHT"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SANDWICHES",
+                "items": [
+                    "CLUB",
+                    "CUBAN",
+                    "MELT",
+                    "SUB"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "CUTS OF BEEF",
+                "items": [
+                    "FLANK",
+                    "LOIN",
+                    "ROUND",
+                    "SHANK"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "NICKNAMES THAT ARE VERBS",
+                "items": [
+                    "CHUCK",
+                    "JOSH",
+                    "ROB",
+                    "SUE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "date": "2023-07-15",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "PLEASANT SMELLS",
+                "items": [
+                    "AROMA",
+                    "BOUQUET",
+                    "FRAGRANCE",
+                    "SCENT"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "MUSIC GENRES",
+                "items": [
+                    "BLUES",
+                    "COUNTRY",
+                    "FUNK",
+                    "SOUL"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ROCK PAPER SCISSORS",
+                "items": [
+                    "PAPER",
+                    "ROCK",
+                    "SCISSORS",
+                    "SHOOT"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MALE ANIMALS",
+                "items": [
+                    "BOAR",
+                    "BUCK",
+                    "BULL",
+                    "JACK"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "date": "2023-07-16",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "U.S. COINS",
+                "items": [
+                    "DIME",
+                    "NICKEL",
+                    "PENNY",
+                    "QUARTER"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "METAL ELEMENTS",
+                "items": [
+                    "IRON",
+                    "LEAD",
+                    "TIN",
+                    "ZINC"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "LUCKY CHARMS MARSHMALLOWS",
+                "items": [
+                    "CLOVER",
+                    "HORSESHOE",
+                    "MOON",
+                    "RAINBOW"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ AND ___",
+                "items": [
+                    "AGAIN",
+                    "HALF",
+                    "NECK",
+                    "SO"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "date": "2023-07-17",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MARSUPIALS",
+                "items": [
+                    "KANGAROO",
+                    "KOALA",
+                    "WALLABY",
+                    "WOMBAT"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "CHOCOLATE BARS",
+                "items": [
+                    "CHUNKY",
+                    "CRUNCH",
+                    "MARS",
+                    "MOUNDS"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SLANG FOR MONEY",
+                "items": [
+                    "CHEDDAR",
+                    "DOUGH",
+                    "PAPER",
+                    "STACKS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "NAKED ___",
+                "items": [
+                    "EYE",
+                    "GUN",
+                    "MOLE RAT",
+                    "TRUTH"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "date": "2023-07-18",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MARINE MAMMALS",
+                "items": [
+                    "DOLPHIN",
+                    "MANATEE",
+                    "OTTER",
+                    "SEAL"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "BIKE PARTS",
+                "items": [
+                    "BRAKE",
+                    "CHAIN",
+                    "SADDLE",
+                    "SPOKE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SYNONYMS FOR SELL",
+                "items": [
+                    "HAWK",
+                    "MOVE",
+                    "PEDDLE",
+                    "VEND"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "COUNTRIES WHEN \u201cA\u201d IS ADDED",
+                "items": [
+                    "CHIN",
+                    "CUB",
+                    "MALT",
+                    "TONG"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "date": "2023-07-19",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "TREES",
+                "items": [
+                    "ASH",
+                    "CEDAR",
+                    "MAPLE",
+                    "PINE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "LAND FORMATIONS",
+                "items": [
+                    "HILL",
+                    "MOUNTAIN",
+                    "PLATEAU",
+                    "VALLEY"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "BAGEL FLAVORS",
+                "items": [
+                    "EVERYTHING",
+                    "ONION",
+                    "PLAIN",
+                    "POPPY"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "STREETS ON SCREEN",
+                "items": [
+                    "ELM",
+                    "FEAR",
+                    "JUMP",
+                    "SESAME"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "date": "2023-07-20",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "TIMEKEEPING DEVICES",
+                "items": [
+                    "CLOCK",
+                    "HOURGLASS",
+                    "SUNDIAL",
+                    "WATCH"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "HAIRSTYLES",
+                "items": [
+                    "BOB",
+                    "CROP",
+                    "PIXIE",
+                    "SHAG"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "UNITS OF MEASURE",
+                "items": [
+                    "HERTZ",
+                    "MOLE",
+                    "NEWTON",
+                    "SECOND"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "DR. ___",
+                "items": [
+                    "EVIL",
+                    "J",
+                    "NO",
+                    "PEPPER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "date": "2023-07-21",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "WOODWINDS",
+                "items": [
+                    "BASSOON",
+                    "CLARINET",
+                    "FLUTE",
+                    "OBOE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "COVERINGS",
+                "items": [
+                    "CAP",
+                    "COVER",
+                    "LID",
+                    "TOP"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SUNGLASSES",
+                "items": [
+                    "AVIATOR",
+                    "CAT EYE",
+                    "WAYFARER",
+                    "WRAPAROUND"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SEALS",
+                "items": [
+                    "HARBOR",
+                    "HARP",
+                    "HOODED",
+                    "MONK"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "41",
+        "date": "2023-07-22",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BOTTLED WATER BRANDS",
+                "items": [
+                    "DASANI",
+                    "EVIAN",
+                    "FIJI",
+                    "VOSS"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SLANG FOR COFFEE",
+                "items": [
+                    "BREW",
+                    "JAVA",
+                    "JOE",
+                    "MUD"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ISLAND COUNTRIES",
+                "items": [
+                    "CUBA",
+                    "JAPAN",
+                    "MALTA",
+                    "PALAU"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "CEREAL MASCOTS",
+                "items": [
+                    "LUCKY",
+                    "POP",
+                    "SAM",
+                    "TONY"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "42",
+        "date": "2023-07-23",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SCUBA GEAR",
+                "items": [
+                    "FINS",
+                    "MASK",
+                    "SNORKEL",
+                    "TANK"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "PUNCTUATION MARKS",
+                "items": [
+                    "COLON",
+                    "COMMA",
+                    "HYPHEN",
+                    "PERIOD"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "RUN QUICKLY",
+                "items": [
+                    "BOLT",
+                    "DASH",
+                    "RACE",
+                    "SPRINT"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ CAT",
+                "items": [
+                    "DOJA",
+                    "FAT",
+                    "HOUSE",
+                    "JUNGLE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "43",
+        "date": "2023-07-24",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "SYNONYMS FOR ANGRY",
+                "items": [
+                    "FURIOUS",
+                    "INCENSED",
+                    "IRATE",
+                    "LIVID"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "THINGS THAT ARE YELLOW",
+                "items": [
+                    "BANANA",
+                    "CANARY",
+                    "SCHOOL BUS",
+                    "SUNFLOWER"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "MARINE BIRDS",
+                "items": [
+                    "BOOBY",
+                    "GULL",
+                    "PELICAN",
+                    "PUFFIN"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ BOYS",
+                "items": [
+                    "BEACH",
+                    "BEASTIE",
+                    "HARDY",
+                    "LOST"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "44",
+        "date": "2023-07-25",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "STATES OF MATTER",
+                "items": [
+                    "GAS",
+                    "LIQUID",
+                    "PLASMA",
+                    "SOLID"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "EDIT MENU COMMANDS",
+                "items": [
+                    "COPY",
+                    "CUT",
+                    "PASTE",
+                    "UNDO"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DEFEAT BADLY",
+                "items": [
+                    "CRUSH",
+                    "ROUT",
+                    "SHELLAC",
+                    "TRASH"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "ANAGRAMS",
+                "items": [
+                    "LEAST",
+                    "SLATE",
+                    "STALE",
+                    "TESLA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "45",
+        "date": "2023-07-26",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MODES OF TRANSPORTATION",
+                "items": [
+                    "BOAT",
+                    "CAR",
+                    "PLANE",
+                    "TRAIN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "NBA PLAYERS",
+                "items": [
+                    "KING",
+                    "MAGIC",
+                    "SUN",
+                    "THUNDER"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FAST FOOD CHAINS",
+                "items": [
+                    "CHECKERS",
+                    "OUTBACK",
+                    "SONIC",
+                    "SUBWAY"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "BAND NAMES MINUS COLORS",
+                "items": [
+                    "DAY",
+                    "FLOYD",
+                    "SABBATH",
+                    "STRIPES"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "46",
+        "date": "2023-07-27",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MOVIE TITLE CITIES",
+                "items": [
+                    "CHICAGO",
+                    "MUNICH",
+                    "PHILADELPHIA",
+                    "RIO"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "FASHION MAGAZINES",
+                "items": [
+                    "ALLURE",
+                    "ELLE",
+                    "GLAMOUR",
+                    "W"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "STORMS",
+                "items": [
+                    "BLIZZARD",
+                    "CYCLONE",
+                    "SQUALL",
+                    "TORNADO"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "COCKTAILS",
+                "items": [
+                    "COSMOPOLITAN",
+                    "HURRICANE",
+                    "MANHATTAN",
+                    "SCREWDRIVER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "47",
+        "date": "2023-07-28",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BIOMES",
+                "items": [
+                    "DESERT",
+                    "FOREST",
+                    "GRASSLAND",
+                    "TUNDRA"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "LIZARDS",
+                "items": [
+                    "CHAMELEON",
+                    "GECKO",
+                    "IGUANA",
+                    "MONITOR"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "YOGA POSES",
+                "items": [
+                    "COBRA",
+                    "LOTUS",
+                    "TREE",
+                    "WARRIOR"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "DANCES WHEN DOUBLED",
+                "items": [
+                    "CAN",
+                    "CHA",
+                    "GO",
+                    "NAE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "48",
+        "date": "2023-07-29",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "FABRICS",
+                "items": [
+                    "CORDUROY",
+                    "DENIM",
+                    "LINEN",
+                    "TWEED"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "APPARITIONS",
+                "items": [
+                    "GHOST",
+                    "PHANTOM",
+                    "SPECTER",
+                    "SPIRIT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SYNONYMS FOR BOTHER",
+                "items": [
+                    "NEEDLE",
+                    "POKE",
+                    "RIB",
+                    "TEASE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "DISNEY CHARACTERS",
+                "items": [
+                    "BEAST",
+                    "GENIE",
+                    "SCAR",
+                    "STITCH"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "49",
+        "date": "2023-07-30",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "RELATIVES",
+                "items": [
+                    "AUNT",
+                    "COUSIN",
+                    "MOTHER",
+                    "NEPHEW"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SYNONYMS FOR OFFBEAT",
+                "items": [
+                    "DAFFY",
+                    "KOOKY",
+                    "QUIRKY",
+                    "WACKY"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DISNEY DUCKS",
+                "items": [
+                    "DAISY",
+                    "DEWEY",
+                    "DONALD",
+                    "SCROOGE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ CLOCK",
+                "items": [
+                    "ALARM",
+                    "BIOLOGICAL",
+                    "CUCKOO",
+                    "GRANDFATHER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "50",
+        "date": "2023-07-31",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "UNITS OF LENGTH",
+                "items": [
+                    "FOOT",
+                    "INCH",
+                    "MILE",
+                    "YARD"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TYPES OF PAINT",
+                "items": [
+                    "ACRYLIC",
+                    "OIL",
+                    "TEMPERA",
+                    "WATERCOLOR"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DEEP-FRIED FOOD",
+                "items": [
+                    "FALAFEL",
+                    "KATSU",
+                    "SAMOSA",
+                    "SCHNITZEL"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "STARTS OF U.S. COINS",
+                "items": [
+                    "DIM",
+                    "NICK",
+                    "PEN",
+                    "QUART"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "51",
+        "date": "2023-08-01",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "LONG SANDWICHES",
+                "items": [
+                    "GRINDER",
+                    "HERO",
+                    "HOAGIE",
+                    "SUB"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "DATING APPS",
+                "items": [
+                    "BUMBLE",
+                    "HINGE",
+                    "MATCH",
+                    "TINDER"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "VAMPIRE MOVIES",
+                "items": [
+                    "BLADE",
+                    "LOST BOYS",
+                    "NEAR DARK",
+                    "TWILIGHT"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "ADAMS",
+                "items": [
+                    "ANT",
+                    "DRIVER",
+                    "SCOTT",
+                    "WEST"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "52",
+        "date": "2023-08-02",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "COMPUTER EQUIPMENT",
+                "items": [
+                    "KEYBOARD",
+                    "MONITOR",
+                    "MOUSE",
+                    "SPEAKER"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "RODENTS",
+                "items": [
+                    "GERBIL",
+                    "HAMSTER",
+                    "RAT",
+                    "VOLE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "MUSICAL INSTRUMENTS",
+                "items": [
+                    "HARP",
+                    "HORN",
+                    "ORGAN",
+                    "TRIANGLE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SYNONYMS FOR COMPLAIN",
+                "items": [
+                    "CARP",
+                    "GRIPE",
+                    "GROUSE",
+                    "MOAN"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "53",
+        "date": "2023-08-03",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "ANIMAL GROUP NAMES",
+                "items": [
+                    "COLONY",
+                    "HERD",
+                    "PRIDE",
+                    "SWARM"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "STONED",
+                "items": [
+                    "BAKED",
+                    "BLAZED",
+                    "HIGH",
+                    "LIT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "AP CLASSES",
+                "items": [
+                    "BIO",
+                    "CHEM",
+                    "GOV",
+                    "STATS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "TAXONOMY RANKS",
+                "items": [
+                    "CLASS",
+                    "DOMAIN",
+                    "FAMILY",
+                    "ORDER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "54",
+        "date": "2023-08-04",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "PLACES FOR WORSHIP",
+                "items": [
+                    "ALTAR",
+                    "RELIQUARY",
+                    "SHRINE",
+                    "TEMPLE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "CARTOON CATS",
+                "items": [
+                    "FELIX",
+                    "GARFIELD",
+                    "SYLVESTER",
+                    "TOM"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "PRESIDENTIAL FIRST NAMES",
+                "items": [
+                    "CALVIN",
+                    "CHESTER",
+                    "GROVER",
+                    "HARRY"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ ROAD",
+                "items": [
+                    "ABBEY",
+                    "HIGH",
+                    "ROCKY",
+                    "SILK"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "55",
+        "date": "2023-08-05",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "CLASSIC TOYS",
+                "items": [
+                    "BLOCKS",
+                    "DOLL",
+                    "TOP",
+                    "YO-YO"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "WORDS WITH THREE G\u2019S",
+                "items": [
+                    "BAGGAGE",
+                    "EGGNOG",
+                    "GIGGLE",
+                    "LEGGINGS"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SHAKESPEARE CHARACTERS",
+                "items": [
+                    "DUNCAN",
+                    "JULIET",
+                    "PUCK",
+                    "VIOLA"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ STICK",
+                "items": [
+                    "FISH",
+                    "HOCKEY",
+                    "MEMORY",
+                    "SELFIE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "56",
+        "date": "2023-08-06",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "CLASSIC ARCADE GAMES",
+                "items": [
+                    "ASTEROIDS",
+                    "BREAKOUT",
+                    "FROGGER",
+                    "PONG"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "DANCES",
+                "items": [
+                    "HUSTLE",
+                    "SALSA",
+                    "SWING",
+                    "TANGO"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "TOUCHSCREEN GESTURES",
+                "items": [
+                    "PINCH",
+                    "SPREAD",
+                    "SWIPE",
+                    "TAP"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "RAPPERS MINUS NUMBERS",
+                "items": [
+                    "CENT",
+                    "CHAINZ",
+                    "PAC",
+                    "SAVAGE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "57",
+        "date": "2023-08-07",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MOVIE GENRES",
+                "items": [
+                    "HORROR",
+                    "MUSICAL",
+                    "ROMANCE",
+                    "WESTERN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "PATTERNS",
+                "items": [
+                    "HOUNDSTOOTH",
+                    "PAISLEY",
+                    "PLAID",
+                    "STRIPES"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SYNONYMS FOR FALSEHOOD",
+                "items": [
+                    "FIB",
+                    "FICTION",
+                    "LIE",
+                    "TALE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "CANDY PIECES",
+                "items": [
+                    "DOT",
+                    "GOOBER",
+                    "KISS",
+                    "WHOPPER"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "date": "2023-08-08",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "ARACHNIDS",
+                "items": [
+                    "MITE",
+                    "SCORPION",
+                    "SPIDER",
+                    "TICK"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "FISH",
+                "items": [
+                    "CHAR",
+                    "EEL",
+                    "PERCH",
+                    "SHARK"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "SUPERHEROES",
+                "items": [
+                    "BLACK WIDOW",
+                    "BLADE",
+                    "FLASH",
+                    "STORM"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "MTV SHOWS",
+                "items": [
+                    "CATFISH",
+                    "CRIBS",
+                    "JACKASS",
+                    "STATE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "59",
+        "date": "2023-08-09",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "UNSPECIFIED QUANTITIES",
+                "items": [
+                    "FEW",
+                    "HANDFUL",
+                    "SEVERAL",
+                    "SOME"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "CELESTIAL OBJECTS",
+                "items": [
+                    "ASTEROID",
+                    "COMET",
+                    "MOON",
+                    "PLANET"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "NEWSPAPERS",
+                "items": [
+                    "GLOBE",
+                    "JOURNAL",
+                    "POST",
+                    "SUN"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "FRUIT HOMOPHONES",
+                "items": [
+                    "LYME",
+                    "MELLON",
+                    "PAIR",
+                    "PLUMB"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "60",
+        "date": "2023-08-10",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "HORROR FRANCHISES",
+                "items": [
+                    "PURGE",
+                    "RING",
+                    "SAW",
+                    "SCREAM"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SPORTS VENUES",
+                "items": [
+                    "COURT",
+                    "DIAMOND",
+                    "FIELD",
+                    "RINK"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "MAKE HAPPY",
+                "items": [
+                    "CHARM",
+                    "DELIGHT",
+                    "PLEASE",
+                    "TICKLE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "JEWELRY",
+                "items": [
+                    "ANKLET",
+                    "BANGLE",
+                    "BROOCH",
+                    "PENDANT"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "61",
+        "date": "2023-08-11",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "THEORETICAL PHYSICISTS",
+                "items": [
+                    "EINSTEIN",
+                    "FEYNMAN",
+                    "HAWKING",
+                    "OPPENHEIMER"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TALENT",
+                "items": [
+                    "FACULTY",
+                    "FLAIR",
+                    "GENIUS",
+                    "GIFT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "AUSTRALIAN TERMS",
+                "items": [
+                    "BARBIE",
+                    "BUSH",
+                    "CRIKEY",
+                    "MATE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ POINT",
+                "items": [
+                    "MATCH",
+                    "MOOT",
+                    "SELLING",
+                    "WEST"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "62",
+        "date": "2023-08-12",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "STATE ABBREVIATIONS",
+                "items": [
+                    "CO",
+                    "MA",
+                    "ME",
+                    "PA"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "MUSICAL NOTES",
+                "items": [
+                    "DO",
+                    "FA",
+                    "LA",
+                    "TI"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "GREEK LETTERS",
+                "items": [
+                    "MU",
+                    "NU",
+                    "PI",
+                    "XI"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "PERIODIC TABLE SYMBOLS",
+                "items": [
+                    "FE",
+                    "HE",
+                    "NA",
+                    "NI"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "63",
+        "date": "2023-08-13",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "FASTENING VERBS",
+                "items": [
+                    "BUCKLE",
+                    "BUTTON",
+                    "SNAP",
+                    "ZIP"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SLANG FOR ZERO",
+                "items": [
+                    "JACK",
+                    "NADA",
+                    "NOTHING",
+                    "SQUAT"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "GYM EXERCISES",
+                "items": [
+                    "CURL",
+                    "LUNGE",
+                    "PLANK",
+                    "PRESS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "\u201cCAPTAINS\u201d",
+                "items": [
+                    "CRUNCH",
+                    "KANGAROO",
+                    "OBVIOUS",
+                    "PLANET"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "64",
+        "date": "2023-08-14",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "CLASSIC DOG NAMES",
+                "items": [
+                    "FIDO",
+                    "LUCKY",
+                    "ROVER",
+                    "SPOT"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "PERCEIVE",
+                "items": [
+                    "CATCH",
+                    "NOTICE",
+                    "OBSERVE",
+                    "SEE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FISHING TERMS",
+                "items": [
+                    "BAIT",
+                    "CHUM",
+                    "FLY",
+                    "SINKER"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "T-___",
+                "items": [
+                    "BONE",
+                    "REX",
+                    "SHIRT",
+                    "STORM"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "65",
+        "date": "2023-08-15",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "STATES OF MATTER",
+                "items": [
+                    "GAS",
+                    "LIQUID",
+                    "PLASMA",
+                    "SOLID"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "ENERGY",
+                "items": [
+                    "JUICE",
+                    "SPIRIT",
+                    "STEAM",
+                    "VIGOR"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "CLASSICAL ELEMENTS",
+                "items": [
+                    "AIR",
+                    "EARTH",
+                    "FIRE",
+                    "WATER"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "THINGS WITH RINGS",
+                "items": [
+                    "CIRCUS",
+                    "SATURN",
+                    "TREE",
+                    "WEDDING"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "66",
+        "date": "2023-08-16",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "TIME PERIODS",
+                "items": [
+                    "CENTURY",
+                    "DECADE",
+                    "MILLENNIUM",
+                    "YEAR"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "BREAKFAST FOODS",
+                "items": [
+                    "CEREAL",
+                    "OMELET",
+                    "PANCAKE",
+                    "WAFFLE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "PAINTERS",
+                "items": [
+                    "BACON",
+                    "CLOSE",
+                    "MUNCH",
+                    "WHISTLER"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "ONE IN A DOZEN",
+                "items": [
+                    "EGG",
+                    "JUROR",
+                    "MONTH",
+                    "ROSE"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "67",
+        "date": "2023-08-17",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "DESSERTS",
+                "items": [
+                    "CAKE",
+                    "COBBLER",
+                    "PIE",
+                    "TART"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "OCCUPATIONAL SURNAMES",
+                "items": [
+                    "FISHER",
+                    "MASON",
+                    "MILLER",
+                    "SMITH"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ALTER DECEPTIVELY",
+                "items": [
+                    "DISTORT",
+                    "DOCTOR",
+                    "FUDGE",
+                    "TWIST"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SQUARE ___",
+                "items": [
+                    "DANCE",
+                    "MEAL",
+                    "ONE",
+                    "ROOT"
+                ]
+            }
+        ]
+    }
+]
