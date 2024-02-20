@@ -31,5 +31,9 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Update Connections list
-        run: python update.py
+        run: |
+          python update.py
+          git add .
+          git commit -m "update connections list"
+          git push
         shell: sh
