@@ -66,6 +66,6 @@ file.close()
 
 connections = connections + new_connects
 with open('connections.json', 'w') as f:
-        json.dump(connections, f)
+        json.dump(connections, f, indent=4)
         file.close()
 #print(connection_list)
