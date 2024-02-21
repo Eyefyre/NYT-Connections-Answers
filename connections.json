@@ -14764,5 +14764,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 255,
+        "date": "2024-02-21",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "PESTERS",
+                "items": [
+                    "BADGERS",
+                    "BUGS",
+                    "HOUNDS",
+                    "NAGS"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TONY WINNERS FOR BEST MUSICAL",
+                "items": [
+                    "ANNIE",
+                    "CABARET",
+                    "CATS",
+                    "COMPANY"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "THEY HAVE KEYS",
+                "items": [
+                    "COMPUTER",
+                    "PIANO",
+                    "SUPER",
+                    "TESTS"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "SCHOOL OF ___",
+                "items": [
+                    "FISH",
+                    "HARD KNOCKS",
+                    "ROCK",
+                    "THOUGHT"
+                ]
+            }
+        ]
     }
 ]
