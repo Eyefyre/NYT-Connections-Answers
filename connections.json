@@ -14810,5 +14810,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 256,
+        "date": "2024-02-22",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "DOG SOUNDS",
+                "items": [
+                    "BARK",
+                    "GROWL",
+                    "HOWL",
+                    "WHINE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "DEPARTMENT",
+                "items": [
+                    "ARM",
+                    "BRANCH",
+                    "CHAPTER",
+                    "WING"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ORIGIN",
+                "items": [
+                    "CRADLE",
+                    "FONT",
+                    "ROOT",
+                    "SOURCE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "COLORS WITH THEIR FIRST LETTERS CHANGED",
+                "items": [
+                    "CLUE",
+                    "FROWN",
+                    "MELLOW",
+                    "PREEN"
+                ]
+            }
+        ]
     }
 ]
