@@ -14856,5 +14856,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 257,
+        "date": "2024-02-23",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "PROCESSION",
+                "items": [
+                    "CARAVAN",
+                    "FLEET",
+                    "PARADE",
+                    "TRAIN"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "SHADES OF GREEN",
+                "items": [
+                    "FOREST",
+                    "LIME",
+                    "MINT",
+                    "OLIVE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "WHAT \u201cBLUE\u201d MIGHT MEAN",
+                "items": [
+                    "DEMOCRATIC",
+                    "EROTIC",
+                    "NOBLE",
+                    "SAD"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "THINGS WITH SPINES",
+                "items": [
+                    "BOOK",
+                    "CACTUS",
+                    "HEDGEHOG",
+                    "SKELETON"
+                ]
+            }
+        ]
     }
 ]
