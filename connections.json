@@ -14902,5 +14902,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 258,
+        "date": "2024-02-24",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "MANUFACTURING LOCATIONS",
+                "items": [
+                    "FACTORY",
+                    "MILL",
+                    "PLANT",
+                    "SHOP"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "WIN + LETTER",
+                "items": [
+                    "WIND",
+                    "WINE",
+                    "WING",
+                    "WINK"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "PARTS OF FRUIT YOU MIGHT NOT EAT",
+                "items": [
+                    "CORE",
+                    "RIND",
+                    "SEED",
+                    "STEM"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "WEIGHTS IN BOXING",
+                "items": [
+                    "FEATHER",
+                    "HEAVY",
+                    "LIGHT",
+                    "MIDDLE"
+                ]
+            }
+        ]
     }
 ]
