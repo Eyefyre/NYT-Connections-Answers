@@ -14948,5 +14948,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 259,
+        "date": "2024-02-25",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "WALK HEAVILY",
+                "items": [
+                    "LUMBER",
+                    "PLOD",
+                    "STOMP",
+                    "TRUDGE"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "FLEXIBLE",
+                "items": [
+                    "ELASTIC",
+                    "LIMBER",
+                    "PLASTIC",
+                    "SUPPLE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "FENCING EQUIPMENT",
+                "items": [
+                    "FOIL",
+                    "GLOVE",
+                    "JACKET",
+                    "MASK"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "WORDS BEGINNING WITH INSTRUMENTS",
+                "items": [
+                    "BASSINET",
+                    "CELLOPHANE",
+                    "HARPOON",
+                    "ORGANISM"
+                ]
+            }
+        ]
     }
 ]
