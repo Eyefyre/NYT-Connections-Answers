@@ -14994,5 +14994,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 260,
+        "date": "2024-02-26",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "BASIC TASTES",
+                "items": [
+                    "BITTER",
+                    "SALTY",
+                    "SOUR",
+                    "SWEET"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "STAND UP TO, AS A CHALLENGE",
+                "items": [
+                    "BRAVE",
+                    "CONFRONT",
+                    "FACE",
+                    "MEET"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "ILK",
+                "items": [
+                    "KIND",
+                    "SORT",
+                    "TYPE",
+                    "VARIETY"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "ART MOVEMENTS, WITH -ISM",
+                "items": [
+                    "EXPRESSION",
+                    "MANNER",
+                    "ROMANTIC",
+                    "SURREAL"
+                ]
+            }
+        ]
     }
 ]
