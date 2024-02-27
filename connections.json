@@ -15040,5 +15040,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 261,
+        "date": "2024-02-27",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "'80S FASHION TRENDS",
+                "items": [
+                    "HEADBAND",
+                    "MULLET",
+                    "NEON",
+                    "SPANDEX"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "GYMNASTICS POSITIONS",
+                "items": [
+                    "PIKE",
+                    "SPLIT",
+                    "STRADDLE",
+                    "TUCK"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "KINDS OF CRACKERS",
+                "items": [
+                    "ANIMAL",
+                    "GOLDFISH",
+                    "OYSTER",
+                    "RITZ"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ LADDER",
+                "items": [
+                    "CORPORATE",
+                    "ROPE",
+                    "SALMON",
+                    "WORD"
+                ]
+            }
+        ]
     }
 ]
