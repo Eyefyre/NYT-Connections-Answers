@@ -15086,5 +15086,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 262,
+        "date": "2024-02-28",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "CHEESES, FAMILIARLY",
+                "items": [
+                    "AMERICAN",
+                    "BLUE",
+                    "JACK",
+                    "SWISS"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "TRACK AND FIELD EQUIPMENT",
+                "items": [
+                    "HAMMER",
+                    "HURDLE",
+                    "JAVELIN",
+                    "POLE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "KINDS OF HEELS",
+                "items": [
+                    "CUBAN",
+                    "KITTEN",
+                    "STILETTO",
+                    "WEDGE"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "DOUBLE ___",
+                "items": [
+                    "DATE",
+                    "DUTCH",
+                    "JEOPARDY",
+                    "SPACE"
+                ]
+            }
+        ]
     }
 ]
