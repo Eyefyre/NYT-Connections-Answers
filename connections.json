@@ -15178,5 +15178,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 264,
+        "date": "2024-03-01",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "GARLIC BREAD INGREDIENTS",
+                "items": [
+                    "BREAD",
+                    "BUTTER",
+                    "GARLIC",
+                    "PARSLEY"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "WAGER",
+                "items": [
+                    "BET",
+                    "GAMBLE",
+                    "RISK",
+                    "STAKE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "DISNEYLAND LANDS",
+                "items": [
+                    "ADVENTURE",
+                    "FANTASY",
+                    "FRONTIER",
+                    "TOMORROW"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "___ BAT",
+                "items": [
+                    "BASEBALL",
+                    "CRICKET",
+                    "FRUIT",
+                    "VAMPIRE"
+                ]
+            }
+        ]
     }
 ]
