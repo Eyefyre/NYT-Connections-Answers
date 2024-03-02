@@ -12142,51 +12142,5 @@
                 ]
             }
         ]
-    },
-    {
-        "id": 265,
-        "date": "2024-03-02",
-        "answers": [
-            {
-                "level": 0,
-                "group": "INTELLIGENCE OPERATIVE",
-                "members": [
-                    "AGENT",
-                    "ASSET",
-                    "MOLE",
-                    "SLEEPER"
-                ]
-            },
-            {
-                "level": 1,
-                "group": "UNITS IN POETRY",
-                "members": [
-                    "FOOT",
-                    "LINE",
-                    "METER",
-                    "VERSE"
-                ]
-            },
-            {
-                "level": 2,
-                "group": "EXPRESS INDIRECTLY",
-                "members": [
-                    "COUCH",
-                    "IMPLY",
-                    "INTIMATE",
-                    "SUGGEST"
-                ]
-            },
-            {
-                "level": 3,
-                "group": "WHAT \u201cK\u201d MIGHT MEAN",
-                "members": [
-                    "KELVIN",
-                    "OKAY",
-                    "POTASSIUM",
-                    "THOUSAND"
-                ]
-            }
-        ]
     }
 ]
