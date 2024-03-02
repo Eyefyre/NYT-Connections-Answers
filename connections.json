@@ -15224,5 +15224,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 265,
+        "date": "2024-03-02",
+        "answers": [
+            {
+                "category": "yellow",
+                "connection": "INTELLIGENCE OPERATIVE",
+                "items": [
+                    "AGENT",
+                    "ASSET",
+                    "MOLE",
+                    "SLEEPER"
+                ]
+            },
+            {
+                "category": "green",
+                "connection": "UNITS IN POETRY",
+                "items": [
+                    "FOOT",
+                    "LINE",
+                    "METER",
+                    "VERSE"
+                ]
+            },
+            {
+                "category": "blue",
+                "connection": "EXPRESS INDIRECTLY",
+                "items": [
+                    "COUCH",
+                    "IMPLY",
+                    "INTIMATE",
+                    "SUGGEST"
+                ]
+            },
+            {
+                "category": "purple",
+                "connection": "WHAT \u201cK\u201d MIGHT MEAN",
+                "items": [
+                    "KELVIN",
+                    "OKAY",
+                    "POTASSIUM",
+                    "THOUSAND"
+                ]
+            }
+        ]
     }
 ]
