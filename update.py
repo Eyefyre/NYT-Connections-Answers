@@ -13,7 +13,7 @@ if connections[-1]["date"] == con_date:
     print(f"Connection #{id-1} from {con_date} already exists in file, exiting")
     exit()
 
-URL = f"https://www.nytimes.com/svc/connections/v1/{datetime.today().strftime('%Y-%m-%d')}.json" 
+URL = f"https://www.nytimes.com/svc/connections/v1/{con_date}.json" 
 r = requests.get(URL)
 
 content = json.loads(r.content)
