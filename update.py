@@ -1,71 +1,32 @@
 import json
-from datetime import timedelta
 from datetime import datetime    
-import requests 
-from bs4 import BeautifulSoup 
+import requests
 
 file = open('connections.json')
 connections = json.load(file)
 file.close()
-last_date = connections[-1]["date"]
-start_date = datetime.strptime(last_date,"%Y-%m-%d").date()
-start_date = start_date + timedelta(days=1)
-start_id = connections[-1]["id"] + 1
 
 
-new_connects = []
-while start_date <= datetime.today().date():
-    URL = f"https://connections.swellgarfo.com/nyt/{start_id}" 
-    r = requests.get(URL) 
-    soup = BeautifulSoup(r.content, 'html5lib')
-    script = soup.find_all('script')[13]
-    connection = json.loads(script.string.strip())
-    
-    
-    id = connection["props"]["pageProps"]["id"] 
-    condate = start_date.strftime('%Y-%m-%d')
-    print(f"Adding Connection #{id} from {condate}")
-    descriptions = []
-    words = []
-    for answer in connection["props"]["pageProps"]["answers"]:
-        descriptions.append(answer["description"])
-        words.append(answer["words"])
-        
-    con_item = {"id":int(id),
-                "date":condate,
-                "answers": [
-            {
-                "category": "yellow",
-                "connection": descriptions[0],
-                "items": words[0]
-            },
-            {
-                "category": "green",
-                "connection": descriptions[1],
-                "items": words[1]
-            },
-            {
-                "category": "blue",
-                "connection": descriptions[2],
-                "items": words[2]
-            },
-            {
-                "category": "purple",
-                "connection": descriptions[3],
-                "items": words[3]
-            }
-        ]}
-    new_connects.append(con_item)
-    start_date = start_date + timedelta(days=1)
-    start_id += 1
-    
-    
-file = open('connections.json')
-connections = json.load(file)
-file.close()
+id = connections[-1]["id"] + 1
+con_date = datetime.today().strftime('%Y-%m-%d')
+if connections[-1]["date"] == con_date:
+    print(f"Connection #{id-1} from {con_date} already exists in file, exiting")
+    exit()
 
-connections = connections + new_connects
+URL = f"https://www.nytimes.com/svc/connections/v1/{datetime.today().strftime('%Y-%m-%d')}.json" 
+r = requests.get(URL)
+
+content = json.loads(r.content)
+print(f"Adding Connection #{id} from {con_date}")
+groups = []
+for group in content["groups"]:
+    categ = {"level":content["groups"][group]["level"],"group":group,"members":content["groups"][group]["members"]}
+    groups.append(categ)
+
+    
+con_item = {"id":int(id),"date":con_date,"answers": groups}
+connections.append(con_item)
+    
 with open('connections.json', 'w') as f:
         json.dump(connections, f, indent=4)
-        file.close()
-#print(connection_list)
+        f.close()
