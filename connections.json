@@ -12234,5 +12234,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 267,
+        "date": "2024-03-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROOMS IN THE GAME CLUE",
+                "members": [
+                    "HALL",
+                    "LIBRARY",
+                    "LOUNGE",
+                    "STUDY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COLLEAGUE",
+                "members": [
+                    "ASSOCIATE",
+                    "FELLOW",
+                    "PARTNER",
+                    "PEER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SEEN DURING EASTER",
+                "members": [
+                    "BUNNY",
+                    "EGG",
+                    "JELLY BEAN",
+                    "PEEP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT A MOLE CAN BE",
+                "members": [
+                    "ANIMAL",
+                    "BIRTHMARK",
+                    "SPY",
+                    "UNIT"
+                ]
+            }
+        ]
     }
 ]
