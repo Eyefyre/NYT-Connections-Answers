@@ -12280,5 +12280,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 268,
+        "date": "2024-03-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "POP MEGASTARS",
+                "members": [
+                    "GRANDE",
+                    "MARS",
+                    "STYLES",
+                    "SWIFT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "METHOD",
+                "members": [
+                    "CHANNEL",
+                    "MEANS",
+                    "MEDIUM",
+                    "VEHICLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNLIKELY, AS CHANCES",
+                "members": [
+                    "OUTSIDE",
+                    "REMOTE",
+                    "SLIM",
+                    "SMALL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LIVING ___",
+                "members": [
+                    "LARGE",
+                    "LEGEND",
+                    "PROOF",
+                    "ROOM"
+                ]
+            }
+        ]
     }
 ]
