@@ -12326,5 +12326,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 269,
+        "date": "2024-03-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF AN AIRPORT",
+                "members": [
+                    "HANGAR",
+                    "RUNWAY",
+                    "TARMAC",
+                    "TERMINAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LEGAL TERMS",
+                "members": [
+                    "ACTION",
+                    "CLAIM",
+                    "COMPLAINT",
+                    "LAWSUIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS A JUGGLER JUGGLES",
+                "members": [
+                    "BEANBAG",
+                    "CLUB",
+                    "RING",
+                    "TORCH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS ENDING IN CLOTHING",
+                "members": [
+                    "FOXGLOVE",
+                    "GUMSHOE",
+                    "TURNCOAT",
+                    "WINDSOCK"
+                ]
+            }
+        ]
     }
 ]
