@@ -12372,5 +12372,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 270,
+        "date": "2024-03-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHARED",
+                "members": [
+                    "COLLECTIVE",
+                    "COMMON",
+                    "JOINT",
+                    "MUTUAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RID OF CONTENTS",
+                "members": [
+                    "CLEAR",
+                    "DRAIN",
+                    "EMPTY",
+                    "FLUSH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH \u201cSTUB\u201d",
+                "members": [
+                    "CIGARETTE",
+                    "PENCIL",
+                    "TICKET",
+                    "TOE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DREAM",
+                "members": [
+                    "AMERICAN",
+                    "FEVER",
+                    "LUCID",
+                    "PIPE"
+                ]
+            }
+        ]
     }
 ]
