@@ -12418,5 +12418,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 271,
+        "date": "2024-03-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS TO SEW",
+                "members": [
+                    "DART",
+                    "HEM",
+                    "PLEAT",
+                    "SEAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO PRESERVE FOOD",
+                "members": [
+                    "CAN",
+                    "CURE",
+                    "DRY",
+                    "FREEZE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SHARP QUALITY",
+                "members": [
+                    "BITE",
+                    "EDGE",
+                    "PUNCH",
+                    "SPICE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BIRDS MINUS LAST LETTER",
+                "members": [
+                    "CONDO",
+                    "HAW",
+                    "HERO",
+                    "LOO"
+                ]
+            }
+        ]
     }
 ]
