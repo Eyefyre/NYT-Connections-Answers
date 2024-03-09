@@ -12464,5 +12464,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 272,
+        "date": "2024-03-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EAT VORACIOUSLY",
+                "members": [
+                    "DOWN",
+                    "INHALE",
+                    "SCARF",
+                    "WOLF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AREAS OF ACADEMIC FOCUS",
+                "members": [
+                    "CONCENTRATION",
+                    "DEGREE",
+                    "MAJOR",
+                    "MINOR"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNIVERSAL",
+                "members": [
+                    "BLANKET",
+                    "BROAD",
+                    "GENERAL",
+                    "SWEEPING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPACE ___",
+                "members": [
+                    "BAR",
+                    "CADET",
+                    "HEATER",
+                    "STATION"
+                ]
+            }
+        ]
     }
 ]
