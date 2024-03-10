@@ -12510,5 +12510,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 273,
+        "date": "2024-03-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS A DOG CAN FETCH",
+                "members": [
+                    "BALL",
+                    "BONE",
+                    "FRISBEE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONCEAL",
+                "members": [
+                    "BLOCK",
+                    "COVER",
+                    "HIDE",
+                    "OBSCURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MAC KEYBOARD KEYS",
+                "members": [
+                    "COMMAND",
+                    "CONTROL",
+                    "OPTION",
+                    "SHIFT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EXPERIENCE A MEMORY LAPSE",
+                "members": [
+                    "BLANK",
+                    "FLAKE",
+                    "FORGET",
+                    "SPACE"
+                ]
+            }
+        ]
     }
 ]
