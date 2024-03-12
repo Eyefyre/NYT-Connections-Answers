@@ -12602,5 +12602,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 275,
+        "date": "2024-03-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SECTION",
+                "members": [
+                    "CLASS",
+                    "DIVISION",
+                    "RANK",
+                    "TIER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INCLUDING",
+                "members": [
+                    "AND",
+                    "ALSO",
+                    "PLUS",
+                    "WITH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DOG BREEDS, INFORMALLY",
+                "members": [
+                    "BOSTON",
+                    "GOLDEN",
+                    "LAB",
+                    "PIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FAMOUS POEMS",
+                "members": [
+                    "DADDY",
+                    "HARLEM",
+                    "HOWL",
+                    "IF"
+                ]
+            }
+        ]
     }
 ]
