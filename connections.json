@@ -12648,5 +12648,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 276,
+        "date": "2024-03-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HALLOWEEN PURCHASES",
+                "members": [
+                    "CANDY",
+                    "COSTUME",
+                    "DECORATIONS",
+                    "PUMPKIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLANTS WITH SIMILAR FLAVORS",
+                "members": [
+                    "ANISE",
+                    "FENNEL",
+                    "LICORICE",
+                    "TARRAGON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FOOD SLANG FOR HEAD",
+                "members": [
+                    "BEAN",
+                    "MELON",
+                    "NOODLE",
+                    "NUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GEMSTONE CUTS",
+                "members": [
+                    "BAGUETTE",
+                    "EMERALD",
+                    "PRINCESS",
+                    "RADIANT"
+                ]
+            }
+        ]
     }
 ]
