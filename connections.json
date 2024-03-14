@@ -12694,5 +12694,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 277,
+        "date": "2024-03-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BOX OFFICE VICTORY",
+                "members": [
+                    "HIT",
+                    "SMASH",
+                    "SUCCESS",
+                    "WINNER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "VOLLEYBALL MOVES",
+                "members": [
+                    "BUMP",
+                    "SERVE",
+                    "SET",
+                    "SPIKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HOMOPHONES OF GREEK LETTERS",
+                "members": [
+                    "MOO",
+                    "NEW",
+                    "PIE",
+                    "ROW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___-O",
+                "members": [
+                    "DADDY",
+                    "DAY",
+                    "JACKIE",
+                    "JELL"
+                ]
+            }
+        ]
     }
 ]
