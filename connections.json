@@ -12740,5 +12740,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 278,
+        "date": "2024-03-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CRITICIZE",
+                "members": [
+                    "BLAST",
+                    "KNOCK",
+                    "SLAM",
+                    "TRASH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\u201cMY MISTAKE!\u201d",
+                "members": [
+                    "APOLOGIES",
+                    "OOPS",
+                    "PARDON",
+                    "SORRY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ALIBI",
+                "members": [
+                    "DEFENSE",
+                    "EXCUSE",
+                    "OUT",
+                    "REASON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PLAY ___",
+                "members": [
+                    "DATE",
+                    "DEAD",
+                    "DIRTY",
+                    "DOH"
+                ]
+            }
+        ]
     }
 ]
