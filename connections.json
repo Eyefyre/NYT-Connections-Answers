@@ -12786,5 +12786,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 279,
+        "date": "2024-03-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GET SMALLER",
+                "members": [
+                    "CONTRACT",
+                    "LESSEN",
+                    "REDUCE",
+                    "SHRINK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AIRLINE CLASSES",
+                "members": [
+                    "BUSINESS",
+                    "COACH",
+                    "FIRST",
+                    "PREMIUM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EXAMINE, AS AN APPLICANT",
+                "members": [
+                    "CHECK",
+                    "REVIEW",
+                    "SCREEN",
+                    "VET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NOTABLE TV EPISODES",
+                "members": [
+                    "FINALE",
+                    "PILOT",
+                    "PREMIERE",
+                    "SPECIAL"
+                ]
+            }
+        ]
     }
 ]
