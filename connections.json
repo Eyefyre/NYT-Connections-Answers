@@ -12832,5 +12832,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 280,
+        "date": "2024-03-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOOLISHNESS",
+                "members": [
+                    "ABSURDITY",
+                    "FOLLY",
+                    "MADNESS",
+                    "NONSENSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MOVE FORWARD",
+                "members": [
+                    "ADVANCE",
+                    "MARCH",
+                    "PROGRESS",
+                    "PUSH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT MIGHT STINK",
+                "members": [
+                    "CHEESE",
+                    "FEET",
+                    "GARBAGE",
+                    "SKUNK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cDEEP\u201d",
+                "members": [
+                    "CUT",
+                    "FAKE",
+                    "FREEZE",
+                    "SIX"
+                ]
+            }
+        ]
     }
 ]
