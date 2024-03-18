@@ -12878,5 +12878,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 281,
+        "date": "2024-03-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEGMENT OF A PROCESS",
+                "members": [
+                    "CYCLE",
+                    "PHASE",
+                    "ROUND",
+                    "STAGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONSTELLATIONS",
+                "members": [
+                    "CYGNUS",
+                    "GEMINI",
+                    "ORION",
+                    "PEGASUS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPIRALS IN NATURE",
+                "members": [
+                    "CYCLONE",
+                    "GALAXY",
+                    "SNAIL",
+                    "SUNFLOWER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ASSOCIATED WITH \u201cONE\u201d",
+                "members": [
+                    "CYCLOPS",
+                    "MONOLOGUE",
+                    "SOLITAIRE",
+                    "UNICYCLE"
+                ]
+            }
+        ]
     }
 ]
