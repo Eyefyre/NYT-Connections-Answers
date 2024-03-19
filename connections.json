@@ -12924,5 +12924,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 282,
+        "date": "2024-03-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOVIE SUMMARY INFO",
+                "members": [
+                    "CAST",
+                    "GENRE",
+                    "PLOT",
+                    "TITLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PRETENSE",
+                "members": [
+                    "AFFECT",
+                    "AIRS",
+                    "CHARADE",
+                    "FRONT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FAMOUS GUITARISTS",
+                "members": [
+                    "BERRY",
+                    "KING",
+                    "PAGE",
+                    "WATERS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SECOND ___",
+                "members": [
+                    "FIDDLE",
+                    "GUESS",
+                    "NATURE",
+                    "WIND"
+                ]
+            }
+        ]
     }
 ]
