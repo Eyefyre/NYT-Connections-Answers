@@ -12970,5 +12970,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 283,
+        "date": "2024-03-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEEN AT A SPORTS STADIUM",
+                "members": [
+                    "ASTROTURF",
+                    "JUMBOTRON",
+                    "SCOREBOARD",
+                    "SKYBOX"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAMERA BRANDS",
+                "members": [
+                    "FUJIFILM",
+                    "HASSELBLAD",
+                    "OLYMPUS",
+                    "POLAROID"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ITALIAN DEMONYMS",
+                "members": [
+                    "BOLOGNESE",
+                    "NEAPOLITAN",
+                    "PARMESAN",
+                    "VENETIAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH ROCK BANDS",
+                "members": [
+                    "CREAMSICLE",
+                    "JOURNEYMAN",
+                    "KISSCAM",
+                    "RUSHMORE"
+                ]
+            }
+        ]
     }
 ]
