@@ -13062,5 +13062,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 285,
+        "date": "2024-03-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "JUMPING ANIMALS",
+                "members": [
+                    "CRICKET",
+                    "FROG",
+                    "HARE",
+                    "KANGAROO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "APPLY PRESSURE TO",
+                "members": [
+                    "CRUSH",
+                    "MASH",
+                    "PRESS",
+                    "SQUASH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OLYMPIC SPORTS",
+                "members": [
+                    "BREAKING",
+                    "HOCKEY",
+                    "SKELETON",
+                    "TRAMPOLINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN SET",
+                "members": [
+                    "MOOD",
+                    "RECORD",
+                    "TABLE",
+                    "VOLLEYBALL"
+                ]
+            }
+        ]
     }
 ]
