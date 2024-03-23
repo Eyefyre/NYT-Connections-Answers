@@ -13108,5 +13108,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 286,
+        "date": "2024-03-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KUDOS",
+                "members": [
+                    "CREDIT",
+                    "GLORY",
+                    "PRAISE",
+                    "PROPS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BECOME AWARE OF",
+                "members": [
+                    "DISCOVER",
+                    "FIND",
+                    "LEARN",
+                    "REALIZE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PURSUE",
+                "members": [
+                    "CHASE",
+                    "TAIL",
+                    "TRACK",
+                    "SHADOW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN IN A PASSPORT",
+                "members": [
+                    "NAME",
+                    "PHOTO",
+                    "STAMP",
+                    "VISA"
+                ]
+            }
+        ]
     }
 ]
