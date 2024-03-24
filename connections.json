@@ -13154,5 +13154,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 287,
+        "date": "2024-03-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "YELLOW-BROWN SHADES",
+                "members": [
+                    "BEIGE",
+                    "CAMEL",
+                    "KHAKI",
+                    "TAN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FAIL TO ATTEND",
+                "members": [
+                    "CUT",
+                    "DITCH",
+                    "MISS",
+                    "SKIP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DECISIVE VICTORY",
+                "members": [
+                    "BLOWOUT",
+                    "ROMP",
+                    "ROUT",
+                    "SWEEP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ WHEEL",
+                "members": [
+                    "CHEESE",
+                    "COLOR",
+                    "HAMSTER",
+                    "PRAYER"
+                ]
+            }
+        ]
     }
 ]
