@@ -13200,5 +13200,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 288,
+        "date": "2024-03-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOW FAST SOMETHING IS GOING",
+                "members": [
+                    "CLIP",
+                    "PACE",
+                    "RATE",
+                    "SPEED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\"STEP ON IT!\"",
+                "members": [
+                    "FASTER",
+                    "GO",
+                    "HURRY",
+                    "MOVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "N.B.A. TEAM PLAYER",
+                "members": [
+                    "CLIPPER",
+                    "PACER",
+                    "ROCKET",
+                    "SPUR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TELE___",
+                "members": [
+                    "COMMUTE",
+                    "MEDICINE",
+                    "PROMPTER",
+                    "VISION"
+                ]
+            }
+        ]
     }
 ]
