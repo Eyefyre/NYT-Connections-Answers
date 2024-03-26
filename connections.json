@@ -13246,5 +13246,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 289,
+        "date": "2024-03-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MUSICAL INSTRUMENTS",
+                "members": [
+                    "BASS",
+                    "BASSOON",
+                    "HARP",
+                    "RECORDER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLANT GROWTHS",
+                "members": [
+                    "BLOOM",
+                    "BUD",
+                    "SHOOT",
+                    "SPROUT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BRING UP",
+                "members": [
+                    "FOSTER",
+                    "NURSE",
+                    "RAISE",
+                    "REAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SOLAR EMANATIONS",
+                "members": [
+                    "CORONA",
+                    "FLARE",
+                    "LIGHT",
+                    "RADIATION"
+                ]
+            }
+        ]
     }
 ]
