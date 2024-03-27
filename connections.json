@@ -13292,5 +13292,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 290,
+        "date": "2024-03-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UPDATE FOR ACCURACY",
+                "members": [
+                    "AMEND",
+                    "CORRECT",
+                    "FIX",
+                    "REVISE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "QUARREL",
+                "members": [
+                    "FIGHT",
+                    "ROW",
+                    "SCRAP",
+                    "TIFF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GAMES OF CHANCE",
+                "members": [
+                    "BINGO",
+                    "LOTTERY",
+                    "ROULETTE",
+                    "WAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CHIP",
+                "members": [
+                    "BLUE",
+                    "COMPUTER",
+                    "POKER",
+                    "POTATO"
+                ]
+            }
+        ]
     }
 ]
