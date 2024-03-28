@@ -13338,5 +13338,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 291,
+        "date": "2024-03-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXITED",
+                "members": [
+                    "DEPARTED",
+                    "LEFT",
+                    "SPLIT",
+                    "WENT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONE FLYING AN AIRPLANE",
+                "members": [
+                    "ACE",
+                    "AVIATOR",
+                    "FLIER",
+                    "PILOT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF WHALES",
+                "members": [
+                    "BLUE",
+                    "FIN",
+                    "GRAY",
+                    "RIGHT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH SLOTS",
+                "members": [
+                    "ATM",
+                    "CASINO",
+                    "SCHEDULE",
+                    "SPATULA"
+                ]
+            }
+        ]
     }
 ]
