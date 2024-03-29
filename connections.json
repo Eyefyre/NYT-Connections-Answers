@@ -13384,5 +13384,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 292,
+        "date": "2024-03-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ESPECIALLY",
+                "members": [
+                    "MIGHTY",
+                    "PRETTY",
+                    "REALLY",
+                    "VERY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DISNEY CHARACTERS",
+                "members": [
+                    "DAISY",
+                    "GOOFY",
+                    "HAPPY",
+                    "LADY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BLUE",
+                "members": [
+                    "BABY",
+                    "NAVY",
+                    "SKY",
+                    "TIFFANY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BODY PARTS PLUS \"Y\"",
+                "members": [
+                    "ARMY",
+                    "COLONY",
+                    "LIVERY",
+                    "SHINY"
+                ]
+            }
+        ]
     }
 ]
