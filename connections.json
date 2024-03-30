@@ -13430,5 +13430,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 293,
+        "date": "2024-03-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BREATHES HEAVILY",
+                "members": [
+                    "GASPS",
+                    "HUFFS",
+                    "PANTS",
+                    "PUFFS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PRESERVES, AS MEAT",
+                "members": [
+                    "CANS",
+                    "CURES",
+                    "SALTS",
+                    "SMOKES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PREDICAMENTS",
+                "members": [
+                    "BINDS",
+                    "JAMS",
+                    "PICKLES",
+                    "SPOTS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS IN \u201cMY FAVORITE THINGS\u201d",
+                "members": [
+                    "KETTLES",
+                    "MITTENS",
+                    "RAINDROPS",
+                    "WHISKERS"
+                ]
+            }
+        ]
     }
 ]
