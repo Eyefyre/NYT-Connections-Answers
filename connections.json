@@ -13522,5 +13522,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 295,
+        "date": "2024-04-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOOD SLANG FOR MONEY",
+                "members": [
+                    "\ud83e\udd53",
+                    "\ud83c\udf5e",
+                    "\ud83e\udd6c",
+                    "\ud83e\uddc0"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WORDS THAT RHYME",
+                "members": [
+                    "\ud83e\udde0",
+                    "\u2708\ufe0f",
+                    "\ud83c\udf27\ufe0f",
+                    "\ud83d\ude82"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HORROR MOVIES",
+                "members": [
+                    "\ud83d\udc7d",
+                    "\ud83e\udddb",
+                    "\ud83e\ude9a",
+                    "\ud83d\ude31"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LETTER HOMOPHONES",
+                "members": [
+                    "\ud83d\udc1d",
+                    "\ud83d\udc11",
+                    "\ud83d\udc41\ufe0f",
+                    "\ud83e\uded6"
+                ]
+            }
+        ]
     }
 ]
