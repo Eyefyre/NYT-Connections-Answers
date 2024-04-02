@@ -13568,5 +13568,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 296,
+        "date": "2024-04-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THRUST",
+                "members": [
+                    "JAB",
+                    "POKE",
+                    "PROD",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF SNAKES",
+                "members": [
+                    "ADDER",
+                    "BOA",
+                    "MAMBA",
+                    "MOCCASIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SEEN IN \u201cCINDERELLA\u201d",
+                "members": [
+                    "BALL",
+                    "PRINCE",
+                    "PUMPKIN",
+                    "SLIPPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PASTA SHAPES",
+                "members": [
+                    "BOWTIE",
+                    "ELBOW",
+                    "TUBE",
+                    "WHEEL"
+                ]
+            }
+        ]
     }
 ]
