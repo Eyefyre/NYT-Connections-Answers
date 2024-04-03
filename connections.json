@@ -13614,5 +13614,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 297,
+        "date": "2024-04-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BENCHMARK",
+                "members": [
+                    "BENCHMARK",
+                    "GAUGE",
+                    "STANDARD",
+                    "YARDSTICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "POKER ACTIONS",
+                "members": [
+                    "BET",
+                    "CALL",
+                    "CHECK",
+                    "FOLD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SKIN TYPES",
+                "members": [
+                    "COMBINATION",
+                    "DRY",
+                    "NORMAL",
+                    "OILY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF U.S. STATES",
+                "members": [
+                    "KENT",
+                    "MARY",
+                    "MASS",
+                    "WASH"
+                ]
+            }
+        ]
     }
 ]
