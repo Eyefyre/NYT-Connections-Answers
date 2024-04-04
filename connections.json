@@ -13660,5 +13660,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 298,
+        "date": "2024-04-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAYS TO PREPARE EGGS",
+                "members": [
+                    "BOIL",
+                    "FRY",
+                    "POACH",
+                    "SCRAMBLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXHILARATION",
+                "members": [
+                    "BUZZ",
+                    "KICK",
+                    "RUSH",
+                    "THRILL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THROWN IN TARGET GAMES",
+                "members": [
+                    "AXE",
+                    "DART",
+                    "HORSESHOE",
+                    "RING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ WRAP",
+                "members": [
+                    "BODY",
+                    "BUBBLE",
+                    "GIFT",
+                    "SHRINK"
+                ]
+            }
+        ]
     }
 ]
