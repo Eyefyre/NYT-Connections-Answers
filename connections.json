@@ -13706,5 +13706,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 299,
+        "date": "2024-04-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PIECES OF FURNITURE",
+                "members": [
+                    "BED",
+                    "CHAIR",
+                    "COUCH",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CARRY, AS A FEELING",
+                "members": [
+                    "BEAR",
+                    "HARBOR",
+                    "HOLD",
+                    "MAINTAIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WINE TASTING DESCRIPTORS",
+                "members": [
+                    "BALANCED",
+                    "DRY",
+                    "FULL",
+                    "SWEET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH METALS",
+                "members": [
+                    "GOLDILOCKS",
+                    "IRONIC",
+                    "LEADERSHIP",
+                    "TINDER"
+                ]
+            }
+        ]
     }
 ]
