@@ -13752,5 +13752,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 300,
+        "date": "2024-04-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INTRINSIC MOTIVATORS",
+                "members": [
+                    "DESIRE",
+                    "DRIVE",
+                    "RESOLVE",
+                    "WILL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUMMER GEAR",
+                "members": [
+                    "HAT",
+                    "SHORTS",
+                    "SUNGLASSES",
+                    "TEE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COLLECTION",
+                "members": [
+                    "ARRAY",
+                    "BATTERY",
+                    "SET",
+                    "SERIES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HORSE___",
+                "members": [
+                    "FLY",
+                    "POWER",
+                    "RADISH",
+                    "SHOE"
+                ]
+            }
+        ]
     }
 ]
