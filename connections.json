@@ -13798,5 +13798,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 301,
+        "date": "2024-04-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DISORDERLY PLACE",
+                "members": [
+                    "DUMP",
+                    "MESS",
+                    "PIGPEN",
+                    "STY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STURDY",
+                "members": [
+                    "FIRM",
+                    "SOLID",
+                    "SOUND",
+                    "STABLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FOUND IN CRACKER JACKS",
+                "members": [
+                    "CARAMEL",
+                    "PEANUTS",
+                    "POPCORN",
+                    "PRIZE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ HORSE",
+                "members": [
+                    "CHARLEY",
+                    "CRAZY",
+                    "DARK",
+                    "GIFT"
+                ]
+            }
+        ]
     }
 ]
