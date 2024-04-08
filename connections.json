@@ -13844,5 +13844,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 302,
+        "date": "2024-04-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BRIEF MOMENT",
+                "members": [
+                    "FLASH",
+                    "HEARTBEAT",
+                    "JIFF",
+                    "WINK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DISPUTE",
+                "members": [
+                    "CLASH",
+                    "SCRAP",
+                    "TANGLE",
+                    "TIFF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SLANG FOR ZERO",
+                "members": [
+                    "JACK",
+                    "LOVE",
+                    "SQUAT",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ACCESSORIES FOR MR. PEANUT",
+                "members": [
+                    "CANE",
+                    "MONOCLE",
+                    "SPAT",
+                    "TOP HAT"
+                ]
+            }
+        ]
     }
 ]
