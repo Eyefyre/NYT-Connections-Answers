@@ -13890,5 +13890,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 303,
+        "date": "2024-04-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BREADTH",
+                "members": [
+                    "EXTENT",
+                    "RANGE",
+                    "REACH",
+                    "SCOPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HAIR TOOLS",
+                "members": [
+                    "BRUSH",
+                    "COMB",
+                    "DRYER",
+                    "IRON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HERALDRY TERMS",
+                "members": [
+                    "ARMS",
+                    "COAT",
+                    "CREST",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cDRUM\u201d",
+                "members": [
+                    "EAR",
+                    "KETTLE",
+                    "OIL",
+                    "STEEL"
+                ]
+            }
+        ]
     }
 ]
