@@ -13936,5 +13936,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 304,
+        "date": "2024-04-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PERSON IN CHARGE",
+                "members": [
+                    "CHAIR",
+                    "CHIEF",
+                    "DIRECTOR",
+                    "HEAD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GRASSY AREA",
+                "members": [
+                    "FIELD",
+                    "GREEN",
+                    "GROUNDS",
+                    "LAWN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS BEFORE \u201cNUT\u201d",
+                "members": [
+                    "CHEST",
+                    "COCO",
+                    "HAZEL",
+                    "PEA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SECOND WORDS IN TARANTINO MOVIES",
+                "members": [
+                    "BROWN",
+                    "DOGS",
+                    "FICTION",
+                    "UNCHAINED"
+                ]
+            }
+        ]
     }
 ]
