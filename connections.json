@@ -13982,5 +13982,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 305,
+        "date": "2024-04-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HAIRCUTS, WITH \u201cCUT\u201d",
+                "members": [
+                    "BOWL",
+                    "BUZZ",
+                    "CREW",
+                    "PIXIE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MEASURING INSTRUMENTS",
+                "members": [
+                    "COMPASS",
+                    "RULER",
+                    "SCALE",
+                    "WATCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WATER AND GAS CONDUITS",
+                "members": [
+                    "CHANNEL",
+                    "LINE",
+                    "MAIN",
+                    "PIPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FAST FOOD MASCOTS",
+                "members": [
+                    "CLOWN",
+                    "COLONEL",
+                    "KING",
+                    "MERMAID"
+                ]
+            }
+        ]
     }
 ]
