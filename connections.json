@@ -14028,5 +14028,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 306,
+        "date": "2024-04-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ORDERLY",
+                "members": [
+                    "CLEAN",
+                    "NEAT",
+                    "TIDY",
+                    "TRIM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AUGMENTATIVE PREFIXES",
+                "members": [
+                    "HYPER",
+                    "SUPER",
+                    "UBER",
+                    "ULTRA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BECOME LARGER",
+                "members": [
+                    "BALLOON",
+                    "MUSHROOM",
+                    "SNOWBALL",
+                    "SWELL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ITEMS IN CLASSIC KIDS\u2019 GAMES",
+                "members": [
+                    "DOMINO",
+                    "JACK",
+                    "MARBLE",
+                    "STICK"
+                ]
+            }
+        ]
     }
 ]
