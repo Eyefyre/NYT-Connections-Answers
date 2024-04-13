@@ -14074,5 +14074,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 307,
+        "date": "2024-04-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEEN AT THE CIRCUS",
+                "members": [
+                    "CLOWN",
+                    "RING",
+                    "TENT",
+                    "TRAPEZE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\u201cTHE WIZARD OF OZ\u201d FIGURES",
+                "members": [
+                    "LION",
+                    "SCARECROW",
+                    "WITCH",
+                    "WIZARD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FILM DEPARTMENTS",
+                "members": [
+                    "HAIR",
+                    "MAKEUP",
+                    "PROPS",
+                    "WARDROBE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cI\u2019M A ___\u201d (LYRICS IN \u201cTHE JOKER\u201d)",
+                "members": [
+                    "JOKER",
+                    "LOVER",
+                    "SINNER",
+                    "SMOKER"
+                ]
+            }
+        ]
     }
 ]
