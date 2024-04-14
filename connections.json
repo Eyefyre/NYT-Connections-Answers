@@ -14120,5 +14120,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 308,
+        "date": "2024-04-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PULL USING FORCE",
+                "members": [
+                    "RIP",
+                    "TEAR",
+                    "WRENCH",
+                    "YANK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIT OF REPETITIVE TRAINING",
+                "members": [
+                    "DRILL",
+                    "EXERCISE",
+                    "PRACTICE",
+                    "ROUTINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "U.S.-BASED AIRLINES",
+                "members": [
+                    "AMERICAN",
+                    "FRONTIER",
+                    "SPIRIT",
+                    "UNITED"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BEGINNING WITH DAY ABBREVIATIONS",
+                "members": [
+                    "FRIAR",
+                    "MONKEY",
+                    "SUNDRY",
+                    "WEDDING"
+                ]
+            }
+        ]
     }
 ]
