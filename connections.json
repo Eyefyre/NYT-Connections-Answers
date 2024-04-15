@@ -14166,5 +14166,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 309,
+        "date": "2024-04-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INVENT AS YOU GO",
+                "members": [
+                    "AD-LIB",
+                    "FREESTYLE",
+                    "IMPROV",
+                    "MAKE UP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS BABIES DO",
+                "members": [
+                    "BABBLE",
+                    "COO",
+                    "CRAWL",
+                    "NURSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUPERFICIAL",
+                "members": [
+                    "COSMETIC",
+                    "EXTERNAL",
+                    "SHALLOW",
+                    "SURFACE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ EFFECT",
+                "members": [
+                    "BUTTERFLY",
+                    "DOMINO",
+                    "PLACEBO",
+                    "SIDE"
+                ]
+            }
+        ]
     }
 ]
