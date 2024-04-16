@@ -14212,5 +14212,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 310,
+        "date": "2024-04-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLABBERGAST",
+                "members": [
+                    "FLOOR",
+                    "ROCK",
+                    "SHOCK",
+                    "SURPRISE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIT OF JOURNALISM",
+                "members": [
+                    "ARTICLE",
+                    "FEATURE",
+                    "REPORT",
+                    "STORY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ON THE SAME PLANE",
+                "members": [
+                    "EVEN",
+                    "FLAT",
+                    "FLUSH",
+                    "LEVEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THEATER SECTIONS",
+                "members": [
+                    "BALCONY",
+                    "BOX",
+                    "ORCHESTRA",
+                    "STAGE"
+                ]
+            }
+        ]
     }
 ]
