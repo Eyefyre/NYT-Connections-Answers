@@ -14258,5 +14258,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 311,
+        "date": "2024-04-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UPRIGHT SUPPORT",
+                "members": [
+                    "COLUMN",
+                    "PILLAR",
+                    "POLE",
+                    "POST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HEED, AS RULES",
+                "members": [
+                    "FOLLOW",
+                    "MIND",
+                    "OBSERVE",
+                    "REGARD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ALLOTMENT",
+                "members": [
+                    "INTEREST",
+                    "PERCENTAGE",
+                    "SHARE",
+                    "STAKE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GATHERED BY SPIES",
+                "members": [
+                    "DIRT",
+                    "INFORMATION",
+                    "INTELLIGENCE",
+                    "SECRETS"
+                ]
+            }
+        ]
     }
 ]
