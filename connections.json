@@ -14304,5 +14304,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 312,
+        "date": "2024-04-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SIDEWALK SIGHTS",
+                "members": [
+                    "CURB",
+                    "GRATE",
+                    "GUTTER",
+                    "MANHOLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HAVE IN MIND",
+                "members": [
+                    "AIM",
+                    "INTEND",
+                    "MEAN",
+                    "PLAN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNIT ABBREVIATIONS",
+                "members": [
+                    "CAL",
+                    "GAL",
+                    "IN",
+                    "OZ"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GOLDEN ___",
+                "members": [
+                    "FLEECE",
+                    "GIRLS",
+                    "PARACHUTE",
+                    "RULE"
+                ]
+            }
+        ]
     }
 ]
