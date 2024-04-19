@@ -14350,5 +14350,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 313,
+        "date": "2024-04-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ATTACH WITH ADHESIVE",
+                "members": [
+                    "ADHERE",
+                    "GLUE",
+                    "PASTE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PUBLISHED LINES",
+                "members": [
+                    "COPY",
+                    "TEXT",
+                    "WORDS",
+                    "WRITING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DIAMOND QUALITIES",
+                "members": [
+                    "CARAT",
+                    "CLARITY",
+                    "COLOR",
+                    "CUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "A-___",
+                "members": [
+                    "LIST",
+                    "OK",
+                    "PLUS",
+                    "ROD"
+                ]
+            }
+        ]
     }
 ]
