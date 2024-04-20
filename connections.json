@@ -14396,5 +14396,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 314,
+        "date": "2024-04-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BALDERDASH",
+                "members": [
+                    "BUNK",
+                    "CROCK",
+                    "HOGWASH",
+                    "HORSEFEATHERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TRACK AND FIELD EQUIPMENT",
+                "members": [
+                    "BATON",
+                    "HAMMER",
+                    "HURDLE",
+                    "POLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A DEVIL COSTUME",
+                "members": [
+                    "GOATEE",
+                    "HORNS",
+                    "PITCHFORK",
+                    "TAIL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TYPES OF KNOTS",
+                "members": [
+                    "BEND",
+                    "BOWLINE",
+                    "HITCH",
+                    "SHEEPSHANK"
+                ]
+            }
+        ]
     }
 ]
