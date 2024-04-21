@@ -14442,5 +14442,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 315,
+        "date": "2024-04-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EMBODIMENT",
+                "members": [
+                    "EXAMPLE",
+                    "IDEAL",
+                    "MODEL",
+                    "SYMBOL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RELATED TO TRAINS",
+                "members": [
+                    "CAR",
+                    "CONDUCTOR",
+                    "STATION",
+                    "TRACK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "STARTING WITH THE SAME SOUND",
+                "members": [
+                    "CYMBAL",
+                    "SCIMITAR",
+                    "SIMMER",
+                    "SYMPHONY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EAR___",
+                "members": [
+                    "DRUM",
+                    "MARK",
+                    "WAX",
+                    "WIG"
+                ]
+            }
+        ]
     }
 ]
