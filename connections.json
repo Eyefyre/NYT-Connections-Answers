@@ -14488,5 +14488,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 316,
+        "date": "2024-04-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SLANG FOR FRIEND",
+                "members": [
+                    "BUD",
+                    "CHUM",
+                    "MATE",
+                    "PAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADJECTIVES FOR A BASEMENT",
+                "members": [
+                    "COLD",
+                    "DANK",
+                    "DARK",
+                    "MUSTY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "STUBBLE",
+                "members": [
+                    "FUZZ",
+                    "SCRUFF",
+                    "SHADOW",
+                    "WHISKERS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COLLECTION OF MONEY",
+                "members": [
+                    "FUND",
+                    "KITTY",
+                    "POOL",
+                    "POT"
+                ]
+            }
+        ]
     }
 ]
