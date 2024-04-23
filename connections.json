@@ -14534,5 +14534,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 317,
+        "date": "2024-04-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THROW OUT",
+                "members": [
+                    "BOOT",
+                    "BOUNCE",
+                    "EJECT",
+                    "TOSS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TERRA FIRMA",
+                "members": [
+                    "EARTH",
+                    "GROUND",
+                    "LAND",
+                    "SOIL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SEAS",
+                "members": [
+                    "BALTIC",
+                    "BLACK",
+                    "PHILIPPINE",
+                    "RED"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TOM HANKS MOVIES",
+                "members": [
+                    "BIG",
+                    "PHILADELPHIA",
+                    "SPLASH",
+                    "SULLY"
+                ]
+            }
+        ]
     }
 ]
