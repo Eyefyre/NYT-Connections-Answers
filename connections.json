@@ -14626,5 +14626,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 319,
+        "date": "2024-04-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LAB EQUIPMENT",
+                "members": [
+                    "BEAKER",
+                    "DROPPER",
+                    "GOGGLES",
+                    "MICROSCOPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NEXUS",
+                "members": [
+                    "CENTER",
+                    "HEART",
+                    "HUB",
+                    "NUCLEUS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPREADSHEET TERMS",
+                "members": [
+                    "CELL",
+                    "FORMULA",
+                    "SHEET",
+                    "SORT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ LANGUAGE",
+                "members": [
+                    "BODY",
+                    "LOVE",
+                    "ROMANCE",
+                    "SIGN"
+                ]
+            }
+        ]
     }
 ]
