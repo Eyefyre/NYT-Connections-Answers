@@ -14672,5 +14672,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 320,
+        "date": "2024-04-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "REFINED SENSIBILITY",
+                "members": [
+                    "ELEGANCE",
+                    "GRACE",
+                    "STYLE",
+                    "TASTE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CATCH SOME RAYS",
+                "members": [
+                    "BAKE",
+                    "BASK",
+                    "SUN",
+                    "TAN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EMOTIONALLY SWAY ",
+                "members": [
+                    "AFFECT",
+                    "IMPACT",
+                    "MOVE",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NUMBERS WITH FIRST LETTERS REPLACED BY \u201cS\u201d",
+                "members": [
+                    "SEN",
+                    "SIGHT",
+                    "SINE",
+                    "SOUR"
+                ]
+            }
+        ]
     }
 ]
