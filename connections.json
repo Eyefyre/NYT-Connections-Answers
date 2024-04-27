@@ -14718,5 +14718,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 321,
+        "date": "2024-04-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TRUST AS REAL",
+                "members": [
+                    "ACCEPT",
+                    "BELIEVE",
+                    "BUY",
+                    "SWALLOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "POWER ISSUES",
+                "members": [
+                    "OUTAGE",
+                    "SHORT",
+                    "SPIKE",
+                    "SURGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUMMARY",
+                "members": [
+                    "ABSTRACT",
+                    "BRIEF",
+                    "DIGEST",
+                    "OUTLINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAME HOMOPHONES",
+                "members": [
+                    "CURT",
+                    "HAIRY",
+                    "KNEEL",
+                    "WANE"
+                ]
+            }
+        ]
     }
 ]
