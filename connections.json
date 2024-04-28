@@ -14764,5 +14764,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 322,
+        "date": "2024-04-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PASSIONATE, AS A FEELING",
+                "members": [
+                    "DEEP",
+                    "EXTREME",
+                    "FIERCE",
+                    "INTENSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BANG INTO",
+                "members": [
+                    "BUMP",
+                    "BUTT",
+                    "KNOCK",
+                    "RAM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANALOG TV INTERFERENCE",
+                "members": [
+                    "FUZZ",
+                    "NOISE",
+                    "SNOW",
+                    "STATIC"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MARY",
+                "members": [
+                    "BLOODY",
+                    "HAIL",
+                    "PROUD",
+                    "VIRGIN"
+                ]
+            }
+        ]
     }
 ]
