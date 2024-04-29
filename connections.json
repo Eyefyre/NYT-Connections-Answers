@@ -14810,5 +14810,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 323,
+        "date": "2024-04-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXERCISES",
+                "members": [
+                    "BRIDGE",
+                    "CRUNCH",
+                    "DIP",
+                    "SQUAT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FEATURED IN WESTERNS",
+                "members": [
+                    "BOUNTY",
+                    "COWBOY",
+                    "DUEL",
+                    "SALOON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+                "members": [
+                    "CARTER",
+                    "GORE",
+                    "KING",
+                    "TUTU"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BEE",
+                "members": [
+                    "BUSY",
+                    "HONEY",
+                    "QUEEN",
+                    "SPELLING"
+                ]
+            }
+        ]
     }
 ]
