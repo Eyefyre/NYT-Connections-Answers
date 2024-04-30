@@ -14856,5 +14856,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 324,
+        "date": "2024-04-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DIPPING SAUCES",
+                "members": [
+                    "AIOLI",
+                    "BARBECUE",
+                    "MARINARA",
+                    "RANCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INTERROGATE",
+                "members": [
+                    "EXAMINE",
+                    "GRILL",
+                    "PROBE",
+                    "QUESTION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TRANSACTION RECORD",
+                "members": [
+                    "BILL",
+                    "INVOICE",
+                    "RECEIPT",
+                    "STATEMENT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cSTOCK\u201d MIGHT MEAN",
+                "members": [
+                    "ANCESTRY",
+                    "BROTH",
+                    "CATTLE",
+                    "MERCHANDISE"
+                ]
+            }
+        ]
     }
 ]
