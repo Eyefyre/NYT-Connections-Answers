@@ -14902,5 +14902,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 325,
+        "date": "2024-05-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FEATURES ON A PAIR OF JEANS",
+                "members": [
+                    "BUTTON",
+                    "FLY",
+                    "POCKET",
+                    "RIVET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+                "members": [
+                    "LINE",
+                    "PLANE",
+                    "POINT",
+                    "SOLID"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WEB BROWSER MENUS",
+                "members": [
+                    "FILE",
+                    "HISTORY",
+                    "VIEW",
+                    "WINDOW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MEMBER OF A \u201960S BAND",
+                "members": [
+                    "ANIMAL",
+                    "DOOR",
+                    "KINK",
+                    "SUPREME"
+                ]
+            }
+        ]
     }
 ]
