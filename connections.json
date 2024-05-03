@@ -14994,5 +14994,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 327,
+        "date": "2024-05-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NIGHTSPOTS",
+                "members": [
+                    "BAR",
+                    "CLUB",
+                    "DISCO",
+                    "LOUNGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAST OFF",
+                "members": [
+                    "DITCH",
+                    "DROP",
+                    "LOSE",
+                    "SHED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNITS OF LENGTH",
+                "members": [
+                    "FATHOM",
+                    "FOOT",
+                    "LEAGUE",
+                    "YARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SALE",
+                "members": [
+                    "BAKE",
+                    "CLEARANCE",
+                    "GARAGE",
+                    "SAMPLE"
+                ]
+            }
+        ]
     }
 ]
