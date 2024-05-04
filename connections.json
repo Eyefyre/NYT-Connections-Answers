@@ -15040,5 +15040,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 328,
+        "date": "2024-05-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ENJOY",
+                "members": [
+                    "FANCY",
+                    "LOVE",
+                    "RELISH",
+                    "SAVOR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FILLER WORDS",
+                "members": [
+                    "LIKE",
+                    "LITERALLY",
+                    "UM",
+                    "WELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPONENTS OF A LOCK",
+                "members": [
+                    "CYLINDER",
+                    "PIN",
+                    "SPRING",
+                    "TUMBLER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF UNITS OF MEASURE",
+                "members": [
+                    "CARROT",
+                    "HURTS",
+                    "JEWEL",
+                    "OM"
+                ]
+            }
+        ]
     }
 ]
