@@ -15086,5 +15086,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 329,
+        "date": "2024-05-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SOMETHING GAINED FROM HARD WORK",
+                "members": [
+                    "BENEFIT",
+                    "FRUIT",
+                    "RETURN",
+                    "REWARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF BAGELS",
+                "members": [
+                    "EGG",
+                    "EVERYTHING",
+                    "PLAIN",
+                    "POPPY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CONTRIBUTE TO A MOVIE",
+                "members": [
+                    "ACT",
+                    "DIRECT",
+                    "PRODUCE",
+                    "WRITE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF MONSTERS",
+                "members": [
+                    "FRANK",
+                    "MUM",
+                    "VAMP",
+                    "WERE"
+                ]
+            }
+        ]
     }
 ]
