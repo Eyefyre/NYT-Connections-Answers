@@ -15132,5 +15132,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 330,
+        "date": "2024-05-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONNECT",
+                "members": [
+                    "COUPLE",
+                    "JOIN",
+                    "LINK",
+                    "TIE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NUISANCE",
+                "members": [
+                    "BOTHER",
+                    "HANDFUL",
+                    "PAIN",
+                    "PEST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "QUANTITY WORDS",
+                "members": [
+                    "FEW",
+                    "MANY",
+                    "SEVERAL",
+                    "SOME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TAROT CARDS, WITH \u201cTHE\u201d",
+                "members": [
+                    "FOOL",
+                    "LOVERS",
+                    "MAGICIAN",
+                    "TOWER"
+                ]
+            }
+        ]
     }
 ]
