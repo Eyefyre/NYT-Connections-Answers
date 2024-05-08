@@ -15224,5 +15224,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 332,
+        "date": "2024-05-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHADES OF RED",
+                "members": [
+                    "BRICK",
+                    "CHERRY",
+                    "ROSE",
+                    "RUBY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LITTLE BIT OF A BEVERAGE",
+                "members": [
+                    "DROP",
+                    "SPLASH",
+                    "SPOT",
+                    "SPRINKLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHOICEST",
+                "members": [
+                    "BEST",
+                    "CREAM",
+                    "PICK",
+                    "TOP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BATH",
+                "members": [
+                    "BIRD",
+                    "BUBBLE",
+                    "MUD",
+                    "SPONGE"
+                ]
+            }
+        ]
     }
 ]
