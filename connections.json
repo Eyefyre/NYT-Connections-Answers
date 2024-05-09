@@ -15270,5 +15270,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 333,
+        "date": "2024-05-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONTAINER CLOSURES",
+                "members": [
+                    "CAP",
+                    "CORK",
+                    "LID",
+                    "TAB"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DURATION",
+                "members": [
+                    "PERIOD",
+                    "SPELL",
+                    "STRETCH",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "REGULATE",
+                "members": [
+                    "CHECK",
+                    "CONTAIN",
+                    "CURB",
+                    "LIMIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TRADEMARKS OF A PLATYPUS",
+                "members": [
+                    "BILL",
+                    "EGG",
+                    "FUR",
+                    "VENOM"
+                ]
+            }
+        ]
     }
 ]
