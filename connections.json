@@ -15316,5 +15316,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 334,
+        "date": "2024-05-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHUTZPAH",
+                "members": [
+                    "BRASS",
+                    "CHEEK",
+                    "GALL",
+                    "NERVE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ACCESSORIES FOR DOG WALKING",
+                "members": [
+                    "COLLAR",
+                    "HALTER",
+                    "HARNESS",
+                    "LEAD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT SPIN",
+                "members": [
+                    "CAROUSEL",
+                    "GLOBE",
+                    "RECORD",
+                    "TOP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LEAD SINGERS OF \u201970S ROCK BANDS",
+                "members": [
+                    "FERRY",
+                    "MERCURY",
+                    "NICKS",
+                    "PLANT"
+                ]
+            }
+        ]
     }
 ]
