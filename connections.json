@@ -15362,5 +15362,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 335,
+        "date": "2024-05-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ONE WITH TOP BILLING",
+                "members": [
+                    "HEADLINER",
+                    "LEAD",
+                    "PRINCIPAL",
+                    "STAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "VAMPIRE VULNERABILITIES",
+                "members": [
+                    "CROSS",
+                    "GARLIC",
+                    "SILVER",
+                    "SUN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SATIRICAL PUBLICATIONS, FAMILIARLY",
+                "members": [
+                    "CRACKED",
+                    "LAMPOON",
+                    "MAD",
+                    "ONION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CLUB ___",
+                "members": [
+                    "MED",
+                    "MUSIC",
+                    "SANDWICH",
+                    "SODA"
+                ]
+            }
+        ]
     }
 ]
