@@ -15408,5 +15408,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 336,
+        "date": "2024-05-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLAYFULLY POKE FUN AT",
+                "members": [
+                    "KID",
+                    "NEEDLE",
+                    "RIB",
+                    "TEASE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CUTS OF BEEF",
+                "members": [
+                    "CHUCK",
+                    "FLANK",
+                    "LOIN",
+                    "ROUND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ACRONYMS",
+                "members": [
+                    "MIA",
+                    "OMG",
+                    "PIN",
+                    "RAM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COCKTAILS MINUS PLACE NAMES",
+                "members": [
+                    "LIBRE",
+                    "MAMA",
+                    "MULE",
+                    "SLING"
+                ]
+            }
+        ]
     }
 ]
