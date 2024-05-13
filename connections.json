@@ -15454,5 +15454,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 337,
+        "date": "2024-05-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FASHION DESIGNER'S OUTPUT",
+                "members": [
+                    "BRAND",
+                    "COLLECTION",
+                    "LABEL",
+                    "LINE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLAYGROUND VERBS",
+                "members": [
+                    "DODGE",
+                    "HIDE",
+                    "HOP",
+                    "TAG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LOONEY TUNES FIGURES",
+                "members": [
+                    "BUNNY",
+                    "DUCK",
+                    "MARTIAN",
+                    "PIG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF MUSICALS",
+                "members": [
+                    "GREECE",
+                    "HARE",
+                    "KATZ",
+                    "MAIM"
+                ]
+            }
+        ]
     }
 ]
