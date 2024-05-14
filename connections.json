@@ -15500,5 +15500,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 338,
+        "date": "2024-05-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EARLY ITERATION",
+                "members": [
+                    "DRAFT",
+                    "OUTLINE",
+                    "PLAN",
+                    "SKETCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ENJOY A MEAL",
+                "members": [
+                    "DINE",
+                    "FEAST",
+                    "FEED",
+                    "SUP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPANISH PRONOUNS",
+                "members": [
+                    "ELLA",
+                    "ME",
+                    "SUS",
+                    "YO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SLIM ___",
+                "members": [
+                    "FIT",
+                    "JIM",
+                    "PICKINGS",
+                    "SHADY"
+                ]
+            }
+        ]
     }
 ]
