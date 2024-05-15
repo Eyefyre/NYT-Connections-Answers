@@ -15546,5 +15546,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 339,
+        "date": "2024-05-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BIT OF LEGISLATION",
+                "members": [
+                    "ACT",
+                    "BILL",
+                    "MEASURE",
+                    "RESOLUTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GRASSLAND",
+                "members": [
+                    "MEADOW",
+                    "PLAIN",
+                    "PRAIRIE",
+                    "SAVANNA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FORTHRIGHT",
+                "members": [
+                    "DIRECT",
+                    "FRANK",
+                    "OPEN",
+                    "STRAIGHT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CAR COMPANIES MINUS LETTER",
+                "members": [
+                    "AURA",
+                    "BUCK",
+                    "DOGE",
+                    "HODA"
+                ]
+            }
+        ]
     }
 ]
