@@ -15592,5 +15592,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 340,
+        "date": "2024-05-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PHOTO",
+                "members": [
+                    "PIC",
+                    "SHOT",
+                    "SNAP",
+                    "STILL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ASSURE, AS A VICTORY",
+                "members": [
+                    "CINCH",
+                    "ICE",
+                    "LOCK",
+                    "SECURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVE IN AN EFFORTLESS WAY",
+                "members": [
+                    "BREEZE",
+                    "COAST",
+                    "GLIDE",
+                    "SAIL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BLANKET",
+                "members": [
+                    "PICNIC",
+                    "SECURITY",
+                    "THROW",
+                    "WET"
+                ]
+            }
+        ]
     }
 ]
