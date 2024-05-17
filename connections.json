@@ -15638,5 +15638,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 341,
+        "date": "2024-05-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CORRUPT",
+                "members": [
+                    "BASE",
+                    "DIRTY",
+                    "LOW",
+                    "VILE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "REACH OUT TO",
+                "members": [
+                    "CONTACT",
+                    "MESSAGE",
+                    "PING",
+                    "TEXT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC STILL LIFE COMPONENTS",
+                "members": [
+                    "FRUIT",
+                    "PITCHER",
+                    "SKULL",
+                    "TABLECLOTH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BEER ___",
+                "members": [
+                    "BATTER",
+                    "CAN",
+                    "GARDEN",
+                    "PONG"
+                ]
+            }
+        ]
     }
 ]
