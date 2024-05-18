@@ -15684,5 +15684,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 342,
+        "date": "2024-05-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ANIMALS WHOSE NAMES ARE TWO ANIMALS",
+                "members": [
+                    "BULLDOG",
+                    "CATFISH",
+                    "HORSEFLY",
+                    "TURTLEDOVE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SHARP TURNS",
+                "members": [
+                    "DOGLEG",
+                    "HAIRPIN",
+                    "SWITCHBACK",
+                    "ZAG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC PARTY GAMES",
+                "members": [
+                    "CATEGORIES",
+                    "CHARADES",
+                    "FISHBOWL",
+                    "WEREWOLF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH SPRING/S",
+                "members": [
+                    "CLOCK",
+                    "MATTRESS",
+                    "MOUSETRAP",
+                    "TRAMPOLINE"
+                ]
+            }
+        ]
     }
 ]
