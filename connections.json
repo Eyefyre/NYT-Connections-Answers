@@ -15730,5 +15730,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 343,
+        "date": "2024-05-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AFFLUENT",
+                "members": [
+                    "FLUSH",
+                    "LOADED",
+                    "RICH",
+                    "WEALTHY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CUT INTO PIECES",
+                "members": [
+                    "CHOP",
+                    "CUBE",
+                    "DICE",
+                    "MINCE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OLD-FASHIONED",
+                "members": [
+                    "SQUARE",
+                    "STRAIGHT",
+                    "STUFFY",
+                    "TRADITIONAL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FRUIT HOMOPHONES",
+                "members": [
+                    "BURY",
+                    "CURRENT",
+                    "LEACHY",
+                    "PAIR"
+                ]
+            }
+        ]
     }
 ]
