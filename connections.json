@@ -15776,5 +15776,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 344,
+        "date": "2024-05-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SORCERER\u2019S OUTPUT",
+                "members": [
+                    "CHARM",
+                    "HEX",
+                    "MAGIC",
+                    "SPELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONE BEING MANIPULATED",
+                "members": [
+                    "INSTRUMENT",
+                    "PAWN",
+                    "PUPPET",
+                    "TOOL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC SUPERHERO WEAR",
+                "members": [
+                    "CAPE",
+                    "MASK",
+                    "TIGHTS",
+                    "UNDERWEAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ACTION MOVIE DIRECTORS",
+                "members": [
+                    "BAY",
+                    "CARPENTER",
+                    "SCOTT",
+                    "WOO"
+                ]
+            }
+        ]
     }
 ]
