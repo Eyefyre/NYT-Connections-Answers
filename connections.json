@@ -15822,5 +15822,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 345,
+        "date": "2024-05-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SMIDGEN",
+                "members": [
+                    "BIT",
+                    "DASH",
+                    "PINCH",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BARGAIN",
+                "members": [
+                    "BUY",
+                    "DEAL",
+                    "STEAL",
+                    "VALUE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BILLIARDS EQUIPMENT",
+                "members": [
+                    "BALL",
+                    "CHALK",
+                    "CUE",
+                    "RACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___BOOK (THAT\u2019S NOT A BOOK)",
+                "members": [
+                    "FACE",
+                    "MAC",
+                    "MATCH",
+                    "POCKET"
+                ]
+            }
+        ]
     }
 ]
