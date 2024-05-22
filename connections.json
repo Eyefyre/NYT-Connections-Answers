@@ -15868,5 +15868,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 346,
+        "date": "2024-05-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BODY PARTS IN \u201cHEAD, SHOULDERS, KNEES AND TOES\u201d",
+                "members": [
+                    "HEAD",
+                    "KNEES",
+                    "SHOULDERS",
+                    "TOES"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAR, INFORMALLY",
+                "members": [
+                    "AUTO",
+                    "RIDE",
+                    "WHEELS",
+                    "WHIP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "REMOVES THE COVERING OF",
+                "members": [
+                    "PARES",
+                    "PEELS",
+                    "SHELLS",
+                    "SHUCKS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cBUZZY\u201d THINGS",
+                "members": [
+                    "BEES",
+                    "CAFFEINE",
+                    "GOSSIP",
+                    "INTERCOMS"
+                ]
+            }
+        ]
     }
 ]
