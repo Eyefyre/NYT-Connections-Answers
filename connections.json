@@ -15914,5 +15914,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 347,
+        "date": "2024-05-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TAKE ADVANTAGE OF",
+                "members": [
+                    "EXPLOIT",
+                    "LEVERAGE",
+                    "MILK",
+                    "USE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FINISHED, AS TIME",
+                "members": [
+                    "DONE",
+                    "OVER",
+                    "THROUGH",
+                    "UP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NEWSPAPER DESKS",
+                "members": [
+                    "CITY",
+                    "COPY",
+                    "CULTURE",
+                    "SPORTS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEGINNING WITH GREETINGS",
+                "members": [
+                    "HEYDAY",
+                    "HIJINKS",
+                    "SUPPER",
+                    "YOGURT"
+                ]
+            }
+        ]
     }
 ]
