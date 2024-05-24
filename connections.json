@@ -15960,5 +15960,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 348,
+        "date": "2024-05-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONDUITS FOR WATER REMOVAL",
+                "members": [
+                    "DRAIN",
+                    "DUCT",
+                    "PIPE",
+                    "SEWER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY",
+                "members": [
+                    "CHEESE",
+                    "CORN",
+                    "SAP",
+                    "SCHMALTZ"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TO CRACK",
+                "members": [
+                    "EGG",
+                    "KNUCKLES",
+                    "SMILE",
+                    "WINDOW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CHANGE",
+                "members": [
+                    "CHUMP",
+                    "CLIMATE",
+                    "LOOSE",
+                    "SEA"
+                ]
+            }
+        ]
     }
 ]
