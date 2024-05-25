@@ -16006,5 +16006,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 349,
+        "date": "2024-05-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ADVERTISING FORMAT",
+                "members": [
+                    "BANNER",
+                    "BILLBOARD",
+                    "POSTER",
+                    "SIGN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INAUGURAL",
+                "members": [
+                    "FIRST",
+                    "INITIAL",
+                    "MAIDEN",
+                    "PREMIER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ADVOCATE FOR",
+                "members": [
+                    "BACK",
+                    "CHAMPION",
+                    "ENDORSE",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PRONOUN PLUS \u201cE\u201d",
+                "members": [
+                    "HERE",
+                    "THEME",
+                    "USE",
+                    "WEE"
+                ]
+            }
+        ]
     }
 ]
