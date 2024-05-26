@@ -16052,5 +16052,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 350,
+        "date": "2024-05-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOUND ON A STOVE TOP",
+                "members": [
+                    "GRIDDLE",
+                    "KETTLE",
+                    "PAN",
+                    "POT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ORNAMENTAL BORDER",
+                "members": [
+                    "FRILL",
+                    "FRINGE",
+                    "RUFFLE",
+                    "TRIM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DEPOSIT, WITH \u201cDOWN\u201d",
+                "members": [
+                    "LAY",
+                    "PLACE",
+                    "PUT",
+                    "SET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS THAT SOUNDS LIKE PLURAL LETTERS",
+                "members": [
+                    "GEEZ",
+                    "SEIZE",
+                    "TEASE",
+                    "WISE"
+                ]
+            }
+        ]
     }
 ]
