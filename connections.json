@@ -16098,5 +16098,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 351,
+        "date": "2024-05-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AGENCY IN DECISIONMAKING",
+                "members": [
+                    "CHOICE",
+                    "SAY",
+                    "VOICE",
+                    "VOTE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DOG COMMANDS",
+                "members": [
+                    "DOWN",
+                    "HEEL",
+                    "SHAKE",
+                    "SPEAK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF NOTES",
+                "members": [
+                    "FLAT",
+                    "NATURAL",
+                    "QUARTER",
+                    "WHOLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ IRON",
+                "members": [
+                    "PUMP",
+                    "STEAM",
+                    "TIRE",
+                    "WAFFLE"
+                ]
+            }
+        ]
     }
 ]
