@@ -16144,5 +16144,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 352,
+        "date": "2024-05-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AMENABLE",
+                "members": [
+                    "EASY",
+                    "FLEXIBLE",
+                    "OPEN",
+                    "RECEPTIVE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "EVIL",
+                    "LIVE",
+                    "VEIL",
+                    "VILE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPELLING BEE RANKS",
+                "members": [
+                    "AMAZING",
+                    "BEGINNER",
+                    "GENIUS",
+                    "SOLID"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ADJECTIVES FOR A CANDLE",
+                "members": [
+                    "LIT",
+                    "SCENTED",
+                    "WAXY",
+                    "WICKED"
+                ]
+            }
+        ]
     }
 ]
