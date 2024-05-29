@@ -16190,5 +16190,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 353,
+        "date": "2024-05-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOOD",
+                "members": [
+                    "CHOW",
+                    "EATS",
+                    "FARE",
+                    "GRUB"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PILOT",
+                "members": [
+                    "DIRECT",
+                    "GUIDE",
+                    "LEAD",
+                    "STEER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INTIMIDATE",
+                "members": [
+                    "BULLY",
+                    "COW",
+                    "DAUNT",
+                    "RATTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MARKET",
+                "members": [
+                    "BULL",
+                    "FLEA",
+                    "MEAT",
+                    "STOCK"
+                ]
+            }
+        ]
     }
 ]
