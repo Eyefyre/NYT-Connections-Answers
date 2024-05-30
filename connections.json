@@ -16236,5 +16236,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 354,
+        "date": "2024-05-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLUNDER",
+                "members": [
+                    "LOOT",
+                    "RAID",
+                    "ROB",
+                    "SACK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INFLUENCE",
+                "members": [
+                    "CLOUT",
+                    "PULL",
+                    "SWAY",
+                    "WEIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HAIRSTYLES",
+                "members": [
+                    "BOB",
+                    "CROP",
+                    "FADE",
+                    "SHAG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ PIN",
+                "members": [
+                    "BOBBY",
+                    "HAIR",
+                    "PUSH",
+                    "SAFETY"
+                ]
+            }
+        ]
     }
 ]
