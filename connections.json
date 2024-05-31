@@ -16282,5 +16282,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 355,
+        "date": "2024-05-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CORPUS",
+                "members": [
+                    "BODY",
+                    "CANON",
+                    "OEUVRE",
+                    "WORKS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MOUNT ___",
+                "members": [
+                    "FUJI",
+                    "HOOD",
+                    "OLYMPUS",
+                    "WHITNEY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPONENTS OF AN LP",
+                "members": [
+                    "INSERT",
+                    "JACKET",
+                    "RECORD",
+                    "SLEEVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS PEOPLE SHAKE",
+                "members": [
+                    "HANDS",
+                    "MARACA",
+                    "POLAROID",
+                    "SNOWGLOBE"
+                ]
+            }
+        ]
     }
 ]
