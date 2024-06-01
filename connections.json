@@ -16328,5 +16328,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 356,
+        "date": "2024-06-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u201cDON\u2019T DELAY!\u201d",
+                "members": [
+                    "HURRY",
+                    "NOW",
+                    "PRONTO",
+                    "STAT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OCEAN PHENOMENA",
+                "members": [
+                    "CURRENT",
+                    "DRIFT",
+                    "TIDE",
+                    "WAVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DUMBBELL EXERCISES",
+                "members": [
+                    "CURL",
+                    "FLY",
+                    "PRESS",
+                    "ROW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PHILOSOPHER HOMOPHONES",
+                "members": [
+                    "LOCK",
+                    "MARKS",
+                    "PANE",
+                    "RUSTLE"
+                ]
+            }
+        ]
     }
 ]
