@@ -16374,5 +16374,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 357,
+        "date": "2024-06-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONFORMISTS",
+                "members": [
+                    "FOLLOWERS",
+                    "LEMMINGS",
+                    "PUPPETS",
+                    "SHEEP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPANY OWNERSHIP OFFERS",
+                "members": [
+                    "EQUITY",
+                    "OPTIONS",
+                    "SHARES",
+                    "STOCKS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "U.S. CITIES",
+                "members": [
+                    "BILLINGS",
+                    "BUFFALO",
+                    "MOBILE",
+                    "PHOENIX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cDIGS\u201d MIGHT MEAN",
+                "members": [
+                    "APARTMENT",
+                    "INSULTS",
+                    "LIKES",
+                    "SHOVELS"
+                ]
+            }
+        ]
     }
 ]
