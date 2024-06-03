@@ -16420,5 +16420,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 358,
+        "date": "2024-06-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "REMOVE, AS BODY HAIR",
+                "members": [
+                    "LASER",
+                    "PLUCK",
+                    "THREAD",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TWIST AROUND",
+                "members": [
+                    "COIL",
+                    "SPOOL",
+                    "WIND",
+                    "WRAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS MADE OF CELLS",
+                "members": [
+                    "HONEYCOMB",
+                    "ORGANISM",
+                    "SOLAR PANEL",
+                    "SPREADSHEET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "B-___",
+                "members": [
+                    "BALL",
+                    "MOVIE",
+                    "SCHOOL",
+                    "VITAMIN"
+                ]
+            }
+        ]
     }
 ]
