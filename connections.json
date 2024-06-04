@@ -16466,5 +16466,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 359,
+        "date": "2024-06-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TAKE HOME, AS INCOME",
+                "members": [
+                    "CLEAR",
+                    "EARN",
+                    "MAKE",
+                    "NET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF A WIZARD COSTUME",
+                "members": [
+                    "BEARD",
+                    "HAT",
+                    "ROBE",
+                    "STAFF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FOUND ON A SHIP",
+                "members": [
+                    "BRIDGE",
+                    "DECK",
+                    "HATCH",
+                    "KEEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "C-___",
+                "members": [
+                    "CLEF",
+                    "SECTION",
+                    "SPAN",
+                    "SUITE"
+                ]
+            }
+        ]
     }
 ]
