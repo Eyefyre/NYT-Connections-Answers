@@ -16512,5 +16512,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 360,
+        "date": "2024-06-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u201cAWESOME!\u201d",
+                "members": [
+                    "COOL",
+                    "NICE",
+                    "SICK",
+                    "SWEET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "VARIETY",
+                "members": [
+                    "KIND",
+                    "SORT",
+                    "STYLE",
+                    "TYPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GIST",
+                "members": [
+                    "DRIFT",
+                    "IDEA",
+                    "MESSAGE",
+                    "POINT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FRIED APPETIZER, INFORMALLY",
+                "members": [
+                    "RING",
+                    "STICK",
+                    "TENDER",
+                    "WING"
+                ]
+            }
+        ]
     }
 ]
