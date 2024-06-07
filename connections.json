@@ -16604,5 +16604,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 362,
+        "date": "2024-06-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DREAM UP",
+                "members": [
+                    "CONCEIVE",
+                    "ENVISION",
+                    "IMAGINE",
+                    "PICTURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THIN COVERING",
+                "members": [
+                    "COAT",
+                    "FILM",
+                    "LAYER",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "REMOVE, AS CRUMBS",
+                "members": [
+                    "BRUSH",
+                    "FLICK",
+                    "SWEEP",
+                    "WIPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "VERBS FOR A SOFTWARE ENGINEER",
+                "members": [
+                    "CODE",
+                    "DEVELOP",
+                    "HACK",
+                    "PROGRAM"
+                ]
+            }
+        ]
     }
 ]
