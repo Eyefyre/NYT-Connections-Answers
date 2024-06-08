@@ -16650,5 +16650,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 363,
+        "date": "2024-06-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GRAB ONE\u2019S ATTENTION",
+                "members": [
+                    "ABSORB",
+                    "ENGROSS",
+                    "HOLD",
+                    "RIVET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DOCUMENT WITH VIDEO",
+                "members": [
+                    "FILM",
+                    "RECORD",
+                    "SHOOT",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANAGRAMS",
+                "members": [
+                    "PASTEL",
+                    "PETALS",
+                    "PLEATS",
+                    "STAPLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PRETTY ___",
+                "members": [
+                    "GOOD",
+                    "PENNY",
+                    "PLEASE",
+                    "WOMAN"
+                ]
+            }
+        ]
     }
 ]
