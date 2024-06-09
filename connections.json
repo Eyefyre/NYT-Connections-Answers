@@ -16696,5 +16696,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 364,
+        "date": "2024-06-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FEELING SOME TYPE OF WAY",
+                "members": [
+                    "BITTER",
+                    "SALTY",
+                    "SORE",
+                    "UPSET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THROW HERE AND THERE",
+                "members": [
+                    "PEPPER",
+                    "SCATTER",
+                    "SPRINKLE",
+                    "STREW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH LAYERS",
+                "members": [
+                    "CAKE",
+                    "EARTH",
+                    "ONION",
+                    "PLYWOOD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ POTATO",
+                "members": [
+                    "BAKED",
+                    "COUCH",
+                    "HOT",
+                    "SWEET"
+                ]
+            }
+        ]
     }
 ]
