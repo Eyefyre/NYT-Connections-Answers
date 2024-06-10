@@ -16742,5 +16742,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 365,
+        "date": "2024-06-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CORE",
+                "members": [
+                    "CRUX",
+                    "ESSENCE",
+                    "HEART",
+                    "SUBSTANCE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPLICATED",
+                "members": [
+                    "BAROQUE",
+                    "COMPLEX",
+                    "ELABORATE",
+                    "INVOLVED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SYMBOLS USED IN MAKING LISTS",
+                "members": [
+                    "ARROW",
+                    "BULLET",
+                    "CHECKBOX",
+                    "HYPHEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cCROSS\u201d MIGHT MEAN",
+                "members": [
+                    "ANGRY",
+                    "BETRAY",
+                    "CRUCIFIX",
+                    "HYBRID"
+                ]
+            }
+        ]
     }
 ]
