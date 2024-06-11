@@ -16788,5 +16788,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 366,
+        "date": "2024-06-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOMOPHONES",
+                "members": [
+                    "BI",
+                    "BUY",
+                    "BY",
+                    "BYE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MUSCLES, INFORMALLY",
+                "members": [
+                    "AB",
+                    "PEC",
+                    "QUAD",
+                    "TRI"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MUSIC GENRES",
+                "members": [
+                    "DUB",
+                    "EMO",
+                    "POP",
+                    "TRAP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SETTINGS ON AN APPLIANCE KNOB",
+                "members": [
+                    "HI",
+                    "LO",
+                    "MED",
+                    "OFF"
+                ]
+            }
+        ]
     }
 ]
