@@ -16834,5 +16834,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 367,
+        "date": "2024-06-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLACES IN NEW YORK CITY",
+                "members": [
+                    "CHINATOWN",
+                    "DUMBO",
+                    "MANHATTAN",
+                    "WALL STREET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RHYMING TITLES",
+                "members": [
+                    "BE KIND REWIND",
+                    "E.T.",
+                    "FRIGHT NIGHT",
+                    "KILL BILL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENDING IN UNITS OF MEASUREMENT",
+                "members": [
+                    "HEDWIG AND THE ANGRY INCH",
+                    "MY LEFT FOOT",
+                    "THE GREEN MILE",
+                    "THE LONGEST YARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH ANIMALS",
+                "members": [
+                    "BEETLEJUICE",
+                    "FOXY BROWN",
+                    "DOGMA",
+                    "OCTOPUSSY"
+                ]
+            }
+        ]
     }
 ]
