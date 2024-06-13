@@ -16880,5 +16880,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 368,
+        "date": "2024-06-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ENJOY",
+                "members": [
+                    "APPRECIATE",
+                    "DIG",
+                    "FANCY",
+                    "LIKE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BLOCKBUSTER",
+                "members": [
+                    "HIT",
+                    "SENSATION",
+                    "SMASH",
+                    "SUCCESS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CAMPAIGN SWAG",
+                "members": [
+                    "BUTTON",
+                    "HAT",
+                    "SHIRT",
+                    "STICKER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cCOPY\u201d",
+                "members": [
+                    "CAT",
+                    "EDITOR",
+                    "PASTE",
+                    "THAT"
+                ]
+            }
+        ]
     }
 ]
