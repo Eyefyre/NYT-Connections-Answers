@@ -16926,5 +16926,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 369,
+        "date": "2024-06-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WRITING ASSIGNMENTS",
+                "members": [
+                    "ARTICLE",
+                    "ESSAY",
+                    "PAPER",
+                    "REPORT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT ARE PINK",
+                "members": [
+                    "BUBBLE GUM",
+                    "CARNATION",
+                    "ERASER",
+                    "FLAMINGO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NATO PHONETIC ALPHABET",
+                "members": [
+                    "FOXTROT",
+                    "HOTEL",
+                    "VICTOR",
+                    "YANKEE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ASSOCIATED WITH #2",
+                "members": [
+                    "DEPUTY",
+                    "DEREK JETER",
+                    "PENCIL",
+                    "SILVER MEDAL"
+                ]
+            }
+        ]
     }
 ]
