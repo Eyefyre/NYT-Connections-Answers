@@ -16972,5 +16972,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 370,
+        "date": "2024-06-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BASKETBALL SHOTS",
+                "members": [
+                    "DUNK",
+                    "FLOATER",
+                    "LAYUP",
+                    "THREE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FISH",
+                "members": [
+                    "PERCH",
+                    "PIKE",
+                    "SKATE",
+                    "SOLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "QUALITIES OF THICK HAIR",
+                "members": [
+                    "BODY",
+                    "BOUNCE",
+                    "LIFT",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CHILD",
+                "members": [
+                    "FLOWER",
+                    "ONLY",
+                    "POSTER",
+                    "PROBLEM"
+                ]
+            }
+        ]
     }
 ]
