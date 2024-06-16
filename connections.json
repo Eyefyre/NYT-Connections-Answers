@@ -17018,5 +17018,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 371,
+        "date": "2024-06-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CURRENT SITUATION",
+                "members": [
+                    "CONDITION",
+                    "FORM",
+                    "SHAPE",
+                    "STATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "REMOTE RURAL AREA",
+                "members": [
+                    "BUSH",
+                    "COUNTRY",
+                    "STICKS",
+                    "WOODS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC LAWN ORNAMENTS",
+                "members": [
+                    "FLAMINGO",
+                    "FOUNTAIN",
+                    "GNOME",
+                    "PINWHEEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TALE",
+                "members": [
+                    "FAIRY",
+                    "FISH",
+                    "FOLK",
+                    "TALL"
+                ]
+            }
+        ]
     }
 ]
