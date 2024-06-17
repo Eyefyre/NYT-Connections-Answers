@@ -17064,5 +17064,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 372,
+        "date": "2024-06-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DELIVER, AS A PACKAGE",
+                "members": [
+                    "MAIL",
+                    "POST",
+                    "SEND",
+                    "SHIP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF LIP MAKEUP",
+                "members": [
+                    "BALM",
+                    "GLOSS",
+                    "LINER",
+                    "STAIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PREDICAMENT",
+                "members": [
+                    "CORNER",
+                    "FIX",
+                    "HOLE",
+                    "SPOT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MEASURED IN DEGREES",
+                "members": [
+                    "ANGLE",
+                    "CRIME",
+                    "EDUCATION",
+                    "TEMPERATURE"
+                ]
+            }
+        ]
     }
 ]
