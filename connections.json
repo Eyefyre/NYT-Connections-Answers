@@ -17110,5 +17110,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 373,
+        "date": "2024-06-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "REMOTE CONTROL BUTTONS",
+                "members": [
+                    "CHANNEL",
+                    "MENU",
+                    "POWER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HIDE FROM VIEW",
+                "members": [
+                    "BLOCK",
+                    "COVER",
+                    "SCREEN",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DRINK GARNISHES",
+                "members": [
+                    "CHERRY",
+                    "OLIVE",
+                    "SWORD",
+                    "UMBRELLA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST WORD IN BOND MOVIE TITLES",
+                "members": [
+                    "CASINO",
+                    "DIAMONDS",
+                    "QUANTUM",
+                    "TOMORROW"
+                ]
+            }
+        ]
     }
 ]
