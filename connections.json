@@ -17156,5 +17156,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 374,
+        "date": "2024-06-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "POSITIONS IN FAVOR",
+                "members": [
+                    "AYE",
+                    "FOR",
+                    "PRO",
+                    "YEA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GO OUT WITH",
+                "members": [
+                    "COURT",
+                    "DATE",
+                    "SEE",
+                    "WOO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MULTITUDE",
+                "members": [
+                    "DROVE",
+                    "HOST",
+                    "PACK",
+                    "SEA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS READ IN DIVINATION",
+                "members": [
+                    "AURA",
+                    "PALM",
+                    "TAROT",
+                    "TEA"
+                ]
+            }
+        ]
     }
 ]
