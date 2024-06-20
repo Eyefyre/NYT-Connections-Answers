@@ -17202,5 +17202,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 375,
+        "date": "2024-06-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BITS OF HARDWARE",
+                "members": [
+                    "NAIL",
+                    "NUT",
+                    "SCREW",
+                    "WASHER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FISHING GEAR",
+                "members": [
+                    "FLY",
+                    "HOOK",
+                    "LINE",
+                    "SINKER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HAIR SALON FIXTURES",
+                "members": [
+                    "CHAIR",
+                    "DRYER",
+                    "MIRROR",
+                    "SINK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LIGHTNING ___",
+                "members": [
+                    "BOLT",
+                    "BUG",
+                    "ROD",
+                    "STRIKE"
+                ]
+            }
+        ]
     }
 ]
