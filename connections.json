@@ -17248,5 +17248,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 376,
+        "date": "2024-06-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AMUSEMENT PARK RIDES",
+                "members": [
+                    "FERRIS WHEEL",
+                    "MERRY-GO-ROUND",
+                    "ROLLER COASTER",
+                    "TILT-A-WHIRL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "APPROVAL",
+                "members": [
+                    "CLEARANCE",
+                    "GO-AHEAD",
+                    "GREEN LIGHT",
+                    "THUMBS-UP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TYPES OF COME-FROM-BEHIND STORIES",
+                "members": [
+                    "CINDERELLA",
+                    "DAVID-AND-GOLIATH",
+                    "RAGS-TO-RICHES",
+                    "UNDERDOG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BEGINNING WITH SYNONYMS FOR REAR END",
+                "members": [
+                    "BUMPER-TO-BUMPER",
+                    "BUTTERMILK",
+                    "RUMPELSTILTSKIN",
+                    "TAILGATE"
+                ]
+            }
+        ]
     }
 ]
