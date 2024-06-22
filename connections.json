@@ -17294,5 +17294,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 377,
+        "date": "2024-06-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ONE THING AFTER ANOTHER",
+                "members": [
+                    "CHAIN",
+                    "TRAIN",
+                    "SERIES",
+                    "STRING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF GOLF CLUBS",
+                "members": [
+                    "DRIVER",
+                    "IRON",
+                    "WEDGE",
+                    "WOOD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HORROR MOVIES, WITH \u201cTHE\u201d",
+                "members": [
+                    "BIRDS",
+                    "FOG",
+                    "OMEN",
+                    "RING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS FOR SAUSAGE",
+                "members": [
+                    "BRAT",
+                    "DOG",
+                    "FRANK",
+                    "LINK"
+                ]
+            }
+        ]
     }
 ]
