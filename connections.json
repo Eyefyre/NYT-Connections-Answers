@@ -17340,5 +17340,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 378,
+        "date": "2024-06-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u201cSETTLE DOWN!\u201d",
+                "members": [
+                    "EASY",
+                    "ENOUGH",
+                    "RELAX",
+                    "QUIET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MINOR AILMENTS",
+                "members": [
+                    "BUG",
+                    "CHILL",
+                    "COLD",
+                    "COUGH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT HUMPBACK WHALES DO",
+                "members": [
+                    "BREACH",
+                    "DIVE",
+                    "SING",
+                    "SPOUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CITY NICKNAMES",
+                "members": [
+                    "MAGIC",
+                    "MOTOR",
+                    "SIN",
+                    "WINDY"
+                ]
+            }
+        ]
     }
 ]
