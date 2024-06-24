@@ -17386,5 +17386,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 379,
+        "date": "2024-06-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SORE TO THE TOUCH",
+                "members": [
+                    "DELICATE",
+                    "RAW",
+                    "SENSITIVE",
+                    "TENDER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RESTAURANT COURSES",
+                "members": [
+                    "DESSERT",
+                    "MAIN",
+                    "SIDE",
+                    "STARTER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANIMAL HOMOPHONES",
+                "members": [
+                    "BARE",
+                    "DEAR",
+                    "MOUSSE",
+                    "NEW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RED ___",
+                "members": [
+                    "CARPET",
+                    "DELICIOUS",
+                    "MEAT",
+                    "TAPE"
+                ]
+            }
+        ]
     }
 ]
