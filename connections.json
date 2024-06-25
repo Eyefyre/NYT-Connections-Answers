@@ -17432,5 +17432,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 380,
+        "date": "2024-06-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DIVULGE, AS PRIVATE INFORMATION",
+                "members": [
+                    "DISH",
+                    "SPILL",
+                    "TALK",
+                    "TELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DIVIDE",
+                "members": [
+                    "BRANCH",
+                    "FORK",
+                    "PART",
+                    "SPLIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SILENT \u201cK\u201d",
+                "members": [
+                    "DOORKNOB",
+                    "KNIFE",
+                    "TOPKNOT",
+                    "UNKNOWN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KEY TO SUCCESS, SO TO SPEAK",
+                "members": [
+                    "FORMULA",
+                    "RECIPE",
+                    "SECRET",
+                    "TICKET"
+                ]
+            }
+        ]
     }
 ]
