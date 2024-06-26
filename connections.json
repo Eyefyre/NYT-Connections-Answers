@@ -17478,5 +17478,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 381,
+        "date": "2024-06-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ARMY RANKS",
+                "members": [
+                    "CAPTAIN",
+                    "GENERAL",
+                    "MAJOR",
+                    "PRIVATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLACE TO PLUG SOMETHING IN",
+                "members": [
+                    "JACK",
+                    "OUTLET",
+                    "PORT",
+                    "SOCKET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CONSUMER DESIRE, COLLECTIVELY",
+                "members": [
+                    "APPETITE",
+                    "AUDIENCE",
+                    "DEMAND",
+                    "MARKET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ AD",
+                "members": [
+                    "ATTACK",
+                    "PERSONAL",
+                    "POP-UP",
+                    "WANT"
+                ]
+            }
+        ]
     }
 ]
