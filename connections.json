@@ -17524,5 +17524,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 382,
+        "date": "2024-06-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PURSUIT",
+                "members": [
+                    "CHASE",
+                    "HUNT",
+                    "QUEST",
+                    "SEARCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ROMANTIC LETTER SIGN-OFFS",
+                "members": [
+                    "ALWAYS",
+                    "KISSES",
+                    "LOVE",
+                    "YOURS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GROUP WITHIN A GROUP",
+                "members": [
+                    "CAMP",
+                    "PARTY",
+                    "SIDE",
+                    "WING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GOLD ___",
+                "members": [
+                    "BOND",
+                    "LEAF",
+                    "MINE",
+                    "RUSH"
+                ]
+            }
+        ]
     }
 ]
