@@ -17570,5 +17570,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 383,
+        "date": "2024-06-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TYPES OF BAGS",
+                "members": [
+                    "CLUTCH",
+                    "MESSENGER",
+                    "SATCHEL",
+                    "TOTE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WIGGLE ROOM",
+                "members": [
+                    "FREEDOM",
+                    "LATITUDE",
+                    "LICENSE",
+                    "SLACK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INDICATION TO PROCEED",
+                "members": [
+                    "CUE",
+                    "PROMPT",
+                    "SIGNAL",
+                    "WORD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "UNDERWEAR IN THE SINGULAR",
+                "members": [
+                    "BOXER",
+                    "BRIEF",
+                    "DRAWER",
+                    "SHORT"
+                ]
+            }
+        ]
     }
 ]
