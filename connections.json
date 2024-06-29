@@ -17616,5 +17616,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 384,
+        "date": "2024-06-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOMOPHONES",
+                "members": [
+                    "TO",
+                    "TOO",
+                    "TUE",
+                    "TWO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONNECT",
+                "members": [
+                    "COUPLE",
+                    "TIE",
+                    "UNITE",
+                    "WED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PLACED DOWN",
+                "members": [
+                    "LAID",
+                    "PLACED",
+                    "PUT",
+                    "SAT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___FLOWER",
+                "members": [
+                    "MAY",
+                    "SUN",
+                    "WALL",
+                    "WILD"
+                ]
+            }
+        ]
     }
 ]
