@@ -17662,5 +17662,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 385,
+        "date": "2024-06-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OLD SAYING",
+                "members": [
+                    "ADAGE",
+                    "CHESTNUT",
+                    "MAXIM",
+                    "SAW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GRILL FUEL SOURCES",
+                "members": [
+                    "CHARCOAL",
+                    "ELECTRIC",
+                    "GAS",
+                    "WOOD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TREES",
+                "members": [
+                    "ASH",
+                    "CHERRY",
+                    "EBONY",
+                    "GUM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOT TUB COMPONENTS",
+                "members": [
+                    "FILTER",
+                    "HEATER",
+                    "JET",
+                    "PUMP"
+                ]
+            }
+        ]
     }
 ]
