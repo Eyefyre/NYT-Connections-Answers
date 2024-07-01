@@ -17708,5 +17708,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 386,
+        "date": "2024-07-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHOW THE WAY",
+                "members": [
+                    "DIRECT",
+                    "GUIDE",
+                    "LEAD",
+                    "USHER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SCHEME",
+                "members": [
+                    "CON",
+                    "HUSTLE",
+                    "RACKET",
+                    "STING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SEEN ON A U.S. DOLLAR BILL",
+                "members": [
+                    "EAGLE",
+                    "PYRAMID",
+                    "SEAL",
+                    "WASHINGTON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES",
+                "members": [
+                    "BRITISH",
+                    "NORTHWEST",
+                    "NOVA",
+                    "PRINCE"
+                ]
+            }
+        ]
     }
 ]
