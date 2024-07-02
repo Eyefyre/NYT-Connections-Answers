@@ -17754,5 +17754,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 387,
+        "date": "2024-07-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PACK (AWAY) FOR FUTURE USE",
+                "members": [
+                    "SQUIRREL",
+                    "STASH",
+                    "STORE",
+                    "STOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADJECTIVES FOR ASSETS",
+                "members": [
+                    "FIXED",
+                    "FROZEN",
+                    "LIQUID",
+                    "TOXIC"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LATIN WORDS",
+                "members": [
+                    "CAVEAT",
+                    "ERGO",
+                    "QUID",
+                    "VOX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ GAME",
+                "members": [
+                    "ARCADE",
+                    "BLAME",
+                    "NUMBERS",
+                    "SQUID"
+                ]
+            }
+        ]
     }
 ]
