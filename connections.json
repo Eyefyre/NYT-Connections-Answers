@@ -17800,5 +17800,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 388,
+        "date": "2024-07-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEVELOP, AS IDEAS",
+                "members": [
+                    "BRAINSTORM",
+                    "IDEATE",
+                    "SPITBALL",
+                    "WORKSHOP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TANGIBLE",
+                "members": [
+                    "CONCRETE",
+                    "MATERIAL",
+                    "REAL",
+                    "SOLID"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF CAKE",
+                "members": [
+                    "BIRTHDAY",
+                    "CRUMB",
+                    "MARBLE",
+                    "POUND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN THROW, IN METAPHORS",
+                "members": [
+                    "CURVEBALL",
+                    "PARTY",
+                    "TANTRUM",
+                    "WRENCH"
+                ]
+            }
+        ]
     }
 ]
