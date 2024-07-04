@@ -17846,5 +17846,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 389,
+        "date": "2024-07-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROMANTIC RAPPORT",
+                "members": [
+                    "ATTRACTION",
+                    "CHEMISTRY",
+                    "FIREWORKS",
+                    "SPARKS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS STORED BY A WEB BROWSER",
+                "members": [
+                    "CACHE",
+                    "COOKIES",
+                    "DATA",
+                    "HISTORY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SINGLE ROTATION",
+                "members": [
+                    "CYCLE",
+                    "LAP",
+                    "TURN",
+                    "REVOLUTION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cBELL\u201d",
+                "members": [
+                    "BAR",
+                    "DINNER",
+                    "LIBERTY",
+                    "TINKER"
+                ]
+            }
+        ]
     }
 ]
