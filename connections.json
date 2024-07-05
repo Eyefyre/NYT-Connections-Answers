@@ -17892,5 +17892,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 390,
+        "date": "2024-07-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "YEARN",
+                "members": [
+                    "DESIRE",
+                    "LONG",
+                    "PINE",
+                    "YEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MAGAZINES",
+                "members": [
+                    "FORTUNE",
+                    "MAD",
+                    "NATURE",
+                    "O"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHARACTERS IN BOND MOVIES",
+                "members": [
+                    "BOND",
+                    "M",
+                    "MONEYPENNY",
+                    "Q"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS THAT PRECEDE \u201cPOP\u201d IN MUSIC GENRES",
+                "members": [
+                    "BUBBLEGUM",
+                    "EURO",
+                    "K",
+                    "POWER"
+                ]
+            }
+        ]
     }
 ]
