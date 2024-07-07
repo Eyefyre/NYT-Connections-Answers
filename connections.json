@@ -17984,5 +17984,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 392,
+        "date": "2024-07-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHANGE STATES OF MATTER",
+                "members": [
+                    "CONDENSE",
+                    "FREEZE",
+                    "MELT",
+                    "VAPORIZE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "REPLACEMENT",
+                "members": [
+                    "ALTERNATE",
+                    "BACKUP",
+                    "COVER",
+                    "SUB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SLANGY NAMES FOR PROFESSIONS",
+                "members": [
+                    "COPPER",
+                    "HACK",
+                    "SHRINK",
+                    "SUIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MARIAH CAREY NUMBER ONE HITS",
+                "members": [
+                    "FANTASY",
+                    "HERO",
+                    "HONEY",
+                    "SOMEDAY"
+                ]
+            }
+        ]
     }
 ]
