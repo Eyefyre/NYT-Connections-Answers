@@ -18030,5 +18030,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 393,
+        "date": "2024-07-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BIT OF ADVICE",
+                "members": [
+                    "POINTER",
+                    "SUGGESTION",
+                    "TIP",
+                    "TRICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FORTITUDE",
+                "members": [
+                    "GRIT",
+                    "RESOLVE",
+                    "SPIRIT",
+                    "WILL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPEND TIME AT",
+                "members": [
+                    "FREQUENT",
+                    "HAUNT",
+                    "PATRONIZE",
+                    "VISIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS ENDING IN NUMBERS",
+                "members": [
+                    "CANINE",
+                    "FREIGHT",
+                    "OFTEN",
+                    "OZONE"
+                ]
+            }
+        ]
     }
 ]
