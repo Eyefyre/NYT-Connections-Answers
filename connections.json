@@ -18076,5 +18076,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 394,
+        "date": "2024-07-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHRONICLE",
+                "members": [
+                    "JOURNAL",
+                    "LOG",
+                    "RECORD",
+                    "REGISTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MESS OF HAIR",
+                "members": [
+                    "MANE",
+                    "MOP",
+                    "SHOCK",
+                    "TANGLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TV SHOWS MINUS \u201cS\u201d",
+                "members": [
+                    "CHEER",
+                    "FRIEND",
+                    "SCRUB",
+                    "WEED"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cHEDGE\u201d",
+                "members": [
+                    "FUND",
+                    "HOG",
+                    "MAZE",
+                    "TRIMMER"
+                ]
+            }
+        ]
     }
 ]
