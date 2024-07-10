@@ -18122,5 +18122,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 395,
+        "date": "2024-07-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FUTURE LIKELIHOOD",
+                "members": [
+                    "CHANCE",
+                    "FORECAST",
+                    "OUTLOOK",
+                    "PROSPECT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BACK TALK",
+                "members": [
+                    "ATTITUDE",
+                    "CHEEK",
+                    "LIP",
+                    "SASS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FISH",
+                "members": [
+                    "BASS",
+                    "FLUKE",
+                    "PERCH",
+                    "PIKE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COMPONENTS OF EYEGLASSES",
+                "members": [
+                    "BRIDGE",
+                    "LENS",
+                    "RIM",
+                    "TEMPLE"
+                ]
+            }
+        ]
     }
 ]
