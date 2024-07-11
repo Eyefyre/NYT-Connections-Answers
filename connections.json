@@ -18168,5 +18168,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 396,
+        "date": "2024-07-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SCHOOL SUPPLIES",
+                "members": [
+                    "PEN",
+                    "RULER",
+                    "SCISSORS",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FUNDAMENTAL",
+                "members": [
+                    "ESSENTIAL",
+                    "KEY",
+                    "PRINCIPAL",
+                    "STAPLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TRANSFER",
+                "members": [
+                    "GIVE",
+                    "HAND",
+                    "PASS",
+                    "SEND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LIGHT-UP SIGNS",
+                "members": [
+                    "APPLAUSE",
+                    "EXIT",
+                    "RECORDING",
+                    "WALK"
+                ]
+            }
+        ]
     }
 ]
