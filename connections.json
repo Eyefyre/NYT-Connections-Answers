@@ -18214,5 +18214,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 397,
+        "date": "2024-07-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SCHOOL FACILITIES",
+                "members": [
+                    "AUDITORIUM",
+                    "GYM",
+                    "LAB",
+                    "LIBRARY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ROULETTE BETS",
+                "members": [
+                    "BLACK",
+                    "EVEN",
+                    "ODD",
+                    "RED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH \u201cDOVE\u201d",
+                "members": [
+                    "CHOCOLATE",
+                    "PEACE",
+                    "PIGEON",
+                    "SOAP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ GOOSE",
+                "members": [
+                    "GREY",
+                    "GOLDEN",
+                    "MOTHER",
+                    "SILLY"
+                ]
+            }
+        ]
     }
 ]
