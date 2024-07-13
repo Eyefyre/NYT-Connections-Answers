@@ -18260,5 +18260,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 398,
+        "date": "2024-07-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ENORMOUS",
+                "members": [
+                    "GIANT",
+                    "MAMMOTH",
+                    "MONSTER",
+                    "TITANIC"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EMBODIMENT",
+                "members": [
+                    "AVATAR",
+                    "CHARACTER",
+                    "FIGURE",
+                    "PERSONA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COME ACROSS AS",
+                "members": [
+                    "APPEAR",
+                    "LOOK",
+                    "SEEM",
+                    "SOUND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SILENT \u201cT\u201d",
+                "members": [
+                    "CASTLE",
+                    "HUSTLE",
+                    "LISTEN",
+                    "WITCH"
+                ]
+            }
+        ]
     }
 ]
