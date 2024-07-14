@@ -18306,5 +18306,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 399,
+        "date": "2024-07-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SLENDER PROJECTIONS",
+                "members": [
+                    "POINT",
+                    "PRONG",
+                    "TINE",
+                    "TIP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONDITIONS FOR COLLECTIBLES",
+                "members": [
+                    "FAIR",
+                    "FINE",
+                    "GOOD",
+                    "MINT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PROFESSION",
+                "members": [
+                    "BUSINESS",
+                    "FIELD",
+                    "LINE",
+                    "TRADE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cNUT\u201d",
+                "members": [
+                    "BRAZIL",
+                    "BUTTER",
+                    "DOUGH",
+                    "PINE"
+                ]
+            }
+        ]
     }
 ]
