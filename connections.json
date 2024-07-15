@@ -18352,5 +18352,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 400,
+        "date": "2024-07-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "REGARD AS TRUE",
+                "members": [
+                    "ACCEPT",
+                    "BELIEVE",
+                    "BUY",
+                    "TRUST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FACADE",
+                "members": [
+                    "BLUFF",
+                    "FRONT",
+                    "SHAM",
+                    "SHOW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WAYS TO SECURE A TV",
+                "members": [
+                    "BASE",
+                    "BRACKET",
+                    "MOUNT",
+                    "STAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LIQUOR BOTTLE SIZES",
+                "members": [
+                    "FIFTH",
+                    "HANDLE",
+                    "LITER",
+                    "PINT"
+                ]
+            }
+        ]
     }
 ]
