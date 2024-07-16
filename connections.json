@@ -18398,5 +18398,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 401,
+        "date": "2024-07-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IN A BAD MOOD",
+                "members": [
+                    "CROSS",
+                    "SHORT",
+                    "SURLY",
+                    "TESTY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXPERIMENTAL",
+                "members": [
+                    "EXPLORATORY",
+                    "PILOT",
+                    "PRELIMINARY",
+                    "TRIAL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "STARTS OF BROADWAY MUSICALS",
+                "members": [
+                    "FIDDLER",
+                    "JERSEY",
+                    "KINKY",
+                    "MERRILY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PETER ___",
+                "members": [
+                    "PAN",
+                    "PARKER",
+                    "PIPER",
+                    "RABBIT"
+                ]
+            }
+        ]
     }
 ]
