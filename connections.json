@@ -18444,5 +18444,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 402,
+        "date": "2024-07-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BUILDINGS AROUND TOWN",
+                "members": [
+                    "BANK",
+                    "LAUNDROMAT",
+                    "POST OFFICE",
+                    "SUPERMARKET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HINDER",
+                "members": [
+                    "CHECK",
+                    "CURB",
+                    "HAMPER",
+                    "INHIBIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANIMAL GROUP NAMES",
+                "members": [
+                    "PACK",
+                    "PRIDE",
+                    "SCHOOL",
+                    "SWARM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF U.S. PRESIDENTS",
+                "members": [
+                    "BIDE",
+                    "CART",
+                    "NIX",
+                    "WASHING"
+                ]
+            }
+        ]
     }
 ]
