@@ -18490,5 +18490,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 403,
+        "date": "2024-07-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OPEN SPACE",
+                "members": [
+                    "COURT",
+                    "PLAZA",
+                    "SQUARE",
+                    "YARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BOXING UNIT",
+                "members": [
+                    "BOUT",
+                    "CONTEST",
+                    "MATCH",
+                    "ROUND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GLITZINESS",
+                "members": [
+                    "DAZZLE",
+                    "FLASH",
+                    "POMP",
+                    "RITZ"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EMOJI",
+                "members": [
+                    "FIRE",
+                    "HEART",
+                    "SKULL",
+                    "SPARKLES"
+                ]
+            }
+        ]
     }
 ]
