@@ -18536,5 +18536,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 404,
+        "date": "2024-07-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROMANTIC PARTNER",
+                "members": [
+                    "FLAME",
+                    "LOVER",
+                    "STEADY",
+                    "SWEETHEART"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INSULT",
+                "members": [
+                    "BURN",
+                    "DIG",
+                    "JAB",
+                    "SLIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GAS PUMP OPTIONS",
+                "members": [
+                    "DIESEL",
+                    "PLUS",
+                    "PREMIUM",
+                    "REGULAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TABLE",
+                "members": [
+                    "COFFEE",
+                    "PERIODIC",
+                    "POOL",
+                    "WATER"
+                ]
+            }
+        ]
     }
 ]
