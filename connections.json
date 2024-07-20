@@ -18582,5 +18582,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 405,
+        "date": "2024-07-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EFFORTLESS",
+                "members": [
+                    "FLUID",
+                    "GRACEFUL",
+                    "NATURAL",
+                    "SMOOTH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXERTION",
+                "members": [
+                    "EFFORT",
+                    "LABOR",
+                    "SWEAT",
+                    "WORK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENERGY FOR AN ELECTRONIC DEVICE",
+                "members": [
+                    "BATTERY",
+                    "CHARGE",
+                    "JUICE",
+                    "POWER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cPOP\u201d MIGHT MEAN",
+                "members": [
+                    "BURST",
+                    "DAD",
+                    "MAINSTREAM",
+                    "SODA"
+                ]
+            }
+        ]
     }
 ]
