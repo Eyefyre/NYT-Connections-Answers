@@ -18628,5 +18628,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 406,
+        "date": "2024-07-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAYS TO SUPPORT A CANDIDATE",
+                "members": [
+                    "CAMPAIGN",
+                    "CANVASS",
+                    "ORGANIZE",
+                    "STUMP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONSTITUTION",
+                "members": [
+                    "COMPOSITION",
+                    "FABRIC",
+                    "MAKEUP",
+                    "STRUCTURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CARPENTRY TOOLS",
+                "members": [
+                    "CLAMP",
+                    "FILE",
+                    "LEVEL",
+                    "SAW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MATH ABBREVIATIONS",
+                "members": [
+                    "LOG",
+                    "MAX",
+                    "MOD",
+                    "TAN"
+                ]
+            }
+        ]
     }
 ]
