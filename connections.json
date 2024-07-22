@@ -18674,5 +18674,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 407,
+        "date": "2024-07-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "REALM OF EXPERTISE",
+                "members": [
+                    "AREA",
+                    "DOMAIN",
+                    "FIELD",
+                    "SPHERE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MUSICAL INSTRUMENTS",
+                "members": [
+                    "FIDDLE",
+                    "HORN",
+                    "RECORDER",
+                    "TRIANGLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "USED TO REDIRECT TRAFFIC",
+                "members": [
+                    "BARRIER",
+                    "CONE",
+                    "FLAG",
+                    "FLARE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FOOD ___",
+                "members": [
+                    "CHAIN",
+                    "FIGHT",
+                    "PROCESSOR",
+                    "PYRAMID"
+                ]
+            }
+        ]
     }
 ]
