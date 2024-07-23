@@ -18720,5 +18720,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 408,
+        "date": "2024-07-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IMPOSTOR",
+                "members": [
+                    "CHARLATAN",
+                    "FRAUD",
+                    "QUACK",
+                    "SHAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UTTERANCE",
+                "members": [
+                    "NOISE",
+                    "PEEP",
+                    "SOUND",
+                    "WORD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ONE WHO LIKES SHOWING OFF",
+                "members": [
+                    "HAM",
+                    "HOT DOG",
+                    "PEACOCK",
+                    "SHOWBOAT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LOONEY TUNES CHARACTERS MINUS A LETTER",
+                "members": [
+                    "BUG",
+                    "PORK",
+                    "SPEED",
+                    "TWEET"
+                ]
+            }
+        ]
     }
 ]
