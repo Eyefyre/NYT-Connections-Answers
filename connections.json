@@ -18812,5 +18812,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 410,
+        "date": "2024-07-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ANCIENT WRITING SURFACES",
+                "members": [
+                    "CLAY",
+                    "PAPYRUS",
+                    "PARCHMENT",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LEAD, AS A TV PROGRAM",
+                "members": [
+                    "ANCHOR",
+                    "HOST",
+                    "MODERATE",
+                    "PRESENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NATURAL ABILITY",
+                "members": [
+                    "FACULTY",
+                    "FLAIR",
+                    "INSTINCT",
+                    "TALENT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WRAPPED THINGS",
+                "members": [
+                    "BURRITO",
+                    "GIFT",
+                    "MUMMY",
+                    "SPRAIN"
+                ]
+            }
+        ]
     }
 ]
