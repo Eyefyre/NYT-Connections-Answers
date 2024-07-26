@@ -18858,5 +18858,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 411,
+        "date": "2024-07-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BASIC DIRECTIONS",
+                "members": [
+                    "DOWN",
+                    "LEFT",
+                    "RIGHT",
+                    "UP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADVOCATE FOR",
+                "members": [
+                    "BACK",
+                    "CHAMPION",
+                    "ENDORSE",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DRAWBACK",
+                "members": [
+                    "CON",
+                    "DING",
+                    "MINUS",
+                    "STRIKE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "INSTRUMENT HOMOPHONES",
+                "members": [
+                    "BASE",
+                    "LIAR",
+                    "LOOT",
+                    "SYMBOL"
+                ]
+            }
+        ]
     }
 ]
