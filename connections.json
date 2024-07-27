@@ -18904,5 +18904,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 412,
+        "date": "2024-07-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OFF-TOPIC REMARKS",
+                "members": [
+                    "ASIDE",
+                    "DETOUR",
+                    "DIGRESSION",
+                    "TANGENT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CREATE, AS RESULTS",
+                "members": [
+                    "BEAR",
+                    "GENERATE",
+                    "PRODUCE",
+                    "YIELD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HOTTIE",
+                "members": [
+                    "BABE",
+                    "FOX",
+                    "SNACK",
+                    "TEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS REPRESENTED BY THE LETTER \"R\"",
+                "members": [
+                    "ARE",
+                    "RADIUS",
+                    "REVERSE",
+                    "RIGHT"
+                ]
+            }
+        ]
     }
 ]
