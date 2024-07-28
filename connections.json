@@ -18950,5 +18950,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 413,
+        "date": "2024-07-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A BOOK",
+                "members": [
+                    "COVER",
+                    "JACKET",
+                    "PAGE",
+                    "SPINE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAT COAT PATTERNS",
+                "members": [
+                    "CALICO",
+                    "TABBY",
+                    "TORTOISESHELL",
+                    "TUXEDO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NERVOUSNESS, IN THE SINGULAR",
+                "members": [
+                    "BUTTERFLY",
+                    "JITTER",
+                    "NERVE",
+                    "WILLY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH VEGETABLES",
+                "members": [
+                    "BEETHOVEN",
+                    "CORNUCOPIA",
+                    "KALEIDOSCOPE",
+                    "PEACOCK"
+                ]
+            }
+        ]
     }
 ]
