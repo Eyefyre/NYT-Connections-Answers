@@ -18996,5 +18996,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 414,
+        "date": "2024-07-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STADIUMS",
+                "members": [
+                    "ARENA",
+                    "BOWL",
+                    "COLISEUM",
+                    "DOME"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STREET SUFFIXES",
+                "members": [
+                    "ALLEY",
+                    "COURT",
+                    "DRIVE",
+                    "LANE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH SCALES",
+                "members": [
+                    "FISH",
+                    "JUSTICE",
+                    "LIBRA",
+                    "SOLFEGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH SPOUTS",
+                "members": [
+                    "FOUNTAIN",
+                    "GUTTER",
+                    "TEAPOT",
+                    "WHALE"
+                ]
+            }
+        ]
     }
 ]
