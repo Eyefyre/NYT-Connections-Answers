@@ -19042,5 +19042,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 415,
+        "date": "2024-07-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PEACHY KEEN",
+                "members": [
+                    "NEAT",
+                    "NIFTY",
+                    "SUPER",
+                    "SWELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PROVIDE MORE DETAILS",
+                "members": [
+                    "ELABORATE",
+                    "EXPAND",
+                    "EXPLAIN",
+                    "SPECIFY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ABILITY TO DO SOMETHING WELL",
+                "members": [
+                    "FACILITY",
+                    "FLAIR",
+                    "GIFT",
+                    "KNACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GROUP OF BUILDINGS",
+                "members": [
+                    "BLOCK",
+                    "COMPLEX",
+                    "COMPOUND",
+                    "DEVELOPMENT"
+                ]
+            }
+        ]
     }
 ]
