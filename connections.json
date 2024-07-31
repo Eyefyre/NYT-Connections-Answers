@@ -19088,5 +19088,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 416,
+        "date": "2024-07-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RASPY",
+                "members": [
+                    "GRUFF",
+                    "HOARSE",
+                    "HUSKY",
+                    "ROUGH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FINGERS",
+                "members": [
+                    "LITTLE",
+                    "MIDDLE",
+                    "POINTER",
+                    "RING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ALE STYLES",
+                "members": [
+                    "AMBER",
+                    "PORTER",
+                    "SOUR",
+                    "STOUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FRENCH ___",
+                "members": [
+                    "BULLDOG",
+                    "FRY",
+                    "HORN",
+                    "KISS"
+                ]
+            }
+        ]
     }
 ]
