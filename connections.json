@@ -19134,5 +19134,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 417,
+        "date": "2024-08-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PROMOTE",
+                "members": [
+                    "HYPE",
+                    "MARKET",
+                    "PITCH",
+                    "SELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THROW",
+                "members": [
+                    "CAST",
+                    "CHUCK",
+                    "FLING",
+                    "HURL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BOOKSTORE SECTIONS",
+                "members": [
+                    "FICTION",
+                    "HUMOR",
+                    "ROMANCE",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SOCKS",
+                "members": [
+                    "ANKLE",
+                    "CREW",
+                    "SWEAT",
+                    "TUBE"
+                ]
+            }
+        ]
     }
 ]
