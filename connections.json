@@ -19180,5 +19180,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 418,
+        "date": "2024-08-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STRETCH, AS ONE\u2019S PATIENCE",
+                "members": [
+                    "STRAIN",
+                    "TAX",
+                    "TEST",
+                    "TRY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS A DJ DOES",
+                "members": [
+                    "MIX",
+                    "SAMPLE",
+                    "SCRATCH",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ADJECTIVES USED IN GRAMMAR",
+                "members": [
+                    "DIRECT",
+                    "IRREGULAR",
+                    "POSSESSIVE",
+                    "PRESENT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cGREEN\u201d MIGHT MEAN",
+                "members": [
+                    "ECOLOGICAL",
+                    "JEALOUS",
+                    "LUSH",
+                    "NAUSEOUS"
+                ]
+            }
+        ]
     }
 ]
