@@ -19226,5 +19226,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 419,
+        "date": "2024-08-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BIT OF EXCITEMENT",
+                "members": [
+                    "HIGH",
+                    "KICK",
+                    "RUSH",
+                    "THRILL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TOLERATE",
+                "members": [
+                    "BEAR",
+                    "STAND",
+                    "STOMACH",
+                    "TAKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NONSENSE",
+                "members": [
+                    "BALONEY",
+                    "BULL",
+                    "BUNK",
+                    "TRIPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS TO CLICK",
+                "members": [
+                    "HEELS",
+                    "MOUSE",
+                    "REMOTE",
+                    "TONGUE"
+                ]
+            }
+        ]
     }
 ]
