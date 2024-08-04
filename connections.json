@@ -19272,5 +19272,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 420,
+        "date": "2024-08-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KIDDO",
+                "members": [
+                    "BUDDY",
+                    "CHAMP",
+                    "SPORT",
+                    "TIGER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UP FOR IT",
+                "members": [
+                    "AMENABLE",
+                    "DOWN",
+                    "GAME",
+                    "WILLING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BEGINNING WITH DOUBLE LETTERS",
+                "members": [
+                    "AARDVARK",
+                    "EERIE",
+                    "LLAMA",
+                    "OOZE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NICKNAMES FOR THE SEA, WITH \u201cTHE\u201d",
+                "members": [
+                    "BLUE",
+                    "BRINY",
+                    "DEEP",
+                    "DRINK"
+                ]
+            }
+        ]
     }
 ]
