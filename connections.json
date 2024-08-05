@@ -19318,5 +19318,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 421,
+        "date": "2024-08-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SURVIVE",
+                "members": [
+                    "GET BY",
+                    "HACK IT",
+                    "MAKE DO",
+                    "MANAGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF GREETING CARDS",
+                "members": [
+                    "BIRTHDAY",
+                    "CONGRATULATIONS",
+                    "GET WELL",
+                    "THANK YOU"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ARE WE CLEAR?",
+                "members": [
+                    "CAPISCE",
+                    "GET IT",
+                    "SEE",
+                    "UNDERSTAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cEYE\u201d",
+                "members": [
+                    "CANDY",
+                    "CONTACT",
+                    "SHADOW",
+                    "WITNESS"
+                ]
+            }
+        ]
     }
 ]
