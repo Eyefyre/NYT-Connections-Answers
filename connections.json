@@ -19364,5 +19364,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 422,
+        "date": "2024-08-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLUFFY WHITE THINGS",
+                "members": [
+                    "CLOUD",
+                    "COTTON BALL",
+                    "DANDELION",
+                    "SHEEP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONE IN A RESEARCH STUDY",
+                "members": [
+                    "GUINEA PIG",
+                    "PARTICIPANT",
+                    "SUBJECT",
+                    "VOLUNTEER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TAKE ISSUE",
+                "members": [
+                    "DISAPPROVE",
+                    "MIND",
+                    "OBJECT",
+                    "PROTEST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___HORN",
+                "members": [
+                    "BULL",
+                    "FOG",
+                    "MATTER",
+                    "SHOE"
+                ]
+            }
+        ]
     }
 ]
