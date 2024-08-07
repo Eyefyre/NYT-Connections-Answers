@@ -19410,5 +19410,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 423,
+        "date": "2024-08-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CRAM",
+                "members": [
+                    "JAM",
+                    "PACK",
+                    "RAM",
+                    "STUFF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RESTAURANT JOBS",
+                "members": [
+                    "COOK",
+                    "DISHWASHER",
+                    "HOST",
+                    "SERVER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ELECTROMAGNETIC SPECTRUM",
+                "members": [
+                    "MICROWAVE",
+                    "RADIO",
+                    "VISIBLE",
+                    "X-RAY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH BITS",
+                "members": [
+                    "BRIDLE",
+                    "BYTE",
+                    "COMEDIAN",
+                    "DRILL"
+                ]
+            }
+        ]
     }
 ]
