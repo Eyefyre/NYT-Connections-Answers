@@ -19456,5 +19456,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 424,
+        "date": "2024-08-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPLASHY WAYS TO ENTER A POOL",
+                "members": [
+                    "BACKFLIP",
+                    "BELLYFLOP",
+                    "CANNONBALL",
+                    "JACKKNIFE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "REITERATE",
+                "members": [
+                    "ECHO",
+                    "PARROT",
+                    "REPEAT",
+                    "QUOTE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MAINSTAY",
+                "members": [
+                    "ANCHOR",
+                    "BACKBONE",
+                    "CORNERSTONE",
+                    "PILLAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ RADIO",
+                "members": [
+                    "HAM",
+                    "PIRATE",
+                    "SATELLITE",
+                    "TALK"
+                ]
+            }
+        ]
     }
 ]
