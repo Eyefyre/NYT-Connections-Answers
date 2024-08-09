@@ -19502,5 +19502,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 425,
+        "date": "2024-08-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NOT PRESENT",
+                "members": [
+                    "ABSENT",
+                    "ELSEWHERE",
+                    "GONE",
+                    "MIA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUPPORTER",
+                "members": [
+                    "ADVOCATE",
+                    "CHAMPION",
+                    "CHEERLEADER",
+                    "EXPONENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ROCK GENRES",
+                "members": [
+                    "GLAM",
+                    "GOTH",
+                    "METAL",
+                    "PUNK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SHOCK ___",
+                "members": [
+                    "HORROR",
+                    "JOCK",
+                    "VALUE",
+                    "WAVE"
+                ]
+            }
+        ]
     }
 ]
