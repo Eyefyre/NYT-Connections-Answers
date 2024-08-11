@@ -19594,5 +19594,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 427,
+        "date": "2024-08-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LARGE BOAT",
+                "members": [
+                    "BARGE",
+                    "CRAFT",
+                    "SHIP",
+                    "VESSEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ALL-TIME GREAT",
+                "members": [
+                    "BEST",
+                    "CHAMP",
+                    "GOAT",
+                    "LEGEND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "REGARDING",
+                "members": [
+                    "ABOUT",
+                    "CONCERNING",
+                    "ON",
+                    "TOWARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF BODY FEATURES",
+                "members": [
+                    "HARE",
+                    "I",
+                    "MUSSEL",
+                    "NAVAL"
+                ]
+            }
+        ]
     }
 ]
