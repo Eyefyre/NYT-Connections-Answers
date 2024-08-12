@@ -19640,5 +19640,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 428,
+        "date": "2024-08-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "METAL ELEMENTS",
+                "members": [
+                    "GOLD",
+                    "LEAD",
+                    "MERCURY",
+                    "TIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MATTRESS SIZES",
+                "members": [
+                    "FULL",
+                    "KING",
+                    "QUEEN",
+                    "TWIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SLANG FOR TOILET",
+                "members": [
+                    "CAN",
+                    "HEAD",
+                    "JOHN",
+                    "THRONE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KINDS OF KNIVES",
+                "members": [
+                    "BOWIE",
+                    "BUTCHER",
+                    "BUTTER",
+                    "BUTTERFLY"
+                ]
+            }
+        ]
     }
 ]
