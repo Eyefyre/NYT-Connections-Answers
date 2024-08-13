@@ -19686,5 +19686,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 429,
+        "date": "2024-08-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STATED",
+                "members": [
+                    "SAID",
+                    "SPOKE",
+                    "TOLD",
+                    "VOICED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NICKNAME",
+                "members": [
+                    "DESIGNATION",
+                    "HANDLE",
+                    "MONIKER",
+                    "SOBRIQUET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OBVIOUS",
+                "members": [
+                    "CLEAR",
+                    "MARKED",
+                    "PRONOUNCED",
+                    "STRIKING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___HOUSE (THAT AREN\u2019T HOUSES)",
+                "members": [
+                    "PORTER",
+                    "POWER",
+                    "ROUGH",
+                    "WHEEL"
+                ]
+            }
+        ]
     }
 ]
