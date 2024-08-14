@@ -19732,5 +19732,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 430,
+        "date": "2024-08-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BLUNDER",
+                "members": [
+                    "BOO-BOO",
+                    "FLUB",
+                    "GAFFE",
+                    "GOOF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FLOWERS",
+                "members": [
+                    "DAISY",
+                    "JASMINE",
+                    "PETUNIA",
+                    "POPPY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS BEES DO",
+                "members": [
+                    "BUZZ",
+                    "DANCE",
+                    "POLLINATE",
+                    "STING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST NAMES OF YANKEES LEGENDS",
+                "members": [
+                    "BABE",
+                    "LOU",
+                    "MICKEY",
+                    "YOGI"
+                ]
+            }
+        ]
     }
 ]
