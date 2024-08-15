@@ -19778,5 +19778,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 431,
+        "date": "2024-08-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BREADTH",
+                "members": [
+                    "EXTENT",
+                    "RANGE",
+                    "REACH",
+                    "SCOPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OTHER HALF",
+                "members": [
+                    "COMPLEMENT",
+                    "MATCH",
+                    "MATE",
+                    "PARTNER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BEERS, FAMILIARLY",
+                "members": [
+                    "BUD",
+                    "NATTY",
+                    "SIERRA",
+                    "STELLA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cPAY\u201d",
+                "members": [
+                    "CHECK",
+                    "DIRT",
+                    "PAL",
+                    "PHONE"
+                ]
+            }
+        ]
     }
 ]
