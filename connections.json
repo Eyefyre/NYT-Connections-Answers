@@ -19824,5 +19824,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 432,
+        "date": "2024-08-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MEH",
+                "members": [
+                    "AVERAGE",
+                    "FAIR",
+                    "OK",
+                    "SO-SO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "U.S. STATE ABBREVIATIONS",
+                "members": [
+                    "HI",
+                    "MA",
+                    "OR",
+                    "PA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BOOTS",
+                "members": [
+                    "ANKLE",
+                    "COWBOY",
+                    "GO-GO",
+                    "THIGH-HIGH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT GO UP AND DOWN",
+                "members": [
+                    "ELEVATOR",
+                    "SUN",
+                    "TIDE",
+                    "YO-YO"
+                ]
+            }
+        ]
     }
 ]
