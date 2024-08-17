@@ -19870,5 +19870,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 433,
+        "date": "2024-08-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPOKEN COMMUNICATION",
+                "members": [
+                    "DIALECT",
+                    "LANGUAGE",
+                    "SPEECH",
+                    "TONGUE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CANOODLE",
+                "members": [
+                    "FRENCH",
+                    "KISS",
+                    "MAKE OUT",
+                    "NECK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FIRST AID KIT ITEMS",
+                "members": [
+                    "BANDAGE",
+                    "DRESSING",
+                    "SCISSORS",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOUSE STYLES",
+                "members": [
+                    "COTTAGE",
+                    "CRAFTSMAN",
+                    "PRAIRIE",
+                    "RANCH"
+                ]
+            }
+        ]
     }
 ]
