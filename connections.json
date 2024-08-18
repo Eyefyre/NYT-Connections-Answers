@@ -19916,5 +19916,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 434,
+        "date": "2024-08-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ALARM CLOCK BUTTONS",
+                "members": [
+                    "ALARM",
+                    "HOUR",
+                    "SNOOZE",
+                    "TIME SET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\u201cHERE\u2019S A THOUGHT ...\u201d",
+                "members": [
+                    "PERHAPS",
+                    "SAY",
+                    "SUPPOSE",
+                    "WHAT IF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CANDY PIECES",
+                "members": [
+                    "KISS",
+                    "NERD",
+                    "RUNT",
+                    "WHOPPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEVEN DWARFS MINUS LAST LETTER",
+                "members": [
+                    "DO",
+                    "DOPE",
+                    "GRUMP",
+                    "SLEEP"
+                ]
+            }
+        ]
     }
 ]
