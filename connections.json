@@ -19962,5 +19962,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 435,
+        "date": "2024-08-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MUSIC GENRES",
+                "members": [
+                    "BLUES",
+                    "COUNTRY",
+                    "FOLK",
+                    "ROCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BRATWURST GO-WITHS",
+                "members": [
+                    "BRAT",
+                    "BUN",
+                    "MUSTARD",
+                    "SAUERKRAUT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "YOGA POSES",
+                "members": [
+                    "CHAIR",
+                    "MOUNTAIN",
+                    "TREE",
+                    "WARRIOR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH PIXAR MOVIES",
+                "members": [
+                    "COCONUT",
+                    "SOULMATE",
+                    "UPDO",
+                    "WALLET"
+                ]
+            }
+        ]
     }
 ]
