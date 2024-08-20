@@ -20008,5 +20008,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 436,
+        "date": "2024-08-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RUSH OF WIND",
+                "members": [
+                    "BLOW",
+                    "DRAFT",
+                    "GUST",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ROTATE",
+                "members": [
+                    "CRANK",
+                    "REEL",
+                    "TURN",
+                    "WIND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ZODIAC SYMBOLS",
+                "members": [
+                    "BULL",
+                    "CRAB",
+                    "LION",
+                    "RAM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DR. SEUSS TITLE FIGURES",
+                "members": [
+                    "CAT",
+                    "GRINCH",
+                    "POP",
+                    "TURTLE"
+                ]
+            }
+        ]
     }
 ]
