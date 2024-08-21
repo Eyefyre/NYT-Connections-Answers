@@ -20054,5 +20054,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 437,
+        "date": "2024-08-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COVER WITH A THICK LAYER",
+                "members": [
+                    "CAKE",
+                    "COAT",
+                    "PLASTER",
+                    "SMEAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT ARE INFLATED",
+                "members": [
+                    "BALLOON",
+                    "BASKETBALL",
+                    "FLOATIE",
+                    "TIRE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF CHARTS",
+                "members": [
+                    "BAR",
+                    "BUBBLE",
+                    "LINE",
+                    "PIE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CLASSIC COCKTAIL TYPES",
+                "members": [
+                    "FIZZ",
+                    "PUNCH",
+                    "SLING",
+                    "SOUR"
+                ]
+            }
+        ]
     }
 ]
