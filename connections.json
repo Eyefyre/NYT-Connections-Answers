@@ -20100,5 +20100,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 438,
+        "date": "2024-08-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CLASSIC MOVIE THEATER EQUIPMENT",
+                "members": [
+                    "PROJECTOR",
+                    "REEL",
+                    "SCREEN",
+                    "SPEAKER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TIER",
+                "members": [
+                    "DECK",
+                    "FLOOR",
+                    "LEVEL",
+                    "STORY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NEWSPAPER NAMES",
+                "members": [
+                    "GLOBE",
+                    "MIRROR",
+                    "POST",
+                    "SUN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PRANK VERBS",
+                "members": [
+                    "EGG",
+                    "MOON",
+                    "STREAK",
+                    "TOILET PAPER"
+                ]
+            }
+        ]
     }
 ]
