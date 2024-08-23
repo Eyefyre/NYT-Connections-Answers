@@ -20146,5 +20146,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 439,
+        "date": "2024-08-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VISUAL INTERFACE",
+                "members": [
+                    "DISPLAY",
+                    "MONITOR",
+                    "SCREEN",
+                    "TERMINAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BURLESQUE WEAR",
+                "members": [
+                    "BOA",
+                    "CORSET",
+                    "FAN",
+                    "GLOVES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BEIGE SHADES",
+                "members": [
+                    "BUFF",
+                    "CREAM",
+                    "FAWN",
+                    "TAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LANGUAGE HOMOPHONES",
+                "members": [
+                    "BASK",
+                    "CHECK",
+                    "FINISH",
+                    "TIE"
+                ]
+            }
+        ]
     }
 ]
