@@ -20192,5 +20192,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 440,
+        "date": "2024-08-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HEARSAY",
+                "members": [
+                    "RUMBLING",
+                    "SPECULATION",
+                    "TALK",
+                    "WHISPERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MOVE STEALTHILY",
+                "members": [
+                    "CREEP",
+                    "SLIP",
+                    "STEAL",
+                    "TIPTOE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CAR RENTAL COMPANIES",
+                "members": [
+                    "BUDGET",
+                    "ENTERPRISE",
+                    "NATIONAL",
+                    "THRIFTY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH CHEMICAL ELEMENTS",
+                "members": [
+                    "ENVIRON",
+                    "JARGON",
+                    "LATIN",
+                    "PLEAD"
+                ]
+            }
+        ]
     }
 ]
