@@ -20238,5 +20238,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 441,
+        "date": "2024-08-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOPPING MAD",
+                "members": [
+                    "BOILING",
+                    "FUMING",
+                    "LIVID",
+                    "STEAMING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STATUS",
+                "members": [
+                    "POSITION",
+                    "RANKING",
+                    "STANDING",
+                    "STATION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS THAT MAKE UP THE ACRONYM \u201cHVAC\u201d",
+                "members": [
+                    "AIR",
+                    "CONDITIONING",
+                    "HEATING",
+                    "VENTILATION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ACTIVITIES THAT INVOLVE FOLDING",
+                "members": [
+                    "BAKING",
+                    "LAUNDRY",
+                    "ORIGAMI",
+                    "POKER"
+                ]
+            }
+        ]
     }
 ]
