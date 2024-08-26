@@ -20284,5 +20284,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 442,
+        "date": "2024-08-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OFFICIAL SANCTIONING",
+                "members": [
+                    "APPROVAL",
+                    "BLESSING",
+                    "CONSENT",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TORUS-SHAPED THINGS",
+                "members": [
+                    "BAGEL",
+                    "LIFESAVER",
+                    "TIRE",
+                    "WREATH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BAD GOLF SHOTS",
+                "members": [
+                    "HOOK",
+                    "SHANK",
+                    "SLICE",
+                    "WHIFF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FOOTWEAR MINUS \u201cER\u201d SOUND",
+                "members": [
+                    "LOAF",
+                    "SLIP",
+                    "SNEAK",
+                    "WADE"
+                ]
+            }
+        ]
     }
 ]
