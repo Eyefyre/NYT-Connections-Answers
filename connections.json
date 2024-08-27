@@ -20330,5 +20330,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 443,
+        "date": "2024-08-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXPLOSIVE SOUND",
+                "members": [
+                    "BOOM",
+                    "CRASH",
+                    "ROAR",
+                    "THUNDER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CHILI PEPPER QUALITY",
+                "members": [
+                    "FIRE",
+                    "HEAT",
+                    "KICK",
+                    "SPICE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC BARBERSHOP SUPPLIES",
+                "members": [
+                    "BRUSH",
+                    "CAPE",
+                    "CLIPPERS",
+                    "GEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KINDS OF CARDS",
+                "members": [
+                    "BASEBALL",
+                    "MAGIC",
+                    "SET",
+                    "TAROT"
+                ]
+            }
+        ]
     }
 ]
