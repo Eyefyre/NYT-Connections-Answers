@@ -20376,5 +20376,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 444,
+        "date": "2024-08-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLAYGROUND EQUIPMENT",
+                "members": [
+                    "MONKEY BARS",
+                    "SLIDE",
+                    "SWINGS",
+                    "TEETER-TOTTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FOUND AT THE END OF A STRING/CORD",
+                "members": [
+                    "PENDULUM",
+                    "TEA BAG",
+                    "TETHERBALL",
+                    "YO-YO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DESCRIBED AS DRY",
+                "members": [
+                    "DESERT",
+                    "HUMOR",
+                    "MARTINI",
+                    "TEETOTALER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BABY ___",
+                "members": [
+                    "BLUES",
+                    "BOOMER",
+                    "STEPS",
+                    "TEETH"
+                ]
+            }
+        ]
     }
 ]
