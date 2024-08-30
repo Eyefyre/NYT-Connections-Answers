@@ -20468,5 +20468,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 446,
+        "date": "2024-08-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPARKLING THINGS",
+                "members": [
+                    "DIAMOND",
+                    "GLITTER",
+                    "GOLD",
+                    "SEQUIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTICIPATE IN SUMMER OLYMPIC EVENTS",
+                "members": [
+                    "BOX",
+                    "DIVE",
+                    "FENCE",
+                    "ROW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WONDERS OF THE WORLD",
+                "members": [
+                    "GARDENS",
+                    "LIGHTHOUSE",
+                    "PYRAMID",
+                    "TEMPLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ICE ___",
+                "members": [
+                    "CREAM",
+                    "CUBE",
+                    "MACHINE",
+                    "STORM"
+                ]
+            }
+        ]
     }
 ]
