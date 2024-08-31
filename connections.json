@@ -20514,5 +20514,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 447,
+        "date": "2024-08-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NEWSPAPER SECTIONS",
+                "members": [
+                    "ARTS",
+                    "BUSINESS",
+                    "COMICS",
+                    "SPORTS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TREE FEATURES",
+                "members": [
+                    "BARK",
+                    "CROWN",
+                    "RINGS",
+                    "ROOTS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF SALAD",
+                "members": [
+                    "CHEF",
+                    "GARDEN",
+                    "GREEK",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN ON BACKS OF U.S. COINS",
+                "members": [
+                    "EAGLE",
+                    "MONTICELLO",
+                    "SHIELD",
+                    "TORCH"
+                ]
+            }
+        ]
     }
 ]
