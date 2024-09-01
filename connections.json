@@ -20560,5 +20560,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 448,
+        "date": "2024-09-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COOK IN A PAN",
+                "members": [
+                    "BROWN",
+                    "CHAR",
+                    "GRILL",
+                    "SEAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF THE EAR",
+                "members": [
+                    "ANVIL",
+                    "CANAL",
+                    "DRUM",
+                    "HAMMER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SHADES OF BLACK",
+                "members": [
+                    "CHARCOAL",
+                    "JET",
+                    "RAVEN",
+                    "SABLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHERE YOU MIGHT FIND \u201cA DRIVER\u201d",
+                "members": [
+                    "GOLF BAG",
+                    "LIMOUSINE",
+                    "MOVIE SET",
+                    "TOOLBOX"
+                ]
+            }
+        ]
     }
 ]
