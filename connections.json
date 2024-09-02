@@ -20606,5 +20606,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 449,
+        "date": "2024-09-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PECULIAR",
+                "members": [
+                    "CURIOUS",
+                    "FUNNY",
+                    "OFF",
+                    "WEIRD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ASSIGNMENT",
+                "members": [
+                    "JOB",
+                    "POSITION",
+                    "POST",
+                    "STATION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC COLLECTION ITEMS",
+                "members": [
+                    "COIN",
+                    "COMIC",
+                    "RECORD",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CHAIN ___",
+                "members": [
+                    "LETTER",
+                    "MAIL",
+                    "REACTION",
+                    "STORE"
+                ]
+            }
+        ]
     }
 ]
