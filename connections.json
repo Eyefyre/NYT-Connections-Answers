@@ -20652,5 +20652,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 450,
+        "date": "2024-09-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ABSOLVE",
+                "members": [
+                    "EXCUSE",
+                    "PARDON",
+                    "SAVE",
+                    "SPARE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXCESSIVELY",
+                "members": [
+                    "BEYOND",
+                    "EXTRA",
+                    "OVER",
+                    "TOO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GLOBAL CURRENCIES",
+                "members": [
+                    "POUND",
+                    "REAL",
+                    "WON",
+                    "YEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___HEAD",
+                "members": [
+                    "ARROW",
+                    "BLOCK",
+                    "FORE",
+                    "KNUCKLE"
+                ]
+            }
+        ]
     }
 ]
