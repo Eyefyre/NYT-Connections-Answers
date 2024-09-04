@@ -20698,5 +20698,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 451,
+        "date": "2024-09-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VERY SMALL AMOUNT",
+                "members": [
+                    "HINT",
+                    "TOUCH",
+                    "TRACE",
+                    "SHRED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PUPPY PURCHASES",
+                "members": [
+                    "BED",
+                    "BOWL",
+                    "COLLAR",
+                    "CRATE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HELP PUT ON A PARTY",
+                "members": [
+                    "CATER",
+                    "HOST",
+                    "THROW",
+                    "PLAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SYMBOLS ON A KEYBOARD",
+                "members": [
+                    "BRACE",
+                    "CARET",
+                    "HASH",
+                    "STAR"
+                ]
+            }
+        ]
     }
 ]
