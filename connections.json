@@ -20744,5 +20744,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 452,
+        "date": "2024-09-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HAIR SALON OFFERINGS",
+                "members": [
+                    "BLOWOUT",
+                    "COLOR",
+                    "CUT",
+                    "TRIM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CRITICIZE",
+                "members": [
+                    "BASH",
+                    "BLAST",
+                    "PAN",
+                    "SLAM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OBTAIN",
+                "members": [
+                    "BAG",
+                    "LAND",
+                    "SCORE",
+                    "SNAG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MEASURED IN FOOTBALL STATS",
+                "members": [
+                    "ATTEMPT",
+                    "RECEPTION",
+                    "SACK",
+                    "YARD"
+                ]
+            }
+        ]
     }
 ]
