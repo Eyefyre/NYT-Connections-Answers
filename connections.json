@@ -20790,5 +20790,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 453,
+        "date": "2024-09-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "QUANTITY",
+                "members": [
+                    "AMOUNT",
+                    "COUNT",
+                    "NUMBER",
+                    "TOTAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INCIDENT",
+                "members": [
+                    "AFFAIR",
+                    "EPISODE",
+                    "EVENT",
+                    "MATTER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS RECEIVED IN THE MAIL",
+                "members": [
+                    "BILL",
+                    "CARD",
+                    "CATALOG",
+                    "LETTER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cSPRING\u201d MIGHT REFER TO",
+                "members": [
+                    "BOUNCE",
+                    "COIL",
+                    "GEYSER",
+                    "SEASON"
+                ]
+            }
+        ]
     }
 ]
