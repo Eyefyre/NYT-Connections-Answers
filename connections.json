@@ -20836,5 +20836,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 454,
+        "date": "2024-09-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAYS TO TRANSFORM AN IMAGE",
+                "members": [
+                    "CROP",
+                    "FLIP",
+                    "ROTATE",
+                    "SCALE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS USED IN GOLF",
+                "members": [
+                    "BALL",
+                    "DRIVER",
+                    "GLOVE",
+                    "TEE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "AQUARIUM PURCHASES",
+                "members": [
+                    "FILTER",
+                    "PUMP",
+                    "ROCKS",
+                    "TANK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LOGOS WITH HORSES",
+                "members": [
+                    "COACH",
+                    "GODIVA",
+                    "MUSTANG",
+                    "POLO"
+                ]
+            }
+        ]
     }
 ]
