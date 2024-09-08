@@ -20882,5 +20882,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 455,
+        "date": "2024-09-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VERBS IN A CAKE RECIPE",
+                "members": [
+                    "BAKE",
+                    "BEAT",
+                    "FROST",
+                    "PREHEAT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WHAT A HEART DOES WHEN EXCITED",
+                "members": [
+                    "POUND",
+                    "PUMP",
+                    "RACE",
+                    "THROB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ECCLESIASTICAL TITLES",
+                "members": [
+                    "BISHOP",
+                    "PASTOR",
+                    "PRIOR",
+                    "POPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BOYS",
+                "members": [
+                    "BAD",
+                    "BEACH",
+                    "HARDY",
+                    "PET SHOP"
+                ]
+            }
+        ]
     }
 ]
