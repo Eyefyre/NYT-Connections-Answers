@@ -20928,5 +20928,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 456,
+        "date": "2024-09-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GET RED IN THE FACE",
+                "members": [
+                    "BLUSH",
+                    "BURN",
+                    "FLUSH",
+                    "GLOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CONTINUOUS",
+                "members": [
+                    "CONSECUTIVE",
+                    "NONSTOP",
+                    "SOLID",
+                    "STRAIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FLAVOR ASSORTMENT",
+                "members": [
+                    "FLIGHT",
+                    "PLATTER",
+                    "SAMPLER",
+                    "TASTING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SITCOMS",
+                "members": [
+                    "BLOSSOM",
+                    "COACH",
+                    "COMMUNITY",
+                    "FULL HOUSE"
+                ]
+            }
+        ]
     }
 ]
