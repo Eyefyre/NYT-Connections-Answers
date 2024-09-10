@@ -20974,5 +20974,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 457,
+        "date": "2024-09-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VARIETIES",
+                "members": [
+                    "KINDS",
+                    "SORTS",
+                    "STRIPES",
+                    "TYPES"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TRANSFER",
+                "members": [
+                    "DELIVER",
+                    "HAND",
+                    "GIVE",
+                    "PASS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RATINGS SYSTEMS",
+                "members": [
+                    "A-F",
+                    "PERCENTAGE",
+                    "STARS",
+                    "THUMBS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH KINGS",
+                "members": [
+                    "CHECKERS",
+                    "DECK OF CARDS",
+                    "MONARCHY",
+                    "NHL"
+                ]
+            }
+        ]
     }
 ]
