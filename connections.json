@@ -21112,5 +21112,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 460,
+        "date": "2024-09-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VITALITY",
+                "members": [
+                    "ENERGY",
+                    "JUICE",
+                    "LIFE",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PALINDROMES FEATURING \u201cE\u201d",
+                "members": [
+                    "LEVEL",
+                    "PEP",
+                    "REFER",
+                    "TENET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FEATURED IN \u201cJACK AND THE BEANSTALK\u201d",
+                "members": [
+                    "BEANS",
+                    "COW",
+                    "GIANT",
+                    "JACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CAR MODELS",
+                "members": [
+                    "BEETLE",
+                    "CIVIC",
+                    "FOCUS",
+                    "VOLT"
+                ]
+            }
+        ]
     }
 ]
