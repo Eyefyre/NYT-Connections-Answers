@@ -21204,5 +21204,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 462,
+        "date": "2024-09-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RESIDE",
+                "members": [
+                    "DWELL",
+                    "INHABIT",
+                    "LIVE",
+                    "STAY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DECREASE",
+                "members": [
+                    "DECLINE",
+                    "DROP",
+                    "DWINDLE",
+                    "EBB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DOOFUS",
+                "members": [
+                    "CLOWN",
+                    "DWEEB",
+                    "SAP",
+                    "TURKEY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MEMBER OF A SEPTET",
+                "members": [
+                    "DWARF",
+                    "SEA",
+                    "SIN",
+                    "WONDER"
+                ]
+            }
+        ]
     }
 ]
