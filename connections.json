@@ -21250,5 +21250,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 463,
+        "date": "2024-09-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOREMOST",
+                "members": [
+                    "CHIEF",
+                    "PREMIER",
+                    "PRINCIPAL",
+                    "SUPREME"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPIKY THINGS",
+                "members": [
+                    "CACTUS",
+                    "HEDGEHOG",
+                    "MACE",
+                    "PINEAPPLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OVERLY SENTIMENTAL WORK",
+                "members": [
+                    "CHEESE",
+                    "CORN",
+                    "MUSH",
+                    "PAP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT ARE CAPPED",
+                "members": [
+                    "BOTTLE",
+                    "GRADUATE",
+                    "MUSHROOM",
+                    "SALARY"
+                ]
+            }
+        ]
     }
 ]
