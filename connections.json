@@ -21296,5 +21296,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 464,
+        "date": "2024-09-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GET EXCITED, WITH \"UP\"",
+                "members": [
+                    "AMP",
+                    "FIRE",
+                    "HYPE",
+                    "PSYCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF SHOES",
+                "members": [
+                    "FLAT",
+                    "MULE",
+                    "PUMP",
+                    "SLIDE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEGISLATIVE ROLES",
+                "members": [
+                    "CHAIR",
+                    "LEADER",
+                    "SPEAKER",
+                    "WHIP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAME HOMOPHONES",
+                "members": [
+                    "DUG",
+                    "MATTE",
+                    "MIC",
+                    "PEAT"
+                ]
+            }
+        ]
     }
 ]
