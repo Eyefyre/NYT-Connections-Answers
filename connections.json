@@ -21342,5 +21342,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 465,
+        "date": "2024-09-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GATHERING SPOT OUTSIDE A RESIDENCE",
+                "members": [
+                    "DECK",
+                    "PORCH",
+                    "STOOP",
+                    "YARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LOWDOWN",
+                "members": [
+                    "DISH",
+                    "DOPE",
+                    "INFO",
+                    "SCOOP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF REELS",
+                "members": [
+                    "BLOOPER",
+                    "DEMO",
+                    "HIGHLIGHT",
+                    "SIZZLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CARTOON DOGS MINUS \u201cY\u201d",
+                "members": [
+                    "DROOP",
+                    "GOOF",
+                    "LAD",
+                    "SNOOP"
+                ]
+            }
+        ]
     }
 ]
