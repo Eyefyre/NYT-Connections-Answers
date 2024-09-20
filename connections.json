@@ -21434,5 +21434,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 467,
+        "date": "2024-09-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PRESUME",
+                "members": [
+                    "FIGURE",
+                    "IMAGINE",
+                    "SUSPECT",
+                    "THINK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SOMEBODY",
+                "members": [
+                    "CHARACTER",
+                    "INDIVIDUAL",
+                    "PARTY",
+                    "PERSON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHARACTERS IN \u201cTHE EMPIRE STRIKES BACK,\" FAMILIARLY",
+                "members": [
+                    "BOBA",
+                    "CHEWY",
+                    "EMPEROR",
+                    "SOLO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cKITTY\u201d",
+                "members": [
+                    "CAT",
+                    "CORNER",
+                    "HAWK",
+                    "LITTER"
+                ]
+            }
+        ]
     }
 ]
