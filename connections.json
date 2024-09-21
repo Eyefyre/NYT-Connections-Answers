@@ -21480,5 +21480,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 468,
+        "date": "2024-09-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CLAIRVOYANT",
+                "members": [
+                    "MEDIUM",
+                    "MYSTIC",
+                    "ORACLE",
+                    "PSYCHIC"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPECIAL EDITION ADJECTIVES",
+                "members": [
+                    "COLLECTIBLE",
+                    "EXCLUSIVE",
+                    "LIMITED",
+                    "RARE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cGREAT JOB!\u201d",
+                "members": [
+                    "IMPRESSIVE",
+                    "NICE",
+                    "PROPS",
+                    "WELL DONE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EXTREMELY",
+                "members": [
+                    "AWFUL",
+                    "BLOODY",
+                    "REAL",
+                    "WAY"
+                ]
+            }
+        ]
     }
 ]
