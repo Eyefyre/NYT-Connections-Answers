@@ -21526,5 +21526,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 469,
+        "date": "2024-09-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COLOR TYPES",
+                "members": [
+                    "GRAYSCALE",
+                    "NEON",
+                    "NEUTRAL",
+                    "PASTEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FILE MENU OPTIONS",
+                "members": [
+                    "NEW",
+                    "OPEN",
+                    "PRINT",
+                    "SAVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHANCE TO WIN A PRIZE",
+                "members": [
+                    "DRAWING",
+                    "LOTTERY",
+                    "POOL",
+                    "RAFFLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cBRONZE\u201d MIGHT MEAN",
+                "members": [
+                    "ALLOY",
+                    "SCULPTURE",
+                    "SUNTAN",
+                    "THIRD"
+                ]
+            }
+        ]
     }
 ]
