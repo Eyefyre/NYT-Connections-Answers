@@ -21572,5 +21572,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 470,
+        "date": "2024-09-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NOT SMOOTH, AS TERRAIN",
+                "members": [
+                    "BUMPY",
+                    "ROUGH",
+                    "RUGGED",
+                    "UNEVEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIT OF LAND FOR GROWING",
+                "members": [
+                    "BED",
+                    "PARCEL",
+                    "PATCH",
+                    "PLOT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MEMBER OF A CARTOON DUO",
+                "members": [
+                    "CHIP",
+                    "ROCKY",
+                    "SCRATCHY",
+                    "STITCH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ PARK",
+                "members": [
+                    "AMUSEMENT",
+                    "NATIONAL",
+                    "PARALLEL",
+                    "SOUTH"
+                ]
+            }
+        ]
     }
 ]
