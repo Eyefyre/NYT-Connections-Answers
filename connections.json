@@ -21618,5 +21618,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 471,
+        "date": "2024-09-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INSPIRED",
+                "members": [
+                    "CREATIVE",
+                    "FRESH",
+                    "NOVEL",
+                    "ORIGINAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PROCURE IN ADVANCE",
+                "members": [
+                    "BOOK",
+                    "CHARTER",
+                    "RESERVE",
+                    "SECURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BIT OF PARTY DECORATION",
+                "members": [
+                    "BALLOON",
+                    "BANNER",
+                    "CONFETTI",
+                    "GARLAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ONLINE PERSONALITY",
+                "members": [
+                    "AMBASSADOR",
+                    "INFLUENCER",
+                    "MODEL",
+                    "STREAMER"
+                ]
+            }
+        ]
     }
 ]
