@@ -21664,5 +21664,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 472,
+        "date": "2024-09-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TRIO OF SPORTS ACHIEVEMENTS",
+                "members": [
+                    "HAT TRICK",
+                    "THREEPEAT",
+                    "TRIFECTA",
+                    "TRIPLE CROWN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NEEDS FOR PAINTING A ROOM",
+                "members": [
+                    "DROP CLOTH",
+                    "PAINT",
+                    "ROLLER",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FOOD NAMED AFTER CITIES",
+                "members": [
+                    "BROIL",
+                    "CHEESESTEAK",
+                    "SPROUTS",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DERBY",
+                "members": [
+                    "DEMOLITION",
+                    "HOME RUN",
+                    "KENTUCKY",
+                    "SOAP BOX"
+                ]
+            }
+        ]
     }
 ]
