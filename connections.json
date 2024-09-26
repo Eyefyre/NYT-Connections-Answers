@@ -21710,5 +21710,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 473,
+        "date": "2024-09-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DECORATIVE EDGE",
+                "members": [
+                    "BORDER",
+                    "FRILL",
+                    "FRINGE",
+                    "TRIM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INCREASE, IN A WAY",
+                "members": [
+                    "GROW",
+                    "MOUNT",
+                    "SWELL",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPECIFICATIONS FOR A BARTENDER",
+                "members": [
+                    "DRY",
+                    "NEAT",
+                    "STRAIGHT",
+                    "VIRGIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STRING ___",
+                "members": [
+                    "BEAN",
+                    "BIKINI",
+                    "CHEESE",
+                    "THEORY"
+                ]
+            }
+        ]
     }
 ]
