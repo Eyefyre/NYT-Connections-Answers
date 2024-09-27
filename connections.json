@@ -21756,5 +21756,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 474,
+        "date": "2024-09-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AREA OF HIGH GROUND",
+                "members": [
+                    "BANK",
+                    "DUNE",
+                    "HILL",
+                    "MOUND"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SIGNIFICANCE",
+                "members": [
+                    "GRAVITY",
+                    "IMPORT",
+                    "SUBSTANCE",
+                    "WEIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ACTIONS IN FANTASY SPORTS",
+                "members": [
+                    "BENCH",
+                    "DRAFT",
+                    "START",
+                    "TRADE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SCI-FI MOVIES, WITH \u201cTHE\u201d",
+                "members": [
+                    "ABYSS",
+                    "FLY",
+                    "MATRIX",
+                    "THING"
+                ]
+            }
+        ]
     }
 ]
