@@ -21802,5 +21802,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 475,
+        "date": "2024-09-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPOSITE",
+                "members": [
+                    "BLEND",
+                    "COMPOUND",
+                    "CROSS",
+                    "HYBRID"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EMBED",
+                "members": [
+                    "LODGE",
+                    "PLANT",
+                    "STICK",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ITEMS IN A MONOPOLY BOX",
+                "members": [
+                    "DEED",
+                    "HOTEL",
+                    "HOUSE",
+                    "TOKEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CONTROL",
+                "members": [
+                    "BIRTH",
+                    "CRUISE",
+                    "QUALITY",
+                    "REMOTE"
+                ]
+            }
+        ]
     }
 ]
