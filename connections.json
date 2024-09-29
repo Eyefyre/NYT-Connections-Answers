@@ -21848,5 +21848,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 476,
+        "date": "2024-09-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MAKE GOOD ON, AS A PROMISE",
+                "members": [
+                    "FULFILL",
+                    "HONOR",
+                    "KEEP",
+                    "UPHOLD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BEDDING",
+                "members": [
+                    "BLANKET",
+                    "SHAM",
+                    "SHEET",
+                    "THROW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ACTIONS IN CARD GAMES",
+                "members": [
+                    "DISCARD",
+                    "DRAW",
+                    "PASS",
+                    "PLAY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CABINET DEPARTMENTS",
+                "members": [
+                    "ENERGY",
+                    "JUSTICE",
+                    "LABOR",
+                    "STATE"
+                ]
+            }
+        ]
     }
 ]
