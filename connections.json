@@ -21894,5 +21894,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 477,
+        "date": "2024-09-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COOK WITH HEAT AND WATER",
+                "members": [
+                    "BLANCH",
+                    "BOIL",
+                    "POACH",
+                    "STEAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMMON PERFUME INGREDIENTS",
+                "members": [
+                    "AMBERGRIS",
+                    "MUSK",
+                    "ROSE",
+                    "VANILLA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHARACTERS WITH PET DOGS",
+                "members": [
+                    "CHARLIE",
+                    "DOROTHY",
+                    "SHAGGY",
+                    "WALLACE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CAPITAL CITY HOMOPHONES",
+                "members": [
+                    "KETO",
+                    "ROAM",
+                    "SOPHIA",
+                    "SOUL"
+                ]
+            }
+        ]
     }
 ]
