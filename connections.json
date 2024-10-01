@@ -21940,5 +21940,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 478,
+        "date": "2024-10-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLUSTERED STATE",
+                "members": [
+                    "LATHER",
+                    "STEW",
+                    "SWEAT",
+                    "TIZZY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FITNESS",
+                "members": [
+                    "CONDITION",
+                    "FORM",
+                    "HEALTH",
+                    "SHAPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FAST-MOVING WATER",
+                "members": [
+                    "CASCADE",
+                    "CURRENT",
+                    "RAPID",
+                    "WAVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DISHWASHER CYCLES",
+                "members": [
+                    "NORMAL",
+                    "QUICK",
+                    "RINSE",
+                    "SANITIZE"
+                ]
+            }
+        ]
     }
 ]
