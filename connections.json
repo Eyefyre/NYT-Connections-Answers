@@ -21986,5 +21986,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 479,
+        "date": "2024-10-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUT ON THE LINE",
+                "members": [
+                    "BET",
+                    "CHANCE",
+                    "GAMBLE",
+                    "RISK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USE A KITCHEN KNIFE",
+                "members": [
+                    "CUBE",
+                    "DICE",
+                    "JULIENNE",
+                    "SLICE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ROBERT DE NIRO FILMS",
+                "members": [
+                    "CASINO",
+                    "HEAT",
+                    "JOKER",
+                    "TAXI DRIVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+                "members": [
+                    "OCTOPUS",
+                    "SHIVA",
+                    "SLOT MACHINE",
+                    "VENUS DE MILO"
+                ]
+            }
+        ]
     }
 ]
