@@ -22032,5 +22032,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 480,
+        "date": "2024-10-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BEVERAGES",
+                "members": [
+                    "JUICE",
+                    "MILK",
+                    "PUNCH",
+                    "SODA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CARE FOR A PLANT",
+                "members": [
+                    "FERTILIZE",
+                    "POT",
+                    "PRUNE",
+                    "WATER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ITEM SOLD IN PAIRS",
+                "members": [
+                    "BOOKEND",
+                    "EARBUD",
+                    "SKI",
+                    "SOCK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BUGS PLUS STARTING LETTER",
+                "members": [
+                    "BLOUSE",
+                    "PANT",
+                    "SMITE",
+                    "STICK"
+                ]
+            }
+        ]
     }
 ]
