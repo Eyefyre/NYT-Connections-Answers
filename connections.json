@@ -22078,5 +22078,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 481,
+        "date": "2024-10-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONCAVITY",
+                "members": [
+                    "DENT",
+                    "DIMPLE",
+                    "DING",
+                    "DIVOT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMALL AMOUNT",
+                "members": [
+                    "DAB",
+                    "DASH",
+                    "DOLLOP",
+                    "DROP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DISNEY CHARACTERS",
+                "members": [
+                    "DAISY",
+                    "DALE",
+                    "DOC",
+                    "DORY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DATE",
+                "members": [
+                    "DELIVERY",
+                    "DINNER",
+                    "DREAM",
+                    "DUE"
+                ]
+            }
+        ]
     }
 ]
