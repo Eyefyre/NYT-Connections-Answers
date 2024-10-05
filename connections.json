@@ -22124,5 +22124,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 482,
+        "date": "2024-10-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STEAK CUTS",
+                "members": [
+                    "FILET",
+                    "HANGER",
+                    "SKIRT",
+                    "T-BONE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF UNDERWEAR",
+                "members": [
+                    "BIKINI",
+                    "G-STRING",
+                    "HIPSTER",
+                    "THONG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INVOLVED IN A DENTIST VISIT",
+                "members": [
+                    "DRILL",
+                    "SINK",
+                    "TOOTHBRUSH",
+                    "X-RAY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BRANDS THAT HAVE BECOME GENERIC TERMS",
+                "members": [
+                    "CHAPSTICK",
+                    "JACUZZI",
+                    "Q-TIP",
+                    "XEROX"
+                ]
+            }
+        ]
     }
 ]
