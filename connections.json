@@ -22170,5 +22170,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 483,
+        "date": "2024-10-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TURN TAIL",
+                "members": [
+                    "FLEE",
+                    "LEAVE",
+                    "RETREAT",
+                    "WITHDRAW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS CATS DO",
+                "members": [
+                    "KNEAD",
+                    "PURR",
+                    "SCRATCH",
+                    "SHED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PAGES ON A WEBSITE",
+                "members": [
+                    "ABOUT",
+                    "CONTACT",
+                    "HOME",
+                    "LOGIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CHEESE",
+                "members": [
+                    "COTTAGE",
+                    "CREAM",
+                    "GOAT",
+                    "STRING"
+                ]
+            }
+        ]
     }
 ]
