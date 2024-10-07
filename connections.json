@@ -22216,5 +22216,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 484,
+        "date": "2024-10-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KNUCKLEHEAD",
+                "members": [
+                    "DING-DONG",
+                    "DODO",
+                    "YAHOO",
+                    "YO-YO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAR ONOMATOPOEIA",
+                "members": [
+                    "BEEP BEEP",
+                    "PURR",
+                    "SKRRT",
+                    "VROOM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SOUNDS OF LAUGHTER",
+                "members": [
+                    "HAR-HAR",
+                    "HOOT",
+                    "WHOOP",
+                    "YUK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FAMOUS PRIMATES",
+                "members": [
+                    "BUBBLES",
+                    "GEORGE",
+                    "KING KONG",
+                    "KOKO"
+                ]
+            }
+        ]
     }
 ]
