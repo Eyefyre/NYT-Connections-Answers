@@ -22262,5 +22262,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 485,
+        "date": "2024-10-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HALLOWEEN SYMBOLS",
+                "members": [
+                    "BAT",
+                    "PUMPKIN",
+                    "SPIDER",
+                    "WITCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PROHIBIT",
+                "members": [
+                    "BAN",
+                    "BLOCK",
+                    "DENY",
+                    "FORBID"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FOUND ON SHEET MUSIC",
+                "members": [
+                    "ACCIDENTAL",
+                    "NOTE",
+                    "REST",
+                    "STAFF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CANDY ___",
+                "members": [
+                    "APPLE",
+                    "BAR",
+                    "CANE",
+                    "CORN"
+                ]
+            }
+        ]
     }
 ]
