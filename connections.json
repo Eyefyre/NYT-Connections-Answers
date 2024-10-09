@@ -22308,5 +22308,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 486,
+        "date": "2024-10-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EFFERVESCENCE",
+                "members": [
+                    "BUBBLES",
+                    "FIZZ",
+                    "FOAM",
+                    "FROTH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BURGEON",
+                "members": [
+                    "BLOSSOM",
+                    "DEVELOP",
+                    "MATURE",
+                    "PROGRESS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MUSIC PUBLICATIONS",
+                "members": [
+                    "BILLBOARD",
+                    "MOJO",
+                    "PITCHFORK",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH TABLEWARE",
+                "members": [
+                    "BOILERPLATE",
+                    "BUTTERCUP",
+                    "JACKKNIFE",
+                    "WITHERSPOON"
+                ]
+            }
+        ]
     }
 ]
