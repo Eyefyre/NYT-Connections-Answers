@@ -22354,5 +22354,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 487,
+        "date": "2024-10-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BODY PARTS",
+                "members": [
+                    "ARM",
+                    "EYE",
+                    "HIP",
+                    "LEG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COOL, IN \u201980S SLANG",
+                "members": [
+                    "BAD",
+                    "FLY",
+                    "ILL",
+                    "RAD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIES",
+                "members": [
+                    "BIG",
+                    "ELF",
+                    "HER",
+                    "SAW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS IN \u201cDO-RE-MI\u201d",
+                "members": [
+                    "DOE",
+                    "FAR",
+                    "SEW",
+                    "TEA"
+                ]
+            }
+        ]
     }
 ]
