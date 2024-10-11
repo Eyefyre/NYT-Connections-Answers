@@ -22400,5 +22400,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 488,
+        "date": "2024-10-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHERISH",
+                "members": [
+                    "RELISH",
+                    "SAVOR",
+                    "TREASURE",
+                    "VALUE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "QUICK JUMP IN THE POOL",
+                "members": [
+                    "DIP",
+                    "DIVE",
+                    "SPLASH",
+                    "SWIM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ADDITIONAL BENEFIT",
+                "members": [
+                    "BONUS",
+                    "EXTRA",
+                    "FROSTING",
+                    "GRAVY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BRASHNESS",
+                "members": [
+                    "BRASS",
+                    "CHEEK",
+                    "NERVE",
+                    "SAUCE"
+                ]
+            }
+        ]
     }
 ]
