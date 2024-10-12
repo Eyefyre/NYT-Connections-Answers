@@ -22446,5 +22446,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 489,
+        "date": "2024-10-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DRAPED ACCESSORIES",
+                "members": [
+                    "SCARF",
+                    "SHAWL",
+                    "STOLE",
+                    "WRAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TOLERATE",
+                "members": [
+                    "BEAR",
+                    "STAND",
+                    "SWALLOW",
+                    "TAKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BIRD ONOMATOPOEIA",
+                "members": [
+                    "COO",
+                    "GOBBLE",
+                    "HONK",
+                    "HOOT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF CELL PHONE MAKERS",
+                "members": [
+                    "APP",
+                    "GOO",
+                    "MOTOR",
+                    "SAM"
+                ]
+            }
+        ]
     }
 ]
