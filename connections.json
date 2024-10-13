@@ -22492,5 +22492,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 490,
+        "date": "2024-10-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MADE OF KERATIN",
+                "members": [
+                    "CLAW",
+                    "HOOF",
+                    "HORN",
+                    "NAIL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ROAD RUNNER CARTOON STAPLES",
+                "members": [
+                    "ANVIL",
+                    "BOULDER",
+                    "COYOTE",
+                    "TNT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF PANTS",
+                "members": [
+                    "CAPRI",
+                    "CARGO",
+                    "HAMMER",
+                    "STIRRUP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ ROLL",
+                "members": [
+                    "CALIFORNIA",
+                    "DRUM",
+                    "EGG",
+                    "HONOR"
+                ]
+            }
+        ]
     }
 ]
