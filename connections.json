@@ -22538,5 +22538,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 491,
+        "date": "2024-10-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RUMMAGE",
+                "members": [
+                    "COMB",
+                    "DIG",
+                    "ROOT",
+                    "SIFT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SOUNDS OF THUNDER",
+                "members": [
+                    "CLAP",
+                    "PEAL",
+                    "ROLL",
+                    "RUMBLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WAYS TO WEAR YOUR HAIR UP",
+                "members": [
+                    "BUN",
+                    "BRAID",
+                    "PONY",
+                    "TWIST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT CAN HAVE LEAVES",
+                "members": [
+                    "BOOK",
+                    "SALAD",
+                    "TABLE",
+                    "TREE"
+                ]
+            }
+        ]
     }
 ]
