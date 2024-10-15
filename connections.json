@@ -22584,5 +22584,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 492,
+        "date": "2024-10-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOOTBALL POSITIONS",
+                "members": [
+                    "CENTER",
+                    "GUARD",
+                    "QUARTERBACK",
+                    "SAFETY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CABLE CHANNELS",
+                "members": [
+                    "DISCOVERY",
+                    "HISTORY",
+                    "NICKELODEON",
+                    "OXYGEN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FICTIONAL CLOWNS",
+                "members": [
+                    "HOMEY",
+                    "JOKER",
+                    "PENNYWISE",
+                    "RONALD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cD\u201d MIGHT STAND FOR",
+                "members": [
+                    "DEFENSE",
+                    "DEMOCRAT",
+                    "DIMENSIONAL",
+                    "DRIVE"
+                ]
+            }
+        ]
     }
 ]
