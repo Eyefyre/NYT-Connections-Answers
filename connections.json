@@ -22630,5 +22630,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 493,
+        "date": "2024-10-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AT SOME FUTURE POINT",
+                "members": [
+                    "EVENTUALLY",
+                    "LATER",
+                    "NEXT",
+                    "SOON"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF A TOURNAMENT SETUP",
+                "members": [
+                    "BRACKET",
+                    "BYE",
+                    "ROUND",
+                    "SEED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BIT OF BREAKFAST CEREAL",
+                "members": [
+                    "CHEERIO",
+                    "FLAKE",
+                    "PEBBLE",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT",
+                "members": [
+                    "PEACE",
+                    "SCISSORS",
+                    "TWO",
+                    "VICTORY"
+                ]
+            }
+        ]
     }
 ]
