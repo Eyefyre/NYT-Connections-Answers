@@ -22676,5 +22676,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 494,
+        "date": "2024-10-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GRASSY AREA",
+                "members": [
+                    "GREEN",
+                    "LAWN",
+                    "PARK",
+                    "YARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DEAL WITH",
+                "members": [
+                    "ADDRESS",
+                    "ANSWER",
+                    "FIELD",
+                    "HANDLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIES WITH \u201cS\u201d REMOVED",
+                "members": [
+                    "CAR",
+                    "GOODFELLA",
+                    "JAW",
+                    "SWINGER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ LAW",
+                "members": [
+                    "CRIMINAL",
+                    "HARVARD",
+                    "LEMON",
+                    "NATURAL"
+                ]
+            }
+        ]
     }
 ]
