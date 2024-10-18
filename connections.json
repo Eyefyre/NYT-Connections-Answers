@@ -22722,5 +22722,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 495,
+        "date": "2024-10-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CLUNKER",
+                "members": [
+                    "BUST",
+                    "DUD",
+                    "FLOP",
+                    "MISS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OPPORTUNITY",
+                "members": [
+                    "CHANCE",
+                    "SHOT",
+                    "TIME",
+                    "TURN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NON-CASH WAY TO PAY",
+                "members": [
+                    "CARD",
+                    "CHARGE",
+                    "CREDIT",
+                    "PLASTIC"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "AMAZON ___",
+                "members": [
+                    "KINDLE",
+                    "PRIME",
+                    "RAINFOREST",
+                    "RIVER"
+                ]
+            }
+        ]
     }
 ]
