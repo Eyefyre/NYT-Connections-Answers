@@ -22768,5 +22768,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 496,
+        "date": "2024-10-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BRING ABOUT",
+                "members": [
+                    "GENERATE",
+                    "INSPIRE",
+                    "PROMPT",
+                    "PROVOKE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT ARE OFTEN SCENTED",
+                "members": [
+                    "CANDLE",
+                    "INCENSE",
+                    "LOTION",
+                    "SOAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT MIGHT STING",
+                "members": [
+                    "INSULT",
+                    "JELLYFISH",
+                    "NETTLE",
+                    "WASP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "VIDEO GAME FRANCHISES",
+                "members": [
+                    "CIVILIZATION",
+                    "HALO",
+                    "MADDEN",
+                    "METROID"
+                ]
+            }
+        ]
     }
 ]
