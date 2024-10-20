@@ -22814,5 +22814,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 497,
+        "date": "2024-10-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BIT OF NEWSPAPER WRITING",
+                "members": [
+                    "ARTICLE",
+                    "COLUMN",
+                    "FEATURE",
+                    "STORY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NOISY DISTURBANCE",
+                "members": [
+                    "CLATTER",
+                    "RACKET",
+                    "ROW",
+                    "RUCKUS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TABLE TENNIS NEEDS",
+                "members": [
+                    "BALL",
+                    "NET",
+                    "PADDLE",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
+                "members": [
+                    "BUTT",
+                    "FORE",
+                    "OAR",
+                    "SEW"
+                ]
+            }
+        ]
     }
 ]
