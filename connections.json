@@ -22860,5 +22860,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 498,
+        "date": "2024-10-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF BEANS",
+                "members": [
+                    "KIDNEY",
+                    "MUNG",
+                    "NAVY",
+                    "PINTO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ATTRACT",
+                "members": [
+                    "DRAW",
+                    "GRAB",
+                    "HOOK",
+                    "PULL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "AUTOMATIC GEAR SHIFTER POSITIONS",
+                "members": [
+                    "DRIVE",
+                    "LOW",
+                    "NEUTRAL",
+                    "REVERSE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___POOL",
+                "members": [
+                    "CAR",
+                    "DEAD",
+                    "LIVER",
+                    "WHIRL"
+                ]
+            }
+        ]
     }
 ]
