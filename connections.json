@@ -22906,5 +22906,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 499,
+        "date": "2024-10-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BRAND-NAME",
+                "members": [
+                    "DESIGNER",
+                    "HAUTE",
+                    "HIGH-END",
+                    "LUXURY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DEVISE",
+                "members": [
+                    "CONCOCT",
+                    "ENGINEER",
+                    "HATCH",
+                    "MASTERMIND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NASA SPACECRAFT",
+                "members": [
+                    "GALILEO",
+                    "PIONEER",
+                    "VIKING",
+                    "VOYAGER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GAMES WHERE YOU SAY THE GAME\u2019S NAME",
+                "members": [
+                    "BINGO",
+                    "MARCO POLO",
+                    "TAG",
+                    "UNO"
+                ]
+            }
+        ]
     }
 ]
