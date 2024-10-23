@@ -22952,5 +22952,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 500,
+        "date": "2024-10-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "YELLOW ___",
+                "members": [
+                    "CAB",
+                    "JACKET",
+                    "JOURNALISM",
+                    "PAGES"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GREEN ___",
+                "members": [
+                    "BERET",
+                    "GOBLIN",
+                    "SALAD",
+                    "THUMB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BLUE ___",
+                "members": [
+                    "JAY",
+                    "JEANS",
+                    "MOON",
+                    "WHALE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PURPLE ___",
+                "members": [
+                    "HAZE",
+                    "HEART",
+                    "PROSE",
+                    "RAIN"
+                ]
+            }
+        ]
     }
 ]
