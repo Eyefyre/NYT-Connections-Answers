@@ -22998,5 +22998,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 501,
+        "date": "2024-10-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LINEUP",
+                "members": [
+                    "BILL",
+                    "PROGRAM",
+                    "SCHEDULE",
+                    "SLATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NYT OFFERINGS",
+                "members": [
+                    "AUDIO",
+                    "COOKING",
+                    "GAMES",
+                    "NEWS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS MADE BY FOLDING PAPER",
+                "members": [
+                    "AIRPLANE",
+                    "CRANE",
+                    "FAN",
+                    "FORTUNE TELLER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FRENCH WORDS",
+                "members": [
+                    "ADIEU",
+                    "BELLE",
+                    "PAIN",
+                    "TEMPS"
+                ]
+            }
+        ]
     }
 ]
