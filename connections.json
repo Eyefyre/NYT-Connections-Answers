@@ -23044,5 +23044,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 502,
+        "date": "2024-10-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u2022",
+                "members": [
+                    "DOT",
+                    "PERIOD",
+                    "POINT",
+                    "TITTLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EVENT WITH DANCING",
+                "members": [
+                    "BALL",
+                    "FORMAL",
+                    "HOP",
+                    "RAVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "IPHONE MESSAGE TAPBACK RESPONSES",
+                "members": [
+                    "EXCLAMATION POINTS",
+                    "HEART",
+                    "QUESTION MARK",
+                    "THUMBS UP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cPAN\u201d",
+                "members": [
+                    "BAD REVIEW",
+                    "CAMERA MOVEMENT",
+                    "COOKWARE",
+                    "SATYR"
+                ]
+            }
+        ]
     }
 ]
