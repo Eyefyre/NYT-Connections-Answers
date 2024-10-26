@@ -23090,5 +23090,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 503,
+        "date": "2024-10-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLUSTER",
+                "members": [
+                    "FAZE",
+                    "RATTLE",
+                    "RUFFLE",
+                    "THROW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SERIES OF MESSAGES",
+                "members": [
+                    "CHAIN",
+                    "CHAT",
+                    "CONVERSATION",
+                    "THREAD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PLACES TO LIE/SIT THAT MOVE",
+                "members": [
+                    "CRADLE",
+                    "HAMMOCK",
+                    "ROCKER",
+                    "SWING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CYLINDER-SHAPED THINGS",
+                "members": [
+                    "CAN",
+                    "ROLLER",
+                    "SILO",
+                    "SPOOL"
+                ]
+            }
+        ]
     }
 ]
