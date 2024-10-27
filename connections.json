@@ -23136,5 +23136,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 504,
+        "date": "2024-10-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SASSY",
+                "members": [
+                    "CUTE",
+                    "FRESH",
+                    "SMART",
+                    "WISE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AMBIENCE",
+                "members": [
+                    "AIR",
+                    "MOOD",
+                    "FEELING",
+                    "QUALITY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNITS",
+                "members": [
+                    "BAR",
+                    "BEL",
+                    "LUX",
+                    "MOLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THE LITTLE ___",
+                "members": [
+                    "MERMAID",
+                    "PRINCE",
+                    "RASCALS",
+                    "TRAMP"
+                ]
+            }
+        ]
     }
 ]
