@@ -23182,5 +23182,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 505,
+        "date": "2024-10-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AUDIO APPS",
+                "members": [
+                    "AUDIBLE",
+                    "PANDORA",
+                    "SHAZAM",
+                    "TIDAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INDICATE",
+                "members": [
+                    "MEAN",
+                    "SIGNIFY",
+                    "SPELL",
+                    "SUGGEST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+                "members": [
+                    "CHERISH",
+                    "HAVE",
+                    "HOLD",
+                    "LOVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MAGIC WORDS",
+                "members": [
+                    "ABRACADABRA",
+                    "PLEASE",
+                    "PRESTO",
+                    "THANK YOU"
+                ]
+            }
+        ]
     }
 ]
