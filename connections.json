@@ -23228,5 +23228,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 506,
+        "date": "2024-10-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IN PRISTINE CONDITION",
+                "members": [
+                    "MINT",
+                    "NEW",
+                    "ORIGINAL",
+                    "UNUSED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MEDICAL ROLES",
+                "members": [
+                    "ATTENDING",
+                    "FELLOW",
+                    "INTERN",
+                    "RESIDENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SINGULAR NOUN IN A FAMOUS \u201cJULIUS CAESAR\u201d LINE",
+                "members": [
+                    "COUNTRYMAN",
+                    "EAR",
+                    "FRIEND",
+                    "ROMAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SQUARE",
+                "members": [
+                    "PERFECT",
+                    "POCKET",
+                    "TIMES",
+                    "TOWN"
+                ]
+            }
+        ]
     }
 ]
