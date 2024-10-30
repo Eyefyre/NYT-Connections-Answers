@@ -23274,5 +23274,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 507,
+        "date": "2024-10-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UPSWING",
+                "members": [
+                    "BOOM",
+                    "RISE",
+                    "SPIKE",
+                    "SURGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH WHEELS",
+                "members": [
+                    "DOLLY",
+                    "ROLLERBLADE",
+                    "SKATEBOARD",
+                    "WAGON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF TAPE",
+                "members": [
+                    "DUCT",
+                    "ELECTRICAL",
+                    "GAFFER",
+                    "PACKING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RETAIL CHAINS WITH A LETTER CHANGED",
+                "members": [
+                    "BEST BOY",
+                    "IDEA",
+                    "KRONER",
+                    "STABLES"
+                ]
+            }
+        ]
     }
 ]
