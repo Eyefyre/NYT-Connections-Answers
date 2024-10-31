@@ -23320,5 +23320,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 508,
+        "date": "2024-10-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TERMS OF ENDEARMENT",
+                "members": [
+                    "DARLING",
+                    "LOVE",
+                    "PUMPKIN",
+                    "TREASURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU CAN DO WITH YOUR EYELIDS",
+                "members": [
+                    "BAT",
+                    "BLINK",
+                    "FLUTTER",
+                    "WINK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPORTS CARS",
+                "members": [
+                    "DIABLO",
+                    "MUSTANG",
+                    "SPIDER",
+                    "VIPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ HUNT",
+                "members": [
+                    "EGG",
+                    "JOB",
+                    "SCAVENGER",
+                    "WITCH"
+                ]
+            }
+        ]
     }
 ]
