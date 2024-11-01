@@ -23366,5 +23366,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 509,
+        "date": "2024-11-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PROGRESS SLOWLY",
+                "members": [
+                    "CRAWL",
+                    "CREEP",
+                    "DRAG",
+                    "INCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO ORDER A BEER",
+                "members": [
+                    "BOTTLE",
+                    "CAN",
+                    "DRAFT",
+                    "TAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CHEESY CORN SNACK UNIT",
+                "members": [
+                    "BALL",
+                    "CURL",
+                    "DOODLE",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ EFFECT",
+                "members": [
+                    "BUTTERFLY",
+                    "DOMINO",
+                    "HALO",
+                    "PLACEBO"
+                ]
+            }
+        ]
     }
 ]
