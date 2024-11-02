@@ -23412,5 +23412,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 510,
+        "date": "2024-11-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEEN IN A KITCHEN",
+                "members": [
+                    "COUNTER",
+                    "FRIDGE",
+                    "RANGE",
+                    "SINK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GROUP OF ADVISORS",
+                "members": [
+                    "BOARD",
+                    "CABINET",
+                    "COUNCIL",
+                    "PANEL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CORE EXERCISES",
+                "members": [
+                    "BOAT",
+                    "CRUNCH",
+                    "MOUNTAIN CLIMBER",
+                    "PLANK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KINDS OF EARRINGS",
+                "members": [
+                    "CHANDELIER",
+                    "DROP",
+                    "HOOP",
+                    "STUD"
+                ]
+            }
+        ]
     }
 ]
