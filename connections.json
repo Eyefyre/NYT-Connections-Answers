@@ -23458,5 +23458,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 511,
+        "date": "2024-11-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HEARTWARMING",
+                "members": [
+                    "MOVING",
+                    "SWEET",
+                    "TENDER",
+                    "TOUCHING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SNEAKING SUSPICION",
+                "members": [
+                    "FEELING",
+                    "HUNCH",
+                    "IMPRESSION",
+                    "SENSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEGAL SESSION",
+                "members": [
+                    "HEARING",
+                    "INQUIRY",
+                    "PROCEEDING",
+                    "TRIAL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "EASY ___",
+                "members": [
+                    "CHAIR",
+                    "LISTENING",
+                    "MONEY",
+                    "STREET"
+                ]
+            }
+        ]
     }
 ]
