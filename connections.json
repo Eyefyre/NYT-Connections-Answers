@@ -23504,5 +23504,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 512,
+        "date": "2024-11-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EQUIP",
+                "members": [
+                    "FURNISH",
+                    "OUTFIT",
+                    "PROVISION",
+                    "STOCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INDIVIDUALITY",
+                "members": [
+                    "BEING",
+                    "CHARACTER",
+                    "EGO",
+                    "SELF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FURNITURE",
+                "members": [
+                    "CHEST",
+                    "CONSOLE",
+                    "VANITY",
+                    "WARDROBE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS WITH APOSTROPHES REMOVED",
+                "members": [
+                    "CANT",
+                    "ID",
+                    "SHELL",
+                    "WERE"
+                ]
+            }
+        ]
     }
 ]
