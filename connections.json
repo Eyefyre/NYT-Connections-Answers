@@ -23550,5 +23550,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 513,
+        "date": "2024-11-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS THAT ARE FUZZY",
+                "members": [
+                    "CATERPILLAR",
+                    "FLEECE",
+                    "PEACH",
+                    "PIPE CLEANER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH SHELLS",
+                "members": [
+                    "CLAM",
+                    "EGG",
+                    "NUT",
+                    "TURTLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FIGURES IN \u201cSHREK\u201d",
+                "members": [
+                    "DONKEY",
+                    "DRAGON",
+                    "OGRE",
+                    "PRINCESS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MAGIC ___",
+                "members": [
+                    "CARPET",
+                    "KINGDOM",
+                    "MARKER",
+                    "MUSHROOM"
+                ]
+            }
+        ]
     }
 ]
