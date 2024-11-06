@@ -23596,5 +23596,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 514,
+        "date": "2024-11-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DVR BUTTONS",
+                "members": [
+                    "PAUSE",
+                    "PLAY",
+                    "RECORD",
+                    "STOP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GROUNDBREAKING",
+                "members": [
+                    "DIFFERENT",
+                    "NEW",
+                    "NOVEL",
+                    "ORIGINAL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMMUNICATE THROUGH WRITING",
+                "members": [
+                    "CORRESPOND",
+                    "MESSAGE",
+                    "TEXT",
+                    "WRITE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH FEET",
+                "members": [
+                    "BIPED",
+                    "FURNITURE",
+                    "POEM",
+                    "YARDSTICK"
+                ]
+            }
+        ]
     }
 ]
