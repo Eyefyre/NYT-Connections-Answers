@@ -23642,5 +23642,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 515,
+        "date": "2024-11-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOOD-RELATED JUMBLES",
+                "members": [
+                    "HASH",
+                    "SALAD",
+                    "SCRAMBLE",
+                    "STEW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PUBLIC STANDING",
+                "members": [
+                    "CHARACTER",
+                    "IMAGE",
+                    "NAME",
+                    "REPUTATION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INFO ON A MUSEUM PLACARD",
+                "members": [
+                    "ARTIST",
+                    "MEDIUM",
+                    "TITLE",
+                    "YEAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ANAGRAMS OF FAMOUS PAINTERS",
+                "members": [
+                    "DIAL",
+                    "EGADS",
+                    "MONTE",
+                    "YOGA"
+                ]
+            }
+        ]
     }
 ]
