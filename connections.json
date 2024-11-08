@@ -23688,5 +23688,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 516,
+        "date": "2024-11-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ESCAPADE",
+                "members": [
+                    "ANTIC",
+                    "CAPER",
+                    "EXPLOIT",
+                    "STUNT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF PICKLES",
+                "members": [
+                    "DILL",
+                    "KOSHER",
+                    "SOUR",
+                    "SWEET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RISQU\u00c9",
+                "members": [
+                    "ADULT",
+                    "BLUE",
+                    "SPICY",
+                    "SUGGESTIVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CUT THE ___",
+                "members": [
+                    "CHEESE",
+                    "CORD",
+                    "DECK",
+                    "MUSTARD"
+                ]
+            }
+        ]
     }
 ]
