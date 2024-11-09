@@ -23734,5 +23734,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 517,
+        "date": "2024-11-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONTORTED",
+                "members": [
+                    "BENT",
+                    "GNARLY",
+                    "TWISTED",
+                    "WARPED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMALLEST AMOUNT",
+                "members": [
+                    "LICK",
+                    "OUNCE",
+                    "SHRED",
+                    "TRACE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ALGEBRA TERMS",
+                "members": [
+                    "EXPONENT",
+                    "POWER",
+                    "RADICAL",
+                    "ROOT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY",
+                "members": [
+                    "BATH",
+                    "POWDER",
+                    "REST",
+                    "THRONE"
+                ]
+            }
+        ]
     }
 ]
