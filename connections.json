@@ -23780,5 +23780,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 518,
+        "date": "2024-11-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BARREL-SHAPED CONTAINER",
+                "members": [
+                    "CASK",
+                    "CYLINDER",
+                    "DRUM",
+                    "TANK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GUIDE",
+                "members": [
+                    "PILOT",
+                    "USHER",
+                    "SHEPHERD",
+                    "STEER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "N.F.L. TEAM MEMBER",
+                "members": [
+                    "COWBOY",
+                    "JET",
+                    "RAM",
+                    "RAVEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT SWING",
+                "members": [
+                    "GOLFER",
+                    "PENDULUM",
+                    "SALOON DOORS",
+                    "SWING"
+                ]
+            }
+        ]
     }
 ]
