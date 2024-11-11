@@ -23826,5 +23826,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 519,
+        "date": "2024-11-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CHOCOLATE BARS",
+                "members": [
+                    "CRUNCH",
+                    "DOVE",
+                    "MARS",
+                    "PAYDAY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GIST",
+                "members": [
+                    "CORE",
+                    "MEAT",
+                    "SUBSTANCE",
+                    "THRUST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BRAS",
+                "members": [
+                    "DEMI",
+                    "PUSH-UP",
+                    "SPORTS",
+                    "WIRELESS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BIRD",
+                "members": [
+                    "BIG",
+                    "EARLY",
+                    "LADY",
+                    "SUE"
+                ]
+            }
+        ]
     }
 ]
