@@ -23872,5 +23872,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 520,
+        "date": "2024-11-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPLAIN",
+                "members": [
+                    "BELLYACHE",
+                    "CARP",
+                    "CRAB",
+                    "GRUMBLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "VEGETABLE UNITS",
+                "members": [
+                    "CLOVE",
+                    "FLORET",
+                    "SPEAR",
+                    "STALK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LAPTOP SPECS",
+                "members": [
+                    "RAM",
+                    "RESOLUTION",
+                    "SPEED",
+                    "STORAGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FEATURES OF JUSTICE PERSONIFIED",
+                "members": [
+                    "BLINDFOLD",
+                    "ROBE",
+                    "SCALES",
+                    "SWORD"
+                ]
+            }
+        ]
     }
 ]
