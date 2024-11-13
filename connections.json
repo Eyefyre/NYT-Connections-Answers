@@ -23918,5 +23918,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 521,
+        "date": "2024-11-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS THAT ARE YELLOW",
+                "members": [
+                    "CANARY",
+                    "LEMON",
+                    "MINION",
+                    "MUSTARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BUILDING ADD-ONS",
+                "members": [
+                    "ADDITION",
+                    "ANNEX",
+                    "EXTENSION",
+                    "WING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CONCERNS FOR A DENTIST",
+                "members": [
+                    "CALCULUS",
+                    "CAVITY",
+                    "PLAQUE",
+                    "TARTAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS THAT SEEM LONGER WRITTEN THAN SPOKEN",
+                "members": [
+                    "COLONEL",
+                    "PHARAOH",
+                    "WEDNESDAY",
+                    "WORCESTERSHIRE"
+                ]
+            }
+        ]
     }
 ]
