@@ -23964,5 +23964,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 522,
+        "date": "2024-11-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEPLETE",
+                "members": [
+                    "DRAIN",
+                    "EMPTY",
+                    "EXHAUST",
+                    "SAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLAY MUSIC WITH PASSION",
+                "members": [
+                    "GROOVE",
+                    "JAM",
+                    "ROCK",
+                    "SHRED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS ON A RESTAURANT RECEIPT",
+                "members": [
+                    "TAX",
+                    "TIP",
+                    "TOTAL",
+                    "SIGNATURE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FORMS OF SUGAR",
+                "members": [
+                    "CUBE",
+                    "GRAIN",
+                    "POWDER",
+                    "SYRUP"
+                ]
+            }
+        ]
     }
 ]
