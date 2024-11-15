@@ -24010,5 +24010,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 523,
+        "date": "2024-11-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FISSURE",
+                "members": [
+                    "CRACK",
+                    "HOLE",
+                    "LEAK",
+                    "PUNCTURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ELEMENTS OF WRITING",
+                "members": [
+                    "LETTER",
+                    "PHRASE",
+                    "SENTENCE",
+                    "WORD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INSTRUMENTS YOU BLOW INTO",
+                "members": [
+                    "JUG",
+                    "PIPE",
+                    "RECORDER",
+                    "WHISTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ OF TIME",
+                "members": [
+                    "NICK",
+                    "PASSAGE",
+                    "SANDS",
+                    "WASTE"
+                ]
+            }
+        ]
     }
 ]
