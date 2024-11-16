@@ -24056,5 +24056,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 524,
+        "date": "2024-11-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS THAT PREVENT LEAKS",
+                "members": [
+                    "CAP",
+                    "COVER",
+                    "PLUG",
+                    "SEAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF HATS",
+                "members": [
+                    "BERET",
+                    "DERBY",
+                    "PILLBOX",
+                    "SNAPBACK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COLLEGE FOOTBALL TEAM MEMBERS",
+                "members": [
+                    "GATOR",
+                    "SOONER",
+                    "VOLUNTEER",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "GO ___",
+                "members": [
+                    "BANANAS",
+                    "COMMANDO",
+                    "FIGURE",
+                    "ROGUE"
+                ]
+            }
+        ]
     }
 ]
