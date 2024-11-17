@@ -24102,5 +24102,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 525,
+        "date": "2024-11-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ALLIANCE",
+                "members": [
+                    "ASSOCIATION",
+                    "GUILD",
+                    "LEAGUE",
+                    "UNION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CLOSE-FITTING ",
+                "members": [
+                    "CLINGY",
+                    "SLEEK",
+                    "SLINKY",
+                    "SNUG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OCCASIONS WHEN ONE MIGHT KNEEL",
+                "members": [
+                    "APOLOGY",
+                    "DUBBING",
+                    "PRAYER",
+                    "PROPOSAL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT AN APOSTROPHE MIGHT INDICATE",
+                "members": [
+                    "CONTRACTION",
+                    "FOOT",
+                    "POSSESSIVE",
+                    "QUOTATION"
+                ]
+            }
+        ]
     }
 ]
