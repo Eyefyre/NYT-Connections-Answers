@@ -24148,5 +24148,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 526,
+        "date": "2024-11-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "USED IN HAIR CARE",
+                "members": [
+                    "COMB",
+                    "DRYER",
+                    "HAIRSPRAY",
+                    "ROLLERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MONTHLY EXPENSES",
+                "members": [
+                    "GAS",
+                    "INTERNET",
+                    "PHONE",
+                    "RENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH SPOTS",
+                "members": [
+                    "DALMATIAN",
+                    "DIE",
+                    "DOMINO",
+                    "LADYBUG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CRAB",
+                "members": [
+                    "FIDDLER",
+                    "HERMIT",
+                    "HORSESHOE",
+                    "SPIDER"
+                ]
+            }
+        ]
     }
 ]
