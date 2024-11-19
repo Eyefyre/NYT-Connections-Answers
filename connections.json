@@ -24194,5 +24194,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 527,
+        "date": "2024-11-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AREA OF EXPERTISE",
+                "members": [
+                    "CONCENTRATION",
+                    "FIELD",
+                    "FOCUS",
+                    "SPECIALTY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO UNLOCK A DEVICE",
+                "members": [
+                    "FACE",
+                    "FINGERPRINT",
+                    "PASSWORD",
+                    "PIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PASTA SHAPES",
+                "members": [
+                    "EAR",
+                    "ELBOW",
+                    "RIBBON",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DOUBLE ___",
+                "members": [
+                    "AGENT",
+                    "DRIBBLE",
+                    "JEOPARDY",
+                    "STANDARD"
+                ]
+            }
+        ]
     }
 ]
