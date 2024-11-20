@@ -24240,5 +24240,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 528,
+        "date": "2024-11-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SOUND LIKE A DOG",
+                "members": [
+                    "BARK",
+                    "BAY",
+                    "HOWL",
+                    "SNARL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BROADCAST, AS ONLINE MEDIA",
+                "members": [
+                    "AIR",
+                    "PLAY",
+                    "RUN",
+                    "STREAM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COCKTAIL-MAKING VERBS",
+                "members": [
+                    "GARNISH",
+                    "MUDDLE",
+                    "STIR",
+                    "STRAIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
+                "members": [
+                    "CHAIN",
+                    "LADDER",
+                    "PYRAMID",
+                    "TREE"
+                ]
+            }
+        ]
     }
 ]
