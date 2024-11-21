@@ -24286,5 +24286,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 529,
+        "date": "2024-11-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF SHIRTS",
+                "members": [
+                    "FLANNEL",
+                    "OXFORD",
+                    "POLO",
+                    "TEE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPHERES IN MILK TEA",
+                "members": [
+                    "BOBA",
+                    "BUBBLE",
+                    "PEARL",
+                    "TAPIOCA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MARINE INVERTEBRATES, FAMILIARLY",
+                "members": [
+                    "CORAL",
+                    "JELLY",
+                    "SPONGE",
+                    "STAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF PASTA NAMES",
+                "members": [
+                    "FETT",
+                    "PENN",
+                    "TORTE",
+                    "ZIT"
+                ]
+            }
+        ]
     }
 ]
