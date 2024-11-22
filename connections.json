@@ -24332,5 +24332,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 530,
+        "date": "2024-11-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUBLICITY",
+                "members": [
+                    "ATTENTION",
+                    "COVERAGE",
+                    "EXPOSURE",
+                    "PRESS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "POINT OF VIEW",
+                "members": [
+                    "ANGLE",
+                    "LENS",
+                    "PERSPECTIVE",
+                    "POSITION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORK COMMUNICATION PLATFORMS",
+                "members": [
+                    "MEET",
+                    "SLACK",
+                    "TEAMS",
+                    "ZOOM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201c___ ISLAND\u201d",
+                "members": [
+                    "FANTASY",
+                    "LOVE",
+                    "SHUTTER",
+                    "TREASURE"
+                ]
+            }
+        ]
     }
 ]
