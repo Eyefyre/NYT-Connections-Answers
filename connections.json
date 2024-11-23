@@ -24378,5 +24378,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 531,
+        "date": "2024-11-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TELLING OF EVENTS",
+                "members": [
+                    "ACCOUNT",
+                    "CHRONICLE",
+                    "DESCRIPTION",
+                    "STORY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SECRETED BY TREES",
+                "members": [
+                    "GUM",
+                    "LATEX",
+                    "RESIN",
+                    "SAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS ON STICKS",
+                "members": [
+                    "BALL-IN-CUP",
+                    "CORN DOG",
+                    "COTTON SWAB",
+                    "LOLLIPOP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BLACK OR RED",
+                "members": [
+                    "BALANCE SHEET",
+                    "CHECKERS",
+                    "LICORICE",
+                    "ROULETTE"
+                ]
+            }
+        ]
     }
 ]
