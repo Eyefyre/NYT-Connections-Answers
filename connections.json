@@ -24424,5 +24424,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 532,
+        "date": "2024-11-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CAREEN",
+                "members": [
+                    "HEAVE",
+                    "LURCH",
+                    "PITCH",
+                    "REEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WHAT A NOUN MIGHT BE",
+                "members": [
+                    "IDEA",
+                    "PERSON",
+                    "PLACE",
+                    "THING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ELECTRONIC DANCE MUSIC GENRES",
+                "members": [
+                    "AMBIENT",
+                    "HOUSE",
+                    "JUNGLE",
+                    "TRANCE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cASH\u201d",
+                "members": [
+                    "BLOND",
+                    "TRAY",
+                    "TREE",
+                    "WEDNESDAY"
+                ]
+            }
+        ]
     }
 ]
