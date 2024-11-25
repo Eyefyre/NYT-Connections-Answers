@@ -24470,5 +24470,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 533,
+        "date": "2024-11-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ATTAIN",
+                "members": [
+                    "EARN",
+                    "LAND",
+                    "SCORE",
+                    "WIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LARGE GROUP",
+                "members": [
+                    "CROWD",
+                    "FLOCK",
+                    "HOST",
+                    "SEA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A SHIP",
+                "members": [
+                    "ANCHOR",
+                    "BOW",
+                    "BRIDGE",
+                    "DECK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY",
+                "members": [
+                    "EXPANSIVE",
+                    "LIGHT",
+                    "MASCULINE",
+                    "YANG"
+                ]
+            }
+        ]
     }
 ]
