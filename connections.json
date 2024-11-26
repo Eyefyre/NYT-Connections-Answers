@@ -24516,5 +24516,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 534,
+        "date": "2024-11-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GOOD THINGS TO GET AT WORK",
+                "members": [
+                    "BONUS",
+                    "EQUITY",
+                    "PROMOTION",
+                    "RAISE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DISREGARD",
+                "members": [
+                    "DISCOUNT",
+                    "FORGET",
+                    "IGNORE",
+                    "OVERLOOK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF CRACKERS",
+                "members": [
+                    "ANIMAL",
+                    "CLUB",
+                    "GOLDFISH",
+                    "RITZ"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FEATURED IN \u201cELOISE\u201d",
+                "members": [
+                    "ELOISE",
+                    "PLAZA",
+                    "PUG",
+                    "TURTLE"
+                ]
+            }
+        ]
     }
 ]
