@@ -24562,5 +24562,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 535,
+        "date": "2024-11-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NOT WORKING RELIABLY",
+                "members": [
+                    "BUGGY",
+                    "ERRATIC",
+                    "GLITCHY",
+                    "SPOTTY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAR PARTS",
+                "members": [
+                    "BUMPER",
+                    "GRILLE",
+                    "MIRROR",
+                    "RIM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT A SITTER MIGHT SIT",
+                "members": [
+                    "BABY",
+                    "HOUSE",
+                    "PET",
+                    "PLANT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BAND",
+                "members": [
+                    "BOY",
+                    "RUBBER",
+                    "TRIBUTE",
+                    "WEDDING"
+                ]
+            }
+        ]
     }
 ]
