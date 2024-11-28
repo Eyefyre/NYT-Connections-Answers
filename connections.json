@@ -24608,5 +24608,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 536,
+        "date": "2024-11-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "APPRECIATION",
+                "members": [
+                    "CREDIT",
+                    "PRAISE",
+                    "RECOGNITION",
+                    "THANKS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FRAUDSTER",
+                "members": [
+                    "CHEAT",
+                    "CON",
+                    "FAKE",
+                    "QUACK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EAT VORACIOUSLY",
+                "members": [
+                    "BOLT",
+                    "DOWN",
+                    "GOBBLE",
+                    "SCARF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TUESDAY",
+                "members": [
+                    "FAT",
+                    "GIVING",
+                    "SUPER",
+                    "TACO"
+                ]
+            }
+        ]
     }
 ]
