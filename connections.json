@@ -24654,5 +24654,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 537,
+        "date": "2024-11-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UNDERTAKING",
+                "members": [
+                    "ENDEAVOR",
+                    "ENTERPRISE",
+                    "PROJECT",
+                    "VENTURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UNITS",
+                "members": [
+                    "HERTZ",
+                    "MOLE",
+                    "SECOND",
+                    "VOLT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "M.L.B. TEAM MEMBER",
+                "members": [
+                    "NATIONAL",
+                    "RAY",
+                    "TIGER",
+                    "TWIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST WORDS OF HBO SHOWS",
+                "members": [
+                    "BOARDWALK",
+                    "CURB",
+                    "GAME",
+                    "SILICON"
+                ]
+            }
+        ]
     }
 ]
