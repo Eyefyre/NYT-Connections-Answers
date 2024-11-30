@@ -24700,5 +24700,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 538,
+        "date": "2024-11-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DANCE STYLES",
+                "members": [
+                    "JAZZ",
+                    "MODERN",
+                    "SWING",
+                    "TAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STEAL",
+                "members": [
+                    "LIFT",
+                    "PALM",
+                    "POCKET",
+                    "SWIPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PERFORM WELL ON",
+                "members": [
+                    "ACE",
+                    "CRUSH",
+                    "NAIL",
+                    "ROCK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___BALL PITCHES",
+                "members": [
+                    "CURVE",
+                    "FAST",
+                    "KNUCKLE",
+                    "SCREW"
+                ]
+            }
+        ]
     }
 ]
