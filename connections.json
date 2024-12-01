@@ -24746,5 +24746,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 539,
+        "date": "2024-12-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SANCTUARY",
+                "members": [
+                    "HAVEN",
+                    "PORT",
+                    "RETREAT",
+                    "SHELTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FOOTBALL GEAR",
+                "members": [
+                    "CLEATS",
+                    "HELMET",
+                    "JERSEY",
+                    "PADS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CANDY NAMES",
+                "members": [
+                    "CHARMS",
+                    "KINDER",
+                    "WONKA",
+                    "YORK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cFREE ___\u201d",
+                "members": [
+                    "BIRD",
+                    "FALLIN\u2019",
+                    "SOLO",
+                    "WILLY"
+                ]
+            }
+        ]
     }
 ]
