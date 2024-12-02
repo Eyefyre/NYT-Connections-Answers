@@ -24792,5 +24792,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 540,
+        "date": "2024-12-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ANNOUNCE",
+                "members": [
+                    "BROADCAST",
+                    "DECLARE",
+                    "HERALD",
+                    "TRUMPET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS INVOLVING MALLETS",
+                "members": [
+                    "CARPENTRY",
+                    "CROQUET",
+                    "WHAC-A-MOLE",
+                    "XYLOPHONE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ICON EMBROIDERED ON A POLO SHIRT",
+                "members": [
+                    "CROCODILE",
+                    "LAUREL",
+                    "POLO PLAYER",
+                    "SWOOSH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CLIP",
+                "members": [
+                    "ALLIGATOR",
+                    "HAIR",
+                    "PAPER",
+                    "VIDEO"
+                ]
+            }
+        ]
     }
 ]
