@@ -24838,5 +24838,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 541,
+        "date": "2024-12-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SOPRANOS",
+                "members": [
+                    "CARMELA",
+                    "JUNIOR",
+                    "MEADOW",
+                    "TONY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FAMILIAL NICKNAMES",
+                "members": [
+                    "CUZ",
+                    "GRAMMY",
+                    "MUMMY",
+                    "POP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cSESAME STREET\u201d CHARACTERS",
+                "members": [
+                    "COOKIE",
+                    "COUNT",
+                    "OSCAR",
+                    "SNUFFY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAMES THAT SOUND LIKE TWO LETTERS",
+                "members": [
+                    "CECE",
+                    "EDIE",
+                    "EMMY",
+                    "KATIE"
+                ]
+            }
+        ]
     }
 ]
