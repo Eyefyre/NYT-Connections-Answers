@@ -24884,5 +24884,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 542,
+        "date": "2024-12-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STEER",
+                "members": [
+                    "DIRECT",
+                    "GUIDE",
+                    "LEAD",
+                    "SHEPHERD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH NEEDLE/S",
+                "members": [
+                    "COMPASS",
+                    "PINE TREE",
+                    "SEWING KIT",
+                    "TURNTABLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FIGURES IN GREEK MYTH",
+                "members": [
+                    "ATLAS",
+                    "ECHO",
+                    "HELEN",
+                    "PAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH SYNONYMS FOR LAVATORY",
+                "members": [
+                    "CANDLE",
+                    "LOOFAH",
+                    "JOHNSON",
+                    "TOILETRIES"
+                ]
+            }
+        ]
     }
 ]
