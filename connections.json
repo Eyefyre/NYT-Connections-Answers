@@ -24930,5 +24930,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 543,
+        "date": "2024-12-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "APTITUDE",
+                "members": [
+                    "FLAIR",
+                    "GIFT",
+                    "INSTINCT",
+                    "NOSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXTERIOR",
+                "members": [
+                    "FACE",
+                    "FRONT",
+                    "OUTSIDE",
+                    "SURFACE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TECH COMPANIES",
+                "members": [
+                    "AMAZON",
+                    "APPLE",
+                    "INTUIT",
+                    "ORACLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___STONE",
+                "members": [
+                    "BRIM",
+                    "LIME",
+                    "RHINE",
+                    "YELLOW"
+                ]
+            }
+        ]
     }
 ]
