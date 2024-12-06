@@ -24976,5 +24976,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 544,
+        "date": "2024-12-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BAFFLE",
+                "members": [
+                    "PERPLEX",
+                    "PUZZLE",
+                    "STUMP",
+                    "VEX"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CURSE",
+                "members": [
+                    "HEX",
+                    "JINX",
+                    "POX",
+                    "SPELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cTOY STORY\u201d CHARACTERS, FAMILIARLY",
+                "members": [
+                    "BUZZ",
+                    "HAMM",
+                    "REX",
+                    "SLINKY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COLLOQUIAL SUFFIXES",
+                "members": [
+                    "CORE",
+                    "GATE",
+                    "MANIA",
+                    "PILLED"
+                ]
+            }
+        ]
     }
 ]
