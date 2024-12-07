@@ -25022,5 +25022,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 545,
+        "date": "2024-12-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINK OF TOGETHER",
+                "members": [
+                    "AFFILIATE",
+                    "ASSOCIATE",
+                    "EQUATE",
+                    "RELATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO ATTRACT FISH",
+                "members": [
+                    "BAIT",
+                    "CHUM",
+                    "FLY",
+                    "LURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "W.N.B.A. TEAMS",
+                "members": [
+                    "LIBERTY",
+                    "STORM",
+                    "SUN",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LONG___",
+                "members": [
+                    "BOW",
+                    "FELLOW",
+                    "HORN",
+                    "LEGS"
+                ]
+            }
+        ]
     }
 ]
