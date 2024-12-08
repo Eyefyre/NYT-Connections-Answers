@@ -25068,5 +25068,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 546,
+        "date": "2024-12-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUNCH",
+                "members": [
+                    "BELT",
+                    "BLOW",
+                    "SOCK",
+                    "SLUG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CRAM",
+                "members": [
+                    "SANDWICH",
+                    "SHOEHORN",
+                    "SQUEEZE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPANIES NAMED AFTER ANIMALS",
+                "members": [
+                    "CATERPILLAR",
+                    "DOVE",
+                    "GREYHOUND",
+                    "PUMA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF MUSIC GENRES",
+                "members": [
+                    "INDY",
+                    "METTLE",
+                    "SEOUL",
+                    "WRAP"
+                ]
+            }
+        ]
     }
 ]
