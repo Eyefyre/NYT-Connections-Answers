@@ -25114,5 +25114,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 547,
+        "date": "2024-12-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DELIBERATION",
+                "members": [
+                    "CONSIDERATION",
+                    "REFLECTION",
+                    "SCRUTINY",
+                    "THOUGHT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USED IN STARTING A FIRE",
+                "members": [
+                    "FLINT",
+                    "LIGHTER",
+                    "MAGNIFYING GLASS",
+                    "MATCHES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "USED TO VIEW A BIOLOGICAL SAMPLE",
+                "members": [
+                    "MICROSCOPE",
+                    "SLIDE",
+                    "SPECIMEN",
+                    "STAIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cX\u201d",
+                "members": [
+                    "FACTOR",
+                    "FILES",
+                    "GAMES",
+                    "RAY"
+                ]
+            }
+        ]
     }
 ]
