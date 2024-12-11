@@ -25206,5 +25206,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 549,
+        "date": "2024-12-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "UTOPIA",
+                "members": [
+                    "PARADISE",
+                    "SEVENTH HEAVEN",
+                    "SHANGRI-LA",
+                    "XANADU"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU SHAKE",
+                "members": [
+                    "HAIRSPRAY",
+                    "MAGIC 8 BALL",
+                    "SALAD DRESSING",
+                    "SNOWGLOBE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PROPER NOUN PORTMANTEAUX",
+                "members": [
+                    "JAZZERCISE",
+                    "PARALYMPICS",
+                    "POK\u00c9MON",
+                    "WIKIPEDIA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN SYNONYMS FOR \u201cFRIEND\u201d",
+                "members": [
+                    "KETCHUM",
+                    "PAYPAL",
+                    "PRIMATE",
+                    "ROSEBUD"
+                ]
+            }
+        ]
     }
 ]
