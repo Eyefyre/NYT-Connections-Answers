@@ -25252,5 +25252,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 550,
+        "date": "2024-12-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS THAT SOUND LIKE \"T\"",
+                "members": [
+                    "TEA",
+                    "TEE (GOLF)",
+                    "TEE (SHIRT)",
+                    "TI (MUSICAL NOTE)"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OBJECTS WITH TEETH",
+                "members": [
+                    "COMB",
+                    "GEAR",
+                    "SAW",
+                    "ZIPPER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MILD OATHS",
+                "members": [
+                    "FUDGE",
+                    "GEEZ",
+                    "NUTS",
+                    "RATS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PARTS OF A RIVER",
+                "members": [
+                    "BANK",
+                    "BED",
+                    "DELTA",
+                    "MOUTH"
+                ]
+            }
+        ]
     }
 ]
