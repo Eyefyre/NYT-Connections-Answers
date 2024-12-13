@@ -25298,5 +25298,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 551,
+        "date": "2024-12-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FANTASY CREATURES",
+                "members": [
+                    "DRAGON",
+                    "GIANT",
+                    "PIXIE",
+                    "TROLL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EMAIL FOLDERS",
+                "members": [
+                    "DRAFTS",
+                    "SENT",
+                    "SPAM",
+                    "TRASH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CITRUS SODAS",
+                "members": [
+                    "CRUSH",
+                    "SPRITE",
+                    "SQUIRT",
+                    "STARRY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ANIMAL HOMOPHONES",
+                "members": [
+                    "BORE",
+                    "LINKS",
+                    "PHISH",
+                    "TOWED"
+                ]
+            }
+        ]
     }
 ]
