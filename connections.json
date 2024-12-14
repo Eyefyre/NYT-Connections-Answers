@@ -25344,5 +25344,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 552,
+        "date": "2024-12-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FISH",
+                "members": [
+                    "FLUKE",
+                    "MULLET",
+                    "SOLE",
+                    "TANG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WORDS IN AN AUCTION-ENDING PHRASE",
+                "members": [
+                    "GOING",
+                    "ONCE",
+                    "SOLD",
+                    "TWICE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GLOBAL CURRENCIES",
+                "members": [
+                    "POUND",
+                    "REAL",
+                    "SOL",
+                    "YUAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cCUP\u201d",
+                "members": [
+                    "BUTTER",
+                    "DIVA",
+                    "SOLO",
+                    "WORLD"
+                ]
+            }
+        ]
     }
 ]
