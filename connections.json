@@ -25390,5 +25390,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 553,
+        "date": "2024-12-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPICES",
+                "members": [
+                    "CLOVE",
+                    "MACE",
+                    "NUTMEG",
+                    "PEPPER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PERFORM POORLY",
+                "members": [
+                    "FLAIL",
+                    "FLOP",
+                    "FLOUNDER",
+                    "TANK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SKIM THROUGH, AS PAGES",
+                "members": [
+                    "FLIP",
+                    "LEAF",
+                    "RIFFLE",
+                    "THUMB"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "POP SINGERS MINUS \u201cS\u201d",
+                "members": [
+                    "KEY",
+                    "MAR",
+                    "SPEAR",
+                    "STYLE"
+                ]
+            }
+        ]
     }
 ]
