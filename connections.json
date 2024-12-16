@@ -25436,5 +25436,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 554,
+        "date": "2024-12-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TYPES OF RADIO",
+                "members": [
+                    "AM",
+                    "HAM",
+                    "SATELLITE",
+                    "WALKIE-TALKIE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF PLAY FIGHTS",
+                "members": [
+                    "FOOD",
+                    "PILLOW",
+                    "SNOWBALL",
+                    "WATER BALLOON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SNACK CAKES",
+                "members": [
+                    "DEVIL DOG",
+                    "DING DONG",
+                    "HOHO",
+                    "YODEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CLASSIC JOKE STAPLES",
+                "members": [
+                    "BAR",
+                    "CHICKEN",
+                    "KNOCK-KNOCK",
+                    "LIGHT BULB"
+                ]
+            }
+        ]
     }
 ]
