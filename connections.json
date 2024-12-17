@@ -25482,5 +25482,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 555,
+        "date": "2024-12-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INTREPIDITY",
+                "members": [
+                    "GRIT",
+                    "HEART",
+                    "NERVE",
+                    "PLUCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ROAD",
+                "members": [
+                    "ARTERY",
+                    "AVENUE",
+                    "DRAG",
+                    "DRIVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF PAPER",
+                "members": [
+                    "CONSTRUCTION",
+                    "GRAPH",
+                    "TISSUE",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KINDS OF TENNIS COURTS",
+                "members": [
+                    "CARPET",
+                    "CLAY",
+                    "GRASS",
+                    "HARD"
+                ]
+            }
+        ]
     }
 ]
