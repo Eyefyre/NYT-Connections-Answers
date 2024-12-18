@@ -25528,5 +25528,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 556,
+        "date": "2024-12-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEAL WITH",
+                "members": [
+                    "FIELD",
+                    "HANDLE",
+                    "MANAGE",
+                    "TACKLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STYLES OF BEER",
+                "members": [
+                    "BITTER",
+                    "BOCK",
+                    "SOUR",
+                    "STOUT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INVESTMENT VERBS",
+                "members": [
+                    "HEDGE",
+                    "HOLD",
+                    "SHORT",
+                    "TRADE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DOME",
+                "members": [
+                    "CAPITOL",
+                    "CHROME",
+                    "ONION",
+                    "TEAPOT"
+                ]
+            }
+        ]
     }
 ]
