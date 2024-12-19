@@ -25574,5 +25574,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 557,
+        "date": "2024-12-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEFER",
+                "members": [
+                    "DELAY",
+                    "POSTPONE",
+                    "SHELVE",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BAR FIXTURES",
+                "members": [
+                    "COUNTER",
+                    "KEG",
+                    "STOOL",
+                    "TAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WATERCRAFT",
+                "members": [
+                    "BARGE",
+                    "JUNK",
+                    "SUB",
+                    "TUG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN IN \u201cDONKEY KONG\u201d",
+                "members": [
+                    "BARREL",
+                    "GORILLA",
+                    "HAMMER",
+                    "LADDER"
+                ]
+            }
+        ]
     }
 ]
