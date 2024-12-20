@@ -25620,5 +25620,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 558,
+        "date": "2024-12-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONCOCTION",
+                "members": [
+                    "COCKTAIL",
+                    "COMPOUND",
+                    "MIXTURE",
+                    "SOLUTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TYPES OF SENTENCES",
+                "members": [
+                    "COMMAND",
+                    "EXCLAMATION",
+                    "QUESTION",
+                    "STATEMENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BROS",
+                "members": [
+                    "CRYPTO",
+                    "FINANCE",
+                    "PHARMA",
+                    "TECH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COMPLAINT HOMOPHONES",
+                "members": [
+                    "GROWN",
+                    "MOWN",
+                    "WHALE",
+                    "WINE"
+                ]
+            }
+        ]
     }
 ]
