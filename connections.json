@@ -25666,5 +25666,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 559,
+        "date": "2024-12-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LOOP",
+                "members": [
+                    "BAND",
+                    "CIRCLE",
+                    "HOOP",
+                    "RING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COOKING VESSELS",
+                "members": [
+                    "CASSEROLE",
+                    "CROCK",
+                    "PAN",
+                    "POT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BEDS",
+                "members": [
+                    "BUNK",
+                    "CANOPY",
+                    "MURPHY",
+                    "SLEIGH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS CALLED \u201cOSCAR\u201d",
+                "members": [
+                    "BALONEY",
+                    "GROUCH",
+                    "O",
+                    "STATUETTE"
+                ]
+            }
+        ]
     }
 ]
