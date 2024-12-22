@@ -25712,5 +25712,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 560,
+        "date": "2024-12-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SLANG FOR HEAD",
+                "members": [
+                    "COCONUT",
+                    "CROWN",
+                    "DOME",
+                    "SKULL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PALINDROMES",
+                "members": [
+                    "ABBA",
+                    "KAYAK",
+                    "NUN",
+                    "STATS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "POLICE PROCEDURALS",
+                "members": [
+                    "BONES",
+                    "ELEMENTARY",
+                    "KOJAK",
+                    "MONK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST IN A COMEDY DUO",
+                "members": [
+                    "ABBOTT",
+                    "FRY",
+                    "KEY",
+                    "LAUREL"
+                ]
+            }
+        ]
     }
 ]
