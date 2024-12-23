@@ -25758,5 +25758,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 561,
+        "date": "2024-12-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HOMOPHONES",
+                "members": [
+                    "EWE",
+                    "U",
+                    "YEW",
+                    "YOU"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NECKLINES",
+                "members": [
+                    "BOAT",
+                    "CREW",
+                    "SCOOP",
+                    "V"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WAYS TO EXPRESS 1,000",
+                "members": [
+                    "GRAND",
+                    "K",
+                    "M",
+                    "THOU"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SUPER ___",
+                "members": [
+                    "8",
+                    "BOWL",
+                    "GLUE",
+                    "TUESDAY"
+                ]
+            }
+        ]
     }
 ]
