@@ -25804,5 +25804,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 562,
+        "date": "2024-12-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u201cLIONS AND TIGERS AND BEARS, OH MY!\u201d",
+                "members": [
+                    "BEARS",
+                    "LIONS",
+                    "OH MY",
+                    "TIGERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BELOVED, AS A FRIEND",
+                "members": [
+                    "CLOSE",
+                    "DEAR",
+                    "INTIMATE",
+                    "TIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+                "members": [
+                    "BEES",
+                    "EASE",
+                    "JAYS",
+                    "USE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHEN TRIPLED, HIT SONG TITLES",
+                "members": [
+                    "BILLS",
+                    "BYE",
+                    "GIMME",
+                    "PLEASE"
+                ]
+            }
+        ]
     }
 ]
