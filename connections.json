@@ -25850,5 +25850,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 563,
+        "date": "2024-12-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CELESTIAL OBJECTS",
+                "members": [
+                    "COMET",
+                    "MOON",
+                    "PLANET",
+                    "STAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ARCHERS",
+                "members": [
+                    "CUPID",
+                    "HAWKEYE",
+                    "ROBIN HOOD",
+                    "SAGITTARIUS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FEMALE ANIMALS",
+                "members": [
+                    "JENNY",
+                    "NANNY",
+                    "QUEEN",
+                    "VIXEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cS.N.L.\u201d CAST MEMBERS",
+                "members": [
+                    "FEY",
+                    "RUDOLPH",
+                    "SHANNON",
+                    "STRONG"
+                ]
+            }
+        ]
     }
 ]
