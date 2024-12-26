@@ -25896,5 +25896,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 564,
+        "date": "2024-12-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "APPROXIMATELY",
+                "members": [
+                    "ABOUT",
+                    "AROUND",
+                    "LIKE",
+                    "ROUGHLY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TREES",
+                "members": [
+                    "ELDER",
+                    "PALM",
+                    "PINE",
+                    "SPRUCE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SIZABLE, AS AN AMOUNT",
+                "members": [
+                    "HANDSOME",
+                    "HEALTHY",
+                    "RESPECTABLE",
+                    "TIDY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "U.S. STATE ABBREVIATIONS, PER AP STYLE GUIDE",
+                "members": [
+                    "ALA",
+                    "ARK",
+                    "MISS",
+                    "ORE"
+                ]
+            }
+        ]
     }
 ]
