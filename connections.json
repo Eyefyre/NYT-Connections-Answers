@@ -25942,5 +25942,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 565,
+        "date": "2024-12-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BREAKFAST SIDES",
+                "members": [
+                    "BACON",
+                    "GRITS",
+                    "HASH",
+                    "TOAST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PUSHES, AS A BUTTON",
+                "members": [
+                    "CLICKS",
+                    "HITS",
+                    "PRESSES",
+                    "TAPS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THEY HAVE A HORN",
+                "members": [
+                    "AFRICA",
+                    "BUGLER",
+                    "CAR",
+                    "UNICORN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "OSCAR-WINNING ACTORS",
+                "members": [
+                    "BRIDGES",
+                    "IRONS",
+                    "PHOENIX",
+                    "WASHINGTON"
+                ]
+            }
+        ]
     }
 ]
