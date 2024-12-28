@@ -25988,5 +25988,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 566,
+        "date": "2024-12-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\u201cNOTHING TO IT!\u201d",
+                "members": [
+                    "EASY",
+                    "NO SWEAT",
+                    "PIECE OF CAKE",
+                    "SURE THING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OBJECTS FROM GREEK MYTH",
+                "members": [
+                    "AEGIS",
+                    "APPLE OF DISCORD",
+                    "GOLDEN FLEECE",
+                    "PANDORA\u2019S BOX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PROVERBIAL THINGS TO KICK",
+                "members": [
+                    "CAN",
+                    "HABIT",
+                    "HORNETS\u2019 NEST",
+                    "TIRES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH POSSESSIVE PRONOUNS",
+                "members": [
+                    "HERSHEY",
+                    "HISTAMINE",
+                    "ITSY",
+                    "MINEFIELD"
+                ]
+            }
+        ]
     }
 ]
