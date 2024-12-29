@@ -26034,5 +26034,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 567,
+        "date": "2024-12-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHADES OF RED",
+                "members": [
+                    "BRICK",
+                    "CHERRY",
+                    "MAROON",
+                    "RUBY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "APPOINTMENT SPECIFICATIONS",
+                "members": [
+                    "DATE",
+                    "DURATION",
+                    "LOCATION",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DIFFERENT AMOUNTS OF HAIR",
+                "members": [
+                    "HEAD",
+                    "LOCK",
+                    "STRAND",
+                    "WISP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TREE HOMOPHONES",
+                "members": [
+                    "BEACH",
+                    "FUR",
+                    "PAIR",
+                    "YOU"
+                ]
+            }
+        ]
     }
 ]
