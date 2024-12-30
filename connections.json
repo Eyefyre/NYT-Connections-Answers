@@ -26080,5 +26080,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 568,
+        "date": "2024-12-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LUNCH ORDERS",
+                "members": [
+                    "CLUB",
+                    "HERO",
+                    "MELT",
+                    "WRAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USED TO MAKE COFFEE",
+                "members": [
+                    "BEANS",
+                    "FILTER",
+                    "GRINDER",
+                    "WATER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PAY, WITH \u201cUP\u201d",
+                "members": [
+                    "ANTE",
+                    "COUGH",
+                    "PONY",
+                    "SETTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAMES FEATURING \"!\"",
+                "members": [
+                    "AIRPLANE",
+                    "JEOPARDY",
+                    "PINK",
+                    "YAHOO"
+                ]
+            }
+        ]
     }
 ]
