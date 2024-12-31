@@ -26126,5 +26126,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 569,
+        "date": "2024-12-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOVE QUICKLY",
+                "members": [
+                    "BOLT",
+                    "DART",
+                    "DASH",
+                    "FLY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FUN TIME",
+                "members": [
+                    "BALL",
+                    "BLAST",
+                    "KICK",
+                    "THRILL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS BEFORE AN ADDRESSEE",
+                "members": [
+                    "ATTENTION",
+                    "DEAR",
+                    "FOR",
+                    "TO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAME ___",
+                "members": [
+                    "BRAND",
+                    "DROP",
+                    "GAME",
+                    "NAMES"
+                ]
+            }
+        ]
     }
 ]
