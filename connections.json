@@ -26172,5 +26172,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 570,
+        "date": "2025-01-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SLIMY ANIMALS",
+                "members": [
+                    "EARTHWORM",
+                    "EEL",
+                    "SALAMANDER",
+                    "SLUG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT LUMINESCE",
+                "members": [
+                    "AURORA",
+                    "FIREFLY",
+                    "GLOWSTICK",
+                    "RADIUM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DUTCH SYMBOLS",
+                "members": [
+                    "CANAL",
+                    "CLOG",
+                    "TULIP",
+                    "WINDMILL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH SYNONYMS FOR \u201cPLUNGE\u201d",
+                "members": [
+                    "GATECRASH",
+                    "RAINDROP",
+                    "SKYDIVE",
+                    "WATERFALL"
+                ]
+            }
+        ]
     }
 ]
