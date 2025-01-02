@@ -26218,5 +26218,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 571,
+        "date": "2025-01-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PERCEIVE",
+                "members": [
+                    "CATCH",
+                    "CLOCK",
+                    "NOTICE",
+                    "REGISTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CADENCE",
+                "members": [
+                    "BEAT",
+                    "METER",
+                    "RHYTHM",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ONE IN A GROUP OF TWELVE",
+                "members": [
+                    "DONUT",
+                    "INCH",
+                    "JUROR",
+                    "MONTH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DOG ___",
+                "members": [
+                    "DAYS",
+                    "PADDLE",
+                    "TAG",
+                    "TIRED"
+                ]
+            }
+        ]
     }
 ]
