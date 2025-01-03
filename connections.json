@@ -26264,5 +26264,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 572,
+        "date": "2025-01-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A FOOT",
+                "members": [
+                    "ARCH",
+                    "BALL",
+                    "HEEL",
+                    "SOLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONE DOLLAR",
+                "members": [
+                    "BUCK",
+                    "CLAM",
+                    "SINGLE",
+                    "SMACKER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF MUSHROOMS",
+                "members": [
+                    "BUTTON",
+                    "MOREL",
+                    "OYSTER",
+                    "TRUMPET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "POT___",
+                "members": [
+                    "BELLY",
+                    "HOLE",
+                    "LUCK",
+                    "STICKER"
+                ]
+            }
+        ]
     }
 ]
