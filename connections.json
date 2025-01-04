@@ -26310,5 +26310,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 573,
+        "date": "2025-01-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CRUSH INTO A COMPACT SHAPE",
+                "members": [
+                    "BALL",
+                    "CRUMPLE",
+                    "SCRUNCH",
+                    "WAD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FASTENERS",
+                "members": [
+                    "BUCKLE",
+                    "CLIP",
+                    "HOOK",
+                    "SNAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MARK AS COMPLETED",
+                "members": [
+                    "CHECK",
+                    "CROSS",
+                    "STRIKE",
+                    "TICK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DEPICTED IN DAL\u00cd\u2019S \u201cTHE PERSISTENCE OF MEMORY\u201d",
+                "members": [
+                    "ANT",
+                    "BRANCH",
+                    "CLOCK",
+                    "MELTING"
+                ]
+            }
+        ]
     }
 ]
