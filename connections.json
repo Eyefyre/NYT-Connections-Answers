@@ -26356,5 +26356,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 574,
+        "date": "2025-01-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HARDLY BUSTLING",
+                "members": [
+                    "CALM",
+                    "QUIET",
+                    "SLEEPY",
+                    "SLOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EARN",
+                "members": [
+                    "GROSS",
+                    "MAKE",
+                    "NET",
+                    "YIELD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "REMOTE CONTROL FUNCTIONS",
+                "members": [
+                    "HOME",
+                    "MUTE",
+                    "STOP",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cDRUM\u201d",
+                "members": [
+                    "EAR",
+                    "KETTLE",
+                    "OIL",
+                    "SNARE"
+                ]
+            }
+        ]
     }
 ]
