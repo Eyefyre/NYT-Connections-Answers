@@ -26402,5 +26402,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 575,
+        "date": "2025-01-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BREATHE HARD",
+                "members": [
+                    "GASP",
+                    "HEAVE",
+                    "PANT",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CATCHALL",
+                "members": [
+                    "BLANKET",
+                    "BROAD",
+                    "GENERAL",
+                    "UMBRELLA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "METAPHORS FOR EASY THINGS",
+                "members": [
+                    "ABC",
+                    "BREEZE",
+                    "PICNIC",
+                    "PIE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SYNONYMS FOR REAR END MINUS LAST LETTER",
+                "members": [
+                    "ARS",
+                    "BOOT",
+                    "BUT",
+                    "RUM"
+                ]
+            }
+        ]
     }
 ]
