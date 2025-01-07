@@ -26448,5 +26448,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 576,
+        "date": "2025-01-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VOCAL MUSIC",
+                "members": [
+                    "A CAPPELLA",
+                    "BARBERSHOP",
+                    "DOO-WOP",
+                    "MADRIGAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "A HANDFUL OF",
+                "members": [
+                    "A FEW",
+                    "CERTAIN",
+                    "SOME",
+                    "VARIOUS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BOOK SUBTITLES",
+                "members": [
+                    "A LIFE",
+                    "A NOVEL",
+                    "ESSAYS",
+                    "PART ONE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ IS ___ (IS ___)",
+                "members": [
+                    "A DEAL",
+                    "A ROSE",
+                    "ENOUGH",
+                    "LOVE"
+                ]
+            }
+        ]
     }
 ]
