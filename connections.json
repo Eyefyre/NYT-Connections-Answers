@@ -26494,5 +26494,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 577,
+        "date": "2025-01-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SECTION",
+                "members": [
+                    "BRANCH",
+                    "DIVISION",
+                    "LIMB",
+                    "WING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
+                "members": [
+                    "BOW",
+                    "DRUMSTICK",
+                    "MALLET",
+                    "PICK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+                "members": [
+                    "EAR",
+                    "MEMORY",
+                    "TRUNK",
+                    "TUSK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS MISSPELLED IN NU METAL BAND NAMES",
+                "members": [
+                    "BISCUIT",
+                    "CORN",
+                    "LINCOLN",
+                    "STAINED"
+                ]
+            }
+        ]
     }
 ]
