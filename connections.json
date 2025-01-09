@@ -26540,5 +26540,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 578,
+        "date": "2025-01-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VENDOR\u2019S SPOT AT A MARKET",
+                "members": [
+                    "BOOTH",
+                    "STALL",
+                    "STAND",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DOG COMMANDS",
+                "members": [
+                    "COME",
+                    "HEEL",
+                    "SIT",
+                    "STAY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CORPORATE DEPARTMENTS",
+                "members": [
+                    "FINANCE",
+                    "IT",
+                    "LEGAL",
+                    "SALES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LAST WORDS IN \u201cAMERICA THE BEAUTIFUL\u201d",
+                "members": [
+                    "FROM",
+                    "SEA",
+                    "SHINING",
+                    "TO"
+                ]
+            }
+        ]
     }
 ]
