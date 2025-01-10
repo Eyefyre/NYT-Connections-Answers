@@ -26586,5 +26586,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 579,
+        "date": "2025-01-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BE CONTINGENT (ON)",
+                "members": [
+                    "DEPEND",
+                    "HINGE",
+                    "RELY",
+                    "REST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\u201cCALM DOWN\u201d",
+                "members": [
+                    "CHILL",
+                    "EASY",
+                    "ENOUGH",
+                    "RELAX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INGREDIENTS IN AN OLD FASHIONED",
+                "members": [
+                    "BITTERS",
+                    "ORANGE",
+                    "RYE",
+                    "SUGAR"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FEATURED IN THE MONTY HALL PROBLEM",
+                "members": [
+                    "CAR",
+                    "DOOR",
+                    "GOAT",
+                    "HOST"
+                ]
+            }
+        ]
     }
 ]
