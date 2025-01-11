@@ -26632,5 +26632,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 580,
+        "date": "2025-01-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DISPLAY OF ROWS AND COLUMNS",
+                "members": [
+                    "ARRAY",
+                    "GRID",
+                    "MATRIX",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS TO DO AT A WORK EVENT",
+                "members": [
+                    "CIRCULATE",
+                    "CONVERSE",
+                    "MINGLE",
+                    "NETWORK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OLYMPIC EVENTS SINCE 2000",
+                "members": [
+                    "BREAKING",
+                    "SURFING",
+                    "TAEKWONDO",
+                    "TRAMPOLINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ COURT",
+                "members": [
+                    "FOOD",
+                    "KANGAROO",
+                    "SUPREME",
+                    "TENNIS"
+                ]
+            }
+        ]
     }
 ]
