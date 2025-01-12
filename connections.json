@@ -26678,5 +26678,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 581,
+        "date": "2025-01-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FABRICATION",
+                "members": [
+                    "FAIRY TALE",
+                    "FANTASY",
+                    "FICTION",
+                    "INVENTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WOO",
+                "members": [
+                    "CHARM",
+                    "COURT",
+                    "PURSUE",
+                    "ROMANCE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC ATARI GAMES",
+                "members": [
+                    "ASTEROIDS",
+                    "BREAKOUT",
+                    "CENTIPEDE",
+                    "DEFENDER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS FEATURING TAILS",
+                "members": [
+                    "COIN TOSS",
+                    "COMETS",
+                    "DRESS COAT",
+                    "SONIC THE HEDGEHOG"
+                ]
+            }
+        ]
     }
 ]
