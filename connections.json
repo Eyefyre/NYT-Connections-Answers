@@ -26724,5 +26724,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 582,
+        "date": "2025-01-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TEACH",
+                "members": [
+                    "COACH",
+                    "GUIDE",
+                    "SCHOOL",
+                    "TRAIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CACHE",
+                "members": [
+                    "BANK",
+                    "POOL",
+                    "RESERVE",
+                    "STORE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DRIVING INSTRUCTOR DIRECTIVES",
+                "members": [
+                    "BRAKE",
+                    "PARK",
+                    "SIGNAL",
+                    "TURN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___WORM",
+                "members": [
+                    "BOOK",
+                    "EARTH",
+                    "GLOW",
+                    "INCH"
+                ]
+            }
+        ]
     }
 ]
