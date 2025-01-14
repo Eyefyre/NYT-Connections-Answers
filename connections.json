@@ -26770,5 +26770,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 583,
+        "date": "2025-01-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OPERATING",
+                "members": [
+                    "ACTIVE",
+                    "FUNCTIONAL",
+                    "RUNNING",
+                    "WORKING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TERM",
+                "members": [
+                    "MEETING",
+                    "PERIOD",
+                    "SESSION",
+                    "SITTING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS IN A CAMERA KIT",
+                "members": [
+                    "BODY",
+                    "FLASH",
+                    "LENS",
+                    "STRAP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BIRD PLUS LETTER",
+                "members": [
+                    "CROWD",
+                    "GULLY",
+                    "PUFFING",
+                    "SWANK"
+                ]
+            }
+        ]
     }
 ]
