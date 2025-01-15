@@ -26816,5 +26816,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 584,
+        "date": "2025-01-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MEANS",
+                "members": [
+                    "MECHANISM",
+                    "MEDIUM",
+                    "TOOL",
+                    "VEHICLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LACKING",
+                "members": [
+                    "LIGHT",
+                    "LOW",
+                    "SHORT",
+                    "SHY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MARTINI SPECIFICATIONS",
+                "members": [
+                    "DIRTY",
+                    "DRY",
+                    "PERFECT",
+                    "WET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FICTIONAL MISTERS",
+                "members": [
+                    "BIG",
+                    "PEANUT",
+                    "ROBOT",
+                    "TOAD"
+                ]
+            }
+        ]
     }
 ]
