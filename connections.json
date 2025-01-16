@@ -26862,5 +26862,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 585,
+        "date": "2025-01-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BUYING AND SELLING",
+                "members": [
+                    "BUSINESS",
+                    "COMMERCE",
+                    "MARKET",
+                    "TRADE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INSTALLED ON A WALL",
+                "members": [
+                    "BASEBOARD",
+                    "OUTLET",
+                    "SCONCE",
+                    "SWITCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPY",
+                "members": [
+                    "AGENT",
+                    "ASSET",
+                    "MOLE",
+                    "PLANT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ RAT",
+                "members": [
+                    "GYM",
+                    "MALL",
+                    "PACK",
+                    "RUG"
+                ]
+            }
+        ]
     }
 ]
