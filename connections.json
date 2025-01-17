@@ -26908,5 +26908,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 586,
+        "date": "2025-01-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FRANKFURTER",
+                "members": [
+                    "BANGER",
+                    "BRAT",
+                    "LINK",
+                    "SAUSAGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STRIKE",
+                "members": [
+                    "BOP",
+                    "HIT",
+                    "KNOCK",
+                    "TAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WEB BROWSERS",
+                "members": [
+                    "CHROME",
+                    "EDGE",
+                    "OPERA",
+                    "SAFARI"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH BEER BRANDS",
+                "members": [
+                    "AUTOHARP",
+                    "CONTRABASS",
+                    "PEPPERONI",
+                    "ROSEBUD"
+                ]
+            }
+        ]
     }
 ]
