@@ -26954,5 +26954,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 587,
+        "date": "2025-01-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DESIRE",
+                "members": [
+                    "DRIVE",
+                    "IMPULSE",
+                    "ITCH",
+                    "URGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BARB",
+                "members": [
+                    "SPINE",
+                    "SPUR",
+                    "STICKER",
+                    "THORN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "INFO ON A RECORD",
+                "members": [
+                    "ALBUM",
+                    "ARTIST",
+                    "LABEL",
+                    "TRACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TURN THE ___",
+                "members": [
+                    "CORNER",
+                    "PAGE",
+                    "TABLES",
+                    "TIDE"
+                ]
+            }
+        ]
     }
 ]
