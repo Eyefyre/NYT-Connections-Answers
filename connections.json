@@ -27000,5 +27000,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 588,
+        "date": "2025-01-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FUND",
+                "members": [
+                    "KITTY",
+                    "POOL",
+                    "POT",
+                    "PURSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COURT FILING",
+                "members": [
+                    "ACTION",
+                    "CASE",
+                    "CLAIM",
+                    "SUIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LANDFORMS",
+                "members": [
+                    "BASIN",
+                    "BLUFF",
+                    "CAPE",
+                    "PLAIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THEY HAVE RAYS",
+                "members": [
+                    "AQUARIUM",
+                    "GEOMETRY",
+                    "SUN",
+                    "TAMPA BAY"
+                ]
+            }
+        ]
     }
 ]
