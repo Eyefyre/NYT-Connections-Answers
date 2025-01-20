@@ -27046,5 +27046,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 589,
+        "date": "2025-01-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TAKE ON, AS A RESPONSIBILITY",
+                "members": [
+                    "ASSUME",
+                    "BEAR",
+                    "HANDLE",
+                    "SHOULDER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CORNERS",
+                "members": [
+                    "ANGLE",
+                    "BEND",
+                    "CROOK",
+                    "ELBOW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH POPEYE",
+                "members": [
+                    "ANCHOR",
+                    "FOREARM",
+                    "PIPE",
+                    "SPINACH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SHEET",
+                "members": [
+                    "BALANCE",
+                    "CHEAT",
+                    "COOKIE",
+                    "FITTED"
+                ]
+            }
+        ]
     }
 ]
