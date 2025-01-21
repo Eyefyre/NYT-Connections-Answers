@@ -27092,5 +27092,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 590,
+        "date": "2025-01-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PUTDOWN",
+                "members": [
+                    "BARB",
+                    "CRACK",
+                    "DIG",
+                    "SLIGHT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMALL LIKENESS",
+                "members": [
+                    "DOLL",
+                    "FIGURE",
+                    "MINIATURE",
+                    "MODEL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "USED TO CLEAR SNOW",
+                "members": [
+                    "PLOW",
+                    "SALT",
+                    "SAND",
+                    "SHOVEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DOCTORS IN POP CULTURE",
+                "members": [
+                    "NO",
+                    "OCTOPUS",
+                    "PEPPER",
+                    "WHO"
+                ]
+            }
+        ]
     }
 ]
