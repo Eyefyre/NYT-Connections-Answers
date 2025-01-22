@@ -27138,5 +27138,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 591,
+        "date": "2025-01-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TYPES OF ACADEMIC COURSES",
+                "members": [
+                    "DISCUSSION",
+                    "LAB",
+                    "LECTURE",
+                    "SEMINAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RESULTS OF SOME DIGGING",
+                "members": [
+                    "DITCH",
+                    "HOLE",
+                    "PIT",
+                    "TRENCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ONES WEARING ROBES",
+                "members": [
+                    "BOXER",
+                    "JUDGE",
+                    "MONK",
+                    "WIZARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ UP",
+                "members": [
+                    "BATTER",
+                    "BOTTOMS",
+                    "CHIN",
+                    "LAWYER"
+                ]
+            }
+        ]
     }
 ]
