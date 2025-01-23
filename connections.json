@@ -27184,5 +27184,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 592,
+        "date": "2025-01-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OUTDO",
+                "members": [
+                    "BETTER",
+                    "ECLIPSE",
+                    "SURPASS",
+                    "TOP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PICNIC ACCESSORIES",
+                "members": [
+                    "BASKET",
+                    "BLANKET",
+                    "COOLER",
+                    "UTENSILS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF AN INDIANA JONES COSTUME",
+                "members": [
+                    "BOMBER",
+                    "FEDORA",
+                    "SATCHEL",
+                    "WHIP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RHYMES OF U.S. PRESIDENT NAMES",
+                "members": [
+                    "PAGAN",
+                    "SMARTER",
+                    "VIXEN",
+                    "WIDEN"
+                ]
+            }
+        ]
     }
 ]
