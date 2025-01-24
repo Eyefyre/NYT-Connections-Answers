@@ -27230,5 +27230,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 593,
+        "date": "2025-01-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONTEMPLATE",
+                "members": [
+                    "BROOD",
+                    "MUSE",
+                    "PONDER",
+                    "REFLECT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RUDE THINGS TO DO",
+                "members": [
+                    "INTERRUPT",
+                    "LITTER",
+                    "POINT",
+                    "STARE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VOCATION",
+                "members": [
+                    "CRAFT",
+                    "LINE",
+                    "TRADE",
+                    "WORK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ PATCH",
+                "members": [
+                    "CABBAGE",
+                    "NICOTINE",
+                    "ROUGH",
+                    "SOUL"
+                ]
+            }
+        ]
     }
 ]
