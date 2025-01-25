@@ -27276,5 +27276,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 594,
+        "date": "2025-01-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SCHOOL PERIODS",
+                "members": [
+                    "CLASS",
+                    "HOMEROOM",
+                    "LUNCH",
+                    "RECESS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FEATURES OF A SKI RESORT",
+                "members": [
+                    "LIFT",
+                    "LODGE",
+                    "MOGUL",
+                    "SLOPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS DERIVED FROM JAPANESE",
+                "members": [
+                    "EMOJI",
+                    "GINKGO",
+                    "KARAOKE",
+                    "TYCOON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER THE PREFIX \u201cTRI-\u201d",
+                "members": [
+                    "ANGLE",
+                    "CYCLE",
+                    "DENT",
+                    "POD"
+                ]
+            }
+        ]
     }
 ]
