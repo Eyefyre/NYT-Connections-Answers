@@ -27322,5 +27322,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 595,
+        "date": "2025-01-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAYS TO GET FOOD",
+                "members": [
+                    "FARM",
+                    "FISH",
+                    "GATHER",
+                    "HUNT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KEEP APART",
+                "members": [
+                    "CLOISTER",
+                    "SECLUDE",
+                    "SEPARATE",
+                    "SILO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A BIG RIG",
+                "members": [
+                    "AXLES",
+                    "HITCH",
+                    "TRACTOR",
+                    "TRAILER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DANCE EVENTS PLUS A LETTER",
+                "members": [
+                    "BALLY",
+                    "DISCOG",
+                    "PROMO",
+                    "RAVEN"
+                ]
+            }
+        ]
     }
 ]
