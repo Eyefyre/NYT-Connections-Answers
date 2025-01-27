@@ -27368,5 +27368,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 596,
+        "date": "2025-01-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SMALL AMOUNT OF FOOD TO TRY",
+                "members": [
+                    "BITE",
+                    "MOUTHFUL",
+                    "SAMPLE",
+                    "TASTE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PROTECTIVE COVERINGS IN NATURE",
+                "members": [
+                    "BARK",
+                    "SCALES",
+                    "SHELL",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cEXTRA VIRGIN OLIVE OIL\u201d",
+                "members": [
+                    "EXTRA",
+                    "OIL",
+                    "OLIVE",
+                    "VIRGIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN IN \u201cTHE SHINING\u201d",
+                "members": [
+                    "AXE",
+                    "HEDGE MAZE",
+                    "TWINS",
+                    "TYPEWRITER"
+                ]
+            }
+        ]
     }
 ]
