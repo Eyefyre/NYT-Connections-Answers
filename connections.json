@@ -27414,5 +27414,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 597,
+        "date": "2025-01-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FUNNY PERSON",
+                "members": [
+                    "CARD",
+                    "CHARACTER",
+                    "JOKER",
+                    "LAUGH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RESISTANCE TRAINING EQUIPMENT",
+                "members": [
+                    "BAND",
+                    "BENCH",
+                    "DUMBBELL",
+                    "MAT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CANDY BARS MINUS \u201cS\u201d",
+                "members": [
+                    "AIRHEAD",
+                    "MAR",
+                    "MOUND",
+                    "SNICKER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPEED ___",
+                "members": [
+                    "BUMP",
+                    "CHESS",
+                    "DEMON",
+                    "DIAL"
+                ]
+            }
+        ]
     }
 ]
