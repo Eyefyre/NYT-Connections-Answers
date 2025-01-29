@@ -27460,5 +27460,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 598,
+        "date": "2025-01-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OWNED",
+                "members": [
+                    "BORE",
+                    "HAD",
+                    "HELD",
+                    "POSSESSED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU MIGHT DO IN YOUR SLEEP",
+                "members": [
+                    "DREAM",
+                    "DROOL",
+                    "SNORE",
+                    "TALK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIE SERIES WITH 2024 RELEASES",
+                "members": [
+                    "ALIEN",
+                    "GLADIATOR",
+                    "VENOM",
+                    "WICKED"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ HOUSE",
+                "members": [
+                    "FULL",
+                    "GINGERBREAD",
+                    "HAUNTED",
+                    "WHITE"
+                ]
+            }
+        ]
     }
 ]
