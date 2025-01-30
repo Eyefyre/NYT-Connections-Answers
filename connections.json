@@ -27506,5 +27506,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 599,
+        "date": "2025-01-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INTANGIBLE QUALITY",
+                "members": [
+                    "AIR",
+                    "AURA",
+                    "HALO",
+                    "VIBE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GAME DAY FARE",
+                "members": [
+                    "BEER",
+                    "DIP",
+                    "PIZZA",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KEEP GOING ON ABOUT, WITH \u201cON\u201d",
+                "members": [
+                    "DWELL",
+                    "HARP",
+                    "INSIST",
+                    "LINGER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH EUROPEAN CAPITALS",
+                "members": [
+                    "BERNIE",
+                    "PARISH",
+                    "RIGATONI",
+                    "ROMEO"
+                ]
+            }
+        ]
     }
 ]
