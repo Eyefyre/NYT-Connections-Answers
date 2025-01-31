@@ -27552,5 +27552,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 600,
+        "date": "2025-01-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STORAGE CONTAINERS",
+                "members": [
+                    "CASE",
+                    "CHEST",
+                    "CRATE",
+                    "TRUNK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SCHNOZZ",
+                "members": [
+                    "BEAK",
+                    "HONKER",
+                    "SNOOT",
+                    "SNOUT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ONES WITH DISCERNING TASTES",
+                "members": [
+                    "CONNOISSEUR",
+                    "CRITIC",
+                    "EXPERT",
+                    "SNOB"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF SWIMMING STROKES",
+                "members": [
+                    "BACK",
+                    "BREAST",
+                    "BUTTER",
+                    "FREE"
+                ]
+            }
+        ]
     }
 ]
