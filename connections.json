@@ -27598,5 +27598,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 601,
+        "date": "2025-02-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TINT",
+                "members": [
+                    "HUE",
+                    "SHADE",
+                    "TINGE",
+                    "TONE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPONENTS OF A MYSTERY",
+                "members": [
+                    "ALIBI",
+                    "CLUE",
+                    "DETECTIVE",
+                    "SUSPECT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TAKE ISSUE WITH",
+                "members": [
+                    "CONTEST",
+                    "CHALLENGE",
+                    "DISPUTE",
+                    "QUESTION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STRIKE A ___",
+                "members": [
+                    "CHORD",
+                    "DEAL",
+                    "MATCH",
+                    "POSE"
+                ]
+            }
+        ]
     }
 ]
