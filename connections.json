@@ -27644,5 +27644,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 602,
+        "date": "2025-02-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DEJECTED",
+                "members": [
+                    "BLUE",
+                    "DOWN",
+                    "HANGDOG",
+                    "SORRY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIRDS THAT ARE VERBS",
+                "members": [
+                    "DUCK",
+                    "GROUSE",
+                    "HAWK",
+                    "SWALLOW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TV COMEDY FAMILIES",
+                "members": [
+                    "GRIFFIN",
+                    "MUNSTER",
+                    "PARTRIDGE",
+                    "PICKLES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cK\u201d",
+                "members": [
+                    "MART",
+                    "POP",
+                    "STREET",
+                    "SWISS"
+                ]
+            }
+        ]
     }
 ]
