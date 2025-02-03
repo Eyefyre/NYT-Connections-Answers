@@ -27690,5 +27690,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 603,
+        "date": "2025-02-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMMENT AFTER AN INSULT",
+                "members": [
+                    "BURN",
+                    "OUCH",
+                    "SNAP",
+                    "ZING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TINY AMOUNT, WITH \u201cA\u201d",
+                "members": [
+                    "BIT",
+                    "LITTLE",
+                    "MITE",
+                    "TAD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BIT OF CITRUS GARNISH",
+                "members": [
+                    "SLICE",
+                    "TWIST",
+                    "WEDGE",
+                    "ZEST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BUNGLE, WITH \u201cUP\u201d",
+                "members": [
+                    "FOUL",
+                    "LOUSE",
+                    "MUCK",
+                    "SCREW"
+                ]
+            }
+        ]
     }
 ]
