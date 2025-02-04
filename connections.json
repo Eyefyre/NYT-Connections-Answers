@@ -27736,5 +27736,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 604,
+        "date": "2025-02-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONSERVE",
+                "members": [
+                    "KEEP",
+                    "PRESERVE",
+                    "SAVE",
+                    "STORE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMOOTH USING FRICTION",
+                "members": [
+                    "BUFF",
+                    "FILE",
+                    "GRIND",
+                    "SAND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPORTS GAMBLING TERMS",
+                "members": [
+                    "FAVORITE",
+                    "PARLAY",
+                    "SPREAD",
+                    "UNDER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cFINGERS\u201d",
+                "members": [
+                    "BUTTER",
+                    "CHICKEN",
+                    "LADY",
+                    "STICKY"
+                ]
+            }
+        ]
     }
 ]
