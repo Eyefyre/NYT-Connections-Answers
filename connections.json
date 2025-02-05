@@ -27782,5 +27782,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 605,
+        "date": "2025-02-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A COMPENSATION PACKAGE",
+                "members": [
+                    "BONUS",
+                    "INSURANCE",
+                    "SALARY",
+                    "VACATION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INDICATION",
+                "members": [
+                    "FLAG",
+                    "GIVEAWAY",
+                    "SIGN",
+                    "TELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TO DO WITH A DECK OF CARDS",
+                "members": [
+                    "CUT",
+                    "DEAL",
+                    "FAN",
+                    "SHUFFLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cBILL\u201d MIGHT REFER TO",
+                "members": [
+                    "BANKNOTE",
+                    "BEAK",
+                    "INVOICE",
+                    "WILLIAM"
+                ]
+            }
+        ]
     }
 ]
