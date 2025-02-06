@@ -27828,5 +27828,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 606,
+        "date": "2025-02-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DELICATE",
+                "members": [
+                    "FAINT",
+                    "LIGHT",
+                    "MILD",
+                    "SOFT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MAGNANIMOUS",
+                "members": [
+                    "GRAND",
+                    "GREAT",
+                    "LOFTY",
+                    "NOBLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH NECKS",
+                "members": [
+                    "BOTTLE",
+                    "GIRAFFE",
+                    "GUITAR",
+                    "LAMP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST NAMES IN JAZZ",
+                "members": [
+                    "CAB",
+                    "COUNT",
+                    "DIZZY",
+                    "DUKE"
+                ]
+            }
+        ]
     }
 ]
