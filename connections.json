@@ -27874,5 +27874,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 607,
+        "date": "2025-02-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BE IN CHARGE OF",
+                "members": [
+                    "DIRECT",
+                    "HEAD",
+                    "LEAD",
+                    "RUN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS MADE OF RUBBER",
+                "members": [
+                    "BALLOON",
+                    "ERASER",
+                    "GALOSH",
+                    "TIRE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH THE GENIE IN \u201cALADDIN\u201d",
+                "members": [
+                    "BLUE",
+                    "EARRING",
+                    "LAMP",
+                    "WISHES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RED ___",
+                "members": [
+                    "BULL",
+                    "CROSS",
+                    "HERRING",
+                    "VELVET"
+                ]
+            }
+        ]
     }
 ]
