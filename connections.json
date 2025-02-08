@@ -27920,5 +27920,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 608,
+        "date": "2025-02-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INFO ON A BASEBALL CARD",
+                "members": [
+                    "BIO",
+                    "PLAYER",
+                    "STAT",
+                    "TEAM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SCRUNCH, AS FABRIC",
+                "members": [
+                    "BUNCH",
+                    "GATHER",
+                    "RUFFLE",
+                    "PUCKER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TIME ADVERBS",
+                "members": [
+                    "LATER",
+                    "NOW",
+                    "SOON",
+                    "THEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ FOOD",
+                "members": [
+                    "FAST",
+                    "FINGER",
+                    "JUNK",
+                    "SOUL"
+                ]
+            }
+        ]
     }
 ]
