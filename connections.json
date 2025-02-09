@@ -27966,5 +27966,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 609,
+        "date": "2025-02-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MASSIVE",
+                "members": [
+                    "GIANT",
+                    "JUMBO",
+                    "MONSTER",
+                    "SUPER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USED WHEN SERVING SOUP",
+                "members": [
+                    "BOWL",
+                    "LADLE",
+                    "POT",
+                    "SPOON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SOMEBODY",
+                "members": [
+                    "CHARACTER",
+                    "INDIVIDUAL",
+                    "PARTY",
+                    "PERSON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SCI-FI FRANCHISES",
+                "members": [
+                    "ALIEN",
+                    "AVATAR",
+                    "DUNE",
+                    "TRON"
+                ]
+            }
+        ]
     }
 ]
