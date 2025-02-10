@@ -28012,5 +28012,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 610,
+        "date": "2025-02-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPRINKLE",
+                "members": [
+                    "DUST",
+                    "PEPPER",
+                    "SCATTER",
+                    "SHOWER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SCENTS OF WINE",
+                "members": [
+                    "AROMA",
+                    "BOUQUET",
+                    "NOSE",
+                    "NOTE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cAAH, ENOUGH!\u201d",
+                "members": [
+                    "MERCY",
+                    "STOP",
+                    "TRUCE",
+                    "UNCLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS FAMOUSLY PRONOUNCED DIFFERENT WAYS",
+                "members": [
+                    "AUNT",
+                    "EITHER",
+                    "TOMATO",
+                    "VASE"
+                ]
+            }
+        ]
     }
 ]
