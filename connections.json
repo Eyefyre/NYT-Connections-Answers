@@ -28058,5 +28058,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 611,
+        "date": "2025-02-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WREST",
+                "members": [
+                    "JERK",
+                    "TUG",
+                    "WRENCH",
+                    "YANK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BUSTER",
+                "members": [
+                    "BUB",
+                    "BUD",
+                    "JACK",
+                    "MAN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "YOGA ACCESSORIES",
+                "members": [
+                    "BLOCK",
+                    "BOLSTER",
+                    "MAT",
+                    "STRAP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___CAP",
+                "members": [
+                    "HUB",
+                    "KNEE",
+                    "MAD",
+                    "NIGHT"
+                ]
+            }
+        ]
     }
 ]
