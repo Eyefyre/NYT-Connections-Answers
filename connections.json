@@ -28104,5 +28104,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 612,
+        "date": "2025-02-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DOCUMENTS OF OWNERSHIP",
+                "members": [
+                    "CERTIFICATE",
+                    "DEED",
+                    "RECEIPT",
+                    "TITLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BITS IN A VARIETY SHOW",
+                "members": [
+                    "DANCE",
+                    "MONOLOGUE",
+                    "SKETCH",
+                    "SONG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PROPS FOR CHARACTERS ON \u201cTHE SIMPSONS\u201d",
+                "members": [
+                    "DONUT",
+                    "PACIFIER",
+                    "SAXOPHONE",
+                    "SKATEBOARD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH \u201cSHAKE, RATTLE AND ROLL\u201d",
+                "members": [
+                    "ANDROID",
+                    "RATTLESNAKE",
+                    "ROLLERBLADE",
+                    "SHAKESPEARE"
+                ]
+            }
+        ]
     }
 ]
