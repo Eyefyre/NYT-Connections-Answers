@@ -28150,5 +28150,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 613,
+        "date": "2025-02-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TEMPLATE",
+                "members": [
+                    "BLUEPRINT",
+                    "GUIDE",
+                    "MODEL",
+                    "MOLD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DEMONSTRATION, AS OF APPRECIATION",
+                "members": [
+                    "EXPRESSION",
+                    "GESTURE",
+                    "SYMBOL",
+                    "TOKEN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MODAL VERBS",
+                "members": [
+                    "CAN",
+                    "MIGHT",
+                    "MUST",
+                    "WILL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TRIP",
+                "members": [
+                    "EGO",
+                    "GUILT",
+                    "HEAD",
+                    "POWER"
+                ]
+            }
+        ]
     }
 ]
