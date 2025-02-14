@@ -28196,5 +28196,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 614,
+        "date": "2025-02-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOLLYCODDLE",
+                "members": [
+                    "BABY",
+                    "HUMOR",
+                    "INDULGE",
+                    "PAMPER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS A RATTLESNAKE DOES",
+                "members": [
+                    "HISS",
+                    "RATTLE",
+                    "SHED",
+                    "SLITHER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS SAID TO AN UNSUSPECTING PERSON",
+                "members": [
+                    "BOO",
+                    "GOTCHA",
+                    "GUESS WHO",
+                    "SURPRISE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF BODIES OF WATER",
+                "members": [
+                    "BAE",
+                    "CREAK",
+                    "SEE",
+                    "STRAIGHT"
+                ]
+            }
+        ]
     }
 ]
