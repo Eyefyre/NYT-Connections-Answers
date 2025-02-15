@@ -28242,5 +28242,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 615,
+        "date": "2025-02-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DIVULGE",
+                "members": [
+                    "BLAB",
+                    "DISH",
+                    "SPILL",
+                    "TELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WORDS ON A MAC KEYBOARD",
+                "members": [
+                    "COMMAND",
+                    "CONTROL",
+                    "OPTION",
+                    "RETURN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS SHORTENED IN ROCK GENRES",
+                "members": [
+                    "ALTERNATIVE",
+                    "EMOTIONAL",
+                    "POPULAR",
+                    "PROGRESSIVE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___CAKE",
+                "members": [
+                    "CHEESE",
+                    "CUP",
+                    "PAN",
+                    "SHORT"
+                ]
+            }
+        ]
     }
 ]
