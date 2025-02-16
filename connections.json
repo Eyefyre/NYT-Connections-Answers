@@ -28288,5 +28288,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 616,
+        "date": "2025-02-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GLIMMER",
+                "members": [
+                    "HINT",
+                    "SUGGESTION",
+                    "TOUCH",
+                    "TRACE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CORRESPOND WELL WITH",
+                "members": [
+                    "COMPLEMENT",
+                    "FIT",
+                    "MATCH",
+                    "SUIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FAMOUS PUPPETS",
+                "members": [
+                    "LAMB CHOP",
+                    "OSCAR",
+                    "PUNCH",
+                    "TRIUMPH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DOG BREEDS MINUS \u201cER\u201d SOUND",
+                "members": [
+                    "BOX",
+                    "POINT",
+                    "RETRIEVE",
+                    "SET"
+                ]
+            }
+        ]
     }
 ]
