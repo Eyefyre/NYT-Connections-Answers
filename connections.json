@@ -28334,5 +28334,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 617,
+        "date": "2025-02-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TIME OFF",
+                "members": [
+                    "BREAK",
+                    "LEAVE",
+                    "REST",
+                    "VACATION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FOLLOW A MEANDERING COURSE",
+                "members": [
+                    "CURVE",
+                    "SNAKE",
+                    "WEAVE",
+                    "WIND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BOWLING RESULTS",
+                "members": [
+                    "DOUBLE",
+                    "SPARE",
+                    "STRIKE",
+                    "TURKEY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___FISH",
+                "members": [
+                    "BLOW",
+                    "CAT",
+                    "GOLD",
+                    "SWORD"
+                ]
+            }
+        ]
     }
 ]
