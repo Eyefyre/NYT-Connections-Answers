@@ -28426,5 +28426,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 619,
+        "date": "2025-02-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STRUCTURES BY THE SHORE",
+                "members": [
+                    "BOARDWALK",
+                    "DOCK",
+                    "LIGHTHOUSE",
+                    "WHARF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMALL IMPERFECTION",
+                "members": [
+                    "DENT",
+                    "DING",
+                    "NICK",
+                    "SCRATCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SOUNDS A CUCKOO CLOCK MAKES",
+                "members": [
+                    "CHIME",
+                    "CUCKOO",
+                    "TICK",
+                    "TOCK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___TAIL",
+                "members": [
+                    "COCK",
+                    "MOCK",
+                    "PIG",
+                    "PONY"
+                ]
+            }
+        ]
     }
 ]
