@@ -28472,5 +28472,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 620,
+        "date": "2025-02-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ALERT",
+                "members": [
+                    "ALARM",
+                    "FLARE",
+                    "SIGNAL",
+                    "SOS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPEND THE NIGHT (AT)",
+                "members": [
+                    "BUNK",
+                    "CRASH",
+                    "SLEEP",
+                    "STAY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH EARLY MORNING",
+                "members": [
+                    "DEW",
+                    "ROOSTER",
+                    "SUNRISE",
+                    "WORM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COOKIE CUTTER SHAPES IN \u201cSQUID GAME\u201d",
+                "members": [
+                    "CIRCLE",
+                    "STAR",
+                    "TRIANGLE",
+                    "UMBRELLA"
+                ]
+            }
+        ]
     }
 ]
