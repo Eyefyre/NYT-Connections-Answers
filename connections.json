@@ -28518,5 +28518,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 621,
+        "date": "2025-02-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WAY OF SOLVING A PROBLEM",
+                "members": [
+                    "ANSWER",
+                    "FIX",
+                    "REMEDY",
+                    "SOLUTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COLLECT, AS FROM AN ORCHARD",
+                "members": [
+                    "GATHER",
+                    "HARVEST",
+                    "PICK",
+                    "REAP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PHOTOSHOP TOOLS",
+                "members": [
+                    "ERASER",
+                    "EYEDROPPER",
+                    "LASSO",
+                    "MAGIC WAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED",
+                "members": [
+                    "BASEBALL GLOVE",
+                    "CAN OPENER",
+                    "GOLF CLUB",
+                    "GUITAR"
+                ]
+            }
+        ]
     }
 ]
