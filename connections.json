@@ -28564,5 +28564,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 622,
+        "date": "2025-02-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MEMBER OF A TEAM WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS",
+                "members": [
+                    "CANADIEN",
+                    "CELTIC",
+                    "PACKER",
+                    "YANKEE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CREATE SOME VOLUME/TEXTURE IN HAIR",
+                "members": [
+                    "CRIMP",
+                    "CURL",
+                    "FEATHER",
+                    "TEASE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUPPLIES FOR MACARONI ART",
+                "members": [
+                    "GLITTER",
+                    "GLUE",
+                    "MACARONI",
+                    "PAPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cGOLDEN\u201d",
+                "members": [
+                    "DOODLE",
+                    "GOOSE",
+                    "PARACHUTE",
+                    "ROD"
+                ]
+            }
+        ]
     }
 ]
