@@ -28610,5 +28610,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 623,
+        "date": "2025-02-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RUB TOGETHER",
+                "members": [
+                    "GNASH",
+                    "GRATE",
+                    "GRIND",
+                    "SCRAPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO PRESERVE FOOD",
+                "members": [
+                    "CAN",
+                    "FERMENT",
+                    "FREEZE",
+                    "PICKLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BREAKFAST CONDIMENTS",
+                "members": [
+                    "BUTTER",
+                    "HOT SAUCE",
+                    "JAM",
+                    "SYRUP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PROVERBIAL THINGS THAT ARE SPILLED",
+                "members": [
+                    "BEANS",
+                    "GUTS",
+                    "MILK",
+                    "TEA"
+                ]
+            }
+        ]
     }
 ]
