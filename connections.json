@@ -28656,5 +28656,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 624,
+        "date": "2025-02-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EAT VORACIOUSLY",
+                "members": [
+                    "GOBBLE",
+                    "GULP",
+                    "SCARF",
+                    "WOLF"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BEND UNDER PRESSURE",
+                "members": [
+                    "BOW",
+                    "BUCKLE",
+                    "CAVE",
+                    "GIVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC NAUTICAL TATTOOS",
+                "members": [
+                    "ANCHOR",
+                    "COMPASS",
+                    "MERMAID",
+                    "SWALLOW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BODY PARTS PLUS LETTER",
+                "members": [
+                    "BUTTE",
+                    "CHINA",
+                    "HEARTH",
+                    "SHINE"
+                ]
+            }
+        ]
     }
 ]
