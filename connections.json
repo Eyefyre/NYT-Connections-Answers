@@ -28702,5 +28702,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 625,
+        "date": "2025-02-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ENTHUSIASM",
+                "members": [
+                    "GUSTO",
+                    "PASSION",
+                    "RELISH",
+                    "ZEST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\u201cMANY\u201d IN DIFFERENT LANGUAGES",
+                "members": [
+                    "BEAUCOUP",
+                    "MOLTO",
+                    "MUCHO",
+                    "MULTI"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RECTANGULAR PRISMS",
+                "members": [
+                    "BRICK",
+                    "FISH TANK",
+                    "MICROWAVE",
+                    "SHOEBOX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RHYME WITH U.S. COINS",
+                "members": [
+                    "JENNY",
+                    "LIME",
+                    "MORTAR",
+                    "PICKLE"
+                ]
+            }
+        ]
     }
 ]
