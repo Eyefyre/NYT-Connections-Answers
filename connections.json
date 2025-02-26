@@ -28748,5 +28748,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 626,
+        "date": "2025-02-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXPENDITURE",
+                "members": [
+                    "CHARGE",
+                    "COST",
+                    "PRICE",
+                    "RATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONETIME",
+                "members": [
+                    "FORMER",
+                    "LATE",
+                    "PAST",
+                    "PRIOR"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MADE WITH HORIZONTAL LINES",
+                "members": [
+                    "DASH",
+                    "HYPHEN",
+                    "MINUS",
+                    "UNDERSCORE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SIMPSON FAMILY MEMBERS WITH FIRST LETTER CHANGED",
+                "members": [
+                    "BAGGIE",
+                    "BARGE",
+                    "COMER",
+                    "PISA"
+                ]
+            }
+        ]
     }
 ]
