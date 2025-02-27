@@ -28794,5 +28794,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 627,
+        "date": "2025-02-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONTACT VIA TELEPHONE",
+                "members": [
+                    "CALL",
+                    "DIAL",
+                    "PHONE",
+                    "RING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF A CAR",
+                "members": [
+                    "BELT",
+                    "HORN",
+                    "MIRROR",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEVELS OF BIOLOGICAL ORGANIZATION",
+                "members": [
+                    "ATOM",
+                    "CELL",
+                    "ORGAN",
+                    "TISSUE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH UNITS OF MEASURE",
+                "members": [
+                    "BIGFOOT",
+                    "COMPOUND",
+                    "INSTAGRAM",
+                    "THERMOMETER"
+                ]
+            }
+        ]
     }
 ]
