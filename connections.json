@@ -28840,5 +28840,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 628,
+        "date": "2025-02-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BE INDECISIVE",
+                "members": [
+                    "HESITATE",
+                    "WAFFLE",
+                    "WAVER",
+                    "YO-YO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LOVELY PERSON",
+                "members": [
+                    "ANGEL",
+                    "DEAR",
+                    "DOLL",
+                    "PEACH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LUCIDITY",
+                "members": [
+                    "MARBLES",
+                    "MIND",
+                    "SENSE",
+                    "WITS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COMPONENTS OF METAPHORS FOR THINGS THAT CAN\u2019T BE UNDONE",
+                "members": [
+                    "BELL",
+                    "EGG",
+                    "GENIE",
+                    "TOOTHPASTE"
+                ]
+            }
+        ]
     }
 ]
