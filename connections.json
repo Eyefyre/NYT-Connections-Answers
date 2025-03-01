@@ -28886,5 +28886,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 629,
+        "date": "2025-03-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ASSOCIATED WITH GOOD LUCK",
+                "members": [
+                    "HORSESHOE",
+                    "LADYBUG",
+                    "PENNY",
+                    "SHAMROCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TO-BO- COMPOUND WORDS",
+                "members": [
+                    "TOLLBOOTH",
+                    "TOMBOY",
+                    "TOOLBOX",
+                    "TOWBOAT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BROADWAY MUSICALS, FAMILIARLY",
+                "members": [
+                    "FIDDLER",
+                    "MERRILY",
+                    "PHANTOM",
+                    "SUNSET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cCOWBOY\u201d IN FILM AND MUSIC",
+                "members": [
+                    "DRUGSTORE",
+                    "MIDNIGHT",
+                    "RHINESTONE",
+                    "SPACE"
+                ]
+            }
+        ]
     }
 ]
