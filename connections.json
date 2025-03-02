@@ -28932,5 +28932,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 630,
+        "date": "2025-03-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CELLPHONE MODES",
+                "members": [
+                    "AIRPLANE",
+                    "DO NOT DISTURB",
+                    "RING",
+                    "VIBRATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EVADE",
+                "members": [
+                    "DODGE",
+                    "ESCAPE",
+                    "LOSE",
+                    "SHAKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT \u201cW\u201d MIGHT STAND FOR",
+                "members": [
+                    "TUNGSTEN",
+                    "WATT",
+                    "WEST",
+                    "WIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___STRING",
+                "members": [
+                    "DRAW",
+                    "HAM",
+                    "HEART",
+                    "SHOE"
+                ]
+            }
+        ]
     }
 ]
