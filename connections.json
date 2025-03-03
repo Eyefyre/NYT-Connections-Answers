@@ -28978,5 +28978,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 631,
+        "date": "2025-03-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BE AT LEISURE",
+                "members": [
+                    "CHILL",
+                    "LOAF",
+                    "LOUNGE",
+                    "REST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FORMATS OF GOLD",
+                "members": [
+                    "BAR",
+                    "COIN",
+                    "LEAF",
+                    "NUGGET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CYLINDER OF MATERIAL",
+                "members": [
+                    "BOLT",
+                    "REEL",
+                    "ROLL",
+                    "SCROLL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN IN \u201cTHE FLINTSTONES\u201d",
+                "members": [
+                    "BONE",
+                    "CLUB",
+                    "DINOSAUR",
+                    "RUBBLE"
+                ]
+            }
+        ]
     }
 ]
