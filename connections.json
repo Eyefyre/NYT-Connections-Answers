@@ -29024,5 +29024,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 632,
+        "date": "2025-03-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ADJECTIVES FOR NICE SKIN",
+                "members": [
+                    "DEWY",
+                    "FRESH",
+                    "GLOWING",
+                    "SMOOTH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MESS OF HAIR",
+                "members": [
+                    "MAT",
+                    "MOP",
+                    "TANGLE",
+                    "THATCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DICKENS CHARACTERS",
+                "members": [
+                    "BUCKET",
+                    "PIP",
+                    "SCROOGE",
+                    "TWIST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CHAIN",
+                "members": [
+                    "DAISY",
+                    "FOOD",
+                    "MOUNTAIN",
+                    "SUPPLY"
+                ]
+            }
+        ]
     }
 ]
