@@ -29116,5 +29116,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 634,
+        "date": "2025-03-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WANE",
+                "members": [
+                    "DWINDLE",
+                    "FADE",
+                    "PETER",
+                    "TAPER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DO SOME TASKS IN THE GARDEN",
+                "members": [
+                    "PLANT",
+                    "PRUNE",
+                    "WATER",
+                    "WEED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SHOES",
+                "members": [
+                    "FLAT",
+                    "MARY JANE",
+                    "MULE",
+                    "SLIDE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SAND___",
+                "members": [
+                    "CASTLE",
+                    "PAPER",
+                    "PIPER",
+                    "STONE"
+                ]
+            }
+        ]
     }
 ]
