@@ -29162,5 +29162,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 635,
+        "date": "2025-03-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EMBLEM",
+                "members": [
+                    "LABEL",
+                    "MARK",
+                    "SEAL",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS",
+                "members": [
+                    "BROWN",
+                    "CASH",
+                    "DYLAN",
+                    "MERCURY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "U.S. CITIES",
+                "members": [
+                    "BUFFALO",
+                    "HELENA",
+                    "IRVING",
+                    "PHOENIX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FRUITS WITH THEIR SECOND LETTERS CHANGED",
+                "members": [
+                    "AMPLE",
+                    "DOTE",
+                    "LUMON",
+                    "POACH"
+                ]
+            }
+        ]
     }
 ]
