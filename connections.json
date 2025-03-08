@@ -29208,5 +29208,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 636,
+        "date": "2025-03-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FAUX",
+                "members": [
+                    "ARTIFICIAL",
+                    "FAKE",
+                    "IMITATION",
+                    "MOCK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WASHING MACHINE CYCLES/SETTINGS",
+                "members": [
+                    "BULKY",
+                    "COTTON",
+                    "DELICATE",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS SAID FREQUENTLY IN THE \u201cBILL AND TED\u201d MOVIES",
+                "members": [
+                    "BOGUS",
+                    "DUDE",
+                    "EXCELLENT",
+                    "TOTALLY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___BOX",
+                "members": [
+                    "CHATTER",
+                    "JUKE",
+                    "SHADOW",
+                    "SOAP"
+                ]
+            }
+        ]
     }
 ]
