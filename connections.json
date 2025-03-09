@@ -29254,5 +29254,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 637,
+        "date": "2025-03-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPUTER INPUT DEVICES",
+                "members": [
+                    "MICROPHONE",
+                    "MOUSE",
+                    "SCANNER",
+                    "TABLET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BUILDING MATERIALS",
+                "members": [
+                    "BRICK",
+                    "CONCRETE",
+                    "METAL",
+                    "STONE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HELPFUL DEED",
+                "members": [
+                    "FAVOR",
+                    "KINDNESS",
+                    "SERVICE",
+                    "SOLID"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "#1 SONGS FROM 1982",
+                "members": [
+                    "ABRACADABRA",
+                    "CENTERFOLD",
+                    "MICKEY",
+                    "PHYSICAL"
+                ]
+            }
+        ]
     }
 ]
