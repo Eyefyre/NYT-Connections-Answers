@@ -29300,5 +29300,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 638,
+        "date": "2025-03-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CAT BREEDS",
+                "members": [
+                    "RAGAMUFFIN",
+                    "RUSSIAN BLUE",
+                    "SPHYNX",
+                    "TURKISH ANGORA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FAMOUS SMILES",
+                "members": [
+                    "CHESHIRE CAT",
+                    "COMEDY MASK",
+                    "JOKER",
+                    "MONA LISA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ATTRACTIONS ICONICALLY DIFFERENT FROM THEIR ORIGINAL FORMS",
+                "members": [
+                    "LIBERTY BELL",
+                    "VENUS DE MILO",
+                    "STATUE OF LIBERTY",
+                    "TOWER OF PISA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ASSOCIATED WITH \u201cTHE DUDE\u201d LEBOWSKI",
+                "members": [
+                    "BATHROBE",
+                    "BOWLING",
+                    "RUG",
+                    "WHITE RUSSIAN"
+                ]
+            }
+        ]
     }
 ]
