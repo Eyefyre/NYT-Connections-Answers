@@ -29346,5 +29346,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 639,
+        "date": "2025-03-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "VARIATION FROM THE NORM",
+                "members": [
+                    "ALTERNATIVE",
+                    "BREAK",
+                    "CHANGE",
+                    "DEPARTURE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS THAT RING",
+                "members": [
+                    "ALARM",
+                    "BELL",
+                    "INTERCOM",
+                    "PHONE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TRADITIONALLY MADE OF LEATHER",
+                "members": [
+                    "FOOTBALL",
+                    "MOCCASINS",
+                    "SADDLE",
+                    "WALLET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SINGER-SONGWRITER PIANISTS",
+                "members": [
+                    "KEYS",
+                    "KING",
+                    "LEGEND",
+                    "WONDER"
+                ]
+            }
+        ]
     }
 ]
