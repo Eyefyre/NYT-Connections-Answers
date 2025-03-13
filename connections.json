@@ -29438,5 +29438,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 641,
+        "date": "2025-03-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTIALITY",
+                "members": [
+                    "ANGLE",
+                    "BIAS",
+                    "SLANT",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SIGNAL DOWN, AS A TAXI",
+                "members": [
+                    "FLAG",
+                    "HAIL",
+                    "WAVE",
+                    "WHISTLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CARDS IN TEXAS HOLD \u2019EM",
+                "members": [
+                    "FLOP",
+                    "HOLE",
+                    "RIVER",
+                    "TURN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SHAKESPEAREAN WORDS",
+                "members": [
+                    "ANON",
+                    "ART",
+                    "THOU",
+                    "WILT"
+                ]
+            }
+        ]
     }
 ]
