@@ -29484,5 +29484,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 642,
+        "date": "2025-03-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IMPOSE, AS A PENALTY",
+                "members": [
+                    "ASSESS",
+                    "CHARGE",
+                    "FINE",
+                    "LEVY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CHECKOUT LINE IMPULSE BUYS",
+                "members": [
+                    "CANDY",
+                    "CHAPSTICK",
+                    "CHARGING CABLE",
+                    "MAGAZINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIES OF VARIOUS LENGTHS",
+                "members": [
+                    "EPIC",
+                    "FEATURE",
+                    "FILM SERIES",
+                    "SHORT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ ROAD",
+                "members": [
+                    "DIRT",
+                    "HIGH",
+                    "ROCKY",
+                    "SILK"
+                ]
+            }
+        ]
     }
 ]
