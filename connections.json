@@ -29622,5 +29622,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 645,
+        "date": "2025-03-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FILAMENT",
+                "members": [
+                    "FIBER",
+                    "STRAND",
+                    "STRING",
+                    "THREAD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UNINHIBITEDNESS",
+                "members": [
+                    "ABANDON",
+                    "FREEDOM",
+                    "SPONTANEITY",
+                    "UNRESTRAINT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF TRUCKS",
+                "members": [
+                    "DUMP",
+                    "GARBAGE",
+                    "MONSTER",
+                    "PICKUP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BANDS MINUS THE NUMBER FIVE",
+                "members": [
+                    "BEN FOLDS",
+                    "JACKSON",
+                    "MAROON",
+                    "MC"
+                ]
+            }
+        ]
     }
 ]
