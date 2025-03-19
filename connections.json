@@ -29714,5 +29714,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 647,
+        "date": "2025-03-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SIGNIFY",
+                "members": [
+                    "CONVEY",
+                    "EXPRESS",
+                    "MEAN",
+                    "SPELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WEB BROWSER BUTTONS",
+                "members": [
+                    "BACK",
+                    "EXTENSIONS",
+                    "FORWARD",
+                    "REFRESH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A ROAD",
+                "members": [
+                    "DIVIDER",
+                    "LANE",
+                    "MEDIAN",
+                    "SHOULDER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u00c0/A LA ___",
+                "members": [
+                    "CARTE",
+                    "KING",
+                    "MODE",
+                    "PLANCHA"
+                ]
+            }
+        ]
     }
 ]
