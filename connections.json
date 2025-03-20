@@ -29760,5 +29760,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 648,
+        "date": "2025-03-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "OUTSPOKEN",
+                "members": [
+                    "DIRECT",
+                    "FRANK",
+                    "LOUD",
+                    "VOCAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BODIES OF WATER",
+                "members": [
+                    "BAY",
+                    "CHANNEL",
+                    "SOUND",
+                    "STRAIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF CORDS",
+                "members": [
+                    "BUNGEE",
+                    "EXTENSION",
+                    "SPINAL",
+                    "UMBILICAL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS IN BOTTLES",
+                "members": [
+                    "GENIE",
+                    "LIGHTNING",
+                    "MESSAGE",
+                    "SHIP"
+                ]
+            }
+        ]
     }
 ]
