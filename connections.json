@@ -29806,5 +29806,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 649,
+        "date": "2025-03-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MILIEU",
+                "members": [
+                    "CIRCLE",
+                    "SCENE",
+                    "SPHERE",
+                    "WORLD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LUMINARY",
+                "members": [
+                    "GREAT",
+                    "ICON",
+                    "LEGEND",
+                    "LION"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ARCHITECTURAL DRAWING TOOLS",
+                "members": [
+                    "COMPASS",
+                    "RULER",
+                    "STENCIL",
+                    "T-SQUARE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BAR ___",
+                "members": [
+                    "CHART",
+                    "EXAM",
+                    "MITZVAH",
+                    "SOAP"
+                ]
+            }
+        ]
     }
 ]
