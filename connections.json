@@ -29852,5 +29852,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 650,
+        "date": "2025-03-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MUSICAL INSTRUMENTS",
+                "members": [
+                    "TAMBOURINE",
+                    "THEREMIN",
+                    "TIMPANI",
+                    "TROMBONE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KNICKKNACK",
+                "members": [
+                    "TCHOTCHKE",
+                    "THINGAMAJIG",
+                    "TRIFLE",
+                    "TRINKET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS WITH THE PREFIX MEANING \u201cTHREE\u201d",
+                "members": [
+                    "TRIANGLE",
+                    "TRIDENT",
+                    "TRILLION",
+                    "TRILOBITE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS ABBREVIATED WITH \u201cT\u201d + LETTER",
+                "members": [
+                    "TELEVISION",
+                    "TOUCHDOWN",
+                    "TRADEMARK",
+                    "TUBERCULOSIS"
+                ]
+            }
+        ]
     }
 ]
