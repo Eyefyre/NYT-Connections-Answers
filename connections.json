@@ -29898,5 +29898,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 651,
+        "date": "2025-03-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CAPTIVATE",
+                "members": [
+                    "ABSORB",
+                    "ENTRANCE",
+                    "GRAB",
+                    "RIVET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH WINGS",
+                "members": [
+                    "AIRPLANE",
+                    "FAIRY",
+                    "FLY",
+                    "HOSPITAL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS THAT MODIFY \u201cWATCH\u201d",
+                "members": [
+                    "POCKET",
+                    "SMART",
+                    "STOP",
+                    "WRIST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS REPEATED IN \u201cMISS MARY MACK\u201d",
+                "members": [
+                    "BACK",
+                    "BLACK",
+                    "BUTTONS",
+                    "MACK"
+                ]
+            }
+        ]
     }
 ]
