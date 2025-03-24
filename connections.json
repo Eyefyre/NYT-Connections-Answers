@@ -29944,5 +29944,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 652,
+        "date": "2025-03-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BAD-SMELLING",
+                "members": [
+                    "FOUL",
+                    "RANK",
+                    "RIPE",
+                    "SOUR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UNFLUCTUATING",
+                "members": [
+                    "CONSTANT",
+                    "LEVEL",
+                    "STABLE",
+                    "UNIFORM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
+                "members": [
+                    "ADULTS ONLY",
+                    "EVERYONE",
+                    "TEEN",
+                    "MATURE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH LAYERS",
+                "members": [
+                    "EARTH",
+                    "HENHOUSE",
+                    "ONION",
+                    "PHOTOSHOP"
+                ]
+            }
+        ]
     }
 ]
