@@ -29990,5 +29990,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 653,
+        "date": "2025-03-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BLACK-AND-WHITE THINGS",
+                "members": [
+                    "CROSSWORD",
+                    "OREO",
+                    "PANDA",
+                    "TUXEDO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "ABEL",
+                    "ABLE",
+                    "BALE",
+                    "BELA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "U.S. PRESIDENTIAL NICKNAMES",
+                "members": [
+                    "ABE",
+                    "CAL",
+                    "DICK",
+                    "TEDDY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CLEAR AS ___",
+                "members": [
+                    "A BELL",
+                    "CRYSTAL",
+                    "DAY",
+                    "MUD"
+                ]
+            }
+        ]
     }
 ]
