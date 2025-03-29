@@ -30174,5 +30174,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 657,
+        "date": "2025-03-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MATERIALS ASSOCIATED WITH FANCY DINING",
+                "members": [
+                    "CHINA",
+                    "CRYSTAL",
+                    "LINEN",
+                    "SILVER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF SHORTS",
+                "members": [
+                    "BERMUDA",
+                    "BIKE",
+                    "BOXER",
+                    "CARGO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NOUNS IN A FAMOUS PALINDROME",
+                "members": [
+                    "CANAL",
+                    "MAN",
+                    "PANAMA",
+                    "PLAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MOVIES FROM 1985",
+                "members": [
+                    "BRAZIL",
+                    "CLUE",
+                    "COMMANDO",
+                    "WITNESS"
+                ]
+            }
+        ]
     }
 ]
