@@ -30220,5 +30220,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 658,
+        "date": "2025-03-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AVERAGE",
+                "members": [
+                    "MEAN",
+                    "NORM",
+                    "PAR",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PICTURED ON THE U.S. GREAT SEAL",
+                "members": [
+                    "ARROWS",
+                    "EAGLE",
+                    "OLIVE BRANCH",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES",
+                "members": [
+                    "BIRDIE",
+                    "DOLLY",
+                    "KATE",
+                    "YANKEES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___MAN",
+                "members": [
+                    "BOGEY",
+                    "CRAFTS",
+                    "GENTLE",
+                    "SPOKES"
+                ]
+            }
+        ]
     }
 ]
