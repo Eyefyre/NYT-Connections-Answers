@@ -30312,5 +30312,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 660,
+        "date": "2025-04-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CURRENCY SYMBOLS",
+                "members": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AND/TOGETHER WITH",
+                "members": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EMOTICON MOUTHS",
+                "members": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\"RIGHT\"",
+                "members": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
     }
 ]
