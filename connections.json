@@ -30358,5 +30358,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 661,
+        "date": "2025-04-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CAPRICE",
+                "members": [
+                    "FANCY",
+                    "IMPULSE",
+                    "LARK",
+                    "WHIM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ILK",
+                "members": [
+                    "KIND",
+                    "LIKE",
+                    "SORT",
+                    "TYPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WILLIAMSES",
+                "members": [
+                    "HANK",
+                    "ROBIN",
+                    "TENNESSEE",
+                    "VENUS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS",
+                "members": [
+                    "HERB",
+                    "JOB",
+                    "NICE",
+                    "READING"
+                ]
+            }
+        ]
     }
 ]
