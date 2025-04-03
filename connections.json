@@ -30404,5 +30404,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 662,
+        "date": "2025-04-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PRINTED NOTIFICATION",
+                "members": [
+                    "ANNOUNCEMENT",
+                    "BULLETIN",
+                    "NOTICE",
+                    "POSTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN AT A GROCERY CHECKOUT COUNTER",
+                "members": [
+                    "CONVEYOR BELT",
+                    "REGISTER",
+                    "SCALE",
+                    "SCANNER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH TABS",
+                "members": [
+                    "BROWSER",
+                    "FOLDER",
+                    "KEYBOARD",
+                    "SODA CAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PALM ___",
+                "members": [
+                    "BEACH",
+                    "READER",
+                    "SUNDAY",
+                    "TREE"
+                ]
+            }
+        ]
     }
 ]
