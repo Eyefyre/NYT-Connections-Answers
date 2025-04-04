@@ -30450,5 +30450,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 663,
+        "date": "2025-04-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WHAT\u2019S LEFTOVER",
+                "members": [
+                    "BALANCE",
+                    "DIFFERENCE",
+                    "REMAINDER",
+                    "REST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAR TRIP",
+                "members": [
+                    "CRUISE",
+                    "DRIVE",
+                    "RIDE",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BASEBALL VENUES",
+                "members": [
+                    "DIAMOND",
+                    "FIELD",
+                    "PARK",
+                    "STADIUM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "COMPANIES WITH \u201cE\u201d REMOVED",
+                "members": [
+                    "BAY",
+                    "HARMONY",
+                    "INK",
+                    "TRADE"
+                ]
+            }
+        ]
     }
 ]
