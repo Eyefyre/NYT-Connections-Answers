@@ -30496,5 +30496,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 664,
+        "date": "2025-04-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EMPLOY",
+                "members": [
+                    "CONTRACT",
+                    "ENGAGE",
+                    "RETAIN",
+                    "SIGN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF A WEBSITE",
+                "members": [
+                    "BANNER",
+                    "HEADER",
+                    "MENU",
+                    "SIDEBAR"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MAGAZINES",
+                "members": [
+                    "BILLBOARD",
+                    "PEOPLE",
+                    "STAR",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH MEDIEVAL WEAPONS",
+                "members": [
+                    "CROSSWORD",
+                    "GRIMACE",
+                    "RAINBOW",
+                    "SEMBLANCE"
+                ]
+            }
+        ]
     }
 ]
