@@ -30542,5 +30542,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 665,
+        "date": "2025-04-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ALOOF",
+                "members": [
+                    "COOL",
+                    "DISTANT",
+                    "REMOTE",
+                    "RESERVED"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "UTILITIES",
+                "members": [
+                    "CABLE",
+                    "GAS",
+                    "TRASH",
+                    "WATER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT AN ELECTROMETER MEASURES",
+                "members": [
+                    "CHARGE",
+                    "CURRENT",
+                    "RESISTANCE",
+                    "VOLTAGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ JOINT",
+                "members": [
+                    "DOVETAIL",
+                    "HIP",
+                    "PIZZA",
+                    "SPIKE LEE"
+                ]
+            }
+        ]
     }
 ]
