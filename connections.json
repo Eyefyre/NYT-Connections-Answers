@@ -30588,5 +30588,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 666,
+        "date": "2025-04-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THROB",
+                "members": [
+                    "BEAT",
+                    "POUND",
+                    "PULSE",
+                    "THUMP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LANDFORMS",
+                "members": [
+                    "CAPE",
+                    "CRATER",
+                    "GORGE",
+                    "RIDGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PICTURE HANGING NEEDS",
+                "members": [
+                    "HAMMER",
+                    "HANGER",
+                    "LEVEL",
+                    "NAIL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FOOT___",
+                "members": [
+                    "BALL",
+                    "HILLS",
+                    "LOCKER",
+                    "PRINT"
+                ]
+            }
+        ]
     }
 ]
