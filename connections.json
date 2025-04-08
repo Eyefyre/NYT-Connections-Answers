@@ -30634,5 +30634,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 667,
+        "date": "2025-04-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PRICK",
+                "members": [
+                    "JAB",
+                    "PIERCE",
+                    "POKE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RADIO LINGO",
+                "members": [
+                    "COPY",
+                    "NEGATIVE",
+                    "OVER",
+                    "ROGER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "OLD TESTAMENT BOOKS",
+                "members": [
+                    "DANIEL",
+                    "JOB",
+                    "JUDGES",
+                    "NUMBERS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS PRONOUNCED \u201cSH\u201d WITHOUT AN \u201cSH\u201d",
+                "members": [
+                    "SEAN",
+                    "SIOBHAN",
+                    "SUGAR",
+                    "SURE"
+                ]
+            }
+        ]
     }
 ]
