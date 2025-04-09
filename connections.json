@@ -30680,5 +30680,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 668,
+        "date": "2025-04-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROUND THREE-DIMENSIONAL OBJECTS",
+                "members": [
+                    "BALL",
+                    "GLOBE",
+                    "ORB",
+                    "SPHERE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PUNCH",
+                "members": [
+                    "POP",
+                    "POUND",
+                    "SLUG",
+                    "SOCK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANIMALS IN THE WITCHES' BREW IN \u201cMACBETH\u201d",
+                "members": [
+                    "BAT",
+                    "DOG",
+                    "FROG",
+                    "NEWT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FOX___",
+                "members": [
+                    "HOLE",
+                    "HOUND",
+                    "GLOVE",
+                    "TROT"
+                ]
+            }
+        ]
     }
 ]
