@@ -30726,5 +30726,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 669,
+        "date": "2025-04-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHADES OF YELLOW",
+                "members": [
+                    "CANARY",
+                    "GOLD",
+                    "LEMON",
+                    "MUSTARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUPPLY",
+                "members": [
+                    "MINE",
+                    "RESERVE",
+                    "STORE",
+                    "WELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ANTI-SPIRIT OF CHRISTMAS",
+                "members": [
+                    "BAH",
+                    "COAL",
+                    "GRINCH",
+                    "NAUGHTY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPANISH WORDS",
+                "members": [
+                    "ELLA",
+                    "GUSTO",
+                    "MAYO",
+                    "SOY"
+                ]
+            }
+        ]
     }
 ]
