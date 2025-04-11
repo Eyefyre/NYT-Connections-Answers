@@ -30772,5 +30772,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 670,
+        "date": "2025-04-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SOURCES OF VITAMINS",
+                "members": [
+                    "CITRUS",
+                    "LEAFY GREENS",
+                    "SUNSHINE",
+                    "SUPPLEMENTS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLACES USED IN RETAIL SUFFIXES",
+                "members": [
+                    "CITY",
+                    "LAND",
+                    "TOWN",
+                    "WORLD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PLACES TO FIND STARS",
+                "members": [
+                    "AMERICAN FLAG",
+                    "GALAXY",
+                    "RED CARPET",
+                    "UBER RATING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER \u201cGO\u201d",
+                "members": [
+                    "ALL OUT",
+                    "BETWEEN",
+                    "KART",
+                    "STEADY"
+                ]
+            }
+        ]
     }
 ]
