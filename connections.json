@@ -30818,5 +30818,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 671,
+        "date": "2025-04-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHORT PERIOD OF TIME",
+                "members": [
+                    "BIT",
+                    "FLASH",
+                    "JIFF",
+                    "SEC"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DO WRONG",
+                "members": [
+                    "ERR",
+                    "FALL",
+                    "SIN",
+                    "STRAY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "N.B.A. PLAYER",
+                "members": [
+                    "BUCK",
+                    "NET",
+                    "SPUR",
+                    "SUN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF AFRICAN COUNTRIES",
+                "members": [
+                    "BOTS",
+                    "CAME",
+                    "KEN",
+                    "TAN"
+                ]
+            }
+        ]
     }
 ]
