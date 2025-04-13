@@ -30864,5 +30864,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 672,
+        "date": "2025-04-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STEAL",
+                "members": [
+                    "NICK",
+                    "PINCH",
+                    "POCKET",
+                    "SWIPE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ATTENDANCE STATUS",
+                "members": [
+                    "ABSENT",
+                    "EXCUSED",
+                    "LATE",
+                    "PRESENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FONT-MODIFYING WORDS",
+                "members": [
+                    "GOTHIC",
+                    "ROMAN",
+                    "SANS",
+                    "TYPEWRITER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___BERRY",
+                "members": [
+                    "CAPER",
+                    "ELDER",
+                    "GOOSE",
+                    "LOGAN"
+                ]
+            }
+        ]
     }
 ]
