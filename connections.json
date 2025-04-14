@@ -30910,5 +30910,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 673,
+        "date": "2025-04-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RESTRICT",
+                "members": [
+                    "BLOCK",
+                    "CHECK",
+                    "DAM",
+                    "STOP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TICKETED EVENTS",
+                "members": [
+                    "CONCERT",
+                    "GAME",
+                    "MOVIE",
+                    "PLAY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
+                "members": [
+                    "DYSENTERY",
+                    "FORD",
+                    "HUNT",
+                    "OXEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cFORD\u201d MIGHT REFER TO",
+                "members": [
+                    "ACTOR",
+                    "CAR",
+                    "DIRECTOR",
+                    "PRESIDENT"
+                ]
+            }
+        ]
     }
 ]
