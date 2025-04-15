@@ -30956,5 +30956,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 674,
+        "date": "2025-04-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DESIST",
+                "members": [
+                    "ABSTAIN",
+                    "AVOID",
+                    "CEASE",
+                    "REFRAIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CARD GAMES",
+                "members": [
+                    "BRIDGE",
+                    "HEARTS",
+                    "SPEED",
+                    "SPOONS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ELEMENTS OF GREEK DRAMA",
+                "members": [
+                    "CHORUS",
+                    "HERO",
+                    "HUBRIS",
+                    "TRAGEDY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SECOND WORDS OF \u201cPETER PAN\u201d CHARACTERS",
+                "members": [
+                    "BELL",
+                    "DARLING",
+                    "HOOK",
+                    "PAN"
+                ]
+            }
+        ]
     }
 ]
