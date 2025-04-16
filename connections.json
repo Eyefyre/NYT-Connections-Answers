@@ -31002,5 +31002,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 675,
+        "date": "2025-04-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BURLESQUE WEAR",
+                "members": [
+                    "BOA",
+                    "CORSET",
+                    "GARTER",
+                    "STOCKINGS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MESS UP THE SURFACE OF",
+                "members": [
+                    "SCAR",
+                    "SCRAPE",
+                    "SCRATCH",
+                    "SCORE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THEY ROAR",
+                "members": [
+                    "CROWD",
+                    "ENGINE",
+                    "KATY PERRY",
+                    "LION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LATIN DANCES WITH A VOWEL CHANGED",
+                "members": [
+                    "MAMBA",
+                    "MERINGUE",
+                    "SIMBA",
+                    "TANGY"
+                ]
+            }
+        ]
     }
 ]
