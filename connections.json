@@ -31048,5 +31048,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 676,
+        "date": "2025-04-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CENTRAL SECTION OF THE BODY",
+                "members": [
+                    "CORE",
+                    "MIDRIFF",
+                    "TORSO",
+                    "TRUNK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPONENTS OF A PIZZA",
+                "members": [
+                    "CHEESE",
+                    "CRUST",
+                    "SAUCE",
+                    "TOPPINGS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UNITS OF BEER",
+                "members": [
+                    "CASE",
+                    "FORTY",
+                    "GROWLER",
+                    "SIX-PACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BASEBALL GREATS",
+                "members": [
+                    "BONDS",
+                    "MANTLE",
+                    "TROUT",
+                    "YOUNG"
+                ]
+            }
+        ]
     }
 ]
