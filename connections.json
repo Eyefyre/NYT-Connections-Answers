@@ -31094,5 +31094,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 677,
+        "date": "2025-04-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INTERJECTIONS",
+                "members": [
+                    "BOY",
+                    "GOODNESS",
+                    "MAN",
+                    "WOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HORROR MOVIES, WITH \u201cTHE\u201d",
+                "members": [
+                    "BIRDS",
+                    "EXORCIST",
+                    "HAUNTING",
+                    "SHINING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU CAN PICK",
+                "members": [
+                    "APPLE",
+                    "BANJO",
+                    "CARD",
+                    "NOSE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PERSONAL PROPERTY MINUS \u201cS\u201d",
+                "members": [
+                    "BELONGING",
+                    "EFFECT",
+                    "GOOD",
+                    "POSSESSION"
+                ]
+            }
+        ]
     }
 ]
