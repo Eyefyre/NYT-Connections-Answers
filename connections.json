@@ -31140,5 +31140,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 678,
+        "date": "2025-04-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SPOKEN PRESENTATION",
+                "members": [
+                    "ADDRESS",
+                    "LECTURE",
+                    "SPEECH",
+                    "TALK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADJECTIVES FOR A DESERT",
+                "members": [
+                    "DRY",
+                    "HOT",
+                    "SANDY",
+                    "VAST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DOG BREEDS, INFORMALLY",
+                "members": [
+                    "BULLY",
+                    "CHOW",
+                    "GOLDEN",
+                    "LAB"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "REPRESENTED BY THREE-DIGIT NUMBERS",
+                "members": [
+                    "CANNABIS",
+                    "DEVIL",
+                    "INTRO CLASS",
+                    "JAMES BOND"
+                ]
+            }
+        ]
     }
 ]
