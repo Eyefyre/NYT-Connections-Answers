@@ -31186,5 +31186,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 679,
+        "date": "2025-04-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GLIMPSE",
+                "members": [
+                    "GANDER",
+                    "GLANCE",
+                    "LOOK",
+                    "PEEP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NEEDS FOR TIE-DYEING A SHIRT",
+                "members": [
+                    "BASIN",
+                    "DYE",
+                    "RUBBER BANDS",
+                    "SHIRT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU CAN CRACK",
+                "members": [
+                    "CODE",
+                    "EGG",
+                    "JOKE",
+                    "WHIP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cHOP\u201d",
+                "members": [
+                    "BAR",
+                    "BUNNY",
+                    "HIP",
+                    "SOCK"
+                ]
+            }
+        ]
     }
 ]
