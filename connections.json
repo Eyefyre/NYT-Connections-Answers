@@ -31232,5 +31232,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 680,
+        "date": "2025-04-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INFO ON A NUTRITION LABEL",
+                "members": [
+                    "FAT",
+                    "IRON",
+                    "PROTEIN",
+                    "SODIUM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "METAPHOR FOR SOMETHING UNEXPECTED",
+                "members": [
+                    "BOMBSHELL",
+                    "CURVEBALL",
+                    "TWIST",
+                    "WRENCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU CAN INSERT INTO A SPREADSHEET",
+                "members": [
+                    "CELL",
+                    "COLUMN",
+                    "ROW",
+                    "SHEET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HELICAL THINGS",
+                "members": [
+                    "CORKSCREW",
+                    "DNA",
+                    "FUSILLI",
+                    "SPRING"
+                ]
+            }
+        ]
     }
 ]
