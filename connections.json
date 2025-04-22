@@ -31278,5 +31278,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 681,
+        "date": "2025-04-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CANCEL, AS A PROJECT",
+                "members": [
+                    "AXE",
+                    "CUT",
+                    "DROP",
+                    "SCRAP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN IN A POTTERY STUDIO",
+                "members": [
+                    "CLAY",
+                    "GLAZE",
+                    "KILN",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT ARE SLIPPERY",
+                "members": [
+                    "BANANA PEEL",
+                    "EEL",
+                    "GREASE",
+                    "ICE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NATURAL PRODUCERS OF HEAT",
+                "members": [
+                    "FIRE",
+                    "LIGHTNING",
+                    "SUN",
+                    "VOLCANO"
+                ]
+            }
+        ]
     }
 ]
