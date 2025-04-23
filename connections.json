@@ -31324,5 +31324,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 682,
+        "date": "2025-04-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A TREE",
+                "members": [
+                    "BRANCH",
+                    "LEAF",
+                    "ROOT",
+                    "TRUNK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CANINE/FELINE FEATURES",
+                "members": [
+                    "FUR",
+                    "MUZZLE",
+                    "PAW",
+                    "TAIL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMEDIC ROUTINE",
+                "members": [
+                    "ACT",
+                    "BIT",
+                    "GAG",
+                    "SKETCH"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___POLE",
+                "members": [
+                    "BEAN",
+                    "FLAG",
+                    "MAY",
+                    "TAD"
+                ]
+            }
+        ]
     }
 ]
