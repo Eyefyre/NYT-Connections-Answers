@@ -31370,5 +31370,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 683,
+        "date": "2025-04-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS THAT ARE WHITE",
+                "members": [
+                    "BABY POWDER",
+                    "MILK",
+                    "POLAR BEAR",
+                    "SNOW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF LETTUCE",
+                "members": [
+                    "BUTTER",
+                    "ICEBERG",
+                    "LEAF",
+                    "ROMAINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cBATMAN\u201d VILLAINS",
+                "members": [
+                    "BANE",
+                    "JOKER",
+                    "PENGUIN",
+                    "SCARECROW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THEY HAVE LITERAL/IDIOMATIC EARS",
+                "members": [
+                    "CORNFIELD",
+                    "MUSICIANS",
+                    "PITCHERS",
+                    "WALLS"
+                ]
+            }
+        ]
     }
 ]
