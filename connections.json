@@ -31416,5 +31416,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 684,
+        "date": "2025-04-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GUM FLAVORS",
+                "members": [
+                    "BUBBLEGUM",
+                    "CINNAMON",
+                    "MENTHOL",
+                    "WINTERGREEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STARTING POINT",
+                "members": [
+                    "CATALYST",
+                    "LAUNCHPAD",
+                    "SPARK",
+                    "SPRINGBOARD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GREAT AMERICAN SONGBOOK SONGS",
+                "members": [
+                    "AUTUMN LEAVES",
+                    "SUMMERTIME",
+                    "UNFORGETTABLE",
+                    "WITCHCRAFT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TUBE",
+                "members": [
+                    "FALLOPIAN",
+                    "INNER",
+                    "TEST",
+                    "VACUUM"
+                ]
+            }
+        ]
     }
 ]
