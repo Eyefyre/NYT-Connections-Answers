@@ -31508,5 +31508,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 686,
+        "date": "2025-04-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CALCULATOR BUTTONS",
+                "members": [
+                    "EQUALS",
+                    "MINUS",
+                    "PERCENT",
+                    "TIMES"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AMOUNTS OF HAIR",
+                "members": [
+                    "LOCK",
+                    "SHOCK",
+                    "THATCH",
+                    "TUFT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SALTY SNACK UNIT",
+                "members": [
+                    "COMBO",
+                    "GOLDFISH",
+                    "RUFFLE",
+                    "TAKI"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SWEDISH ___",
+                "members": [
+                    "CHEF",
+                    "FISH",
+                    "MASSAGE",
+                    "MEATBALL"
+                ]
+            }
+        ]
     }
 ]
