@@ -31554,5 +31554,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 687,
+        "date": "2025-04-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HAIR PRODUCTS",
+                "members": [
+                    "GEL",
+                    "MOUSSE",
+                    "SPRAY",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AUSTERE",
+                "members": [
+                    "BARE",
+                    "PLAIN",
+                    "SIMPLE",
+                    "SPARE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLUES AT A CRIME SCENE",
+                "members": [
+                    "FIBER",
+                    "FINGERPRINT",
+                    "HAIR",
+                    "TIRE MARK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WEARY",
+                "members": [
+                    "BORE",
+                    "DRAIN",
+                    "EXHAUST",
+                    "TIRE"
+                ]
+            }
+        ]
     }
 ]
