@@ -31600,5 +31600,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 688,
+        "date": "2025-04-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COOKING CONCOCTIONS",
+                "members": [
+                    "BATTER",
+                    "DOUGH",
+                    "MIXTURE",
+                    "PASTE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN ON A TABLE AT A DINNER PARTY",
+                "members": [
+                    "CANDLESTICK",
+                    "PITCHER",
+                    "PLACEMAT",
+                    "PLATE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS TO CLIMB",
+                "members": [
+                    "LADDER",
+                    "MOUNTAIN",
+                    "ROPE",
+                    "TREE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \"DIAMOND\" CAN REFER TO",
+                "members": [
+                    "GEMSTONE",
+                    "INFIELD",
+                    "RHOMBUS",
+                    "SUIT"
+                ]
+            }
+        ]
     }
 ]
