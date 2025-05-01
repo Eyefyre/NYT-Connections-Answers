@@ -31692,5 +31692,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 690,
+        "date": "2025-05-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WINNINGS",
+                "members": [
+                    "POT",
+                    "PRIZE",
+                    "PURSE",
+                    "REWARD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STOP, AS A HABIT",
+                "members": [
+                    "BREAK",
+                    "DROP",
+                    "KICK",
+                    "SHAKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MOVIE CAMERA VERBS",
+                "members": [
+                    "DOLLY",
+                    "PAN",
+                    "TILT",
+                    "ZOOM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS THAT PRECEDE \"-SIZE\" TO MEAN SMALL",
+                "members": [
+                    "BITE",
+                    "FUN",
+                    "POCKET",
+                    "TRAVEL"
+                ]
+            }
+        ]
     }
 ]
