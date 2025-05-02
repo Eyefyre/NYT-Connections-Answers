@@ -31738,5 +31738,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 691,
+        "date": "2025-05-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF CARVINGS",
+                "members": [
+                    "BUST",
+                    "RELIEF",
+                    "STATUE",
+                    "TORSO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PILLAR",
+                "members": [
+                    "BRACE",
+                    "POST",
+                    "PROP",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BBQ OFFERING",
+                "members": [
+                    "DOG",
+                    "LINK",
+                    "RIB",
+                    "WING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___NECK",
+                "members": [
+                    "BOTTLE",
+                    "BREAK",
+                    "GOOSE",
+                    "TURTLE"
+                ]
+            }
+        ]
     }
 ]
