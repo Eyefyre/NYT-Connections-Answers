@@ -31784,5 +31784,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 692,
+        "date": "2025-05-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "AWESOME",
+                "members": [
+                    "DOPE",
+                    "FIRE",
+                    "LIT",
+                    "SICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DEFEAT SOUNDLY",
+                "members": [
+                    "CREAM",
+                    "LICK",
+                    "PASTE",
+                    "SMOKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cWILL\u201d CONTRACTIONS WITHOUT THE APOSTROPHE",
+                "members": [
+                    "HELL",
+                    "ILL",
+                    "SHELL",
+                    "WELL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "URL ENDINGS PLUS A LETTER",
+                "members": [
+                    "COMP",
+                    "MILK",
+                    "NETI",
+                    "ORGO"
+                ]
+            }
+        ]
     }
 ]
