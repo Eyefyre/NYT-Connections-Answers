@@ -31876,5 +31876,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 694,
+        "date": "2025-05-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GLIDE",
+                "members": [
+                    "COAST",
+                    "CRUISE",
+                    "DRIFT",
+                    "FLOAT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ASSOCIATED WITH COUNT DRACULA",
+                "members": [
+                    "BAT",
+                    "CAPE",
+                    "CASTLE",
+                    "FANG"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "STOP CHANGING",
+                "members": [
+                    "FLATTEN",
+                    "LEVEL",
+                    "PLATEAU",
+                    "SETTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT ARE LONG AND CYLINDRICAL",
+                "members": [
+                    "BATON",
+                    "CIGAR",
+                    "HOAGIE",
+                    "TORPEDO"
+                ]
+            }
+        ]
     }
 ]
