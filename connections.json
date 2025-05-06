@@ -31922,5 +31922,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 695,
+        "date": "2025-05-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SILENCE",
+                "members": [
+                    "CALM",
+                    "HUSH",
+                    "PEACE",
+                    "STILL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TENNIS COMPETITION UNITS",
+                "members": [
+                    "GAME",
+                    "MATCH",
+                    "SET",
+                    "TOURNAMENT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPARATIVELY SMALL",
+                "members": [
+                    "BABY",
+                    "COMPACT",
+                    "MINUTE",
+                    "TOY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH SYNONYMS FOR \u201cTEASE\u201d",
+                "members": [
+                    "KIDNEY",
+                    "MOCKINGBIRD",
+                    "RAZZMATAZZ",
+                    "RIBBON"
+                ]
+            }
+        ]
     }
 ]
