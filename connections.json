@@ -31968,5 +31968,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 696,
+        "date": "2025-05-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GET BETTER, AS A BROKEN BONE",
+                "members": [
+                    "HEAL",
+                    "KNIT",
+                    "MEND",
+                    "RECOVER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NOT INCLUDING",
+                "members": [
+                    "BESIDES",
+                    "BUT",
+                    "EXCEPT",
+                    "SAVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TAROT MINOR ARCANA SUITS",
+                "members": [
+                    "CUPS",
+                    "PENTACLES",
+                    "SWORDS",
+                    "WANDS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF GEMSTONES",
+                "members": [
+                    "CHORAL",
+                    "OPEL",
+                    "PURL",
+                    "QUARTS"
+                ]
+            }
+        ]
     }
 ]
