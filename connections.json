@@ -32014,5 +32014,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 697,
+        "date": "2025-05-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMMIT TO PAPER",
+                "members": [
+                    "AUTHOR",
+                    "COMPOSE",
+                    "PEN",
+                    "WRITE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NEEDS FOR PLAYING YAHTZEE",
+                "members": [
+                    "CUP",
+                    "DICE",
+                    "PENCIL",
+                    "SCORECARD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HEROES OF ACTION MOVIE FRANCHISES",
+                "members": [
+                    "BOND",
+                    "JONES",
+                    "OCEAN",
+                    "WICK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___STICK",
+                "members": [
+                    "CANDLE",
+                    "CHOP",
+                    "JOY",
+                    "YARD"
+                ]
+            }
+        ]
     }
 ]
