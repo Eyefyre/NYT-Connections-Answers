@@ -32060,5 +32060,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 698,
+        "date": "2025-05-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TV DISPLAY SETTINGS",
+                "members": [
+                    "BRIGHTNESS",
+                    "COLOR",
+                    "CONTRAST",
+                    "TINT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FUZZY, AS A MEMORY",
+                "members": [
+                    "DIM",
+                    "FAINT",
+                    "REMOTE",
+                    "VAGUE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RESULTS OF SOME ARITHMETIC",
+                "members": [
+                    "DIFFERENCE",
+                    "PRODUCT",
+                    "QUOTIENT",
+                    "SUM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WINDOW TREATMENTS IN THE SINGULAR",
+                "members": [
+                    "BLIND",
+                    "DRAPE",
+                    "SHADE",
+                    "SHUTTER"
+                ]
+            }
+        ]
     }
 ]
