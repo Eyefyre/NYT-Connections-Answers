@@ -32106,5 +32106,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 699,
+        "date": "2025-05-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LETTER SIGN-OFFS",
+                "members": [
+                    "BEST",
+                    "CHEERS",
+                    "LOVE",
+                    "SINCERELY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WITHOUT",
+                "members": [
+                    "ABSENT",
+                    "MINUS",
+                    "SANS",
+                    "WANTING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VIGOR",
+                "members": [
+                    "BEANS",
+                    "ENERGY",
+                    "PEP",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ STRIP",
+                "members": [
+                    "BACON",
+                    "COMIC",
+                    "LANDING",
+                    "SUNSET"
+                ]
+            }
+        ]
     }
 ]
