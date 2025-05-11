@@ -32152,5 +32152,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 700,
+        "date": "2025-05-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MAKE HAPPY",
+                "members": [
+                    "DELIGHT",
+                    "PLEASE",
+                    "SUIT",
+                    "TICKLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EVADE",
+                "members": [
+                    "DODGE",
+                    "DUCK",
+                    "SHAKE",
+                    "SKIRT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMMON VIDEO GAME FEATURES",
+                "members": [
+                    "BOSS",
+                    "LEVEL",
+                    "HEALTH",
+                    "POWER-UP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MOTHER ___",
+                "members": [
+                    "EARTH",
+                    "GOOSE",
+                    "MAY I",
+                    "SUPERIOR"
+                ]
+            }
+        ]
     }
 ]
