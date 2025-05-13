@@ -32244,5 +32244,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 702,
+        "date": "2025-05-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLACES TO SHOP",
+                "members": [
+                    "BAZAAR",
+                    "FAIR",
+                    "MARKET",
+                    "OUTLET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF PIZZA",
+                "members": [
+                    "HAWAIIAN",
+                    "PLAIN",
+                    "SUPREME",
+                    "VEGGIE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENDING WITH COLORS",
+                "members": [
+                    "EVERGREEN",
+                    "INFRARED",
+                    "MARIGOLD",
+                    "QUICKSILVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CLEANER",
+                "members": [
+                    "BATHROOM",
+                    "DRY",
+                    "PIPE",
+                    "VACUUM"
+                ]
+            }
+        ]
     }
 ]
