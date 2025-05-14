@@ -32290,5 +32290,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 703,
+        "date": "2025-05-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ABSORB USING CAPILLARY ACTION",
+                "members": [
+                    "DRAW",
+                    "PULL",
+                    "SUCK",
+                    "WICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GREEK PREFIXES",
+                "members": [
+                    "HYPER",
+                    "KILO",
+                    "META",
+                    "NEO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TITULAR TALKING ANIMALS OF FILM",
+                "members": [
+                    "BABE",
+                    "BOLT",
+                    "DUMBO",
+                    "TED"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH SILENT LETTERS",
+                "members": [
+                    "GNOME",
+                    "KNEE",
+                    "MNEMONIC",
+                    "PSYCHE"
+                ]
+            }
+        ]
     }
 ]
