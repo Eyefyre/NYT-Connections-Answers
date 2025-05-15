@@ -32336,5 +32336,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 704,
+        "date": "2025-05-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RATIONALE",
+                "members": [
+                    "BASIS",
+                    "FOUNDATION",
+                    "GROUNDS",
+                    "REASON"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TYPES OF SNOW",
+                "members": [
+                    "CRUST",
+                    "ICE",
+                    "POWDER",
+                    "SLUSH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LAST WORDS OF FAMOUS OPERA TITLES",
+                "members": [
+                    "BESS",
+                    "BUTTERFLY",
+                    "FLUTE",
+                    "SEVILLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "REAL ___",
+                "members": [
+                    "DEAL",
+                    "ESTATE",
+                    "MADRID",
+                    "WORLD"
+                ]
+            }
+        ]
     }
 ]
