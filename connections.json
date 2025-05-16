@@ -32382,5 +32382,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 705,
+        "date": "2025-05-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF PLANTS",
+                "members": [
+                    "HERB",
+                    "SHRUB",
+                    "TREE",
+                    "VINE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DISCONTINUE",
+                "members": [
+                    "DISSOLVE",
+                    "END",
+                    "SCRAP",
+                    "SUNSET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH BULLS",
+                "members": [
+                    "MICHAEL JORDAN",
+                    "RODEO",
+                    "TAURUS",
+                    "WALL STREET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH BUILDING MATERIALS",
+                "members": [
+                    "HOLLYWOOD",
+                    "HOURGLASS",
+                    "KUBRICK",
+                    "NEUROPLASTIC"
+                ]
+            }
+        ]
     }
 ]
