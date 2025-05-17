@@ -32428,5 +32428,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 706,
+        "date": "2025-05-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MEMBER OF A KINGDOM IN TAXONOMY",
+                "members": [
+                    "ANIMAL",
+                    "BACTERIA",
+                    "FUNGUS",
+                    "PLANT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GRADUATED INSTRUMENTS",
+                "members": [
+                    "BEAKER",
+                    "PROTRACTOR",
+                    "RULER",
+                    "SYRINGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF PENGUINS",
+                "members": [
+                    "CHINSTRAP",
+                    "EMPEROR",
+                    "KING",
+                    "MACARONI"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\u201cE\u201d THINGS",
+                "members": [
+                    "COMMERCE",
+                    "MAIL",
+                    "SCOOTER",
+                    "SIGNATURE"
+                ]
+            }
+        ]
     }
 ]
