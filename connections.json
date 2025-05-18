@@ -32474,5 +32474,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 707,
+        "date": "2025-05-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TASKS FOR A STUDENT",
+                "members": [
+                    "ASSIGNMENT",
+                    "DRILL",
+                    "EXERCISE",
+                    "LESSON"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ENCOURAGING RESPONSES IN A GUESSING GAME",
+                "members": [
+                    "ALMOST",
+                    "CLOSE",
+                    "NOT QUITE",
+                    "WARM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "UP FOR ANYTHING",
+                "members": [
+                    "EASY",
+                    "FLEXIBLE",
+                    "GAME",
+                    "OPEN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cA\u201d MIGHT MEAN",
+                "members": [
+                    "AREA",
+                    "ATHLETIC",
+                    "EXCELLENT",
+                    "ONE"
+                ]
+            }
+        ]
     }
 ]
