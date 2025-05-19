@@ -32520,5 +32520,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 708,
+        "date": "2025-05-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FUNDRAISING EVENT",
+                "members": [
+                    "BALL",
+                    "BENEFIT",
+                    "GALA",
+                    "FUNCTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPACES ON A MONOPOLY BOARD",
+                "members": [
+                    "AVENUE",
+                    "CHANCE",
+                    "RAILROAD",
+                    "UTILITY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FEATURES OF A TOOTHED WHALE",
+                "members": [
+                    "BLUBBER",
+                    "FLIPPER",
+                    "FLUKE",
+                    "MELON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF PARTS OF THE FOOT",
+                "members": [
+                    "BAWL",
+                    "HEAL",
+                    "SOUL",
+                    "TOW"
+                ]
+            }
+        ]
     }
 ]
