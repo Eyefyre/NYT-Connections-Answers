@@ -32566,5 +32566,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 709,
+        "date": "2025-05-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ACCOUNT BOOK",
+                "members": [
+                    "LEDGER",
+                    "LOG",
+                    "RECORD",
+                    "REGISTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN IN A BARN",
+                "members": [
+                    "BALE",
+                    "HORSE",
+                    "PITCHFORK",
+                    "TROUGH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DETECTIVES OF KID-LIT",
+                "members": [
+                    "BROWN",
+                    "DREW",
+                    "HARDY",
+                    "HOLMES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cBED\u201d",
+                "members": [
+                    "CANOPY",
+                    "DAY",
+                    "MURPHY",
+                    "WATER"
+                ]
+            }
+        ]
     }
 ]
