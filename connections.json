@@ -32612,5 +32612,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 710,
+        "date": "2025-05-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PROHIBIT, AS ENTRY",
+                "members": [
+                    "BAR",
+                    "BLOCK",
+                    "DENY",
+                    "REFUSE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FOLDERS ON A MAC",
+                "members": [
+                    "DESKTOP",
+                    "MUSIC",
+                    "PICTURES",
+                    "TRASH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MEDICINE FORMATS",
+                "members": [
+                    "CREAM",
+                    "PATCH",
+                    "SPRAY",
+                    "TABLET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS THAT OPEN LIKE A CLAM",
+                "members": [
+                    "CLAM",
+                    "COMPACT",
+                    "LAPTOP",
+                    "WAFFLE IRON"
+                ]
+            }
+        ]
     }
 ]
