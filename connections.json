@@ -32658,5 +32658,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 711,
+        "date": "2025-05-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FINE PRINT",
+                "members": [
+                    "ASTERISK",
+                    "CATCH",
+                    "CONDITION",
+                    "STRINGS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CHARACTERS WITH GREEN SKIN",
+                "members": [
+                    "ELPHABA",
+                    "GRINCH",
+                    "HULK",
+                    "SHREK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FEATURES OF THE NATIONAL MALL IN D.C.",
+                "members": [
+                    "CAPITOL",
+                    "MALL",
+                    "OBELISK",
+                    "POOL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FAMOUS RIDDLE-GIVERS",
+                "members": [
+                    "BRIDGE TROLL",
+                    "MAD HATTER",
+                    "RIDDLER",
+                    "SPHINX"
+                ]
+            }
+        ]
     }
 ]
