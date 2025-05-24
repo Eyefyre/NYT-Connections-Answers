@@ -32750,5 +32750,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 713,
+        "date": "2025-05-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BABY GEAR",
+                "members": [
+                    "BIB",
+                    "BOTTLE",
+                    "MONITOR",
+                    "STROLLER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF PANTS MINUS \"S\"",
+                "members": [
+                    "CAPRI",
+                    "JEAN",
+                    "JOGGER",
+                    "SLACK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "NEW YORK SPORTS TEAM MEMBERS",
+                "members": [
+                    "JET",
+                    "MET",
+                    "NET",
+                    "RANGER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BLACK WOMEN AUTHORS",
+                "members": [
+                    "BUTLER",
+                    "GAY",
+                    "HOOKS",
+                    "WALKER"
+                ]
+            }
+        ]
     }
 ]
