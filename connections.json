@@ -32796,5 +32796,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 714,
+        "date": "2025-05-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLAYING CARDS",
+                "members": [
+                    "ACE",
+                    "JACK",
+                    "KING",
+                    "QUEEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DOPPELG\u00c4NGER",
+                "members": [
+                    "CLONE",
+                    "DOUBLE",
+                    "RINGER",
+                    "TWIN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "EAR PIERCING SITES",
+                "members": [
+                    "CONCH",
+                    "HELIX",
+                    "LOBE",
+                    "ROOK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MAIL",
+                "members": [
+                    "CHAIN",
+                    "ELECTRONIC",
+                    "JUNK",
+                    "SNAIL"
+                ]
+            }
+        ]
     }
 ]
