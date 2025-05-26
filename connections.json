@@ -32842,5 +32842,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 715,
+        "date": "2025-05-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ITEMS IN A LINEN CLOSET",
+                "members": [
+                    "PILLOWCASE",
+                    "SHEET",
+                    "TOWEL",
+                    "WASHCLOTH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DIAMETRIC",
+                "members": [
+                    "COUNTER",
+                    "OPPOSITE",
+                    "POLAR",
+                    "REVERSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LINGERIE",
+                "members": [
+                    "GARTER",
+                    "HOSE",
+                    "SLIP",
+                    "TEDDY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CARD GAMES WITH FIRST LETTER CHANGED",
+                "members": [
+                    "DIN",
+                    "FRIDGE",
+                    "GUMMY",
+                    "JOKER"
+                ]
+            }
+        ]
     }
 ]
