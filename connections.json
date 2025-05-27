@@ -32888,5 +32888,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 716,
+        "date": "2025-05-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ROUND FLAT THINGS",
+                "members": [
+                    "COASTER",
+                    "FRISBEE",
+                    "PANCAKE",
+                    "RECORD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AIRPORT FEATURES",
+                "members": [
+                    "CAROUSEL",
+                    "FOOD COURT",
+                    "GATE",
+                    "LOUNGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GUITAR PLAYING TECHNIQUES",
+                "members": [
+                    "BEND",
+                    "PICK",
+                    "SLIDE",
+                    "STRUM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT CHARACTERS WERE TRANSFORMED INTO IN \u201cBEAUTY AND THE BEAST\u201d",
+                "members": [
+                    "BEAST",
+                    "CANDELABRA",
+                    "CLOCK",
+                    "TEACUP"
+                ]
+            }
+        ]
     }
 ]
