@@ -32934,5 +32934,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 717,
+        "date": "2025-05-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONNECT",
+                "members": [
+                    "BRIDGE",
+                    "JOIN",
+                    "LINK",
+                    "UNITE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF A BIKE",
+                "members": [
+                    "CHAIN",
+                    "PEDAL",
+                    "SADDLE",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BEST PICTURE WINNERS SINCE 2000",
+                "members": [
+                    "CHICAGO",
+                    "CRASH",
+                    "GLADIATOR",
+                    "MOONLIGHT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MUSIC GENRES PLUS A LETTER",
+                "members": [
+                    "BLUEST",
+                    "POPE",
+                    "ROCKY",
+                    "SKAT"
+                ]
+            }
+        ]
     }
 ]
