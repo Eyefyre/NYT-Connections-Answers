@@ -32980,5 +32980,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 718,
+        "date": "2025-05-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SALUTE",
+                "members": [
+                    "APPLAUD",
+                    "HAIL",
+                    "HONOR",
+                    "PRAISE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUITABLE",
+                "members": [
+                    "APT",
+                    "FIT",
+                    "PROPER",
+                    "RIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VERBS FOR FINISHING DONUTS",
+                "members": [
+                    "FROST",
+                    "GLAZE",
+                    "POWDER",
+                    "SPRINKLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cBUFF\u201d MIGHT MEAN",
+                "members": [
+                    "ENTHUSIAST",
+                    "MUSCULAR",
+                    "NUDE",
+                    "POLISH"
+                ]
+            }
+        ]
     }
 ]
