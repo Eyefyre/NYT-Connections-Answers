@@ -33026,5 +33026,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 719,
+        "date": "2025-05-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RODS",
+                "members": [
+                    "BAT",
+                    "CLUB",
+                    "STAFF",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THEY'RE ON A ROLL!",
+                "members": [
+                    "FOIL",
+                    "TAPE",
+                    "RIBBON",
+                    "TOILET PAPER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMMON SWAG ITEMS",
+                "members": [
+                    "HAT",
+                    "TEE",
+                    "TOTE",
+                    "WATER BOTTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \u201cSHACK\u201d",
+                "members": [
+                    "CADDY",
+                    "LOVE",
+                    "RADIO",
+                    "SHAKE"
+                ]
+            }
+        ]
     }
 ]
