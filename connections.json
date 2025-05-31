@@ -33072,5 +33072,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 720,
+        "date": "2025-05-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ALCOVE",
+                "members": [
+                    "CAVITY",
+                    "HOLLOW",
+                    "NOOK",
+                    "RECESS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WAYS TO RECOGNIZE ACHIEVEMENT",
+                "members": [
+                    "CERTIFICATE",
+                    "MEDAL",
+                    "PLAQUE",
+                    "TROPHY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "VERBS IN BREADMAKING",
+                "members": [
+                    "FERMENT",
+                    "PROOF",
+                    "REST",
+                    "RISE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN BLOW",
+                "members": [
+                    "BUBBLE",
+                    "FUSE",
+                    "KISS",
+                    "RASPBERRY"
+                ]
+            }
+        ]
     }
 ]
