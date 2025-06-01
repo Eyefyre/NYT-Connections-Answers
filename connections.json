@@ -33118,5 +33118,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 721,
+        "date": "2025-06-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LOCAL WATERING HOLE",
+                "members": [
+                    "DIVE",
+                    "ESTABLISHMENT",
+                    "HAUNT",
+                    "JOINT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPETE IN A MODERN PENTATHLON",
+                "members": [
+                    "FENCE",
+                    "RIDE",
+                    "SHOOT",
+                    "SWIM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENSURE, AS A VICTORY",
+                "members": [
+                    "CINCH",
+                    "GUARANTEE",
+                    "ICE",
+                    "LOCK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ FUND",
+                "members": [
+                    "HEDGE",
+                    "MUTUAL",
+                    "SLUSH",
+                    "TRUST"
+                ]
+            }
+        ]
     }
 ]
