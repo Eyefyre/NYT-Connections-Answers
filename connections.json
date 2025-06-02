@@ -33164,5 +33164,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 722,
+        "date": "2025-06-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXPEDITION",
+                "members": [
+                    "JOURNEY",
+                    "ODYSSEY",
+                    "QUEST",
+                    "VOYAGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HOLD DEAR",
+                "members": [
+                    "ESTEEM",
+                    "PRIZE",
+                    "TREASURE",
+                    "VALUE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS WHOSE ONLY VOWEL IS \u201cY\u201d",
+                "members": [
+                    "MYRRH",
+                    "NYMPH",
+                    "RHYTHM",
+                    "SPHYNX"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "NAMES ENDING IN \u201cK\u201d PLUS WORD",
+                "members": [
+                    "FRANKINCENSE",
+                    "JACKPOT",
+                    "MARKDOWN",
+                    "NICKNAME"
+                ]
+            }
+        ]
     }
 ]
