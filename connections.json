@@ -33210,5 +33210,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 723,
+        "date": "2025-06-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BE OSTENTATIOUS",
+                "members": [
+                    "GRANDSTAND",
+                    "POSTURE",
+                    "SHOWBOAT",
+                    "SWAGGER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COPACETIC",
+                "members": [
+                    "FINE",
+                    "HUNKY-DORY",
+                    "OK",
+                    "SWELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF BRACELETS",
+                "members": [
+                    "CHARM",
+                    "FRIENDSHIP",
+                    "ID",
+                    "TENNIS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN PRACTICE",
+                "members": [
+                    "LAW",
+                    "MEDICINE",
+                    "SELF-CARE",
+                    "WITCHCRAFT"
+                ]
+            }
+        ]
     }
 ]
