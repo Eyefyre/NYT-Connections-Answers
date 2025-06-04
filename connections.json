@@ -33256,5 +33256,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 724,
+        "date": "2025-06-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A SONG",
+                "members": [
+                    "BRIDGE",
+                    "CHORUS",
+                    "HOOK",
+                    "REFRAIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SUPPORT AUDIBLY",
+                "members": [
+                    "CHEER",
+                    "CLAP",
+                    "ROOT",
+                    "WHISTLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS IN AN ENTRYWAY",
+                "members": [
+                    "BENCH",
+                    "COAT RACK",
+                    "CONSOLE",
+                    "RUNNER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "IMAGERY IN MAGRITTE PAINTINGS",
+                "members": [
+                    "APPLE",
+                    "BOWLER",
+                    "CLOUD",
+                    "PIPE"
+                ]
+            }
+        ]
     }
 ]
