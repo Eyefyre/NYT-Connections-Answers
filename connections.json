@@ -33302,5 +33302,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 725,
+        "date": "2025-06-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PRECIPICE",
+                "members": [
+                    "BRINK",
+                    "CUSP",
+                    "EVE",
+                    "VERGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLUMBING EQUIPMENT",
+                "members": [
+                    "PIPE",
+                    "PLUNGER",
+                    "SNAKE",
+                    "WRENCH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WAYS TO MODIFY A CAR'S EXTERIOR",
+                "members": [
+                    "BUMPER",
+                    "GRILLE",
+                    "RIM",
+                    "SPOILER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BEST FEMALE ROCK PERFORMANCE GRAMMY WINNERS",
+                "members": [
+                    "APPLE",
+                    "CROW",
+                    "SUMMER",
+                    "TURNER"
+                ]
+            }
+        ]
     }
 ]
