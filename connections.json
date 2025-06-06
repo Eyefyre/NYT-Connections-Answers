@@ -33348,5 +33348,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 726,
+        "date": "2025-06-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NEWSPAPER JOBS",
+                "members": [
+                    "COLUMNIST",
+                    "EDITOR",
+                    "PHOTOGRAPHER",
+                    "REPORTER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EVERYDAY",
+                "members": [
+                    "COMMON",
+                    "REGULAR",
+                    "ROUTINE",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT \u201cCON\u201d MIGHT MEAN",
+                "members": [
+                    "CONVENTION",
+                    "CRIMINAL",
+                    "DRAWBACK",
+                    "SWINDLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH KINDS OF DOGS",
+                "members": [
+                    "NEWSHOUND",
+                    "SHADOWBOXER",
+                    "SNICKERDOODLE",
+                    "TRENDSETTER"
+                ]
+            }
+        ]
     }
 ]
