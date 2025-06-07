@@ -33394,5 +33394,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 727,
+        "date": "2025-06-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "TIPS FOR WORKING OUT SAFELY",
+                "members": [
+                    "BREATHE",
+                    "HYDRATE",
+                    "REST",
+                    "STRETCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ESTABLISH",
+                "members": [
+                    "FOUND",
+                    "INSTITUTE",
+                    "LAUNCH",
+                    "START"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DITTY",
+                "members": [
+                    "AIR",
+                    "NUMBER",
+                    "SONG",
+                    "STRAIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPRING ___",
+                "members": [
+                    "CHICKEN",
+                    "EQUINOX",
+                    "FLING",
+                    "ONION"
+                ]
+            }
+        ]
     }
 ]
