@@ -33440,5 +33440,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 728,
+        "date": "2025-06-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PERSIST",
+                "members": [
+                    "HOLD",
+                    "LAST",
+                    "STAND",
+                    "STAY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ANIMAL METAPHORS IN ECONOMICS",
+                "members": [
+                    "BEAR",
+                    "BULL",
+                    "DOVE",
+                    "HAWK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SIDEBAR INFO ON A PERSON\u2019S WIKIPEDIA PAGE",
+                "members": [
+                    "BORN",
+                    "EDUCATION",
+                    "OCCUPATION",
+                    "SPOUSE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF SLANG FOR MONEY",
+                "members": [
+                    "BRED",
+                    "CACHE",
+                    "DOE",
+                    "LUTE"
+                ]
+            }
+        ]
     }
 ]
