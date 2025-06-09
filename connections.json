@@ -33486,5 +33486,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 729,
+        "date": "2025-06-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KEYBOARD SHORTCUT COMMANDS",
+                "members": [
+                    "PASTE",
+                    "PRINT",
+                    "QUIT",
+                    "SAVE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SECURE IN ADVANCE",
+                "members": [
+                    "BOOK",
+                    "ORDER",
+                    "REQUEST",
+                    "RESERVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CRIME ORGANIZATION",
+                "members": [
+                    "CREW",
+                    "FAMILY",
+                    "RING",
+                    "SYNDICATE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SPELLING BEE RANKS MINUS A LETTER",
+                "members": [
+                    "GENUS",
+                    "GOO",
+                    "MAZING",
+                    "SLID"
+                ]
+            }
+        ]
     }
 ]
