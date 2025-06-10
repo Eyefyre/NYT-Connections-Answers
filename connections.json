@@ -33532,5 +33532,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 730,
+        "date": "2025-06-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ARBITRATE",
+                "members": [
+                    "CHAIR",
+                    "JUDGE",
+                    "MEDIATE",
+                    "MODERATE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU CAN INSERT IN A DOCUMENT",
+                "members": [
+                    "CHART",
+                    "IMAGE",
+                    "TABLE",
+                    "TEXT BOX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "'80S SLANG",
+                "members": [
+                    "CHILL",
+                    "PSYCH",
+                    "RADICAL",
+                    "WORD"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DUTY",
+                "members": [
+                    "CIVIC",
+                    "CUSTOMS",
+                    "HEAVY",
+                    "JURY"
+                ]
+            }
+        ]
     }
 ]
