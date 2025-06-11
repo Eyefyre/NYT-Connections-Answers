@@ -33578,5 +33578,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 731,
+        "date": "2025-06-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BOAST",
+                "members": [
+                    "BLUSTER",
+                    "CROW",
+                    "SHOW OFF",
+                    "STRUT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ARC-SHAPED THINGS",
+                "members": [
+                    "BANANA",
+                    "EYEBROW",
+                    "FLIGHT PATH",
+                    "RAINBOW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CEREAL MASCOTS",
+                "members": [
+                    "COUNT",
+                    "ELVES",
+                    "LEPRECHAUN",
+                    "ROOSTER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WAYS TO DENOTE A CITATION",
+                "members": [
+                    "ASTERISK",
+                    "DAGGER",
+                    "NUMBER",
+                    "PARENS"
+                ]
+            }
+        ]
     }
 ]
