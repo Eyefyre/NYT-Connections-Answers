@@ -33624,5 +33624,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 732,
+        "date": "2025-06-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GETTING COZY",
+                "members": [
+                    "CUDDLING",
+                    "HUGGING",
+                    "SNUGGLING",
+                    "SPOONING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GOSSIPING",
+                "members": [
+                    "BUZZING",
+                    "DISHING",
+                    "SPILLING",
+                    "WHISPERING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ENGAGING IN AN ACTIVITY WITH PINS OR NEEDLES",
+                "members": [
+                    "ACUPUNCTURING",
+                    "BOWLING",
+                    "SEWING",
+                    "WRESTLING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH TITLES",
+                "members": [
+                    "DOCTORING",
+                    "LORDING",
+                    "MISSING",
+                    "SIRING"
+                ]
+            }
+        ]
     }
 ]
