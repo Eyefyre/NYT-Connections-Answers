@@ -33670,5 +33670,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 733,
+        "date": "2025-06-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PERSPECTIVE",
+                "members": [
+                    "ANGLE",
+                    "BENT",
+                    "LENS",
+                    "POINT OF VIEW"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN AT AN ICE CREAM SHOP",
+                "members": [
+                    "CONE",
+                    "CUP",
+                    "LITTLE SPOON",
+                    "SCOOP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HIT SONGS OF 1998",
+                "members": [
+                    "CLOSING TIME",
+                    "IRIS",
+                    "ONE WEEK",
+                    "TOO CLOSE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOT ___",
+                "members": [
+                    "DOG",
+                    "POTATO",
+                    "ROD",
+                    "WATER BOTTLE"
+                ]
+            }
+        ]
     }
 ]
