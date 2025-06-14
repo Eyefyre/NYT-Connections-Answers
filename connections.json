@@ -33716,5 +33716,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 734,
+        "date": "2025-06-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GODDESS",
+                "members": [
+                    "DIVA",
+                    "ICON",
+                    "LEGEND",
+                    "QUEEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ELEMENTS OF A CLASSIC \u201cMOM\u201d TATTOO",
+                "members": [
+                    "ARROW",
+                    "HEART",
+                    "MOM",
+                    "RIBBON"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DOGS OF THE SCREEN",
+                "members": [
+                    "ASTRO",
+                    "BLUE",
+                    "HOOCH",
+                    "TOTO"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ TERRIER",
+                "members": [
+                    "BORDER",
+                    "BOSTON",
+                    "BULL",
+                    "RAT"
+                ]
+            }
+        ]
     }
 ]
