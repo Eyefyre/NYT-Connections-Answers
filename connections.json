@@ -33762,5 +33762,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 735,
+        "date": "2025-06-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SLANG FOR COFFEE",
+                "members": [
+                    "BREW",
+                    "JAVA",
+                    "MUD",
+                    "ROCKET FUEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "\"AW, HECK!\"",
+                "members": [
+                    "BLAST",
+                    "CRUD",
+                    "CURSES",
+                    "FUDGE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CONSIDERATIONS FOR MOVIE RATINGS",
+                "members": [
+                    "ACTION",
+                    "LANGUAGE",
+                    "NUDITY",
+                    "SMOKING"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cPOP\u201d MIGHT MEAN",
+                "members": [
+                    "BURST",
+                    "FATHER",
+                    "POPULAR",
+                    "SODA"
+                ]
+            }
+        ]
     }
 ]
