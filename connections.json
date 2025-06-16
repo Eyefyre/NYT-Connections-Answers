@@ -33808,5 +33808,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 736,
+        "date": "2025-06-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EXPRESSIONLESS",
+                "members": [
+                    "BLANK",
+                    "FLAT",
+                    "INANIMATE",
+                    "WOODEN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DRAPERY HANGING ITEMS",
+                "members": [
+                    "BRACKET",
+                    "CURTAIN",
+                    "HOOK",
+                    "ROD"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT A DRINK IS SERVED WITH",
+                "members": [
+                    "COASTER",
+                    "GARNISH",
+                    "GLASS",
+                    "STRAW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH METHODS OF TRANSPORTATION",
+                "members": [
+                    "BUSBOY",
+                    "CARBON",
+                    "SHIPSHAPE",
+                    "TRAINEE"
+                ]
+            }
+        ]
     }
 ]
