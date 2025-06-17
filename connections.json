@@ -33854,5 +33854,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 737,
+        "date": "2025-06-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS TO BOOK FOR A VACATION",
+                "members": [
+                    "CAR",
+                    "FLIGHT",
+                    "HOTEL",
+                    "TOUR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "METTLE",
+                "members": [
+                    "FIGHT",
+                    "GRIT",
+                    "RESOLVE",
+                    "SPIRIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BAD THINGS FOR A WEBSITE TO DO",
+                "members": [
+                    "FREEZE",
+                    "GLITCH",
+                    "TIMEOUT",
+                    "QUIT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIGURES IN CLASSIC DISNEY ANIMATED FILMS",
+                "members": [
+                    "ELEPHANT",
+                    "FAWN",
+                    "MARIONETTE",
+                    "MOUSE"
+                ]
+            }
+        ]
     }
 ]
