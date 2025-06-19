@@ -33946,5 +33946,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 739,
+        "date": "2025-06-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPONENTS OF ONE\u2019S GRADE",
+                "members": [
+                    "ATTENDANCE",
+                    "FINAL",
+                    "HOMEWORK",
+                    "PAPERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MAP APP OPTIONS",
+                "members": [
+                    "DESTINATION",
+                    "ROUTE",
+                    "STARTING POINT",
+                    "STOPS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLASSIC TOYS",
+                "members": [
+                    "BALL",
+                    "BLOCKS",
+                    "JACKS",
+                    "TRAIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FENCING GEAR",
+                "members": [
+                    "FOILS",
+                    "GLOVES",
+                    "JACKETS",
+                    "MASKS"
+                ]
+            }
+        ]
     }
 ]
