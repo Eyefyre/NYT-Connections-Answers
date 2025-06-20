@@ -33992,5 +33992,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 740,
+        "date": "2025-06-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ITEMS IN A SEWING KIT",
+                "members": [
+                    "BUTTON",
+                    "NEEDLE",
+                    "SCISSORS",
+                    "THREAD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CAPTURE ON VIDEO",
+                "members": [
+                    "FILM",
+                    "RECORD",
+                    "SHOOT",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PRO WRESTLING ICONS, WITH \u201cTHE\u201d",
+                "members": [
+                    "HITMAN",
+                    "ROCK",
+                    "SNAKE",
+                    "UNDERTAKER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WAX ___",
+                "members": [
+                    "MUSEUM",
+                    "PAPER",
+                    "POETIC",
+                    "SEAL"
+                ]
+            }
+        ]
     }
 ]
