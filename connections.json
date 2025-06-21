@@ -34038,5 +34038,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 741,
+        "date": "2025-06-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STOCKY",
+                "members": [
+                    "SOLID",
+                    "SQUAT",
+                    "STOUT",
+                    "THICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMPANY",
+                "members": [
+                    "CONCERN",
+                    "FIRM",
+                    "HOUSE",
+                    "OUTFIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "APPLE PRODUCTS",
+                "members": [
+                    "BRANDY",
+                    "BUTTER",
+                    "CIDER",
+                    "SAUCE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF EUROPEAN COUNTRIES",
+                "members": [
+                    "GERM",
+                    "LUXE",
+                    "MALT",
+                    "PORT"
+                ]
+            }
+        ]
     }
 ]
