@@ -34084,5 +34084,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 742,
+        "date": "2025-06-22",
+        "answers": [
+            {
+                "level": 0,
+                "group": "NEWS ANNOUNCEMENT",
+                "members": [
+                    "BULLETIN",
+                    "FLASH",
+                    "REPORT",
+                    "WIRE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NOUNS FROM A FAMOUS LINE IN THE DECLARATION OF INDEPENDENCE",
+                "members": [
+                    "HAPPINESS",
+                    "LIBERTY",
+                    "LIFE",
+                    "PURSUIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HBO SHOWS",
+                "members": [
+                    "ENTOURAGE",
+                    "EUPHORIA",
+                    "INSECURE",
+                    "SUCCESSION"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cLEFT\u201d MIGHT MEAN",
+                "members": [
+                    "DEPARTED",
+                    "PORT",
+                    "PROGRESSIVE",
+                    "REMAINING"
+                ]
+            }
+        ]
     }
 ]
