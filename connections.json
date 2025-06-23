@@ -34130,5 +34130,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 743,
+        "date": "2025-06-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF JEANS",
+                "members": [
+                    "BOYFRIEND",
+                    "FLARE",
+                    "MOM",
+                    "SKINNY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FICTION CATEGORIES",
+                "members": [
+                    "HISTORICAL",
+                    "LITERARY",
+                    "SPECULATIVE",
+                    "YOUNG ADULT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS IN HEMINGWAY TITLES",
+                "members": [
+                    "BELL",
+                    "FAREWELL",
+                    "OLD MAN",
+                    "SUN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ GLASS GLASSWARE",
+                "members": [
+                    "COCKTAIL",
+                    "COLLINS",
+                    "OLD FASHIONED",
+                    "SHOT"
+                ]
+            }
+        ]
     }
 ]
