@@ -34176,5 +34176,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 744,
+        "date": "2025-06-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STRICT",
+                "members": [
+                    "FIRM",
+                    "RIGID",
+                    "STERN",
+                    "TOUGH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BOTANICAL COVERINGS",
+                "members": [
+                    "HULL",
+                    "HUSK",
+                    "POD",
+                    "SHELL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SEEN IN OPENING CREDITS",
+                "members": [
+                    "CAST",
+                    "DIRECTOR",
+                    "STUDIO",
+                    "TITLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+                "members": [
+                    "LINE",
+                    "PLANE",
+                    "POINT",
+                    "SOLID"
+                ]
+            }
+        ]
     }
 ]
