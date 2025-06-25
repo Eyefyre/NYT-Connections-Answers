@@ -34222,5 +34222,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 745,
+        "date": "2025-06-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KINDS OF CHEESES",
+                "members": [
+                    "BLUE",
+                    "GOAT",
+                    "JACK",
+                    "SWISS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BEVERAGE SELF-SERVICE ITEMS",
+                "members": [
+                    "CUP",
+                    "LID",
+                    "NAPKIN",
+                    "STRAW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WOODWORKING HAND TOOLS",
+                "members": [
+                    "CHISEL",
+                    "PLANE",
+                    "RASP",
+                    "SAW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BIRDS MINUS LAST LETTER",
+                "members": [
+                    "CRAN",
+                    "FLAMING",
+                    "HERO",
+                    "RAVE"
+                ]
+            }
+        ]
     }
 ]
