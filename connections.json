@@ -34268,5 +34268,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 746,
+        "date": "2025-06-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPONENTS OF A SALAD",
+                "members": [
+                    "CHEESE",
+                    "DRESSING",
+                    "LETTUCE",
+                    "PROTEIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF MACHINES",
+                "members": [
+                    "ENIGMA",
+                    "PINBALL",
+                    "SEWING",
+                    "VENDING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEGAL DRAMAS",
+                "members": [
+                    "DAMAGES",
+                    "GOLIATH",
+                    "MATLOCK",
+                    "SUITS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH PLAYING CARDS",
+                "members": [
+                    "BOJACK",
+                    "HAWKING",
+                    "LOVELACE",
+                    "MCQUEEN"
+                ]
+            }
+        ]
     }
 ]
