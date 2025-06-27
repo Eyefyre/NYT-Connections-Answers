@@ -34314,5 +34314,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 747,
+        "date": "2025-06-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IN FASHION",
+                "members": [
+                    "CHIC",
+                    "CURRENT",
+                    "FRESH",
+                    "HAPPENING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTS OF AN ANGEL COSTUME",
+                "members": [
+                    "HALO",
+                    "HARP",
+                    "ROBE",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "\u201cSESAME STREET\u201d FIGURES",
+                "members": [
+                    "BIRD",
+                    "COUNT",
+                    "GROUCH",
+                    "MONSTER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ BROTHERS",
+                "members": [
+                    "BLOOD",
+                    "BLUES",
+                    "CHEMICAL",
+                    "MARX"
+                ]
+            }
+        ]
     }
 ]
