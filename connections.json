@@ -34360,5 +34360,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 748,
+        "date": "2025-06-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "THINGS A DOG CAN FETCH",
+                "members": [
+                    "BALL",
+                    "BONE",
+                    "FRISBEE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "GREAT MANY",
+                "members": [
+                    "DROVE",
+                    "HOST",
+                    "LOAD",
+                    "SCORE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+                "members": [
+                    "BOOT",
+                    "POINTS",
+                    "TICKET",
+                    "TOW"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "INDUSTRIAL REVOLUTION INVENTORS",
+                "members": [
+                    "BELL",
+                    "DIESEL",
+                    "SINGER",
+                    "WATT"
+                ]
+            }
+        ]
     }
 ]
