@@ -34406,5 +34406,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 749,
+        "date": "2025-06-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ICE CREAM TREATS",
+                "members": [
+                    "FLOAT",
+                    "SHAKE",
+                    "SPLIT",
+                    "SUNDAE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FLINCH",
+                "members": [
+                    "BOLT",
+                    "JERK",
+                    "JUMP",
+                    "STARTLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DANCE MOVES",
+                "members": [
+                    "CABBAGE PATCH",
+                    "FLOSS",
+                    "MOONWALK",
+                    "ROBOT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SEEN IN THE AFTERMATH OF A RAINSTORM",
+                "members": [
+                    "EARTHWORM",
+                    "MUD",
+                    "MUSHROOM",
+                    "PUDDLE"
+                ]
+            }
+        ]
     }
 ]
