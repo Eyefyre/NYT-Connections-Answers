@@ -34452,5 +34452,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 750,
+        "date": "2025-06-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DENTAL ADDITIONS",
+                "members": [
+                    "BRIDGE",
+                    "CROWN",
+                    "FILLING",
+                    "VENEER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "METAPHORS FOR A DRAMATIC AND CHAOTIC EVENT",
+                "members": [
+                    "CIRCUS",
+                    "ROLLER COASTER",
+                    "SOAP OPERA",
+                    "WHIRLWIND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SECOND WORDS IN DAVID LYNCH TITLES",
+                "members": [
+                    "DRIVE",
+                    "HIGHWAY",
+                    "PEAKS",
+                    "VELVET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cJET\u201d MIGHT REFER TO",
+                "members": [
+                    "AIRPLANE",
+                    "BLACK",
+                    "HOT TUB NOZZLE",
+                    "NFL PLAYER"
+                ]
+            }
+        ]
     }
 ]
