@@ -34498,5 +34498,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 751,
+        "date": "2025-07-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "STEAL",
+                "members": [
+                    "NICK",
+                    "PALM",
+                    "PINCH",
+                    "POCKET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DO SOME GROOMING",
+                "members": [
+                    "BRUSH",
+                    "DRESS",
+                    "SHAVE",
+                    "SHOWER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DAPPER",
+                "members": [
+                    "NEAT",
+                    "SHARP",
+                    "SMART",
+                    "TIDY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___STONE",
+                "members": [
+                    "BIRTH",
+                    "KEY",
+                    "MILE",
+                    "TOUCH"
+                ]
+            }
+        ]
     }
 ]
