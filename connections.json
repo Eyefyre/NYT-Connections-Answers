@@ -34544,5 +34544,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 752,
+        "date": "2025-07-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KNOCKOFF",
+                "members": [
+                    "BOOTLEG",
+                    "COPY",
+                    "FAKE",
+                    "REPLICA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ASSOCIATED WITH FREUD",
+                "members": [
+                    "DREAMS",
+                    "ID",
+                    "OEDIPUS",
+                    "SLIP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS AFTER \u201cT-\u201d",
+                "members": [
+                    "MOBILE",
+                    "PAIN",
+                    "REX",
+                    "SHIRT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH HIGH SCHOOL/COLLEGE ABBREVIATIONS",
+                "members": [
+                    "FRESHWATER",
+                    "JUNIPER",
+                    "SENECA",
+                    "SOPHOCLES"
+                ]
+            }
+        ]
     }
 ]
