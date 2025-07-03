@@ -34590,5 +34590,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 753,
+        "date": "2025-07-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CORRESPONDENCE",
+                "members": [
+                    "CONTACT",
+                    "DEALINGS",
+                    "EXCHANGE",
+                    "INTERACTION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AIRPORT BOARD INFO",
+                "members": [
+                    "ARRIVAL",
+                    "DESTINATION",
+                    "FLIGHT",
+                    "GATE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PRO ATHLETE DATA",
+                "members": [
+                    "COLLEGE",
+                    "NUMBER",
+                    "POSITION",
+                    "TEAM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FARMERS\u2019 THINGS",
+                "members": [
+                    "ALMANAC",
+                    "INSURANCE",
+                    "MARKET",
+                    "TAN"
+                ]
+            }
+        ]
     }
 ]
