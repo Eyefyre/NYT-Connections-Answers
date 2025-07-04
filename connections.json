@@ -34636,5 +34636,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 754,
+        "date": "2025-07-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WHAT \u201cID\u201d MIGHT REFER TO",
+                "members": [
+                    "FREUDIAN CONCEPT",
+                    "IDAHO",
+                    "DRIVER LICENSE",
+                    "RECOGNIZE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WHAT \u201cIN\u201d MIGHT REFER TO",
+                "members": [
+                    "INCH",
+                    "INDIANA",
+                    "INSIDE",
+                    "TRENDY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WHAT \u201cLA\u201d MIGHT REFER TO",
+                "members": [
+                    "LANTHANUM",
+                    "LOS ANGELES",
+                    "LOUISIANA",
+                    "MUSICAL NOTE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \u201cOK\u201d MIGHT REFER TO",
+                "members": [
+                    "BRITISH MAGAZINE",
+                    "GREENLIGHT",
+                    "MEDIOCRE",
+                    "OKLAHOMA"
+                ]
+            }
+        ]
     }
 ]
