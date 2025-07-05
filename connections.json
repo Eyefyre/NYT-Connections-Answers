@@ -34682,5 +34682,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 755,
+        "date": "2025-07-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CON GAME",
+                "members": [
+                    "HUSTLE",
+                    "RACKET",
+                    "SCHEME",
+                    "STING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMBINE, AS BAKING INGREDIENTS",
+                "members": [
+                    "BEAT",
+                    "BLEND",
+                    "FOLD",
+                    "STIR"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "YEARN",
+                "members": [
+                    "BURN",
+                    "ITCH",
+                    "LONG",
+                    "PINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "KINDS OF LISTS",
+                "members": [
+                    "BUCKET",
+                    "LAUNDRY",
+                    "SHORT",
+                    "TO-DO"
+                ]
+            }
+        ]
     }
 ]
