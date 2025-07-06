@@ -34728,5 +34728,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 756,
+        "date": "2025-07-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FIRED OBJECTS",
+                "members": [
+                    "CERAMICS",
+                    "CHINA",
+                    "POTTERY",
+                    "WARE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PARTICLE",
+                "members": [
+                    "CRUMB",
+                    "GRAIN",
+                    "MORSEL",
+                    "SHRED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DRS",
+                "members": [
+                    "DRE",
+                    "EVIL",
+                    "PEPPER",
+                    "SEUSS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH HOMOPHONES OF PARTS OF THE LEG",
+                "members": [
+                    "CRYPTO",
+                    "DECAF",
+                    "DISNEY",
+                    "PRUSSIAN"
+                ]
+            }
+        ]
     }
 ]
