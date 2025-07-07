@@ -34774,5 +34774,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 757,
+        "date": "2025-07-07",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INFORMANT",
+                "members": [
+                    "CANARY",
+                    "LEAK",
+                    "RAT",
+                    "SOURCE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BIG IMPRESSION",
+                "members": [
+                    "FOOTPRINT",
+                    "IMPACT",
+                    "MARK",
+                    "SPLASH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BASKETBALL MOVES",
+                "members": [
+                    "BLOCK",
+                    "DRIBBLE",
+                    "PASS",
+                    "SHOOT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "TOP ___",
+                "members": [
+                    "BANANA",
+                    "DOG",
+                    "HAT",
+                    "SECRET"
+                ]
+            }
+        ]
     }
 ]
