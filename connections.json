@@ -34820,5 +34820,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 758,
+        "date": "2025-07-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LIAISON",
+                "members": [
+                    "AFFAIR",
+                    "FLING",
+                    "RELATIONS",
+                    "THING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SEEN IN A LOCKER ROOM",
+                "members": [
+                    "BENCH",
+                    "LOCKER",
+                    "MIRROR",
+                    "SCALE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SOMETHING ENTERED FOR ACCESS",
+                "members": [
+                    "CODE",
+                    "KEY",
+                    "PASSWORD",
+                    "PIN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "JOHNS",
+                "members": [
+                    "CANDY",
+                    "CARPENTER",
+                    "LEGEND",
+                    "MAJOR"
+                ]
+            }
+        ]
     }
 ]
