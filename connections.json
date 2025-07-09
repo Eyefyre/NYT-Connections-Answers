@@ -34866,5 +34866,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 759,
+        "date": "2025-07-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LOWEST PART",
+                "members": [
+                    "BASE",
+                    "BOTTOM",
+                    "FOOT",
+                    "FOUNDATION"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF SOCKS",
+                "members": [
+                    "ANKLE",
+                    "COMPRESSION",
+                    "CREW",
+                    "DRESS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU DO AT SOMEONE'S FRONT DOOR",
+                "members": [
+                    "BUZZ",
+                    "KNOCK",
+                    "RING",
+                    "SHOUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING IN SYNONYMS FOR \"CLIP\"",
+                "members": [
+                    "COMPARE",
+                    "CONNECTICUT",
+                    "PARSNIP",
+                    "WALLOP"
+                ]
+            }
+        ]
     }
 ]
