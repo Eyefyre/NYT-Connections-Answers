@@ -34912,5 +34912,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 760,
+        "date": "2025-07-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A WHEEL",
+                "members": [
+                    "HUB",
+                    "RIM",
+                    "SPOKE",
+                    "TIRE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MILITARY CLOTHING DESCRIPTORS",
+                "members": [
+                    "CAMO",
+                    "DRAB",
+                    "FATIGUE",
+                    "KHAKI"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "USED IN VENTILATION",
+                "members": [
+                    "DUCT",
+                    "EXHAUST",
+                    "HOSE",
+                    "PIPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
+                "members": [
+                    "BLOW",
+                    "LOSE",
+                    "MISS",
+                    "WASTE"
+                ]
+            }
+        ]
     }
 ]
