@@ -34958,5 +34958,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 761,
+        "date": "2025-07-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COMPANIES THAT HAVE BECOME VERBS",
+                "members": [
+                    "GOOGLE",
+                    "PHOTOSHOP",
+                    "UBER",
+                    "ZOOM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SILLY PERSON",
+                "members": [
+                    "DODO",
+                    "GOOF",
+                    "GOOSE",
+                    "YAHOO"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF SONGS",
+                "members": [
+                    "FOLK",
+                    "LOVE",
+                    "SIREN",
+                    "SWAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF SYNONYMS FOR \u201cDESPICABLE\u201d",
+                "members": [
+                    "FOWL",
+                    "MIEN",
+                    "OFFAL",
+                    "VIAL"
+                ]
+            }
+        ]
     }
 ]
