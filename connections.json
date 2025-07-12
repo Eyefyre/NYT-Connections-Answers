@@ -35004,5 +35004,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 762,
+        "date": "2025-07-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ENDORSE",
+                "members": [
+                    "BACK",
+                    "CHAMPION",
+                    "SECOND",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "DETAILED",
+                "members": [
+                    "ELABORATE",
+                    "MINUTE",
+                    "PARTICULAR",
+                    "THOROUGH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ERA",
+                "members": [
+                    "AGE",
+                    "DAY",
+                    "PERIOD",
+                    "TIME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "IN THE NATO ALPHABET",
+                "members": [
+                    "ECHO",
+                    "KILO",
+                    "UNIFORM",
+                    "VICTOR"
+                ]
+            }
+        ]
     }
 ]
