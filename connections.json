@@ -35050,5 +35050,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 763,
+        "date": "2025-07-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INSULT",
+                "members": [
+                    "BURN",
+                    "KNOCK",
+                    "SLIGHT",
+                    "ZING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CREDIT CARD INFO",
+                "members": [
+                    "EXPIRATION",
+                    "NAME",
+                    "NUMBER",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SLANG FOR PRINTED MATTER",
+                "members": [
+                    "GLOSSY",
+                    "MAG",
+                    "RAG",
+                    "ZINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WINE NICKNAMES",
+                "members": [
+                    "BUBBLY",
+                    "CAB",
+                    "CHARD",
+                    "ZIN"
+                ]
+            }
+        ]
     }
 ]
