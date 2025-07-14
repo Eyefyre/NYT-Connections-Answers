@@ -35096,5 +35096,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 764,
+        "date": "2025-07-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SHADES OF BLUE",
+                "members": [
+                    "BABY",
+                    "ICE",
+                    "POWDER",
+                    "SKY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ADJECTIVES FOR A SPORTS CAR",
+                "members": [
+                    "COMPACT",
+                    "FAST",
+                    "SLEEK",
+                    "SPORTY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS BEFORE \u201cROGER/S\u201d",
+                "members": [
+                    "GINGER",
+                    "JOLLY",
+                    "MISTER",
+                    "ROY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DISNEY ANIMATED CHARACTERS PLUS A LETTER",
+                "members": [
+                    "ABUT",
+                    "BELLED",
+                    "FLOUNDERS",
+                    "SCARY"
+                ]
+            }
+        ]
     }
 ]
