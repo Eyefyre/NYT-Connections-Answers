@@ -35142,5 +35142,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 765,
+        "date": "2025-07-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GYMNASTICS APPARATUS",
+                "members": [
+                    "BARS",
+                    "BEAM",
+                    "RINGS",
+                    "VAULT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FORCE TO LEAVE",
+                "members": [
+                    "BOOT",
+                    "BOUNCE",
+                    "EJECT",
+                    "REMOVE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HORROR MOVIES FROM 2022",
+                "members": [
+                    "NOPE",
+                    "PEARL",
+                    "SCREAM",
+                    "SMILE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HORSE___",
+                "members": [
+                    "FEATHERS",
+                    "PLAY",
+                    "POWER",
+                    "SHOE"
+                ]
+            }
+        ]
     }
 ]
