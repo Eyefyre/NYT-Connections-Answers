@@ -35188,5 +35188,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 766,
+        "date": "2025-07-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PARTS OF A COLLEGE CAMPUS",
+                "members": [
+                    "CAFETERIA",
+                    "DORM",
+                    "LIBRARY",
+                    "QUAD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXAGGERATED, AS A PERFORMANCE",
+                "members": [
+                    "CAMP",
+                    "DRAMATIC",
+                    "HAMMY",
+                    "OVERDONE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "CLOSE IN ON",
+                "members": [
+                    "CORNER",
+                    "SURROUND",
+                    "TRAP",
+                    "TREE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF GREEK LETTERS",
+                "members": [
+                    "BET",
+                    "DELT",
+                    "LAMB",
+                    "THE"
+                ]
+            }
+        ]
     }
 ]
