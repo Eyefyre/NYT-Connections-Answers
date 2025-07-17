@@ -35234,5 +35234,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 767,
+        "date": "2025-07-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MEDDLE",
+                "members": [
+                    "NOSE AROUND",
+                    "POKE",
+                    "PRY",
+                    "SNOOP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "WORDS AFTER \u201cNO\u201d TO MEAN \u201cIT\u2019S ALL GOOD\u201d",
+                "members": [
+                    "BIGGIE",
+                    "HARD FEELINGS",
+                    "SWEAT",
+                    "WORRIES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SUPER ___",
+                "members": [
+                    "GLUE",
+                    "MARIO WORLD",
+                    "PAC",
+                    "POWER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH FISH",
+                "members": [
+                    "CAMISOLE",
+                    "CAPE COD",
+                    "DRUM AND BASS",
+                    "WU-TANG"
+                ]
+            }
+        ]
     }
 ]
