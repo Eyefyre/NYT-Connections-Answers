@@ -35280,5 +35280,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 768,
+        "date": "2025-07-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SEQUENCE",
+                "members": [
+                    "RUN",
+                    "SERIES",
+                    "STREAK",
+                    "STRING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PICK UP ON",
+                "members": [
+                    "CATCH",
+                    "NOTE",
+                    "SEE",
+                    "SPOT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "YOGA BACKBENDS",
+                "members": [
+                    "BRIDGE",
+                    "COBRA",
+                    "COW",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ELECTRIC ___",
+                "members": [
+                    "BLANKET",
+                    "EEL",
+                    "GUITAR",
+                    "SLIDE"
+                ]
+            }
+        ]
     }
 ]
