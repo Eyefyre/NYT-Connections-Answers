@@ -35326,5 +35326,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 769,
+        "date": "2025-07-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SOURCES OF DRINKING WATER",
+                "members": [
+                    "RAIN",
+                    "SPRING",
+                    "TAP",
+                    "WELL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS YOU CAN DO WITH A FOOTBALL",
+                "members": [
+                    "PASS",
+                    "PUNT",
+                    "SNAP",
+                    "SPIKE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SHARP FASTENERS",
+                "members": [
+                    "BRAD",
+                    "NAIL",
+                    "PIN",
+                    "TACK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF TEENAGE MUTANT NINJA TURTLES",
+                "members": [
+                    "DON",
+                    "LEO",
+                    "MIC",
+                    "RAP"
+                ]
+            }
+        ]
     }
 ]
