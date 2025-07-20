@@ -35372,5 +35372,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 770,
+        "date": "2025-07-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MOVE TO THE MUSIC",
+                "members": [
+                    "BOP",
+                    "BOUNCE",
+                    "GROOVE",
+                    "SWAY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INHALATION",
+                "members": [
+                    "DRAG",
+                    "DRAW",
+                    "PUFF",
+                    "PULL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MARTINI SPECIFICATIONS",
+                "members": [
+                    "DRY",
+                    "GIN",
+                    "SHAKEN",
+                    "TWIST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___WORD",
+                "members": [
+                    "BUZZ",
+                    "CROSS",
+                    "LOAN",
+                    "PASS"
+                ]
+            }
+        ]
     }
 ]
