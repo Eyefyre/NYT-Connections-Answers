@@ -35510,5 +35510,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 773,
+        "date": "2025-07-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DREAD-INDUCING FIGURES",
+                "members": [
+                    "BOGEYMAN",
+                    "BUGBEAR",
+                    "HOBGOBLIN",
+                    "PHANTOM"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "KINDS OF STEAKS",
+                "members": [
+                    "CHATEAUBRIAND",
+                    "FLATIRON",
+                    "PORTERHOUSE",
+                    "TOMAHAWK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RELATED TO BUYING A HOME",
+                "members": [
+                    "APPRAISAL",
+                    "ESCROW",
+                    "INSURANCE",
+                    "MORTGAGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ANIMALS ENDING WITH ANIMALS",
+                "members": [
+                    "GEODUCK",
+                    "SEAHORSE",
+                    "TITMOUSE",
+                    "WOMBAT"
+                ]
+            }
+        ]
     }
 ]
