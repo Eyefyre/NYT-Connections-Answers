@@ -35556,5 +35556,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 774,
+        "date": "2025-07-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "COLOSSAL",
+                "members": [
+                    "GIANT",
+                    "GREAT",
+                    "MAMMOTH",
+                    "TITANIC"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LEAVE QUICKLY",
+                "members": [
+                    "BOUNCE",
+                    "DIP",
+                    "JET",
+                    "SPLIT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PARTS OF A BASKETBALL HOOP",
+                "members": [
+                    "BACKBOARD",
+                    "NET",
+                    "POLE",
+                    "RIM"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF SYNONYMS FOR \u201cNAB\u201d",
+                "members": [
+                    "KNICK",
+                    "LUTE",
+                    "RABE",
+                    "STEEL"
+                ]
+            }
+        ]
     }
 ]
