@@ -35602,5 +35602,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 775,
+        "date": "2025-07-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HUSH-HUSH",
+                "members": [
+                    "MUM",
+                    "PRIVATE",
+                    "QUIET",
+                    "SECRET"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "STATE ABBREVIATIONS",
+                "members": [
+                    "IN",
+                    "MA",
+                    "OH",
+                    "OK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BASEBALL CALLS",
+                "members": [
+                    "BALL",
+                    "FAIR",
+                    "FOUL",
+                    "OUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "QUEEN ___",
+                "members": [
+                    "BED",
+                    "BEE",
+                    "MARY",
+                    "MOTHER"
+                ]
+            }
+        ]
     }
 ]
