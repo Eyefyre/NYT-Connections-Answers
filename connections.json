@@ -35648,5 +35648,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 776,
+        "date": "2025-07-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "HERBS AND SPICES",
+                "members": [
+                    "ANISE",
+                    "DILL",
+                    "MACE",
+                    "SAGE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SHADES OF GREEN",
+                "members": [
+                    "BOTTLE",
+                    "HUNTER",
+                    "KELLY",
+                    "PEA"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TRAVEL ON FOOT",
+                "members": [
+                    "MARCH",
+                    "HIKE",
+                    "TRAMP",
+                    "TREK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF EUROPEAN CAPITALS",
+                "members": [
+                    "COPE",
+                    "LUXE",
+                    "SARA",
+                    "WARS"
+                ]
+            }
+        ]
     }
 ]
