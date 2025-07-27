@@ -35694,5 +35694,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 777,
+        "date": "2025-07-27",
+        "answers": [
+            {
+                "level": 0,
+                "group": "\"NOTHING TO IT!\"",
+                "members": [
+                    "CHILD\u2019S PLAY",
+                    "EASY",
+                    "NO SWEAT",
+                    "PIECE OF CAKE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "OUTDOOR EVENTS",
+                "members": [
+                    "BLOCK PARTY",
+                    "FESTIVAL",
+                    "PICNIC",
+                    "TAILGATE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS BEFORE \"SCHOOL\"",
+                "members": [
+                    "ELEMENTARY",
+                    "GRADE",
+                    "GRAMMAR",
+                    "PRIMARY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ASSOCIATED WITH TRICKS",
+                "members": [
+                    "CON GAME",
+                    "HALLOWEEN",
+                    "HEARTS",
+                    "MAGIC SHOW"
+                ]
+            }
+        ]
     }
 ]
