@@ -35740,5 +35740,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 778,
+        "date": "2025-07-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FOREMOST",
+                "members": [
+                    "FIRST",
+                    "INITIAL",
+                    "ORIGINAL",
+                    "PRIMARY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INDICATION",
+                "members": [
+                    "EVIDENCE",
+                    "HINT",
+                    "SIGN",
+                    "TRACE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ITEM IN A COLLECTION",
+                "members": [
+                    "COIN",
+                    "COMIC",
+                    "RECORD",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ MOVIE",
+                "members": [
+                    "BUDDY",
+                    "CULT",
+                    "DATE",
+                    "SILENT"
+                ]
+            }
+        ]
     }
 ]
