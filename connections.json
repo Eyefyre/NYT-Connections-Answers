@@ -35786,5 +35786,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 779,
+        "date": "2025-07-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DISCOUNT",
+                "members": [
+                    "DEAL",
+                    "PROMOTION",
+                    "SALE",
+                    "SPECIAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "IRRITATE",
+                "members": [
+                    "BUG",
+                    "NETTLE",
+                    "RUFFLE",
+                    "STEAM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "POKER ACTIONS",
+                "members": [
+                    "CALL",
+                    "CHECK",
+                    "FOLD",
+                    "RAISE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS YOU CAN PUMP",
+                "members": [
+                    "BRAKES",
+                    "FIST",
+                    "GAS",
+                    "IRON"
+                ]
+            }
+        ]
     }
 ]
