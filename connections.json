@@ -35832,5 +35832,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 780,
+        "date": "2025-07-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INSTRUCT",
+                "members": [
+                    "COACH",
+                    "DIRECT",
+                    "GUIDE",
+                    "TRAIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MEANS",
+                "members": [
+                    "INSTRUMENT",
+                    "MEDIUM",
+                    "ORGAN",
+                    "VEHICLE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "STARTING WITH GREEK NUMERICAL PREFIXES",
+                "members": [
+                    "DIOXIDE",
+                    "MONORAIL",
+                    "TETRACYCLINE",
+                    "TRIANGLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ANAGRAMS OF MUSICAL INSTRUMENTS",
+                "members": [
+                    "ABUT",
+                    "BULGE",
+                    "GROAN",
+                    "VOILA"
+                ]
+            }
+        ]
     }
 ]
