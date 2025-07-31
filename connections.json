@@ -35878,5 +35878,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 781,
+        "date": "2025-07-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FIRST ___",
+                "members": [
+                    "AID",
+                    "LADY",
+                    "NATIONS",
+                    "RESPONDER"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SECOND ___",
+                "members": [
+                    "COMING",
+                    "FIDDLE",
+                    "GUESS",
+                    "NATURE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THIRD ___",
+                "members": [
+                    "EYE",
+                    "PARTY",
+                    "RAIL",
+                    "ROCK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "LAST ___",
+                "members": [
+                    "LAUGH",
+                    "RESORT",
+                    "STRAW",
+                    "SUPPER"
+                ]
+            }
+        ]
     }
 ]
