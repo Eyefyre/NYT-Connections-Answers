@@ -35924,5 +35924,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 782,
+        "date": "2025-08-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "APTITUDE",
+                "members": [
+                    "BENT",
+                    "FACULTY",
+                    "FLAIR",
+                    "GIFT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SILENT \u201cW\u201d",
+                "members": [
+                    "PLAYWRIGHT",
+                    "SWORD",
+                    "WRAP",
+                    "WREATH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LEGENDS OF CLASSIC HOLLYWOOD",
+                "members": [
+                    "DEAN",
+                    "GABLE",
+                    "GARLAND",
+                    "TEMPLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HIT THE ___",
+                "members": [
+                    "HAY",
+                    "JACKPOT",
+                    "ROAD",
+                    "ROOF"
+                ]
+            }
+        ]
     }
 ]
