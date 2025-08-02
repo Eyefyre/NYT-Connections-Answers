@@ -35970,5 +35970,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 783,
+        "date": "2025-08-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ATTACH WITH ADHESIVE",
+                "members": [
+                    "ADHERE",
+                    "AFFIX",
+                    "GLUE",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "POLITE TERMS FOR SEX",
+                "members": [
+                    "COMMERCE",
+                    "CONGRESS",
+                    "INTIMACY",
+                    "RELATIONS"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BOWLING RESULTS",
+                "members": [
+                    "FOUL",
+                    "SPARE",
+                    "SPLIT",
+                    "STRIKE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CONTRONYMS (WORDS THAT CAN MEAN OPPOSITE THINGS)",
+                "members": [
+                    "CLEAVE",
+                    "GARNISH",
+                    "OVERSIGHT",
+                    "SANCTION"
+                ]
+            }
+        ]
     }
 ]
