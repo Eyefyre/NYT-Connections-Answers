@@ -36016,5 +36016,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 784,
+        "date": "2025-08-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EMULATE",
+                "members": [
+                    "COPY",
+                    "ECHO",
+                    "MIRROR",
+                    "PARROT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SPORTS",
+                "members": [
+                    "CRICKET",
+                    "GOLF",
+                    "POLO",
+                    "SQUASH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MANIA",
+                "members": [
+                    "BUG",
+                    "CRAZE",
+                    "FAD",
+                    "FEVER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "SINGLE ANIMAL IN A CREATIVELY SPELLED BAND NAME",
+                "members": [
+                    "BEETLE",
+                    "BIRD",
+                    "GORILLA",
+                    "MONKEY"
+                ]
+            }
+        ]
     }
 ]
