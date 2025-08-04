@@ -36062,5 +36062,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 785,
+        "date": "2025-08-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ARTHROPODS",
+                "members": [
+                    "APHID",
+                    "BEETLE",
+                    "MITE",
+                    "TICK"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TREES",
+                "members": [
+                    "BEECH",
+                    "CEDAR",
+                    "PINE",
+                    "YEW"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "[LETTER] (IS) FOR ___",
+                "members": [
+                    "APPLE",
+                    "COOKIE",
+                    "EFFORT",
+                    "VENDETTA"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS THAT SOUNDS LIKE TWO LETTERS",
+                "members": [
+                    "DECAY",
+                    "EASY",
+                    "GEO",
+                    "ZITI"
+                ]
+            }
+        ]
     }
 ]
