@@ -36108,5 +36108,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 786,
+        "date": "2025-08-05",
+        "answers": [
+            {
+                "level": 0,
+                "group": "SUBTERRANEAN TRANSIT",
+                "members": [
+                    "METRO",
+                    "SUBWAY",
+                    "TUBE",
+                    "UNDERGROUND"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "MAKE INTO SMALLER PIECES WHILE COOKING",
+                "members": [
+                    "CUBE",
+                    "GRATE",
+                    "MINCE",
+                    "SLICE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "USED TO DECORATE A SNOWMAN",
+                "members": [
+                    "CARROT",
+                    "COAL",
+                    "PIPE",
+                    "SCARF"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CODE",
+                "members": [
+                    "DRESS",
+                    "HEALTH",
+                    "SECRET",
+                    "ZIP"
+                ]
+            }
+        ]
     }
 ]
