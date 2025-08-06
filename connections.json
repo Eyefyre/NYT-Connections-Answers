@@ -36154,5 +36154,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 787,
+        "date": "2025-08-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ACCESSORY WITH A POINTY FASTENER",
+                "members": [
+                    "BADGE",
+                    "BROOCH",
+                    "BUTTON",
+                    "PIN"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "TEASE",
+                "members": [
+                    "BAIT",
+                    "NEEDLE",
+                    "RAG",
+                    "RIB"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "BOXING PUNCHES",
+                "members": [
+                    "CROSS",
+                    "HOOK",
+                    "JAB",
+                    "UPPERCUT"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MUSCLE NICKNAMES PLUS \u201cS\u201d",
+                "members": [
+                    "SHAMMY",
+                    "SPEC",
+                    "SQUAD",
+                    "STRAP"
+                ]
+            }
+        ]
     }
 ]
