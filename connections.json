@@ -36246,5 +36246,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 789,
+        "date": "2025-08-08",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MAKE EQUAL, AS A SCORE",
+                "members": [
+                    "DRAW",
+                    "EVEN",
+                    "SQUARE",
+                    "TIE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BESTOW",
+                "members": [
+                    "CONFER",
+                    "GRANT",
+                    "PRESENT",
+                    "VEST"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS YOU MIGHT DO DURING A BORING CLASS/MEETING",
+                "members": [
+                    "DOODLE",
+                    "DOZE",
+                    "PASS NOTES",
+                    "SPACE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS AFTER THE LETTERS \u201cMS\u201d",
+                "members": [
+                    "DEGREE",
+                    "MARVEL",
+                    "PAC-MAN",
+                    "PAINT"
+                ]
+            }
+        ]
     }
 ]
