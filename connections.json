@@ -36338,5 +36338,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 791,
+        "date": "2025-08-10",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INFLUENCE",
+                "members": [
+                    "JUICE",
+                    "PULL",
+                    "SWAY",
+                    "WEIGHT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "AMASS",
+                "members": [
+                    "CLUSTER",
+                    "COLLECT",
+                    "CONCENTRATE",
+                    "GROUP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF FICTION",
+                "members": [
+                    "FAN",
+                    "HISTORICAL",
+                    "PULP",
+                    "SCIENCE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH MATH AND SCIENCE CLASSES, FOR SHORT",
+                "members": [
+                    "BIOPIC",
+                    "CALCIUM",
+                    "CHEMISE",
+                    "TRIGLYCERIDE"
+                ]
+            }
+        ]
     }
 ]
