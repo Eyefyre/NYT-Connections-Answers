@@ -36384,5 +36384,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 792,
+        "date": "2025-08-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "ORDINARY",
+                "members": [
+                    "NORMAL",
+                    "PLAIN",
+                    "STANDARD",
+                    "VANILLA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ABANDON",
+                "members": [
+                    "DESERT",
+                    "DUMP",
+                    "MAROON",
+                    "STRAND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPECS ON CONSUMER PACKAGING",
+                "members": [
+                    "COUNT",
+                    "MEASURE",
+                    "WEIGHT",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "DARK ___",
+                "members": [
+                    "AGES",
+                    "CHOCOLATE",
+                    "HORSE",
+                    "MATTER"
+                ]
+            }
+        ]
     }
 ]
