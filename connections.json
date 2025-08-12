@@ -36430,5 +36430,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 793,
+        "date": "2025-08-12",
+        "answers": [
+            {
+                "level": 0,
+                "group": "GROUPS OF TEN",
+                "members": [
+                    "BOWLING PINS",
+                    "COMMANDMENTS",
+                    "DECADE",
+                    "FINGERS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PLACES WITH LANES",
+                "members": [
+                    "BOWLING ALLEY",
+                    "HIGHWAY",
+                    "SUPERMARKET",
+                    "SWIMMING POOL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "LANDMARKS IN DOWNTOWN NYC",
+                "members": [
+                    "BOWLING GREEN",
+                    "BROOKLYN BRIDGE",
+                    "CITY HALL",
+                    "WALL STREET"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH HOLES",
+                "members": [
+                    "BOWLING BALL",
+                    "COLANDER",
+                    "GOLF COURSE",
+                    "SPONGE"
+                ]
+            }
+        ]
     }
 ]
