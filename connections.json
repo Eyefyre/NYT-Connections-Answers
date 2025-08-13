@@ -36476,5 +36476,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 794,
+        "date": "2025-08-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CAPTIVATE",
+                "members": [
+                    "CHARM",
+                    "ENTRANCE",
+                    "RIVET",
+                    "THRILL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXCERPT",
+                "members": [
+                    "CLIP",
+                    "EXTRACT",
+                    "PASSAGE",
+                    "QUOTE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "MEMBER OF A GIRL GROUP",
+                "members": [
+                    "BANGLE",
+                    "CHICK",
+                    "GO-GO",
+                    "SUPREME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STAR___",
+                "members": [
+                    "BOARD",
+                    "FISH",
+                    "GATE",
+                    "STRUCK"
+                ]
+            }
+        ]
     }
 ]
