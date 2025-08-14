@@ -36522,5 +36522,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 795,
+        "date": "2025-08-14",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DERRIERE",
+                "members": [
+                    "BACKSIDE",
+                    "CABOOSE",
+                    "SEAT",
+                    "TAIL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USED TO HIT A BALL IN SPORTS",
+                "members": [
+                    "BAT",
+                    "MALLET",
+                    "RACKET",
+                    "STICK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "COMPONENTS OF A BRIDE\u2019S ENSEMBLE",
+                "members": [
+                    "BOUQUET",
+                    "BUSTLE",
+                    "TRAIN",
+                    "VEIL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RHYMING COMPOUND WORDS",
+                "members": [
+                    "BACKPACK",
+                    "COOKBOOK",
+                    "HUBBUB",
+                    "NITWIT"
+                ]
+            }
+        ]
     }
 ]
