@@ -36568,5 +36568,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 796,
+        "date": "2025-08-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "POULTRY CUTS",
+                "members": [
+                    "BREAST",
+                    "TENDER",
+                    "THIGH",
+                    "WING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "HANDLE, AS A BILL",
+                "members": [
+                    "FOOT",
+                    "PAY",
+                    "SETTLE",
+                    "TAKE CARE OF"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SPLENDID",
+                "members": [
+                    "BRILLIANT",
+                    "CAPITAL",
+                    "FINE",
+                    "GRAND"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTS OF CULINARY NUTS",
+                "members": [
+                    "CASH",
+                    "HAZE",
+                    "MAC",
+                    "PEC"
+                ]
+            }
+        ]
     }
 ]
