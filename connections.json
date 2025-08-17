@@ -36660,5 +36660,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 798,
+        "date": "2025-08-17",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CONVENIENTLY LOCATED",
+                "members": [
+                    "ACCESSIBLE",
+                    "CLOSE",
+                    "HANDY",
+                    "NEARBY"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NEEDS FOR SENDING A LETTER",
+                "members": [
+                    "ADDRESS",
+                    "ENVELOPE",
+                    "NAME",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORDS ON A DOOR",
+                "members": [
+                    "EXIT",
+                    "OPEN",
+                    "PUSH",
+                    "WELCOME"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "FIRST AMENDMENT FREEDOMS",
+                "members": [
+                    "ASSEMBLY",
+                    "PETITION",
+                    "PRESS",
+                    "SPEECH"
+                ]
+            }
+        ]
     }
 ]
