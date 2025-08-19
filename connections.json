@@ -36752,5 +36752,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 800,
+        "date": "2025-08-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "QUITE THE TALKER",
+                "members": [
+                    "BLABBERMOUTH",
+                    "CHATTERBOX",
+                    "PRATTLER",
+                    "WINDBAG"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FORTIFIED WINES",
+                "members": [
+                    "MARSALA",
+                    "PORT",
+                    "SHERRY",
+                    "VERMOUTH"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "___ ROCK",
+                "members": [
+                    "CLASSIC",
+                    "LITTLE",
+                    "PLYMOUTH",
+                    "THE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH WAYS TO MOVE QUICKLY",
+                "members": [
+                    "DARTMOUTH",
+                    "DASHBOARD",
+                    "FLYWHEEL",
+                    "RUSHMORE"
+                ]
+            }
+        ]
     }
 ]
