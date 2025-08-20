@@ -36798,5 +36798,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 801,
+        "date": "2025-08-20",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BLACK-AND-WHITE THINGS",
+                "members": [
+                    "DOMINO",
+                    "PIANO KEYS",
+                    "YIN-YANG SYMBOL",
+                    "ZEBRA"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "PAIRS OF RODS",
+                "members": [
+                    "CHOPSTICKS",
+                    "CLAVES",
+                    "KNITTING NEEDLES",
+                    "SKI POLES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT ROTATE ABOUT A VERTICAL AXIS",
+                "members": [
+                    "BARBER POLE",
+                    "CAROUSEL",
+                    "CEILING FAN",
+                    "LAZY SUSAN"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "RODS THAT CURVE AT ONE END",
+                "members": [
+                    "CANDY CANE",
+                    "CROCHET HOOK",
+                    "CROOK",
+                    "CROWBAR"
+                ]
+            }
+        ]
     }
 ]
