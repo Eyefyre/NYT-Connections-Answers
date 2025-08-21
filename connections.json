@@ -36844,5 +36844,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 802,
+        "date": "2025-08-21",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BLUNDER",
+                "members": [
+                    "BOO-BOO",
+                    "FLUB",
+                    "GAFFE",
+                    "NO-NO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "LANDS OF THE IMAGINATION",
+                "members": [
+                    "DREAM",
+                    "FANTASY",
+                    "LA-LA",
+                    "NEVER NEVER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH ANTENNA/E",
+                "members": [
+                    "INSECT",
+                    "RADIO TOWER",
+                    "SATELLITE DISH",
+                    "TELETUBBY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ DOODLE",
+                "members": [
+                    "CHEESE",
+                    "DIPSY",
+                    "GOOGLE",
+                    "YANKEE"
+                ]
+            }
+        ]
     }
 ]
