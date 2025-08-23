@@ -36936,5 +36936,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 804,
+        "date": "2025-08-23",
+        "answers": [
+            {
+                "level": 0,
+                "group": "LIQUIDS YOU PUT INTO CARS",
+                "members": [
+                    "BRAKE FLUID",
+                    "COOLANT",
+                    "FUEL",
+                    "OIL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ARENA",
+                "members": [
+                    "BOWL",
+                    "COLISEUM",
+                    "HIPPODROME",
+                    "STADIUM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SKULDUGGERY",
+                "members": [
+                    "CHICANERY",
+                    "DECEIT",
+                    "LEGERDEMAIN",
+                    "SUBTERFUGE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MODERN INVENTIONS",
+                "members": [
+                    "CRYPTO",
+                    "PODCAST",
+                    "SMARTWATCH",
+                    "VAPE"
+                ]
+            }
+        ]
     }
 ]
