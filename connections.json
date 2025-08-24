@@ -36982,5 +36982,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 805,
+        "date": "2025-08-24",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WINE VESSELS",
+                "members": [
+                    "BOTTLE",
+                    "CARAFE",
+                    "DECANTER",
+                    "GLASS"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "RIPPED",
+                "members": [
+                    "CLEFT",
+                    "RENT",
+                    "SPLIT",
+                    "TORN"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "KINDS OF SNAKES",
+                "members": [
+                    "CORAL",
+                    "GARTER",
+                    "KING",
+                    "RATTLE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ CALL",
+                "members": [
+                    "BOOTY",
+                    "CLOSE",
+                    "COLD",
+                    "CURTAIN"
+                ]
+            }
+        ]
     }
 ]
