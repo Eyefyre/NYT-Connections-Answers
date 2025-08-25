@@ -37028,5 +37028,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 806,
+        "date": "2025-08-25",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PREDICAMENT",
+                "members": [
+                    "FIX",
+                    "JAM",
+                    "MESS",
+                    "PICKLE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "SMALL SPHERICAL THINGS",
+                "members": [
+                    "MOTHBALL",
+                    "PEA",
+                    "PEARL",
+                    "POM-POM"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PIPE-SMOKING ACCESSORIES",
+                "members": [
+                    "FILTER",
+                    "LIGHTER",
+                    "PIPE CLEANER",
+                    "TAMPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \"DOWN\" MIGHT MEAN",
+                "members": [
+                    "FEATHERS",
+                    "GUZZLE",
+                    "SAD",
+                    "WILLING"
+                ]
+            }
+        ]
     }
 ]
