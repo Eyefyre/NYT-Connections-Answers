@@ -37074,5 +37074,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 807,
+        "date": "2025-08-26",
+        "answers": [
+            {
+                "level": 0,
+                "group": "DISTINGUISHING CHARACTERISTICS",
+                "members": [
+                    "MOLE",
+                    "PIERCING",
+                    "SCAR",
+                    "TATTOO"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "A REAL JERK",
+                "members": [
+                    "CREEP",
+                    "HEEL",
+                    "RAT",
+                    "SKUNK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PESTER",
+                "members": [
+                    "BADGER",
+                    "BUG",
+                    "HARRY",
+                    "RIDE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WORDS BEFORE \"STOOL\"",
+                "members": [
+                    "BAR",
+                    "FOOT",
+                    "STEP",
+                    "TOAD"
+                ]
+            }
+        ]
     }
 ]
