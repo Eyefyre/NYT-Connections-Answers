@@ -37166,5 +37166,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 809,
+        "date": "2025-08-28",
+        "answers": [
+            {
+                "level": 0,
+                "group": "PLACES TO GET TRAPPED",
+                "members": [
+                    "NET",
+                    "SNARE",
+                    "TANGLE",
+                    "WEB"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "USED FOR TEA",
+                "members": [
+                    "CUP",
+                    "KETTLE",
+                    "TEABAG",
+                    "WATER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ASSOCIATED WITH HARDNESS",
+                "members": [
+                    "DIAMOND",
+                    "NAILS",
+                    "ROCK",
+                    "STEEL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ENDING WITH KEYBOARD KEYS",
+                "members": [
+                    "CANTAB",
+                    "CYBERSPACE",
+                    "ICECAPS",
+                    "MAKESHIFT"
+                ]
+            }
+        ]
     }
 ]
