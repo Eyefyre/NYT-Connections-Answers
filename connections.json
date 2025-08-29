@@ -37212,5 +37212,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 810,
+        "date": "2025-08-29",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FAMOUS PERSON",
+                "members": [
+                    "FIGURE",
+                    "NAME",
+                    "PERSONALITY",
+                    "STAR"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INCREASE",
+                "members": [
+                    "BALLOON",
+                    "MOUNT",
+                    "MUSHROOM",
+                    "WAX"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PLACES THAT SELL GAS",
+                "members": [
+                    "7-ELEVEN",
+                    "CHEVRON",
+                    "GULF",
+                    "SHELL"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ SPLIT",
+                "members": [
+                    "7-10",
+                    "BANANA",
+                    "LICKETY",
+                    "STOCK"
+                ]
+            }
+        ]
     }
 ]
