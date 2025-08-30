@@ -37258,5 +37258,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 811,
+        "date": "2025-08-30",
+        "answers": [
+            {
+                "level": 0,
+                "group": "MUSIC GENRES",
+                "members": [
+                    "EMO",
+                    "FUNK",
+                    "METAL",
+                    "POP"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "NOT BE GOOD",
+                "members": [
+                    "BITE",
+                    "BLOW",
+                    "STINK",
+                    "SUCK"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "DO EXCEPTIONALLY WELL",
+                "members": [
+                    "EAT",
+                    "ROCK",
+                    "RULE",
+                    "SLAY"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "CONTEMPORARY COMPOSERS",
+                "members": [
+                    "CAGE",
+                    "ENO",
+                    "GLASS",
+                    "REICH"
+                ]
+            }
+        ]
     }
 ]
