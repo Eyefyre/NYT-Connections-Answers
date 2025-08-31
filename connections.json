@@ -37304,5 +37304,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 812,
+        "date": "2025-08-31",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CRITICIZE HARSHLY",
+                "members": [
+                    "BASH",
+                    "BLAST",
+                    "FLAME",
+                    "ROAST"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "COMMON COMPONENTS OF BOARD GAMES",
+                "members": [
+                    "BOARD",
+                    "CARDS",
+                    "DICE",
+                    "PIECES"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "HETERONYMS",
+                "members": [
+                    "AXES",
+                    "BASS",
+                    "COORDINATE",
+                    "DOES"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___STICKS",
+                "members": [
+                    "CHOP",
+                    "DRUM",
+                    "FIDDLE",
+                    "FISH"
+                ]
+            }
+        ]
     }
 ]
