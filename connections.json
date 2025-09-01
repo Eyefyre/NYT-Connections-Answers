@@ -37350,5 +37350,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 813,
+        "date": "2025-09-01",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FIRST APPEARANCE",
+                "members": [
+                    "DEBUT",
+                    "INTRODUCTION",
+                    "LAUNCH",
+                    "PREMIERE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONES CELEBRATED WITH HOLIDAYS",
+                "members": [
+                    "MOTHER",
+                    "PRESIDENT",
+                    "SAINT PATRICK",
+                    "SAINT VALENTINE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FAMOUS POETS",
+                "members": [
+                    "BISHOP",
+                    "BURNS",
+                    "LORDE",
+                    "POPE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "WHAT \"CARDINAL\" MIGHT REFER TO",
+                "members": [
+                    "BIRD",
+                    "CLERGY MEMBER",
+                    "M.L.B. PLAYER",
+                    "N.F.L. PLAYER"
+                ]
+            }
+        ]
     }
 ]
