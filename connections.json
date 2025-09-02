@@ -37396,5 +37396,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 814,
+        "date": "2025-09-02",
+        "answers": [
+            {
+                "level": 0,
+                "group": "CURSES",
+                "members": [
+                    "EXPLETIVES",
+                    "FOUR-LETTER WORDS",
+                    "PROFANITY",
+                    "SWEARING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "IN \"A VISIT FROM ST. NICHOLAS\"",
+                "members": [
+                    "CHRISTMAS",
+                    "HOUSE",
+                    "MOUSE",
+                    "STIRRING"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "WORN BY EARRING MAGIC KEN",
+                "members": [
+                    "EARRING",
+                    "MESH SHIRT",
+                    "NECKLACE",
+                    "PLEATHER VEST"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "STARTING WITH POSSESSIVE DETERMINERS",
+                "members": [
+                    "HERRING",
+                    "HISTAMINE",
+                    "MYSTERY",
+                    "OUROBOROS"
+                ]
+            }
+        ]
     }
 ]
