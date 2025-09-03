@@ -37442,5 +37442,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 815,
+        "date": "2025-09-03",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BEGINNING",
+                "members": [
+                    "BIRTH",
+                    "DAWN",
+                    "GENESIS",
+                    "START"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "JOIN",
+                "members": [
+                    "BOND",
+                    "COMBINE",
+                    "FUSE",
+                    "WED"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "TV-RELATED ABBREVIATIONS IN THE '80S",
+                "members": [
+                    "ALF",
+                    "MTV",
+                    "NES",
+                    "VHS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MAY___",
+                "members": [
+                    "DAY",
+                    "FLOWER",
+                    "FLY",
+                    "POLE"
+                ]
+            }
+        ]
     }
 ]
