@@ -37488,5 +37488,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 816,
+        "date": "2025-09-04",
+        "answers": [
+            {
+                "level": 0,
+                "group": "WHAT YOU MIGHT SEE ON A CHRISTMAS TREE",
+                "members": [
+                    "ANGEL",
+                    "CANDY CANE",
+                    "STRING LIGHTS",
+                    "TINSEL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "CLEAN UP, AS A PHOTOGRAPH",
+                "members": [
+                    "AIRBRUSH",
+                    "FIX",
+                    "PHOTOSHOP",
+                    "TOUCH UP"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "FRENCH FOOD WORDS",
+                "members": [
+                    "CORNICHON",
+                    "PAIN",
+                    "PAMPLEMOUSSE",
+                    "VINAIGRETTE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "THINGS WITH CELLS",
+                "members": [
+                    "HONEYCOMB",
+                    "ORGANISM",
+                    "SOLAR PANEL",
+                    "SPREADSHEET"
+                ]
+            }
+        ]
     }
 ]
