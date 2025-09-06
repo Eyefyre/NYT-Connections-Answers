@@ -37580,5 +37580,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 818,
+        "date": "2025-09-06",
+        "answers": [
+            {
+                "level": 0,
+                "group": "RUPTURED",
+                "members": [
+                    "BLEW",
+                    "BROKE",
+                    "BURST",
+                    "SPLIT"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "APPARITION",
+                "members": [
+                    "SHADE",
+                    "SPECTER",
+                    "SPIRIT",
+                    "WIGHT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "PREDICT",
+                "members": [
+                    "CALL",
+                    "DIVINE",
+                    "FORECAST",
+                    "READ"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "\"BEST ___ PERFORMANCE\" GRAMMY AWARD",
+                "members": [
+                    "AMERICANA",
+                    "CHORAL",
+                    "JAZZ",
+                    "RAP"
+                ]
+            }
+        ]
     }
 ]
