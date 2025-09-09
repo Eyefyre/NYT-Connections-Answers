@@ -37718,5 +37718,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 821,
+        "date": "2025-09-09",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FINISHED",
+                "members": [
+                    "COMPLETE",
+                    "DONE",
+                    "OVER",
+                    "THROUGH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "THINGS WITH SHELLS",
+                "members": [
+                    "EGG",
+                    "HARD TACO",
+                    "M&M",
+                    "SNAIL"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "SWIG",
+                "members": [
+                    "BELT",
+                    "GULP",
+                    "SHOT",
+                    "SLUG"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___DOG",
+                "members": [
+                    "BULL",
+                    "LAP",
+                    "UNDER",
+                    "WATCH"
+                ]
+            }
+        ]
     }
 ]
