@@ -37810,5 +37810,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 823,
+        "date": "2025-09-11",
+        "answers": [
+            {
+                "level": 0,
+                "group": "BLEMISH",
+                "members": [
+                    "DENT",
+                    "DING",
+                    "MAR",
+                    "SCRATCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BEHEMOTH",
+                "members": [
+                    "COLOSSUS",
+                    "MAMMOTH",
+                    "WHALE",
+                    "WHOPPER"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "RUDE THINGS TO DO",
+                "members": [
+                    "POINT",
+                    "SNICKER",
+                    "STARE",
+                    "WHISPER"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "ON A BASEBALL FIELD",
+                "members": [
+                    "BASE",
+                    "BOX",
+                    "MOUND",
+                    "PLATE"
+                ]
+            }
+        ]
     }
 ]
