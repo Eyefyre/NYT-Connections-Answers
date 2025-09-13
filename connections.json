@@ -37902,5 +37902,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 825,
+        "date": "2025-09-13",
+        "answers": [
+            {
+                "level": 0,
+                "group": "IMPORTANT",
+                "members": [
+                    "CRITICAL",
+                    "KEY",
+                    "MAJOR",
+                    "PRINCIPAL"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "INTIMATE AND UNDISCLOSED",
+                "members": [
+                    "INNER",
+                    "PERSONAL",
+                    "PRIVATE",
+                    "SECRET"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "GLOBAL CURRENCIES",
+                "members": [
+                    "DOLLAR",
+                    "POUND",
+                    "STERLING",
+                    "WON"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "BUFFALO ___",
+                "members": [
+                    "BILL",
+                    "NICKEL",
+                    "SOLDIER",
+                    "WING"
+                ]
+            }
+        ]
     }
 ]
