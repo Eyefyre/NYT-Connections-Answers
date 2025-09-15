@@ -37994,5 +37994,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 827,
+        "date": "2025-09-15",
+        "answers": [
+            {
+                "level": 0,
+                "group": "FLOORING OPTIONS",
+                "members": [
+                    "CARPET",
+                    "LAMINATE",
+                    "TILE",
+                    "WOOD"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "BEACHY AREA",
+                "members": [
+                    "BANK",
+                    "COAST",
+                    "SHORE",
+                    "STRAND"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ROMANTIC VIBE",
+                "members": [
+                    "CHEMISTRY",
+                    "CONNECTION",
+                    "FIREWORKS",
+                    "SPARK"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "MEMBER OF A CLASSIC BACKING BAND",
+                "members": [
+                    "BANSHEE",
+                    "HEARTBREAKER",
+                    "PIP",
+                    "WAILER"
+                ]
+            }
+        ]
     }
 ]
