@@ -38040,5 +38040,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 828,
+        "date": "2025-09-16",
+        "answers": [
+            {
+                "level": 0,
+                "group": "KEEP TABS ON",
+                "members": [
+                    "FOLLOW",
+                    "MONITOR",
+                    "TRACK",
+                    "WATCH"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "ONE IN A DOZEN",
+                "members": [
+                    "DONUT",
+                    "JUROR",
+                    "MONTH",
+                    "ROSE"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS WITH INK",
+                "members": [
+                    "PEN",
+                    "PRINTER",
+                    "SQUID",
+                    "TATTOO MACHINE"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "___ RABBIT",
+                "members": [
+                    "ROGER",
+                    "TRIX",
+                    "VELVETEEN",
+                    "WHITE"
+                ]
+            }
+        ]
     }
 ]
