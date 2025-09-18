@@ -38132,5 +38132,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 830,
+        "date": "2025-09-18",
+        "answers": [
+            {
+                "level": 0,
+                "group": "INTO IT",
+                "members": [
+                    "DOWN",
+                    "EAGER",
+                    "GAME",
+                    "WILLING"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "FURNISH",
+                "members": [
+                    "EQUIP",
+                    "OUTFIT",
+                    "PREPARE",
+                    "READY"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "ORGS WITH STARS IN THEIR LOGOS",
+                "members": [
+                    "NASA",
+                    "N.F.L.",
+                    "PARAMOUNT",
+                    "SUBARU"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "HOMOPHONES OF GENESIS FIGURES",
+                "members": [
+                    "ABLE",
+                    "CANE",
+                    "EAVE",
+                    "NOAA"
+                ]
+            }
+        ]
     }
 ]
