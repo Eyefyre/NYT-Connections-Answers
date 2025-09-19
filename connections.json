@@ -38178,5 +38178,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 831,
+        "date": "2025-09-19",
+        "answers": [
+            {
+                "level": 0,
+                "group": "EVALUATE",
+                "members": [
+                    "GRADE",
+                    "RANK",
+                    "RATE",
+                    "SCORE"
+                ]
+            },
+            {
+                "level": 1,
+                "group": "EXHIBIT NERVOUSNESS",
+                "members": [
+                    "BLUSH",
+                    "FIDGET",
+                    "PACE",
+                    "SWEAT"
+                ]
+            },
+            {
+                "level": 2,
+                "group": "THINGS THAT CAN RUN, ANNOYINGLY",
+                "members": [
+                    "DYE",
+                    "MASCARA",
+                    "NOSE",
+                    "STOCKINGS"
+                ]
+            },
+            {
+                "level": 3,
+                "group": "PAPER ___",
+                "members": [
+                    "CLIP",
+                    "TIGER",
+                    "TOWEL",
+                    "TRAIL"
+                ]
+            }
+        ]
     }
 ]
