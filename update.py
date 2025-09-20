@@ -17,7 +17,12 @@ con_date = datetime.today().strftime('%Y-%m-%d')
 URL = f"https://www.nytimes.com/svc/connections/v2/{con_date}.json" 
 r = requests.get(URL)
 print(r.content)
-content = json.loads(r.content)
+try:
+  content = json.loads(r.content)
+except JSONDecodeError as e:
+  print(e)
+except:
+
 print(content)
 print(f"Adding Connection #{id} from {con_date}")
 groups = []
@@ -34,4 +39,5 @@ print(con_item)
     
 # with open('connections.json', 'w') as f:
 #         json.dump(connections, f, indent=4)
+
 #         f.close()
