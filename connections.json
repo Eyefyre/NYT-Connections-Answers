@@ -38224,5 +38224,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 832,
+        "date": "2025-09-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CAR BRANDS",
+                "members": [
+                    "DODGE",
+                    "FORD",
+                    "LINCOLN",
+                    "RAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIT OF SPORTS BAR FARE",
+                "members": [
+                    "CHIP",
+                    "DIP",
+                    "FRY",
+                    "WING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "N.H.L. TEAM MEMBER",
+                "members": [
+                    "DUCK",
+                    "FLYER",
+                    "SENATOR",
+                    "STAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SKY___",
+                "members": [
+                    "DIVE",
+                    "LARK",
+                    "ROCKET",
+                    "SCRAPER"
+                ]
+            }
+        ]
     }
 ]
