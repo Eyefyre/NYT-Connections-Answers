@@ -15,9 +15,7 @@ if connections[-1]["date"] == con_date:
 
 URL = f"https://www.nytimes.com/svc/connections/v2/{con_date}.json" 
 r = requests.get(URL)
-print(r.content)
 content = json.loads(r.content)
-print(content)
 print(f"Adding Connection #{id} from {con_date}")
 groups = []
 for group in content["categories"]:
@@ -28,9 +26,9 @@ for group in content["categories"]:
 
     
 con_item = {"id":int(id),"date":con_date,"answers": groups}
-print(con_item)
 connections.append(con_item)
     
 with open('connections.json', 'w') as f:
         json.dump(connections, f, indent=4)
         f.close()
+
