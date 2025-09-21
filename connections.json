@@ -38270,5 +38270,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 833,
+        "date": "2025-09-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TOUCHSCREEN GESTURES",
+                "members": [
+                    "PINCH",
+                    "SCROLL",
+                    "SWIPE",
+                    "TAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RELAX",
+                "members": [
+                    "CHILL",
+                    "LOAF",
+                    "LOUNGE",
+                    "VEG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RESTAURANT SEATING OPTIONS",
+                "members": [
+                    "BAR",
+                    "BOOTH",
+                    "COUNTER",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VEGETABLES WITH FIRST LETTER REMOVED",
+                "members": [
+                    "ALE",
+                    "EEK",
+                    "HIVE",
+                    "QUASH"
+                ]
+            }
+        ]
     }
 ]
