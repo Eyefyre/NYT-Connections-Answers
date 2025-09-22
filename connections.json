@@ -38316,5 +38316,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 834,
+        "date": "2025-09-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BASIC GEOMETRIC CALCULATIONS",
+                "members": [
+                    "AREA",
+                    "LENGTH",
+                    "PERIMETER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BLACK-AND-WHITE THINGS",
+                "members": [
+                    "CROSSWORD",
+                    "DOMINO",
+                    "ORCA",
+                    "OREO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LAS VEGAS CASINO HOTELS",
+                "members": [
+                    "ARIA",
+                    "ENCORE",
+                    "EXCALIBUR",
+                    "LUXOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+                "members": [
+                    "ARS",
+                    "AYES",
+                    "EASE",
+                    "OWES"
+                ]
+            }
+        ]
     }
 ]
