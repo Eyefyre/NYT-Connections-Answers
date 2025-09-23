@@ -38362,5 +38362,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 835,
+        "date": "2025-09-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CHEERFUL",
+                "members": [
+                    "BOUNCY",
+                    "BRIGHT",
+                    "MERRY",
+                    "SUNNY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"RUBBER BABY BUGGY BUMPER\"",
+                "members": [
+                    "BABY",
+                    "BUGGY",
+                    "BUMPER",
+                    "RUBBER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF LUGGAGE",
+                "members": [
+                    "CARRY-ON",
+                    "DUFFEL",
+                    "HARD-SHELL",
+                    "ROLLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TITLE CHARACTERS IN '80S MOVIES",
+                "members": [
+                    "FERRIS",
+                    "HEATHER",
+                    "INDIANA",
+                    "PEE-WEE"
+                ]
+            }
+        ]
     }
 ]
