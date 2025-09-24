@@ -38408,5 +38408,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 836,
+        "date": "2025-09-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MOVIE",
+                "members": [
+                    "FEATURE",
+                    "FILM",
+                    "FLICK",
+                    "PICTURE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STREW",
+                "members": [
+                    "LITTER",
+                    "PEPPER",
+                    "SCATTER",
+                    "SPRINKLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WRINKLY THINGS",
+                "members": [
+                    "BRAIN",
+                    "CREPE PAPER",
+                    "PRUNE",
+                    "SHAR PEI"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SWEET ___",
+                "members": [
+                    "POTATO",
+                    "SIXTEEN",
+                    "TALK",
+                    "TOOTH"
+                ]
+            }
+        ]
     }
 ]
