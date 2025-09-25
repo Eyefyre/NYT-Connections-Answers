@@ -38454,5 +38454,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 837,
+        "date": "2025-09-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LEFT-LEANING, POLITICALLY",
+                "members": [
+                    "BLUE",
+                    "LEFT",
+                    "LIBERAL",
+                    "PROGRESSIVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ICE CREAM PARLOR ORDERS",
+                "members": [
+                    "CONE",
+                    "CUP",
+                    "SHAKE",
+                    "SPLIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MATT DAMON MOVIES, WITH \"THE\"",
+                "members": [
+                    "DEPARTED",
+                    "GOOD SHEPHERD",
+                    "MARTIAN",
+                    "RAINMAKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NAMED \"APOLLO\"",
+                "members": [
+                    "FICTIONAL BOXER",
+                    "GREEK/ROMAN GOD",
+                    "SPACECRAFT",
+                    "THEATER"
+                ]
+            }
+        ]
     }
 ]
