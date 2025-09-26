@@ -38500,5 +38500,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 838,
+        "date": "2025-09-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STIR VIGOROUSLY",
+                "members": [
+                    "BEAT",
+                    "CREAM",
+                    "WHIP",
+                    "WHISK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HARD TO MAKE OUT",
+                "members": [
+                    "DIM",
+                    "FAINT",
+                    "LIGHT",
+                    "PALE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BEARS",
+                "members": [
+                    "BLACK",
+                    "BROWN",
+                    "POLAR",
+                    "SUN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DIRTY ___",
+                "members": [
+                    "BLONDE",
+                    "POOL",
+                    "RICE",
+                    "WORD"
+                ]
+            }
+        ]
     }
 ]
