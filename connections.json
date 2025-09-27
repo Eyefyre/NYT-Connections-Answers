@@ -38546,5 +38546,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 839,
+        "date": "2025-09-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LOVING",
+                "members": [
+                    "KIND",
+                    "SWEET",
+                    "TENDER",
+                    "WARM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "APPENDAGES",
+                "members": [
+                    "ARM",
+                    "FIN",
+                    "FLIPPER",
+                    "WING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POPCORN-MAKING METHODS",
+                "members": [
+                    "KETTLE",
+                    "MICROWAVE",
+                    "POPPER",
+                    "STOVETOP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SQUANDER, WITH \u201cAWAY\u201d",
+                "members": [
+                    "FIDDLE",
+                    "FRITTER",
+                    "THROW",
+                    "TRIFLE"
+                ]
+            }
+        ]
     }
 ]
