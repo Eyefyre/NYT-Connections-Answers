@@ -38592,5 +38592,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 840,
+        "date": "2025-09-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BACKING",
+                "members": [
+                    "AEGIS",
+                    "GUARD",
+                    "PROTECTION",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MALICIOUS SOFTWARE",
+                "members": [
+                    "BACKDOOR",
+                    "TROJAN HORSE",
+                    "VIRUS",
+                    "WORM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GUM BRANDS",
+                "members": [
+                    "EXTRA",
+                    "ICE BREAKERS",
+                    "ORBIT",
+                    "TRIDENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "N.F.L. TEAM LOGOS",
+                "members": [
+                    "BUFFALO",
+                    "FLEUR-DE-LIS",
+                    "HORSESHOE",
+                    "LIGHTNING BOLT"
+                ]
+            }
+        ]
     }
 ]
