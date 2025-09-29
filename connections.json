@@ -38638,5 +38638,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 841,
+        "date": "2025-09-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF UNDERWEAR",
+                "members": [
+                    "BOXER",
+                    "BRIEF",
+                    "HIPSTER",
+                    "THONG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLAY A JOKE ON",
+                "members": [
+                    "FOOL",
+                    "PRANK",
+                    "PUNK",
+                    "TRICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A TOILET TANK",
+                "members": [
+                    "CHAIN",
+                    "FLAPPER",
+                    "FLOAT",
+                    "HANDLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRST WORDS IN '70S ROCK SONG TITLES",
+                "members": [
+                    "BABA",
+                    "BOHEMIAN",
+                    "HOTEL",
+                    "STAIRWAY"
+                ]
+            }
+        ]
     }
 ]
