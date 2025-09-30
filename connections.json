@@ -38684,5 +38684,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 842,
+        "date": "2025-09-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UNNATURAL, AS MANNERISMS",
+                "members": [
+                    "AWKWARD",
+                    "STIFF",
+                    "STILTED",
+                    "WOODEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS IN A FAMOUS TONGUE TWISTER",
+                "members": [
+                    "CHUCK",
+                    "COULD",
+                    "WOOD",
+                    "WOODCHUCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CARTOON BIRDS",
+                "members": [
+                    "FOGHORN",
+                    "SCROOGE",
+                    "WOODSTOCK",
+                    "WOODY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING WITH NUMBER HOMOPHONES",
+                "members": [
+                    "CLASSICS",
+                    "CREATE",
+                    "GUTHRIE",
+                    "THEREFORE"
+                ]
+            }
+        ]
     }
 ]
