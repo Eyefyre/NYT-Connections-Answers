@@ -38776,5 +38776,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 844,
+        "date": "2025-10-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DOG COMMANDS",
+                "members": [
+                    "COME",
+                    "DOWN",
+                    "HEEL",
+                    "STAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESERVED",
+                "members": [
+                    "DUE",
+                    "FAIR",
+                    "JUST",
+                    "RIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SITUATED",
+                "members": [
+                    "LEFT",
+                    "PLACED",
+                    "PUT",
+                    "SET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEST ANIMATED FEATURE OSCAR WINNERS",
+                "members": [
+                    "BRAVE",
+                    "FLOW",
+                    "FROZEN",
+                    "UP"
+                ]
+            }
+        ]
     }
 ]
