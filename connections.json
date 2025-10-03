@@ -38822,5 +38822,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 845,
+        "date": "2025-10-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BOUNDARY",
+                "members": [
+                    "BORDER",
+                    "EDGE",
+                    "EXTREMITY",
+                    "LIMIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THEY MOVE IN A SPIRAL",
+                "members": [
+                    "EDDY",
+                    "FOOTBALL",
+                    "TASMANIAN DEVIL",
+                    "TORNADO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SONGS FROM MUSICALS",
+                "members": [
+                    "CABARET",
+                    "EDELWEISS",
+                    "MAMMA MIA",
+                    "MEMORY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"ED\" MIGHT INDICATE",
+                "members": [
+                    "EDITOR",
+                    "EDUCATION",
+                    "EDWARD",
+                    "PAST TENSE"
+                ]
+            }
+        ]
     }
 ]
