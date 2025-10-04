@@ -38868,5 +38868,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 846,
+        "date": "2025-10-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FIX A HOLE IN CLOTHING",
+                "members": [
+                    "DARN",
+                    "MEND",
+                    "PATCH",
+                    "STITCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RUSH OF WIND",
+                "members": [
+                    "BLAST",
+                    "BLOW",
+                    "GALE",
+                    "GUST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "ARTS",
+                    "RATS",
+                    "STAR",
+                    "TSAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF COOKIES",
+                "members": [
+                    "FORTUNE",
+                    "OATMEAL",
+                    "RAINBOW",
+                    "SUGAR"
+                ]
+            }
+        ]
     }
 ]
