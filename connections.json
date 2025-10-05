@@ -38914,5 +38914,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 847,
+        "date": "2025-10-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "USED TO GROW A HOUSEPLANT",
+                "members": [
+                    "POT",
+                    "SEED",
+                    "SOIL",
+                    "WATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FLABBERGAST",
+                "members": [
+                    "FLOOR",
+                    "ROCK",
+                    "SHAKE",
+                    "SHOCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MADONNA SONGS",
+                "members": [
+                    "CHERISH",
+                    "FROZEN",
+                    "HOLIDAY",
+                    "MUSIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ CAR",
+                "members": [
+                    "BUMPER",
+                    "CLOWN",
+                    "GETAWAY",
+                    "SPORTS"
+                ]
+            }
+        ]
     }
 ]
