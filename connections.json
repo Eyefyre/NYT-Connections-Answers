@@ -38960,5 +38960,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 848,
+        "date": "2025-10-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS OF A RECORD PLAYER SETUP",
+                "members": [
+                    "AMP",
+                    "PREAMP",
+                    "SPEAKER",
+                    "TURNTABLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF COATS",
+                "members": [
+                    "CAMEL",
+                    "DUFFLE",
+                    "PEA",
+                    "TRENCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT COME ON SPOOLS",
+                "members": [
+                    "FILM",
+                    "TAPE",
+                    "THREAD",
+                    "WIRE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH HOMOPHONES OF GREETINGS",
+                "members": [
+                    "HAIKU",
+                    "HAYSTACK",
+                    "HELONIUM",
+                    "YEOMAN"
+                ]
+            }
+        ]
     }
 ]
