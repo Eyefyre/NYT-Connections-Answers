@@ -39052,5 +39052,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 850,
+        "date": "2025-10-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FINEST",
+                "members": [
+                    "BEST",
+                    "CREAM",
+                    "ELITE",
+                    "SELECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ROCK MUSIC SUBGENRES",
+                "members": [
+                    "ALTERNATIVE",
+                    "ARENA",
+                    "CLASSIC",
+                    "GARAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PAINT FINISHES",
+                "members": [
+                    "EGGSHELL",
+                    "GLOSS",
+                    "MATTE",
+                    "PEARL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BEDS",
+                "members": [
+                    "FLOWER",
+                    "NAIL",
+                    "OYSTER",
+                    "RIVER"
+                ]
+            }
+        ]
     }
 ]
