@@ -39098,5 +39098,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 851,
+        "date": "2025-10-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FANTASY",
+                "members": [
+                    "INVENTION",
+                    "FANCY",
+                    "FICTION",
+                    "FIGMENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF ROCKS",
+                "members": [
+                    "FLINT",
+                    "LIMESTONE",
+                    "MARBLE",
+                    "SLATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NEWS ARTICLE FEATURES",
+                "members": [
+                    "CAPTION",
+                    "DATELINE",
+                    "LEDE",
+                    "PHOTO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TITLE FIGURES IN CLASSIC VIDEO GAMES",
+                "members": [
+                    "GORILLA",
+                    "HEDGEHOG",
+                    "PLUMBER",
+                    "PRINCESS"
+                ]
+            }
+        ]
     }
 ]
