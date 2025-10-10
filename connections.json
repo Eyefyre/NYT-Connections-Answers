@@ -39144,5 +39144,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 852,
+        "date": "2025-10-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SIGNIFICANT",
+                "members": [
+                    "BIG",
+                    "IMPORTANT",
+                    "MAJOR",
+                    "SERIOUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ONE IN A SEPTET",
+                "members": [
+                    "CONTINENT",
+                    "DEADLY SIN",
+                    "SISTER",
+                    "WONDER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TAROT CARDS, WITH \"THE\"",
+                "members": [
+                    "DEVIL",
+                    "LOVERS",
+                    "MAGICIAN",
+                    "STAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ EYE",
+                "members": [
+                    "EVIL",
+                    "MAGIC",
+                    "NAKED",
+                    "THIRD"
+                ]
+            }
+        ]
     }
 ]
