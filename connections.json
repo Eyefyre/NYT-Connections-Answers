@@ -39236,5 +39236,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 854,
+        "date": "2025-10-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FOR ALL TIME",
+                "members": [
+                    "ETERNAL",
+                    "EVERLASTING",
+                    "FOREVER",
+                    "PERMANENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ESTABLISHES",
+                "members": [
+                    "BEGINS",
+                    "INSTITUTES",
+                    "LAUNCHES",
+                    "PIONEERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIRDS",
+                "members": [
+                    "KITE",
+                    "ROBIN",
+                    "SWALLOW",
+                    "SWIFT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HAPPY ___",
+                "members": [
+                    "DAYS",
+                    "ENDING",
+                    "RETURNS",
+                    "TRAILS"
+                ]
+            }
+        ]
     }
 ]
