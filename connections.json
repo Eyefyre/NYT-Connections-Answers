@@ -39282,5 +39282,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 855,
+        "date": "2025-10-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "METAPHORS FOR POTENTIALLY VOLATILE SITUATIONS",
+                "members": [
+                    "CAN OF WORMS",
+                    "HORNET\u2019S NEST",
+                    "MINEFIELD",
+                    "PANDORA\u2019S BOX"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BAR EVENTS",
+                "members": [
+                    "HAPPY HOUR",
+                    "KARAOKE",
+                    "LIVE MUSIC",
+                    "TRIVIA NIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER A WELCOME DEPARTURE",
+                "members": [
+                    "ABOUT TIME",
+                    "FINALLY",
+                    "GOOD RIDDANCE",
+                    "SAYONARA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING WITH SYNONYMS FOR \"SWINDLE\"",
+                "members": [
+                    "AMERICAN HUSTLE",
+                    "COMIC CON",
+                    "GOLDEN FLEECE",
+                    "LUCKY STIFF"
+                ]
+            }
+        ]
     }
 ]
