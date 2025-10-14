@@ -39328,5 +39328,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 856,
+        "date": "2025-10-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CAPTIVATE",
+                "members": [
+                    "ABSORB",
+                    "ENGAGE",
+                    "HOLD",
+                    "OCCUPY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUMMARY",
+                "members": [
+                    "BRIEF",
+                    "DIGEST",
+                    "OUTLINE",
+                    "REVIEW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HALT",
+                "members": [
+                    "CHECK",
+                    "CURB",
+                    "STAUNCH",
+                    "STEM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANIMALS MINUS STARTING LETTER",
+                "members": [
+                    "ANTHER",
+                    "EASEL",
+                    "HARK",
+                    "LAMA"
+                ]
+            }
+        ]
     }
 ]
