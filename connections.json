@@ -39374,5 +39374,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 857,
+        "date": "2025-10-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TYPES OF POOLS",
+                "members": [
+                    "INFINITY",
+                    "KIDDIE",
+                    "KIDNEY",
+                    "OLYMPIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "IN THE NATO PHONETIC ALPHABET",
+                "members": [
+                    "BRAVO",
+                    "DELTA",
+                    "GOLF",
+                    "LIMA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FORD MODELS",
+                "members": [
+                    "BRONCO",
+                    "FIESTA",
+                    "MUSTANG",
+                    "PINTO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ SEAL",
+                "members": [
+                    "ELEPHANT",
+                    "GREAT",
+                    "NAVY",
+                    "VACUUM"
+                ]
+            }
+        ]
     }
 ]
