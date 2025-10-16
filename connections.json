@@ -39420,5 +39420,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 858,
+        "date": "2025-10-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FRUIT DESSERTS",
+                "members": [
+                    "COBBLER",
+                    "CRISP",
+                    "CRUMBLE",
+                    "TART"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CRABBY",
+                "members": [
+                    "CROSS",
+                    "PRICKLY",
+                    "SORE",
+                    "SOUR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FISH",
+                "members": [
+                    "CHAR",
+                    "FLUKE",
+                    "PIKE",
+                    "SKATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BANANA ___",
+                "members": [
+                    "BOAT",
+                    "BREAD",
+                    "SLUG",
+                    "SPLIT"
+                ]
+            }
+        ]
     }
 ]
