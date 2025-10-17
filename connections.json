@@ -39466,5 +39466,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 859,
+        "date": "2025-10-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "USED DURING A PRESENTATION",
+                "members": [
+                    "CLICKER",
+                    "LASER POINTER",
+                    "PROJECTOR",
+                    "SLIDES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ITEMS IN A SOUVENIR SHOP",
+                "members": [
+                    "FIGURINE",
+                    "KEY RING",
+                    "MAGNET",
+                    "POSTCARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FOLKTALE CHARACTERS",
+                "members": [
+                    "CHICKEN LITTLE",
+                    "JACK",
+                    "THUMBELINA",
+                    "TOM THUMB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WEATHER TERMS",
+                "members": [
+                    "BEAUFORT SCALE",
+                    "DEWPOINT",
+                    "HEAT INDEX",
+                    "WIND CHILL"
+                ]
+            }
+        ]
     }
 ]
