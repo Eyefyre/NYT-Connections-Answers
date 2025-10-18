@@ -39512,5 +39512,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 860,
+        "date": "2025-10-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GLIDE",
+                "members": [
+                    "BREEZE",
+                    "COAST",
+                    "FLOAT",
+                    "SKATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"BALL\" IN SPORTS",
+                "members": [
+                    "DODGE",
+                    "HAND",
+                    "PICKLE",
+                    "RACQUET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PROLIFIC ACTORS",
+                "members": [
+                    "BACON",
+                    "CAGE",
+                    "CRUISE",
+                    "FORD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF SYNONYMS FOR \"VEND\"",
+                "members": [
+                    "CELL",
+                    "HOCK",
+                    "PEDAL",
+                    "TRAYED"
+                ]
+            }
+        ]
     }
 ]
