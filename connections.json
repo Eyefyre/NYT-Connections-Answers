@@ -39558,5 +39558,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 861,
+        "date": "2025-10-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TOPPLE",
+                "members": [
+                    "FALL",
+                    "SPILL",
+                    "TUMBLE",
+                    "WIPEOUT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A BOOK",
+                "members": [
+                    "COVER",
+                    "JACKET",
+                    "LEAVES",
+                    "SPINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LOSE IT, WITH \"OUT\"",
+                "members": [
+                    "BUG",
+                    "FLIP",
+                    "FREAK",
+                    "WIG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHOCOLATE BARS PLUS A LETTER",
+                "members": [
+                    "CRUNCHY",
+                    "DOVER",
+                    "MARSH",
+                    "SKORT"
+                ]
+            }
+        ]
     }
 ]
