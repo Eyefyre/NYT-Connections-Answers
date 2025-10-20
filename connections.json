@@ -39604,5 +39604,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 862,
+        "date": "2025-10-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "AFFLICTION",
+                "members": [
+                    "BUGBEAR",
+                    "COMPLEX",
+                    "DEMON",
+                    "HANG-UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REPRESENTED BY CONSTELLATIONS",
+                "members": [
+                    "BIG BEAR",
+                    "CENTAUR",
+                    "HUNTER",
+                    "LYRE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PERIODIC TABLE SYMBOLS",
+                "members": [
+                    "AS",
+                    "BE",
+                    "I",
+                    "K"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___CORN",
+                "members": [
+                    "A",
+                    "CAPRI",
+                    "POP",
+                    "UNI"
+                ]
+            }
+        ]
     }
 ]
