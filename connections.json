@@ -39650,5 +39650,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 863,
+        "date": "2025-10-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PLAYING CARDS",
+                "members": [
+                    "ACES",
+                    "JACKS",
+                    "KINGS",
+                    "QUEENS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TAKES ON",
+                "members": [
+                    "ADDRESSES",
+                    "DOES",
+                    "HANDLES",
+                    "TACKLES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "N.B.A. TEAMS",
+                "members": [
+                    "BUCKS",
+                    "BULLS",
+                    "HORNETS",
+                    "SPURS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS YOU CAN CONTROL WITH REMOTES",
+                "members": [
+                    "DRONES",
+                    "GARAGE DOORS",
+                    "TELEVISIONS",
+                    "WIIS"
+                ]
+            }
+        ]
     }
 ]
