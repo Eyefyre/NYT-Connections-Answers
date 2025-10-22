@@ -39696,5 +39696,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 864,
+        "date": "2025-10-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UTILITIES",
+                "members": [
+                    "ELECTRIC",
+                    "GAS",
+                    "TELEPHONE",
+                    "WATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ADAPT TO FIT ONE'S NEEDS",
+                "members": [
+                    "FASHION",
+                    "MOLD",
+                    "SHAPE",
+                    "TAILOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF ANTS",
+                "members": [
+                    "ARMY",
+                    "CARPENTER",
+                    "FIRE",
+                    "PHARAOH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COPY___",
+                "members": [
+                    "CAT",
+                    "PASTA",
+                    "RIGHT",
+                    "WRITER"
+                ]
+            }
+        ]
     }
 ]
