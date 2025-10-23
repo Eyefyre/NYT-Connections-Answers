@@ -39742,5 +39742,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 865,
+        "date": "2025-10-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PEACHY",
+                "members": [
+                    "DANDY",
+                    "DUCKY",
+                    "FINE",
+                    "SWELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WINNINGS",
+                "members": [
+                    "KITTY",
+                    "POT",
+                    "PRIZE",
+                    "PURSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PIECES OF OLYMPIC SPORTS EQUIPMENT",
+                "members": [
+                    "BALL",
+                    "BIRDIE",
+                    "PUCK",
+                    "STONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ BAG",
+                "members": [
+                    "DOGGY",
+                    "GO",
+                    "MIXED",
+                    "SWAG"
+                ]
+            }
+        ]
     }
 ]
