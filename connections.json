@@ -39834,5 +39834,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 867,
+        "date": "2025-10-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SWINDLE",
+                "members": [
+                    "FLEECE",
+                    "HOSE",
+                    "HUSTLE",
+                    "SHAFT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DIGITAL WATCH FEATURES",
+                "members": [
+                    "ALARM",
+                    "DATE",
+                    "LIGHT",
+                    "STOPWATCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONFER",
+                "members": [
+                    "ACCORD",
+                    "AWARD",
+                    "GRANT",
+                    "VEST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEST ACTOR-WINNING BIOPICS",
+                "members": [
+                    "CAPOTE",
+                    "LINCOLN",
+                    "MILK",
+                    "RAY"
+                ]
+            }
+        ]
     }
 ]
