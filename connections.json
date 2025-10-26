@@ -39880,5 +39880,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 868,
+        "date": "2025-10-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF INSTRUMENTS",
+                "members": [
+                    "BRASS",
+                    "PERCUSSION",
+                    "STRING",
+                    "WIND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS IN A FAMOUS MUHAMMAD ALI QUOTE",
+                "members": [
+                    "BEE",
+                    "BUTTERFLY",
+                    "FLOAT",
+                    "STING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CONTESTS",
+                "members": [
+                    "BEAUTY",
+                    "POPULARITY",
+                    "STARING",
+                    "TALENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS WITH DIMINUTIVE SUFFIXES",
+                "members": [
+                    "DOGGY",
+                    "DROPLET",
+                    "KITCHENETTE",
+                    "STARLING"
+                ]
+            }
+        ]
     }
 ]
