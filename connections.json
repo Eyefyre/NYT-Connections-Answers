@@ -39972,5 +39972,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 870,
+        "date": "2025-10-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BANALITY",
+                "members": [
+                    "CHESTNUT",
+                    "CLICH\u00c9",
+                    "PLATITUDE",
+                    "TROPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "IN THE KNOW",
+                "members": [
+                    "AWARE",
+                    "HIP",
+                    "SAVVY",
+                    "WISE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REMOTE CONTROL BUTTONS",
+                "members": [
+                    "BACK",
+                    "HOME",
+                    "MENU",
+                    "SELECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ONE-NAMED SINGER PLUS STARTING LETTER",
+                "members": [
+                    "GUSHER",
+                    "KENYA",
+                    "OCHER",
+                    "PELVIS"
+                ]
+            }
+        ]
     }
 ]
