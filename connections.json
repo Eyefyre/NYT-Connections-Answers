@@ -40064,5 +40064,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 872,
+        "date": "2025-10-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TERMS OF ENDEARMENT",
+                "members": [
+                    "ANGEL",
+                    "LOVE",
+                    "PUMPKIN",
+                    "SUGAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FICTION GENRES",
+                "members": [
+                    "FANTASY",
+                    "HORROR",
+                    "MYSTERY",
+                    "ROMANCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COLLECTIVE NOUNS FOR BIRDS",
+                "members": [
+                    "CHARM",
+                    "GAGGLE",
+                    "MURDER",
+                    "PARLIAMENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PEOPLE WHOSE FIRST NAMES ARE U.S. CITIES",
+                "members": [
+                    "BLOOM",
+                    "BUTLER",
+                    "GUTHRIE",
+                    "LEVY"
+                ]
+            }
+        ]
     }
 ]
