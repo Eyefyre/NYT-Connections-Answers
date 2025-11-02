@@ -40156,5 +40156,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 874,
+        "date": "2025-11-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GOODS TO BE TRANSPORTED",
+                "members": [
+                    "CARGO",
+                    "FREIGHT",
+                    "HAUL",
+                    "LOAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LIGHT BROWN SHADES",
+                "members": [
+                    "CAMEL",
+                    "FAWN",
+                    "KHAKI",
+                    "TAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHOW SIGNS OF PHYSICAL EXERTION",
+                "members": [
+                    "CRAMP",
+                    "PANT",
+                    "REDDEN",
+                    "SWEAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF ZODIAC SIGNS",
+                "members": [
+                    "AQUA",
+                    "CAPRI",
+                    "GEM",
+                    "SAG"
+                ]
+            }
+        ]
     }
 ]
