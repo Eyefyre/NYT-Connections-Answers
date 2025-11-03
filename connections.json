@@ -40202,5 +40202,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 875,
+        "date": "2025-11-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE RED",
+                "members": [
+                    "CLOWN NOSE",
+                    "FIRE ENGINE",
+                    "MARASCHINO CHERRY",
+                    "STOP SIGN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS FILLED WITH AIR",
+                "members": [
+                    "BALLOON ANIMAL",
+                    "BOUNCY CASTLE",
+                    "WATER WINGS",
+                    "WHOOPEE CUSHION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH A LOT OF PIECES",
+                "members": [
+                    "JIGSAW PUZZLE",
+                    "LEGO SET",
+                    "LITE-BRITE",
+                    "PICK-UP STICKS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING WITH ANIMALS",
+                "members": [
+                    "DARK HORSE",
+                    "FUNKY CHICKEN",
+                    "JUMBO SHRIMP",
+                    "SEA MONKEY"
+                ]
+            }
+        ]
     }
 ]
