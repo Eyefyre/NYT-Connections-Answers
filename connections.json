@@ -40248,5 +40248,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 876,
+        "date": "2025-11-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STEER",
+                "members": [
+                    "DIRECT",
+                    "DRIVE",
+                    "GUIDE",
+                    "PILOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THIN LAYER",
+                "members": [
+                    "COAT",
+                    "FILM",
+                    "LEAF",
+                    "SHEET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FILE EXTENSIONS",
+                "members": [
+                    "DOC",
+                    "MID",
+                    "TIFF",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ GUITAR",
+                "members": [
+                    "AIR",
+                    "ELECTRIC",
+                    "RHYTHM",
+                    "SLIDE"
+                ]
+            }
+        ]
     }
 ]
