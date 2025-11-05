@@ -40294,5 +40294,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 877,
+        "date": "2025-11-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MAKE A HASH OF",
+                "members": [
+                    "BLOW",
+                    "BOTCH",
+                    "BUTCHER",
+                    "SPOIL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WEAPONS IN THE GAME CLUE",
+                "members": [
+                    "CANDLESTICK",
+                    "KNIFE",
+                    "ROPE",
+                    "WRENCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ICONIC SOUL SINGERS",
+                "members": [
+                    "BAKER",
+                    "FRANKLIN",
+                    "FLACK",
+                    "KNIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RAIN___",
+                "members": [
+                    "BOW",
+                    "COAT",
+                    "FOREST",
+                    "MAKER"
+                ]
+            }
+        ]
     }
 ]
