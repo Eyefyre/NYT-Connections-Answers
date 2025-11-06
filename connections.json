@@ -40340,5 +40340,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 878,
+        "date": "2025-11-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COST",
+                "members": [
+                    "AMOUNT",
+                    "FIGURE",
+                    "PRICE",
+                    "VALUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO UNLOCK A DEVICE",
+                "members": [
+                    "FACE",
+                    "FINGERPRINT",
+                    "PASSWORD",
+                    "PIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A SHIP",
+                "members": [
+                    "AFT",
+                    "DECK",
+                    "FORE",
+                    "MAST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A CARTOON CUPID",
+                "members": [
+                    "ARROW",
+                    "BOW",
+                    "DIAPER",
+                    "WINGS"
+                ]
+            }
+        ]
     }
 ]
