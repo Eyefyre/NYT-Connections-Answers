@@ -40478,5 +40478,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 881,
+        "date": "2025-11-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PERSONAL GROOMING ITEMS",
+                "members": [
+                    "BRUSH",
+                    "MIRROR",
+                    "NAIL FILE",
+                    "TWEEZERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PACKED",
+                "members": [
+                    "COMPACT",
+                    "DENSE",
+                    "THICK",
+                    "TIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PONDER",
+                "members": [
+                    "DELIBERATE",
+                    "MUSE",
+                    "NOODLE",
+                    "REFLECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BIRD HOMOPHONES",
+                "members": [
+                    "CRANIUM",
+                    "CRONUT",
+                    "LUNAR",
+                    "PUFNSTUF"
+                ]
+            }
+        ]
     }
 ]
