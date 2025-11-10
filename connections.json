@@ -40524,5 +40524,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 882,
+        "date": "2025-11-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PERCUSSION INSTRUMENTS",
+                "members": [
+                    "BELL",
+                    "DRUM",
+                    "RATTLE",
+                    "TRIANGLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SATISFY, AS DEBTS",
+                "members": [
+                    "CLEAR",
+                    "PAY",
+                    "SETTLE",
+                    "SQUARE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS IN A FAMOUS QUOTE BY CAESAR",
+                "members": [
+                    "CAME",
+                    "CONQUERED",
+                    "I",
+                    "SAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LATIN PREPOSITIONS",
+                "members": [
+                    "AB",
+                    "PRO",
+                    "SINE",
+                    "SUB"
+                ]
+            }
+        ]
     }
 ]
