@@ -40662,5 +40662,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 885,
+        "date": "2025-11-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ATTIRE",
+                "members": [
+                    "DUDS",
+                    "FIT",
+                    "GETUP",
+                    "THREADS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FOAMY THINGS",
+                "members": [
+                    "BEER",
+                    "FIRE EXTINGUISHER",
+                    "SEA",
+                    "SHAVING CREAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT USE FILTERS",
+                "members": [
+                    "AIR PURIFIER",
+                    "CIGARETTE",
+                    "COFFEE MAKER",
+                    "INSTAGRAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ OFFICE",
+                "members": [
+                    "BOX",
+                    "MICROSOFT",
+                    "OVAL",
+                    "POST"
+                ]
+            }
+        ]
     }
 ]
