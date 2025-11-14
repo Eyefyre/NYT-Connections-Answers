@@ -40708,5 +40708,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 886,
+        "date": "2025-11-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EVALUATE",
+                "members": [
+                    "GRADE",
+                    "JUDGE",
+                    "RATE",
+                    "REVIEW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RADIO TUNING OPTIONS",
+                "members": [
+                    "BAND",
+                    "CHANNEL",
+                    "FREQUENCY",
+                    "STATION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACTION FILM SUBGENRES",
+                "members": [
+                    "BUDDY",
+                    "DISASTER",
+                    "MARTIAL ARTS",
+                    "SUPERHERO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC '90S ACTION FILMS",
+                "members": [
+                    "ARMAGEDDON",
+                    "HARD BOILED",
+                    "HEAT",
+                    "SPEED"
+                ]
+            }
+        ]
     }
 ]
