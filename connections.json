@@ -40754,5 +40754,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 887,
+        "date": "2025-11-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ENHANCE THE TASTE OF",
+                "members": [
+                    "FLAVOR",
+                    "SALT",
+                    "SEASON",
+                    "SPICE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PUNCTUATION MARKS",
+                "members": [
+                    "COLON",
+                    "DASH",
+                    "PERIOD",
+                    "SLASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF ACTORS",
+                "members": [
+                    "CHARACTER",
+                    "FILM",
+                    "METHOD",
+                    "STAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ ZONE",
+                "members": [
+                    "BUFFER",
+                    "COMFORT",
+                    "TIME",
+                    "TWILIGHT"
+                ]
+            }
+        ]
     }
 ]
