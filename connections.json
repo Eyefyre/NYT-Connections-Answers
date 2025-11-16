@@ -40800,5 +40800,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 888,
+        "date": "2025-11-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TECHNIQUE",
+                "members": [
+                    "APPROACH",
+                    "METHOD",
+                    "PHILOSOPHY",
+                    "SCHOOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RUN-OF-THE-MILL",
+                "members": [
+                    "BANAL",
+                    "EVERYDAY",
+                    "HUMDRUM",
+                    "PEDESTRIAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRIPY THINGS",
+                "members": [
+                    "BARCODE",
+                    "IBM LOGO",
+                    "RUGBY SHIRT",
+                    "ZEBRA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS ON MONOPOLY SQUARES",
+                "members": [
+                    "AVENUE",
+                    "PARKING",
+                    "RAILROAD",
+                    "TAX"
+                ]
+            }
+        ]
     }
 ]
