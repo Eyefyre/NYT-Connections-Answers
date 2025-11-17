@@ -40846,5 +40846,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 889,
+        "date": "2025-11-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"YOU BET\"",
+                "members": [
+                    "ABSOLUTELY",
+                    "OKEY-DOKE",
+                    "OF COURSE",
+                    "SURE THING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FORBIDDEN",
+                "members": [
+                    "OFF-LIMITS",
+                    "PROSCRIBED",
+                    "TABOO",
+                    "VERBOTEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BASKETBALL SHOTS",
+                "members": [
+                    "ALLEY-OOP",
+                    "FADEAWAY",
+                    "FINGER ROLL",
+                    "SLAM DUNK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"SCRAM!\"",
+                "members": [
+                    "GO-GETTER",
+                    "LEAVENING",
+                    "SCATTERGORIES",
+                    "SHOO-IN"
+                ]
+            }
+        ]
     }
 ]
