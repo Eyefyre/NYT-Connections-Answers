@@ -40892,5 +40892,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 890,
+        "date": "2025-11-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FUNNY PERSON",
+                "members": [
+                    "CLOWN",
+                    "JOKER",
+                    "LAUGH",
+                    "RIOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF TOMATOES",
+                "members": [
+                    "CHERRY",
+                    "GRAPE",
+                    "PLUM",
+                    "ROMA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEST ACTRESS OSCAR WINNERS",
+                "members": [
+                    "BERRY",
+                    "MADISON",
+                    "STONE",
+                    "SWANK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN SYNONYMS FOR \"LOCATION\"",
+                "members": [
+                    "COMMONPLACE",
+                    "NEEDLEPOINT",
+                    "PARASITE",
+                    "SUNSPOT"
+                ]
+            }
+        ]
     }
 ]
