@@ -40938,5 +40938,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 891,
+        "date": "2025-11-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STOCKY",
+                "members": [
+                    "HUSKY",
+                    "SOLID",
+                    "SQUAT",
+                    "THICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STEER",
+                "members": [
+                    "DIRECT",
+                    "GUIDE",
+                    "LEAD",
+                    "SHEPHERD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SECOND WORDS IN POE STORIES, AFTER \"THE\"",
+                "members": [
+                    "CASK",
+                    "FALL",
+                    "PIT",
+                    "MASQUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ORGAN PLUS A LETTER",
+                "members": [
+                    "COLONY",
+                    "HEARTH",
+                    "LUNGE",
+                    "SKINK"
+                ]
+            }
+        ]
     }
 ]
