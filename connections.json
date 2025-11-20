@@ -40984,5 +40984,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 892,
+        "date": "2025-11-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ADHERE",
+                "members": [
+                    "FIX",
+                    "PASTE",
+                    "PLASTER",
+                    "STICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GRAZE",
+                "members": [
+                    "BRUSH",
+                    "KISS",
+                    "SKIM",
+                    "STROKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A TOOTH",
+                "members": [
+                    "CROWN",
+                    "ENAMEL",
+                    "PULP",
+                    "ROOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS THAT SOUND LIKE TWO LETTERS",
+                "members": [
+                    "ANY",
+                    "ARTY",
+                    "DECAY",
+                    "ESSAY"
+                ]
+            }
+        ]
     }
 ]
