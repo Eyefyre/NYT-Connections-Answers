@@ -41030,5 +41030,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 893,
+        "date": "2025-11-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS WORN ON LAPELS",
+                "members": [
+                    "AWARENESS RIBBON",
+                    "BOUTONNI\u00c8RE",
+                    "LAPEL PIN",
+                    "LAVALIER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COCKTAILS",
+                "members": [
+                    "COSMOPOLITAN",
+                    "GREYHOUND",
+                    "SCREWDRIVER",
+                    "SEA BREEZE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PIXAR PROTAGONISTS",
+                "members": [
+                    "CLOWNFISH",
+                    "GRUMPY OLD MAN",
+                    "RACECAR",
+                    "TALKING DOLL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"EAT\"",
+                "members": [
+                    "BOLT CUTTER",
+                    "CHOW MEIN",
+                    "SCARF RING",
+                    "WOLF EEL"
+                ]
+            }
+        ]
     }
 ]
