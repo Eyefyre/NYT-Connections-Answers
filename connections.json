@@ -41076,5 +41076,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 894,
+        "date": "2025-11-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LITTLE BIT",
+                "members": [
+                    "DAB",
+                    "DROP",
+                    "SPLASH",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAILOR",
+                "members": [
+                    "SALTY DOG",
+                    "SKIPPER",
+                    "SWAB",
+                    "TAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TROPICAL FRUITS/VEGETABLES",
+                "members": [
+                    "BITTER MELON",
+                    "CHAYOTE",
+                    "DURIAN",
+                    "SOURSOP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ DEAL",
+                "members": [
+                    "BIG",
+                    "PLEA",
+                    "RAW",
+                    "SWEETHEART"
+                ]
+            }
+        ]
     }
 ]
