@@ -41122,5 +41122,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 895,
+        "date": "2025-11-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LENIENT",
+                "members": [
+                    "EASY",
+                    "LAX",
+                    "LOOSE",
+                    "SLACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANIMAL HOMES",
+                "members": [
+                    "BURROW",
+                    "DEN",
+                    "LODGE",
+                    "WARREN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OLIVER STONE MOVIES",
+                "members": [
+                    "JFK",
+                    "NIXON",
+                    "PLATOON",
+                    "WALL STREET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SECOND WORDS IN TITLES OF ABBA HITS",
+                "members": [
+                    "GIMME",
+                    "MIA",
+                    "QUEEN",
+                    "TROUPER"
+                ]
+            }
+        ]
     }
 ]
