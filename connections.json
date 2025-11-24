@@ -41168,5 +41168,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 896,
+        "date": "2025-11-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SMALL KITCHEN APPLIANCES",
+                "members": [
+                    "BLENDER",
+                    "MICROWAVE",
+                    "RICE COOKER",
+                    "TOASTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A CAR'S CENTER CONSOLE",
+                "members": [
+                    "AIR CONDITIONER",
+                    "CUP HOLDER",
+                    "RADIO",
+                    "SHIFTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SEEN WHILE GOING THROUGH AIRPORT SECURITY",
+                "members": [
+                    "BIN",
+                    "CARRY-ON",
+                    "METAL DETECTOR",
+                    "X-RAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN COLORS",
+                "members": [
+                    "INFRARED",
+                    "MARIGOLD",
+                    "STINGRAY",
+                    "ULTRAVIOLET"
+                ]
+            }
+        ]
     }
 ]
