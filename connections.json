@@ -41214,5 +41214,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 897,
+        "date": "2025-11-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SMALL-TIME",
+                "members": [
+                    "MICKEY MOUSE",
+                    "RINKY-DINK",
+                    "TRIVIAL",
+                    "TWO-BIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE PINK",
+                "members": [
+                    "BARBIE DREAMHOUSE",
+                    "CALAMINE LOTION",
+                    "CHERRY BLOSSOM",
+                    "FLAMINGO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS YOU CAN SCRATCH",
+                "members": [
+                    "BUG BITE",
+                    "LOTTERY TICKET",
+                    "VINYL RECORD",
+                    "YOUR HEAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH OPTIMISTIC WORDS",
+                "members": [
+                    "GLAD-HAND",
+                    "HAPPY MEAL",
+                    "MERRY-GO-ROUND",
+                    "SUNNY-SIDE UP"
+                ]
+            }
+        ]
     }
 ]
