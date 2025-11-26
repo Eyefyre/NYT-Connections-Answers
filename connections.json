@@ -41260,5 +41260,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 898,
+        "date": "2025-11-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "VERBS EXPRESSING POSSIBILITY",
+                "members": [
+                    "CAN",
+                    "COULD",
+                    "MAY",
+                    "MIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WOMEN\u2019S NICKNAMES",
+                "members": [
+                    "DEB",
+                    "JAN",
+                    "KAT",
+                    "SUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FINANCIAL ABBREVIATIONS",
+                "members": [
+                    "APR",
+                    "CFO",
+                    "IRA",
+                    "SEC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BACKWARDS ANIMALS",
+                "members": [
+                    "FLOW",
+                    "GOD",
+                    "MAR",
+                    "TAB"
+                ]
+            }
+        ]
     }
 ]
