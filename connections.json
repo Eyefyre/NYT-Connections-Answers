@@ -41306,5 +41306,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 899,
+        "date": "2025-11-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INUNDATION",
+                "members": [
+                    "AVALANCHE",
+                    "OUTPOURING",
+                    "TIDAL WAVE",
+                    "TORRENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MAIN FOLDERS IN A COMPUTER",
+                "members": [
+                    "DESKTOP",
+                    "DOCUMENTS",
+                    "DOWNLOADS",
+                    "MUSIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WOODWORKING TOOLS",
+                "members": [
+                    "DRILLS",
+                    "FILES",
+                    "ROUTERS",
+                    "SAWS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RHYMES FOR NEW YORK TIMES GAMES",
+                "members": [
+                    "CONFECTIONS",
+                    "GRANDS",
+                    "HURDLE",
+                    "SWELLING SEA"
+                ]
+            }
+        ]
     }
 ]
