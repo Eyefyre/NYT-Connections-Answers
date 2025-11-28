@@ -41352,5 +41352,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 900,
+        "date": "2025-11-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FITTING",
+                "members": [
+                    "FAIR",
+                    "JUST",
+                    "PROPER",
+                    "RIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACHIEVE VICTORY OVER",
+                "members": [
+                    "BEAT",
+                    "BEST",
+                    "TAKE",
+                    "WORST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF AN ELECTRIC GUITAR",
+                "members": [
+                    "FRET",
+                    "PEG",
+                    "PICKUP",
+                    "STRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PHONETIC ELEMENTS OF SPEECH",
+                "members": [
+                    "INTONATION",
+                    "LOUDNESS",
+                    "RHYTHM",
+                    "STRESS"
+                ]
+            }
+        ]
     }
 ]
