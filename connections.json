@@ -41398,5 +41398,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 901,
+        "date": "2025-11-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ABDOMINAL AREA",
+                "members": [
+                    "CORE",
+                    "MIDSECTION",
+                    "TORSO",
+                    "TRUNK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REPLACEMENT",
+                "members": [
+                    "BACKUP",
+                    "COVER",
+                    "RELIEF",
+                    "SUBSTITUTE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARK STAPLES",
+                "members": [
+                    "BENCH",
+                    "PIGEON",
+                    "STATUE",
+                    "TREE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BLACKJACK TERMS",
+                "members": [
+                    "BUST",
+                    "HIT",
+                    "SPLIT",
+                    "STAND"
+                ]
+            }
+        ]
     }
 ]
