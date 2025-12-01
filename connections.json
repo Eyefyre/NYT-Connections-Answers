@@ -41490,5 +41490,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 903,
+        "date": "2025-12-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMPLETE TURN",
+                "members": [
+                    "CIRCUIT",
+                    "LAP",
+                    "ORBIT",
+                    "REVOLUTION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CIRCULAR THINGS",
+                "members": [
+                    "FULL MOON",
+                    "LP",
+                    "PIZZA PIE",
+                    "PUPIL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KAFKA WORKS, WITH \"THE\"",
+                "members": [
+                    "CASTLE",
+                    "JUDGMENT",
+                    "METAMORPHOSIS",
+                    "TRIAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH LETTER HOMOPHONES",
+                "members": [
+                    "EYE CONTACT",
+                    "PEA SOUP",
+                    "SEA CHANGE",
+                    "TEA LEAVES"
+                ]
+            }
+        ]
     }
 ]
