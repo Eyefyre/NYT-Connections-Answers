@@ -41536,5 +41536,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 904,
+        "date": "2025-12-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "APPROXIMATE",
+                "members": [
+                    "BALLPARK",
+                    "BROAD",
+                    "GENERAL",
+                    "ROUGH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MILD OATHS",
+                "members": [
+                    "FRICK",
+                    "FUDGE",
+                    "SHOOT",
+                    "SUGAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MLB PLAYER",
+                "members": [
+                    "ANGEL",
+                    "MET",
+                    "RAY",
+                    "ROYAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMILY MEMBER NICKNAME PLUS A LETTER",
+                "members": [
+                    "BROW",
+                    "DADA",
+                    "MOMA",
+                    "SISI"
+                ]
+            }
+        ]
     }
 ]
