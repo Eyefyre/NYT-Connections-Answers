@@ -41582,5 +41582,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 905,
+        "date": "2025-12-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF JEWELRY",
+                "members": [
+                    "BANGLE",
+                    "CHAIN",
+                    "CHARM",
+                    "RING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOCIAL GATHERING",
+                "members": [
+                    "EVENT",
+                    "FUNCTION",
+                    "PARTY",
+                    "RECEPTION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PETITION (FOR)",
+                "members": [
+                    "APPEAL",
+                    "CAMPAIGN",
+                    "LOBBY",
+                    "PRESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"___ MAN\" SONGS FROM THE '70S",
+                "members": [
+                    "IRON",
+                    "MACHO",
+                    "PIANO",
+                    "ROCKET"
+                ]
+            }
+        ]
     }
 ]
