@@ -41628,5 +41628,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 906,
+        "date": "2025-12-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CUDDLE",
+                "members": [
+                    "DRAW CLOSE",
+                    "HOLD TIGHT",
+                    "NUZZLE",
+                    "SPOON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "IMBIBE",
+                "members": [
+                    "GUZZLE",
+                    "KNOCK BACK",
+                    "POUND DOWN",
+                    "SWILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS YOU ASSEMBLE",
+                "members": [
+                    "IKEA FURNITURE",
+                    "LEGO SET",
+                    "MODEL",
+                    "PUZZLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SNOUTS",
+                "members": [
+                    "BEAK",
+                    "MUZZLE",
+                    "PROBOSCIS",
+                    "ROSTRUM"
+                ]
+            }
+        ]
     }
 ]
