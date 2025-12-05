@@ -41674,5 +41674,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 907,
+        "date": "2025-12-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TRICKY",
+                "members": [
+                    "COMPLEX",
+                    "DELICATE",
+                    "STICKY",
+                    "TOUGH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STATE OF AFFAIRS",
+                "members": [
+                    "DEAL",
+                    "SITUATION",
+                    "STATUS",
+                    "STORY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC BOARD GAMES",
+                "members": [
+                    "MASTERMIND",
+                    "MOUSE TRAP",
+                    "OPERATION",
+                    "SORRY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ TALK",
+                "members": [
+                    "BABY",
+                    "PILLOW",
+                    "SMALL",
+                    "SWEET"
+                ]
+            }
+        ]
     }
 ]
