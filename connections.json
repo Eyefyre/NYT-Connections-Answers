@@ -41720,5 +41720,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 908,
+        "date": "2025-12-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "NORM",
+                "members": [
+                    "AVERAGE",
+                    "MEAN",
+                    "PAR",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MOLLIFY",
+                "members": [
+                    "COOL",
+                    "MODERATE",
+                    "SETTLE",
+                    "TEMPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MEMBER OF A TITULAR GROUP IN AN ANIMATION FRANCHISE",
+                "members": [
+                    "CAR",
+                    "INCREDIBLE",
+                    "MINION",
+                    "MONSTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH HERPETOFAUNA",
+                "members": [
+                    "ADDERALL",
+                    "MONITORSHIP",
+                    "NEWTON",
+                    "TOADY"
+                ]
+            }
+        ]
     }
 ]
