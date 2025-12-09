@@ -41858,5 +41858,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 911,
+        "date": "2025-12-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BEAR IN MIND",
+                "members": [
+                    "CONSIDER",
+                    "COUNT",
+                    "FACTOR",
+                    "INCLUDE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRIPED ANIMALS",
+                "members": [
+                    "CLOWNFISH",
+                    "HONEYBEE",
+                    "TIGER",
+                    "ZEBRA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH RAINBOWS",
+                "members": [
+                    "DOROTHY GALE",
+                    "LEPRECHAUN",
+                    "PRIDE",
+                    "UNICORN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEGINNING WITH NUMBER HOMOPHONES",
+                "members": [
+                    "FIEVEL",
+                    "FOREHEAD",
+                    "TOUCAN",
+                    "WONDER"
+                ]
+            }
+        ]
     }
 ]
