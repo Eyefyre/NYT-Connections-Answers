@@ -41904,5 +41904,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 912,
+        "date": "2025-12-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"MY GOODNESS!\"",
+                "members": [
+                    "DEAR",
+                    "GRACIOUS",
+                    "HEAVENS",
+                    "MERCY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "IMITATION",
+                "members": [
+                    "COPY",
+                    "DUMMY",
+                    "DUPE",
+                    "FAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONFECTION",
+                "members": [
+                    "CANDY",
+                    "LOLLY",
+                    "SUCKER",
+                    "SWEET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"Y\" MIGHT MEAN",
+                "members": [
+                    "WHY",
+                    "YEAR",
+                    "YELLOW",
+                    "YES"
+                ]
+            }
+        ]
     }
 ]
