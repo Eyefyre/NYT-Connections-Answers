@@ -41950,5 +41950,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 913,
+        "date": "2025-12-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS SEEN IN A YARD",
+                "members": [
+                    "GNOME",
+                    "GRILL",
+                    "SHED",
+                    "SPRINKLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "ARES",
+                    "EARS",
+                    "SEAR",
+                    "SERA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LETTER HOMOPHONES",
+                "members": [
+                    "ARE",
+                    "ELLE",
+                    "QUE",
+                    "QUEUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DUST ___",
+                "members": [
+                    "BOWL",
+                    "BUNNY",
+                    "DEVIL",
+                    "JACKET"
+                ]
+            }
+        ]
     }
 ]
