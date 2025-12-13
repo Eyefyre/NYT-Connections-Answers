@@ -42042,5 +42042,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 915,
+        "date": "2025-12-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "WIDE-LEGGED PANT STYLES",
+                "members": [
+                    "CULOTTE",
+                    "GAUCHO",
+                    "HAREM",
+                    "PALAZZO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT \"T\"",
+                "members": [
+                    "APOSTLE",
+                    "DEPOT",
+                    "MORTGAGE",
+                    "POIROT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NEW YORK METS LEGENDS",
+                "members": [
+                    "GOODEN",
+                    "PIAZZA",
+                    "SEAVER",
+                    "STRAWBERRY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GREEK MYTHOLOGICAL FIGURES MINUS A LETTER",
+                "members": [
+                    "AJA",
+                    "ARE",
+                    "HER",
+                    "HERCULE"
+                ]
+            }
+        ]
     }
 ]
