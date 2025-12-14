@@ -42088,5 +42088,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 916,
+        "date": "2025-12-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LAY IT ON THICK",
+                "members": [
+                    "FAWN",
+                    "FLATTER",
+                    "GUSH",
+                    "PRAISE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HANS CHRISTIAN ANDERSON FIGURES",
+                "members": [
+                    "DUCKLING",
+                    "EMPEROR",
+                    "MERMAID",
+                    "PRINCESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT \"L\"",
+                "members": [
+                    "CALF",
+                    "CHALK",
+                    "COLONEL",
+                    "WOULD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FICTIONAL PIGS",
+                "members": [
+                    "BABE",
+                    "NAPOLEON",
+                    "PIGLET",
+                    "PORKY"
+                ]
+            }
+        ]
     }
 ]
