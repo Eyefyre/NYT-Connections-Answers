@@ -42134,5 +42134,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 917,
+        "date": "2025-12-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TOURNAMENT ROUNDS",
+                "members": [
+                    "FINAL",
+                    "QUALIFIER",
+                    "QUARTER",
+                    "SEMI"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENORMOUS",
+                "members": [
+                    "BUMPER",
+                    "GIANT",
+                    "MONSTER",
+                    "TITANIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DISREPUTABLE ESTABLISHMENT",
+                "members": [
+                    "DIVE",
+                    "DUMP",
+                    "HOLE",
+                    "JOINT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"C\" MIGHT MEAN",
+                "members": [
+                    "CELSIUS",
+                    "COLD",
+                    "ONE HUNDRED",
+                    "SEE"
+                ]
+            }
+        ]
     }
 ]
