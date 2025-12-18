@@ -42272,5 +42272,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 920,
+        "date": "2025-12-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BIT OF WISHFUL THINKING",
+                "members": [
+                    "DAYDREAM",
+                    "FANCY",
+                    "FANTASY",
+                    "ILLUSION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PROTAGONIST",
+                "members": [
+                    "HERO",
+                    "LEAD",
+                    "PRINCIPAL",
+                    "STAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMPONENT OF AN ARTS AND CRAFTS PROJECT",
+                "members": [
+                    "FELT",
+                    "GLITTER",
+                    "PIPE CLEANER",
+                    "POMPOM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOCIAL ___",
+                "members": [
+                    "BUTTERFLY",
+                    "MEDIA",
+                    "SECURITY",
+                    "WORKER"
+                ]
+            }
+        ]
     }
 ]
