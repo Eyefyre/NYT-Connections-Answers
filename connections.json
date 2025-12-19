@@ -42318,5 +42318,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 921,
+        "date": "2025-12-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FINDINGS",
+                "members": [
+                    "DATA",
+                    "DETAILS",
+                    "INFORMATION",
+                    "INTELLIGENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DINNER OPTIONS",
+                "members": [
+                    "COOK",
+                    "DELIVERY",
+                    "GO OUT",
+                    "LEFTOVERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "U.S. CABINET DEPARTMENTS",
+                "members": [
+                    "COMMERCE",
+                    "EDUCATION",
+                    "ENERGY",
+                    "LABOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF PLACES TO PARK A SHIP",
+                "members": [
+                    "BIRTH",
+                    "DOC",
+                    "PEER",
+                    "WORF"
+                ]
+            }
+        ]
     }
 ]
