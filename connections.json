@@ -42364,5 +42364,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 922,
+        "date": "2025-12-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONTAINERS",
+                "members": [
+                    "BUCKET",
+                    "CAN",
+                    "DRUM",
+                    "TIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LAUNDRY SERVICES",
+                "members": [
+                    "DRY",
+                    "FOLD",
+                    "PRESS",
+                    "WASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BRITISH BANDS FORMED IN THE 1970S, WITH \"THE\"",
+                "members": [
+                    "CLASH",
+                    "CURE",
+                    "DAMNED",
+                    "FALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ROCK ___",
+                "members": [
+                    "BOTTOM",
+                    "LOBSTER",
+                    "MUSIC",
+                    "SALT"
+                ]
+            }
+        ]
     }
 ]
