@@ -42410,5 +42410,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 923,
+        "date": "2025-12-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FEATURES OF A TEAPOT",
+                "members": [
+                    "HANDLE",
+                    "LID",
+                    "SPOUT",
+                    "STRAINER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LIBRARY SECTIONS",
+                "members": [
+                    "CIRCULATION",
+                    "PERIODICALS",
+                    "REFERENCE",
+                    "STACKS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ARISE",
+                "members": [
+                    "EMERGE",
+                    "FLOW",
+                    "ISSUE",
+                    "RESULT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___DROP",
+                "members": [
+                    "AIR",
+                    "EAVES",
+                    "GUM",
+                    "RAIN"
+                ]
+            }
+        ]
     }
 ]
