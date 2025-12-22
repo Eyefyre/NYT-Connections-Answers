@@ -42456,5 +42456,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 924,
+        "date": "2025-12-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INFLUX",
+                "members": [
+                    "RASH",
+                    "RUSH",
+                    "SURGE",
+                    "WAVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUBSEQUENT",
+                "members": [
+                    "COMING",
+                    "FOLLOWING",
+                    "FUTURE",
+                    "LATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CARDS",
+                "members": [
+                    "BUSINESS",
+                    "GREETING",
+                    "MEMBERSHIP",
+                    "PLAYING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COLORS MINUS LAST LETTER",
+                "members": [
+                    "BROW",
+                    "CYA",
+                    "PIN",
+                    "WHIT"
+                ]
+            }
+        ]
     }
 ]
