@@ -42502,5 +42502,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 925,
+        "date": "2025-12-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "VULNERABILITY",
+                "members": [
+                    "ACHILLES\u2019 HEEL",
+                    "DOWNFALL",
+                    "KRYPTONITE",
+                    "SOFT SPOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FREUDIAN CONCEPTS",
+                "members": [
+                    "FIXATION",
+                    "OEDIPUS COMPLEX",
+                    "SUPEREGO",
+                    "UNCONSCIOUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHARACTERS IN CAPES",
+                "members": [
+                    "DARTH VADER",
+                    "DRACULA",
+                    "LITTLE RED RIDING HOOD",
+                    "SUPERMAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SLANG FOR SAUSAGE",
+                "members": [
+                    "BRATZ",
+                    "DOGMA",
+                    "FRANKENSTEIN",
+                    "LINKLATER"
+                ]
+            }
+        ]
     }
 ]
