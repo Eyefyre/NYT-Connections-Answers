@@ -42548,5 +42548,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 926,
+        "date": "2025-12-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SLANG FOR MONEY",
+                "members": [
+                    "BACON",
+                    "BREAD",
+                    "CHEESE",
+                    "PAPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MASTICATE",
+                "members": [
+                    "BITE",
+                    "CHAMP",
+                    "CHEW",
+                    "MUNCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FISH",
+                "members": [
+                    "CHAR",
+                    "POLLOCK",
+                    "SOLE",
+                    "TANG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO VOCALIZE MUSICALLY PLUS A LETTER",
+                "members": [
+                    "HUMP",
+                    "RAPT",
+                    "SINGE",
+                    "WHISTLER"
+                ]
+            }
+        ]
     }
 ]
