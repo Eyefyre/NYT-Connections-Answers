@@ -42594,5 +42594,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 927,
+        "date": "2025-12-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ORNATE, AS PROSE",
+                "members": [
+                    "EXCESSIVE",
+                    "FLOWERY",
+                    "MELODRAMATIC",
+                    "PURPLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CREATE",
+                "members": [
+                    "COIN",
+                    "HATCH",
+                    "FASHION",
+                    "MAKE UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH STEMS",
+                "members": [
+                    "CHERRY",
+                    "FLOWER",
+                    "MUSICAL NOTE",
+                    "WINE GLASS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMPRISED OF SOLFEGE (DO-RE-MI)",
+                "members": [
+                    "LAREDO",
+                    "MIRE",
+                    "RETIRE",
+                    "SOLTI"
+                ]
+            }
+        ]
     }
 ]
