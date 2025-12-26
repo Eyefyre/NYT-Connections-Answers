@@ -42640,5 +42640,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 928,
+        "date": "2025-12-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CALIFORNIA-BASED CHARACTER TROPES",
+                "members": [
+                    "MOVIE EXEC",
+                    "SURFER",
+                    "TECH BRO",
+                    "VALLEY GIRL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMEDY SUBGENRES",
+                "members": [
+                    "BUDDY",
+                    "CRINGE",
+                    "SCREWBALL",
+                    "STONER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "'70S ROCK BANDS",
+                "members": [
+                    "AMERICA",
+                    "CHICAGO",
+                    "FOREIGNER",
+                    "JOURNEY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BLACK ___",
+                "members": [
+                    "FOREST",
+                    "FRIDAY",
+                    "PANTHER",
+                    "WIDOW"
+                ]
+            }
+        ]
     }
 ]
