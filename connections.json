@@ -42686,5 +42686,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 929,
+        "date": "2025-12-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "AIRLINE CLASSES",
+                "members": [
+                    "BUSINESS",
+                    "ECONOMY",
+                    "FIRST",
+                    "PREMIUM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ATTRIBUTE",
+                "members": [
+                    "CITE",
+                    "CREDIT",
+                    "NAME",
+                    "REFERENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VOCATION",
+                "members": [
+                    "CALLING",
+                    "CRAFT",
+                    "LINE",
+                    "TRADE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING WITH ALCOHOLIC BEVERAGES",
+                "members": [
+                    "DECIDER",
+                    "NAMESAKE",
+                    "REPORT",
+                    "VILLAGER"
+                ]
+            }
+        ]
     }
 ]
