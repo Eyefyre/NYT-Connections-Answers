@@ -42732,5 +42732,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 930,
+        "date": "2025-12-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONTAINERS FOR SHIPPING",
+                "members": [
+                    "BOX",
+                    "ENVELOPE",
+                    "MAILER",
+                    "TUBE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNMOVING",
+                "members": [
+                    "CONSTANT",
+                    "STATIC",
+                    "STATIONARY",
+                    "STILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MECHANICAL WATCH PARTS",
+                "members": [
+                    "GEAR",
+                    "PAWL",
+                    "RATCHET",
+                    "SPRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DOGS WITH FIRST LETTER CHANGED",
+                "members": [
+                    "DUSKY",
+                    "NOODLE",
+                    "PERRIER",
+                    "SOXER"
+                ]
+            }
+        ]
     }
 ]
