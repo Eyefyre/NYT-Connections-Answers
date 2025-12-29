@@ -42778,5 +42778,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 931,
+        "date": "2025-12-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TENDENCY",
+                "members": [
+                    "COURSE",
+                    "DIRECTION",
+                    "TIDE",
+                    "TREND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIOLOGICAL STRUCTURES",
+                "members": [
+                    "CELL",
+                    "GENE",
+                    "PROTEIN",
+                    "TISSUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUMMER OLYMPIC EVENTS",
+                "members": [
+                    "ATHLETICS",
+                    "EQUESTRIAN",
+                    "SWIMMING",
+                    "TRIATHLON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CAR BRAND HOMOPHONES",
+                "members": [
+                    "INFINITY",
+                    "MINNIE",
+                    "OPAL",
+                    "OUTIE"
+                ]
+            }
+        ]
     }
 ]
