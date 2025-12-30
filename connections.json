@@ -42824,5 +42824,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 932,
+        "date": "2025-12-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INTENTION",
+                "members": [
+                    "AIM",
+                    "GOAL",
+                    "OBJECT",
+                    "POINT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MEASURING DEVICES",
+                "members": [
+                    "CLOCK",
+                    "COMPASS",
+                    "RULER",
+                    "SCALE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A FLIGHT",
+                "members": [
+                    "CLIMB",
+                    "TAKEOFF",
+                    "TAXI",
+                    "TOUCHDOWN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIKE ACCESSORIES",
+                "members": [
+                    "BASKET",
+                    "BELL",
+                    "RACK",
+                    "REFLECTOR"
+                ]
+            }
+        ]
     }
 ]
