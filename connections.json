@@ -42870,5 +42870,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 933,
+        "date": "2025-12-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HAPPY NEW YEAR!",
+                "members": [
+                    "BALL DROP",
+                    "CHAMPAGNE FLUTE",
+                    "FIREWORKS",
+                    "NOISEMAKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WHERE THINGS DISAPPEAR",
+                "members": [
+                    "BERMUDA TRIANGLE",
+                    "BLACK HOLE",
+                    "COUCH CUSHIONS",
+                    "DRYER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH PHILADELPHIA",
+                "members": [
+                    "BROTHERLY LOVE",
+                    "CHEESESTEAK",
+                    "LIBERTY BELL",
+                    "ROCKY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BODIES OF WATER",
+                "members": [
+                    "BAY LEAF",
+                    "CHANNEL SURF",
+                    "SEA BASS",
+                    "SOUND BARRIER"
+                ]
+            }
+        ]
     }
 ]
