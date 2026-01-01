@@ -42916,5 +42916,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 934,
+        "date": "2026-01-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BIT OF MAGIC",
+                "members": [
+                    "CHARM",
+                    "CURSE",
+                    "HEX",
+                    "SPELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REMOVE THE COVERING FROM",
+                "members": [
+                    "PEEL",
+                    "SHELL",
+                    "SHUCK",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"ENTHUSIAST\" EQUIVALENT",
+                "members": [
+                    "BUFF",
+                    "HEAD",
+                    "HOUND",
+                    "RAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BUTTER___",
+                "members": [
+                    "FINGERS",
+                    "FLY",
+                    "NUT",
+                    "SCOTCH"
+                ]
+            }
+        ]
     }
 ]
