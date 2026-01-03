@@ -43008,5 +43008,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 936,
+        "date": "2026-01-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ARMY RANKS",
+                "members": [
+                    "CAPTAIN",
+                    "GENERAL",
+                    "MAJOR",
+                    "PRIVATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LEGWEAR IN THE SINGULAR",
+                "members": [
+                    "JEAN",
+                    "JOGGER",
+                    "OVERALL",
+                    "SLACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RIHANNA #1 HITS",
+                "members": [
+                    "DIAMONDS",
+                    "SOS",
+                    "UMBRELLA",
+                    "WORK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WET ___",
+                "members": [
+                    "BAR",
+                    "BLANKET",
+                    "NURSE",
+                    "WILLY"
+                ]
+            }
+        ]
     }
 ]
