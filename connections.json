@@ -43054,5 +43054,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 937,
+        "date": "2026-01-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PAPER PUBLICATION",
+                "members": [
+                    "COPY",
+                    "EDITION",
+                    "ISSUE",
+                    "PRINT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SPOOL",
+                "members": [
+                    "COIL",
+                    "CRANK",
+                    "REEL",
+                    "WIND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS A DEFENSIVE FOOTBALL PLAYER DOES",
+                "members": [
+                    "BLITZ",
+                    "BLOCK",
+                    "SACK",
+                    "TACKLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SYNONYMS FOR BUTT PLUS STARTING LETTER",
+                "members": [
+                    "DREAR",
+                    "ETAIL",
+                    "GRUMP",
+                    "SCAN"
+                ]
+            }
+        ]
     }
 ]
