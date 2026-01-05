@@ -43100,5 +43100,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 938,
+        "date": "2026-01-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS YOU CAN DO ON SOCIAL MEDIA",
+                "members": [
+                    "COMMENT",
+                    "LIKE",
+                    "LURK",
+                    "POST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FURTHEST POINT",
+                "members": [
+                    "END",
+                    "EXTREME",
+                    "OPPOSITE",
+                    "POLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ART MOVEMENTS, WITH \"-ISM\"",
+                "members": [
+                    "BRUTAL",
+                    "IMPRESSION",
+                    "MANNER",
+                    "REAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"V\" MIGHT MEAN",
+                "members": [
+                    "FIVE",
+                    "VERSUS",
+                    "VERY",
+                    "VOLT"
+                ]
+            }
+        ]
     }
 ]
