@@ -43146,5 +43146,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 939,
+        "date": "2026-01-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "APARTMENT",
+                "members": [
+                    "DIGS",
+                    "FLAT",
+                    "PAD",
+                    "QUARTERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SONOROUS",
+                "members": [
+                    "CLEAR",
+                    "DEEP",
+                    "FULL",
+                    "RICH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POKER HANDS, FAMILIARLY",
+                "members": [
+                    "BOAT",
+                    "FLUSH",
+                    "STRAIGHT",
+                    "QUADS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ ANIMAL",
+                "members": [
+                    "BALLOON",
+                    "PACK",
+                    "PARTY",
+                    "STUFFED"
+                ]
+            }
+        ]
     }
 ]
