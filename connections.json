@@ -43192,5 +43192,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 940,
+        "date": "2026-01-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DOPPELG\u00c4NGER",
+                "members": [
+                    "CLONE",
+                    "DOUBLE",
+                    "MIRROR",
+                    "RINGER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PORTION",
+                "members": [
+                    "CONCERN",
+                    "INTEREST",
+                    "SHARE",
+                    "STAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMMON FLAG SYMBOLS",
+                "members": [
+                    "CRESCENT",
+                    "CROSS",
+                    "STAR",
+                    "STRIPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PRESSED USING A PRESS",
+                "members": [
+                    "CIDER",
+                    "GARLIC",
+                    "TROUSERS",
+                    "WINE"
+                ]
+            }
+        ]
     }
 ]
