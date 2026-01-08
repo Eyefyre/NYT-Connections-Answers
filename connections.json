@@ -43238,5 +43238,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 941,
+        "date": "2026-01-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BIT OF A RESPONSE TO STRONG EMOTIONS",
+                "members": [
+                    "CHILL",
+                    "GOOSEBUMP",
+                    "SHIVER",
+                    "TINGLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BREAK THE RULES",
+                "members": [
+                    "JAYWALK",
+                    "LITTER",
+                    "LOITER",
+                    "SPEED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRST-CLASS LEVERS",
+                "members": [
+                    "CLOTHESPIN",
+                    "CROWBAR",
+                    "SCISSORS",
+                    "SEESAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH CANDY BARS",
+                "members": [
+                    "AEROPLANE",
+                    "DOVETAIL",
+                    "HEATHERS",
+                    "MARSALA"
+                ]
+            }
+        ]
     }
 ]
