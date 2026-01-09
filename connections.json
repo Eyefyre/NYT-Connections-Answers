@@ -43284,5 +43284,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 942,
+        "date": "2026-01-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE RED",
+                "members": [
+                    "3 BALL",
+                    "CARDINAL",
+                    "HEART EMOJI",
+                    "SOLO CUP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "USED IN METAPHORS FOR PRECARIOUS SITUATIONS",
+                "members": [
+                    "8 BALL",
+                    "DEEP END",
+                    "LIMB",
+                    "THIN ICE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSICAL ARTISTS MINUS STARTING NUMBERS",
+                "members": [
+                    "6 MAFIA",
+                    "CHAINZ",
+                    "DIRECTION",
+                    "NON BLONDES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CARDINAL DIRECTIONS WITH FIRST LETTER CHANGED",
+                "members": [
+                    "COUTH",
+                    "FORTH",
+                    "LEST",
+                    "OAST"
+                ]
+            }
+        ]
     }
 ]
