@@ -43422,5 +43422,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 945,
+        "date": "2026-01-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LIVING ROOM FURNITURE",
+                "members": [
+                    "ARMCHAIR",
+                    "BOOKCASE",
+                    "CONSOLE",
+                    "FOOTSTOOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EXPERIENCE LEVELS",
+                "members": [
+                    "EXPERT",
+                    "INTERMEDIATE",
+                    "NOVICE",
+                    "PROFICIENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PROMISE",
+                "members": [
+                    "AGREEMENT",
+                    "COMPACT",
+                    "HANDSHAKE",
+                    "UNDERSTANDING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN U.S. COINS",
+                "members": [
+                    "CEFTAZIDIME",
+                    "HEADQUARTER",
+                    "MONEYPENNY",
+                    "PUMPERNICKEL"
+                ]
+            }
+        ]
     }
 ]
