@@ -43468,5 +43468,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 946,
+        "date": "2026-01-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PRESENT GO-WITHS",
+                "members": [
+                    "BOW",
+                    "CARD",
+                    "GIFT WRAP",
+                    "RIBBON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JOSTLE",
+                "members": [
+                    "ELBOW",
+                    "PRESS",
+                    "SHOULDER",
+                    "SHOVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACCESSORIES FOR MR. MONOPOLY",
+                "members": [
+                    "BOWTIE",
+                    "CANE",
+                    "MONEYBAG",
+                    "TOP HAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF THE FOOT PLUS STARTING LETTER",
+                "members": [
+                    "OTOE",
+                    "PARCH",
+                    "RANKLE",
+                    "WHEEL"
+                ]
+            }
+        ]
     }
 ]
