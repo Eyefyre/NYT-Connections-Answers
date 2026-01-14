@@ -43514,5 +43514,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 947,
+        "date": "2026-01-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FIXED",
+                "members": [
+                    "FAST",
+                    "FIRM",
+                    "SECURE",
+                    "TIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RECEIVER OF GOODS OR SERVICES",
+                "members": [
+                    "ACCOUNT",
+                    "CLIENT",
+                    "CONSUMER",
+                    "USER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH WEATHER CONDITIONS",
+                "members": [
+                    "FROSTY",
+                    "MISTLETOE",
+                    "RAINMAKER",
+                    "SNOWMAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT ___",
+                "members": [
+                    "AUCTION",
+                    "MOVIE",
+                    "PARTNER",
+                    "TREATMENT"
+                ]
+            }
+        ]
     }
 ]
