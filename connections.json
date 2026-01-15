@@ -43560,5 +43560,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 948,
+        "date": "2026-01-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GARDENING TOOLS",
+                "members": [
+                    "HOSE",
+                    "RAKE",
+                    "SHOVEL",
+                    "SPADE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNMOVING",
+                "members": [
+                    "FROZEN",
+                    "STATIC",
+                    "STATIONARY",
+                    "STILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT COME IN FLAKES",
+                "members": [
+                    "CEREAL",
+                    "DANDRUFF",
+                    "SALT",
+                    "SNOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS FORMED BY TWO MEN\u2019S NAMES",
+                "members": [
+                    "JACKAL",
+                    "LEVITATE",
+                    "MELTED",
+                    "PATRON"
+                ]
+            }
+        ]
     }
 ]
