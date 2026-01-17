@@ -43652,5 +43652,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 950,
+        "date": "2026-01-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SPREAD OVER",
+                "members": [
+                    "BLANKET",
+                    "COAT",
+                    "COVER",
+                    "PLASTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THROW",
+                "members": [
+                    "CAST",
+                    "HURL",
+                    "PELT",
+                    "SLING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "INKS",
+                    "KINS",
+                    "SINK",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRST WORDS OF KIDS' GAMES",
+                "members": [
+                    "CAPTURE",
+                    "HIDE",
+                    "RED",
+                    "SIMON"
+                ]
+            }
+        ]
     }
 ]
