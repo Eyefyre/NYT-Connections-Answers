@@ -43698,5 +43698,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 951,
+        "date": "2026-01-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FEATURES OF A DUCK",
+                "members": [
+                    "BILL",
+                    "FEATHERS",
+                    "WEBBING",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESTROY",
+                "members": [
+                    "BREAK",
+                    "DAMAGE",
+                    "TOTAL",
+                    "WRECK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FOUND ON A BOOK JACKET",
+                "members": [
+                    "AUTHOR",
+                    "QUOTE",
+                    "SYNOPSIS",
+                    "TITLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC HOLLYWOOD ACTORS",
+                "members": [
+                    "COOPER",
+                    "GRANT",
+                    "PECK",
+                    "PRICE"
+                ]
+            }
+        ]
     }
 ]
