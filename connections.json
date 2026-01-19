@@ -43744,5 +43744,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 952,
+        "date": "2026-01-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INEXPERIENCED",
+                "members": [
+                    "BUDDING",
+                    "FRESH",
+                    "NAIVE",
+                    "NEW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\ud83e\udd11",
+                "members": [
+                    "BUNDLE",
+                    "FORTUNE",
+                    "MINT",
+                    "WAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MEASURED BY SI UNITS",
+                "members": [
+                    "CURRENT",
+                    "LENGTH",
+                    "MASS",
+                    "TIME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER \"QUICK\"",
+                "members": [
+                    "FIX",
+                    "SAND",
+                    "SILVER",
+                    "STUDY"
+                ]
+            }
+        ]
     }
 ]
