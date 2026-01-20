@@ -43790,5 +43790,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 953,
+        "date": "2026-01-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INTERTWINE",
+                "members": [
+                    "LACE",
+                    "TWIST",
+                    "WEAVE",
+                    "WIND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BEES",
+                "members": [
+                    "BUMBLE",
+                    "CARPENTER",
+                    "HONEY",
+                    "KILLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMOUS BRIDGES",
+                "members": [
+                    "BROOKLYN",
+                    "GOLDEN GATE",
+                    "RIALTO",
+                    "TOWER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"HANKER FOR\"",
+                "members": [
+                    "CRAVEN",
+                    "DESIREE",
+                    "NEEDLE",
+                    "WANTON"
+                ]
+            }
+        ]
     }
 ]
