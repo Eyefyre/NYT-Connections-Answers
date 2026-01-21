@@ -43836,5 +43836,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 954,
+        "date": "2026-01-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ITEMS TO RECYCLE",
+                "members": [
+                    "BOTTLE",
+                    "CAN",
+                    "CARDBOARD BOX",
+                    "NEWSPAPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEDDING",
+                "members": [
+                    "BLANKET",
+                    "SHAM",
+                    "SHEET",
+                    "THROW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLAGIARIZE",
+                "members": [
+                    "COPY",
+                    "CRIB",
+                    "LIFT",
+                    "PIRATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BATMAN'S \"BAT\" THINGS",
+                "members": [
+                    "CAVE",
+                    "MOBILE",
+                    "SIGNAL",
+                    "SUIT"
+                ]
+            }
+        ]
     }
 ]
