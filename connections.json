@@ -43882,5 +43882,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 955,
+        "date": "2026-01-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "WELL-DEFINED, AS AN IMAGE",
+                "members": [
+                    "CLEAR",
+                    "CRISP",
+                    "DISTINCT",
+                    "SHARP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FRUIT DESSERTS",
+                "members": [
+                    "COBBLER",
+                    "CRUMBLE",
+                    "STRUDEL",
+                    "TURNOVER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BUNGLE",
+                "members": [
+                    "FLUFF",
+                    "FUMBLE",
+                    "MISS",
+                    "TRIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MAGAZINES PLUS A LETTER",
+                "members": [
+                    "ELLEN",
+                    "SPINY",
+                    "TIMER",
+                    "USE"
+                ]
+            }
+        ]
     }
 ]
