@@ -43974,5 +43974,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 957,
+        "date": "2026-01-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GEAR FOR A BOXER",
+                "members": [
+                    "GLOVES",
+                    "MOUTHGUARD",
+                    "ROBE",
+                    "SHORTS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHAMPIONSHIP",
+                "members": [
+                    "AWARD",
+                    "CROWN",
+                    "CUP",
+                    "TITLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF NECKLINES",
+                "members": [
+                    "BOAT",
+                    "CREW",
+                    "HALTER",
+                    "SCOOP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SNOW ___",
+                "members": [
+                    "CONE",
+                    "GLOBE",
+                    "LEOPARD",
+                    "PEA"
+                ]
+            }
+        ]
     }
 ]
