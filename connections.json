@@ -44112,5 +44112,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 960,
+        "date": "2026-01-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "QUITE THE LAUGH",
+                "members": [
+                    "CARD",
+                    "CHARACTER",
+                    "CUTUP",
+                    "JOKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NHL TEAM MEMBER",
+                "members": [
+                    "DEVIL",
+                    "FLYER",
+                    "PENGUIN",
+                    "RANGER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRST WORDS OF ROBIN HOOD CHARACTER NAMES",
+                "members": [
+                    "FRIAR",
+                    "MAID",
+                    "ROBIN",
+                    "SHERIFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BASEBALL GEAR",
+                "members": [
+                    "BALLROOM",
+                    "BASEMENT",
+                    "BATMOBILE",
+                    "CAPSTONE"
+                ]
+            }
+        ]
     }
 ]
