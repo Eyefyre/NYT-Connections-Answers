@@ -44250,5 +44250,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 963,
+        "date": "2026-01-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "REGION",
+                "members": [
+                    "AREA",
+                    "CLUSTER",
+                    "PATCH",
+                    "POCKET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GROOMING ITEMS",
+                "members": [
+                    "COMB",
+                    "COMPACT",
+                    "NAIL FILE",
+                    "TWEEZERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH ADHESIVE SURFACES",
+                "members": [
+                    "BAND-AID",
+                    "LINT ROLLER",
+                    "STICKER",
+                    "TAPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ HAND",
+                "members": [
+                    "HELPING",
+                    "MINUTE",
+                    "POKER",
+                    "UPPER"
+                ]
+            }
+        ]
     }
 ]
