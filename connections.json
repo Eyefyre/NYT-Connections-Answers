@@ -44296,5 +44296,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 964,
+        "date": "2026-01-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF PARTIES",
+                "members": [
+                    "BALL",
+                    "MIXER",
+                    "RECEPTION",
+                    "SHOWER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO APPLY PAINT",
+                "members": [
+                    "BRUSH",
+                    "PALETTE KNIFE",
+                    "ROLLER",
+                    "SPRAY CAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "Y-SHAPED THINGS",
+                "members": [
+                    "SLINGSHOT",
+                    "STETHOSCOPE",
+                    "TUNING FORK",
+                    "WISHBONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"SHIFT\" MIGHT REFER TO",
+                "members": [
+                    "COMPUTER KEY",
+                    "DRESS",
+                    "FLUCTUATION",
+                    "WORK PERIOD"
+                ]
+            }
+        ]
     }
 ]
