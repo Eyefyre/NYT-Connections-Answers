@@ -44342,5 +44342,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 965,
+        "date": "2026-02-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PUBLICIZE",
+                "members": [
+                    "BOOST",
+                    "HYPE",
+                    "PITCH",
+                    "PLUG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF SHOES",
+                "members": [
+                    "CLOG",
+                    "FLAT",
+                    "MULE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANTHEM",
+                "members": [
+                    "BANGER",
+                    "BOP",
+                    "HEATER",
+                    "JAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSICAL INSTRUMENTS PLUS STARTING LETTER",
+                "members": [
+                    "GLUTE",
+                    "MORGAN",
+                    "SHARP",
+                    "THORN"
+                ]
+            }
+        ]
     }
 ]
