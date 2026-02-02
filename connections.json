@@ -44388,5 +44388,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 966,
+        "date": "2026-02-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DURATION",
+                "members": [
+                    "INTERVAL",
+                    "PERIOD",
+                    "SPAN",
+                    "STRETCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CREDENTIALS FOR ENTRY",
+                "members": [
+                    "LANYARD",
+                    "PASS",
+                    "STAMP",
+                    "WRISTBAND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MODERN CRIME SERIES PROTAGONISTS",
+                "members": [
+                    "BOSCH",
+                    "CROSS",
+                    "REACHER",
+                    "RYAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TREES PLUS A LETTER",
+                "members": [
+                    "FAIR",
+                    "MARPLE",
+                    "POPULAR",
+                    "PSALM"
+                ]
+            }
+        ]
     }
 ]
