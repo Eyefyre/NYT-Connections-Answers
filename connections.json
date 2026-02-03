@@ -44434,5 +44434,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 967,
+        "date": "2026-02-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CUT INTO PIECES",
+                "members": [
+                    "CUBE",
+                    "DICE",
+                    "HASH",
+                    "MINCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PROVIDE WITH A PLACE TO STAY",
+                "members": [
+                    "BOARD",
+                    "HOUSE",
+                    "LODGE",
+                    "QUARTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF GOLF CLUBS",
+                "members": [
+                    "IRON",
+                    "PUTTER",
+                    "WEDGE",
+                    "WOOD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MEMORY ___",
+                "members": [
+                    "CARD",
+                    "FOAM",
+                    "HOLE",
+                    "LANE"
+                ]
+            }
+        ]
     }
 ]
