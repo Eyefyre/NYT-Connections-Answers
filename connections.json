@@ -44480,5 +44480,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 968,
+        "date": "2026-02-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONTENTION",
+                "members": [
+                    "CONFLICT",
+                    "DISCORD",
+                    "FRICTION",
+                    "RIVALRY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GAMES OF CHANCE",
+                "members": [
+                    "BINGO",
+                    "CRAPS",
+                    "LOTTERY",
+                    "WAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MORE OR LESS, COLLOQUIALLY",
+                "members": [
+                    "APPROX",
+                    "BOUT",
+                    "LIKE",
+                    "ROUND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH NBA TEAMS",
+                "members": [
+                    "BULLSEYE",
+                    "HEATED",
+                    "MAGICAL",
+                    "NETSCAPE"
+                ]
+            }
+        ]
     }
 ]
