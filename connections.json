@@ -44526,5 +44526,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 969,
+        "date": "2026-02-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CULTURAL SYMBOLS OF THE U.S.",
+                "members": [
+                    "AMERICAN FLAG",
+                    "APPLE PIE",
+                    "BALD EAGLE",
+                    "BASEBALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COLLIDE WITH",
+                "members": [
+                    "BUMP",
+                    "BUTT",
+                    "KNOCK",
+                    "RAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BLUE THINGS",
+                "members": [
+                    "JEANS",
+                    "LAPIS LAZULI",
+                    "OCEAN",
+                    "SKY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LEES OF HOLLYWOOD",
+                "members": [
+                    "ANG",
+                    "BRUCE",
+                    "CHRISTOPHER",
+                    "SPIKE"
+                ]
+            }
+        ]
     }
 ]
