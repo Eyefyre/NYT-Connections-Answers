@@ -44572,5 +44572,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 970,
+        "date": "2026-02-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ITEMS AT A COFFEE STATION",
+                "members": [
+                    "CUP",
+                    "LID",
+                    "STIRRER",
+                    "STRAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH STRIPES",
+                "members": [
+                    "CANDY CANE",
+                    "CROSSWALK",
+                    "REFEREE",
+                    "TIGER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"FLY\" IN INSECT NAMES",
+                "members": [
+                    "BUTTER",
+                    "DRAGON",
+                    "FIRE",
+                    "HORSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF GREETINGS",
+                "members": [
+                    "CHOW",
+                    "HAY",
+                    "HIGH",
+                    "YEOH"
+                ]
+            }
+        ]
     }
 ]
