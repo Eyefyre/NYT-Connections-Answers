@@ -44618,5 +44618,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 971,
+        "date": "2026-02-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SUPPRESS",
+                "members": [
+                    "GAG",
+                    "INHIBIT",
+                    "MUZZLE",
+                    "SILENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAME OLD STUFF",
+                "members": [
+                    "DRILL",
+                    "GRIND",
+                    "HABIT",
+                    "ROUTINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A STRONG PASSWORD",
+                "members": [
+                    "LENGTH",
+                    "NUMBER",
+                    "SYMBOL",
+                    "UPPERCASE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER \"TWO\"",
+                "members": [
+                    "BIT",
+                    "CENTS",
+                    "FACED",
+                    "TIMER"
+                ]
+            }
+        ]
     }
 ]
