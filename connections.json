@@ -44664,5 +44664,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 972,
+        "date": "2026-02-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "USED IN WEAVING",
+                "members": [
+                    "LOOM",
+                    "NEEDLE",
+                    "SCISSORS",
+                    "YARN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "METHOD",
+                "members": [
+                    "APPROACH",
+                    "MANNER",
+                    "STYLE",
+                    "WAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF PAYMENT FOR AN AUTHOR",
+                "members": [
+                    "ADVANCE",
+                    "BONUS",
+                    "FEE",
+                    "ROYALTY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DRAW ___",
+                "members": [
+                    "NEAR",
+                    "POKER",
+                    "STRAWS",
+                    "THE LINE"
+                ]
+            }
+        ]
     }
 ]
