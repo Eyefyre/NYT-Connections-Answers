@@ -44710,5 +44710,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 973,
+        "date": "2026-02-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EXHIBITION",
+                "members": [
+                    "CONVENTION",
+                    "EXPOSITION",
+                    "FAIR",
+                    "SHOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS SPELLING OUT INITIALISMS",
+                "members": [
+                    "DEEJAY",
+                    "EMCEE",
+                    "KAYO",
+                    "OKAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DVD BONUS FEATURES",
+                "members": [
+                    "COMMENTARY",
+                    "INTERVIEW",
+                    "OUTTAKES",
+                    "TRAILER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH PARTS OF A WHEEL",
+                "members": [
+                    "HUBBUB",
+                    "RIMSHOT",
+                    "SPOKESPERSON",
+                    "TIRESOME"
+                ]
+            }
+        ]
     }
 ]
