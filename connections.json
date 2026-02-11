@@ -44756,5 +44756,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 974,
+        "date": "2026-02-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ACT LOVESTRUCK",
+                "members": [
+                    "MOON",
+                    "PINE",
+                    "SWOON",
+                    "YEARN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EARNINGS",
+                "members": [
+                    "GAIN",
+                    "NET",
+                    "RETURN",
+                    "YIELD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMPACT MASS",
+                "members": [
+                    "BLOCK",
+                    "BRICK",
+                    "CAKE",
+                    "PUCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ROLLER ___",
+                "members": [
+                    "BAG",
+                    "COASTER",
+                    "DERBY",
+                    "RINK"
+                ]
+            }
+        ]
     }
 ]
