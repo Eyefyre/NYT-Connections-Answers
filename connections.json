@@ -44802,5 +44802,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 975,
+        "date": "2026-02-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONSTRUCT",
+                "members": [
+                    "FORM",
+                    "MAKE",
+                    "MOLD",
+                    "PRODUCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIXED IN PLACE",
+                "members": [
+                    "FAST",
+                    "FIRM",
+                    "FROZEN",
+                    "TIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MLB PLAYER, FOR SHORT",
+                "members": [
+                    "A",
+                    "CARD",
+                    "JAY",
+                    "YANK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ QUEEN",
+                "members": [
+                    "DAIRY",
+                    "DANCING",
+                    "DRAG",
+                    "MAY"
+                ]
+            }
+        ]
     }
 ]
