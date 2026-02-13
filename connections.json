@@ -44848,5 +44848,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 976,
+        "date": "2026-02-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DOWNRIGHT",
+                "members": [
+                    "PURE",
+                    "SHEER",
+                    "STARK",
+                    "UTTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PENNANT",
+                "members": [
+                    "BANNER",
+                    "COLORS",
+                    "FLAG",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CIGARETTE BRANDS",
+                "members": [
+                    "CAMEL",
+                    "KENT",
+                    "PARLIAMENT",
+                    "SALEM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF WAYS TO GET SMALLER",
+                "members": [
+                    "LESSON",
+                    "RESEED",
+                    "SYNC",
+                    "WAYNE"
+                ]
+            }
+        ]
     }
 ]
