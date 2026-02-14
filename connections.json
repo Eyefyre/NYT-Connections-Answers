@@ -44894,5 +44894,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 977,
+        "date": "2026-02-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UPTICK",
+                "members": [
+                    "HIKE",
+                    "JUMP",
+                    "RISE",
+                    "SPIKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PROTUBERANCE",
+                "members": [
+                    "BUMP",
+                    "HUMP",
+                    "LUMP",
+                    "MOUND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TOM HANKS ROLES",
+                "members": [
+                    "GUMP",
+                    "PHILLIPS",
+                    "SULLY",
+                    "WOODY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"MINT\"",
+                "members": [
+                    "BREATH",
+                    "JUNIOR",
+                    "PEPPER",
+                    "SPEAR"
+                ]
+            }
+        ]
     }
 ]
