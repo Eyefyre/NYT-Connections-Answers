@@ -44940,5 +44940,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 978,
+        "date": "2026-02-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "REFERENCE BOOKS",
+                "members": [
+                    "ATLAS",
+                    "DICTIONARY",
+                    "ENCYCLOPEDIA",
+                    "THESAURUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOMETHING THAT BRINGS BACK MEMORIES",
+                "members": [
+                    "ECHO",
+                    "REMINDER",
+                    "TRACE",
+                    "VESTIGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF COMPLEXES",
+                "members": [
+                    "ELECTRA",
+                    "INFERIORITY",
+                    "OEDIPUS",
+                    "SUPERIORITY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH WAYS TO REACH SOMEONE VIA PHONE",
+                "members": [
+                    "BUZZARD",
+                    "CALLIOPE",
+                    "DIALECT",
+                    "RINGMASTER"
+                ]
+            }
+        ]
     }
 ]
