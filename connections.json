@@ -44986,5 +44986,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 979,
+        "date": "2026-02-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KNEE SLAPPER",
+                "members": [
+                    "HOOT",
+                    "LAUGH",
+                    "RIOT",
+                    "SCREAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES",
+                "members": [
+                    "DO",
+                    "DOE",
+                    "DOH",
+                    "DOUGH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOUNDS A CHICKEN MAKES",
+                "members": [
+                    "BUCK",
+                    "CACKLE",
+                    "CLUCK",
+                    "SQUAWK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRESS RESPONSES",
+                "members": [
+                    "FAWN",
+                    "FIGHT",
+                    "FLIGHT",
+                    "FREEZE"
+                ]
+            }
+        ]
     }
 ]
