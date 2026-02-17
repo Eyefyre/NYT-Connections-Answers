@@ -45032,5 +45032,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 980,
+        "date": "2026-02-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ZOOM",
+                "members": [
+                    "DART",
+                    "FLASH",
+                    "SPEED",
+                    "ZIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAUCES IN CHINESE CUISINE",
+                "members": [
+                    "HOISIN",
+                    "OYSTER",
+                    "PLUM",
+                    "SOY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RIFFLE (THROUGH)",
+                "members": [
+                    "FLIP",
+                    "LEAF",
+                    "SKIM",
+                    "THUMB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"DUD\"",
+                "members": [
+                    "BOMBAY",
+                    "BUSTLE",
+                    "FLOPPY",
+                    "MISSUS"
+                ]
+            }
+        ]
     }
 ]
