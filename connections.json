@@ -45078,5 +45078,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 981,
+        "date": "2026-02-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "RETRO HAIR DIRECTIVES",
+                "members": [
+                    "CRIMP",
+                    "CURL",
+                    "FEATHER",
+                    "TEASE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RETRO SLANG FOR COOL",
+                "members": [
+                    "BAD",
+                    "FLY",
+                    "RAD",
+                    "WICKED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHICKEN DESCRIPTORS",
+                "members": [
+                    "BANTAM",
+                    "CRESTED",
+                    "FREE-RANGE",
+                    "LEGHORN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ CREAM",
+                "members": [
+                    "HEAVY",
+                    "SHAVING",
+                    "SOUR",
+                    "TOPICAL"
+                ]
+            }
+        ]
     }
 ]
