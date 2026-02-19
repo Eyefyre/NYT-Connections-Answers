@@ -45124,5 +45124,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 982,
+        "date": "2026-02-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EASTER SUPPLIES",
+                "members": [
+                    "BASKET",
+                    "DYE",
+                    "EGGS",
+                    "PEEPS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIREPLACE ACCESSORIES",
+                "members": [
+                    "BELLOWS",
+                    "POKER",
+                    "SHOVEL",
+                    "TONGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ELEMENTS OF \"SATURDAY NIGHT FEVER\"",
+                "members": [
+                    "DISCO",
+                    "JOHN TRAVOLTA",
+                    "PLATFORM SHOES",
+                    "POLYESTER SUIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF WAYS TO COOK SOMETHING",
+                "members": [
+                    "BOYLE",
+                    "BRAYS",
+                    "SEER",
+                    "STU"
+                ]
+            }
+        ]
     }
 ]
