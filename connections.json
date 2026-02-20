@@ -45170,5 +45170,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 983,
+        "date": "2026-02-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "QUICK FIX",
+                "members": [
+                    "EASY ANSWER",
+                    "MAGIC WAND",
+                    "PANACEA",
+                    "SILVER BULLET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH THE MOON",
+                "members": [
+                    "ECLIPSE",
+                    "GREEN CHEESE",
+                    "TIDE",
+                    "WEREWOLF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ORIGINAL MONOPOLY TOKENS",
+                "members": [
+                    "BOOT",
+                    "IRON",
+                    "THIMBLE",
+                    "TOP HAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"JACK\" MIGHT REFER TO",
+                "members": [
+                    "CHEESE",
+                    "DONKEY",
+                    "PLAYING CARD",
+                    "SOCKET"
+                ]
+            }
+        ]
     }
 ]
