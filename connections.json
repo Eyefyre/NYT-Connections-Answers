@@ -45216,5 +45216,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 984,
+        "date": "2026-02-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EXPERIENCE",
+                "members": [
+                    "BACKGROUND",
+                    "HISTORY",
+                    "LIFE",
+                    "PAST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ATTENDANCE STATUS",
+                "members": [
+                    "ABSENT",
+                    "EXCUSED",
+                    "LATE",
+                    "PRESENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMMENTARY ABOUT YOUR CONNECTIONS RESULTS",
+                "members": [
+                    "GREAT",
+                    "PERFECT",
+                    "PHEW",
+                    "SOLID"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CAR BRANDS PLUS TWO LETTERS",
+                "members": [
+                    "AUDITS",
+                    "DODGERS",
+                    "INFINITIVE",
+                    "MINION"
+                ]
+            }
+        ]
     }
 ]
