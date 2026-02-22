@@ -45262,5 +45262,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 985,
+        "date": "2026-02-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ONE WHO DOESN'T FIT IN",
+                "members": [
+                    "BLACK SHEEP",
+                    "MISFIT",
+                    "OUTCAST",
+                    "REJECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESCRIPTORS FOR GRAYING HAIR",
+                "members": [
+                    "DISTINGUISHED",
+                    "FLECKED",
+                    "SALT-AND-PEPPER",
+                    "SILVER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC COMIC STRIPS",
+                "members": [
+                    "BLONDIE",
+                    "BLOOM COUNTY",
+                    "PEANUTS",
+                    "THE FAR SIDE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH THEODORE ROOSEVELT",
+                "members": [
+                    "BIG STICK",
+                    "BULL MOOSE",
+                    "ROUGH RIDERS",
+                    "TEDDY BEAR"
+                ]
+            }
+        ]
     }
 ]
