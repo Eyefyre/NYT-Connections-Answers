@@ -45308,5 +45308,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 986,
+        "date": "2026-02-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EAT VORACIOUSLY",
+                "members": [
+                    "BOLT",
+                    "GORGE",
+                    "INHALE",
+                    "SCARF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONICAL THINGS",
+                "members": [
+                    "CHRISTMAS TREE",
+                    "CONE",
+                    "PARTY HAT",
+                    "VOLCANO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POSE",
+                "members": [
+                    "BLUFF",
+                    "FRONT",
+                    "MASQUERADE",
+                    "POSTURE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SETTINGS FOR A KISS",
+                "members": [
+                    "BLARNEY STONE",
+                    "MISTLETOE",
+                    "NEW YEAR'S EVE",
+                    "WEDDING"
+                ]
+            }
+        ]
     }
 ]
