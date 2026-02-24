@@ -45354,5 +45354,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 987,
+        "date": "2026-02-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CALCIUM-BASED STRUCTURES",
+                "members": [
+                    "BONES",
+                    "CORAL",
+                    "SHELLS",
+                    "TEETH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SYMBOLS OF SCOTLAND",
+                "members": [
+                    "BAGPIPES",
+                    "SCOTTIE",
+                    "TARTAN",
+                    "THISTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMOUS PLAYWRIGHTS",
+                "members": [
+                    "CHEKHOV",
+                    "COWARD",
+                    "MILLER",
+                    "SHAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ BEAM",
+                "members": [
+                    "BALANCE",
+                    "JIM",
+                    "LASER",
+                    "TRACTOR"
+                ]
+            }
+        ]
     }
 ]
