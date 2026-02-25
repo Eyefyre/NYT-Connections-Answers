@@ -45400,5 +45400,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 988,
+        "date": "2026-02-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CARE FOR",
+                "members": [
+                    "BABY",
+                    "FOSTER",
+                    "MOTHER",
+                    "NURSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ELEMENTARY",
+                "members": [
+                    "BASIC",
+                    "KEY",
+                    "PRIMARY",
+                    "PRINCIPAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JAMESES",
+                "members": [
+                    "BROWN",
+                    "COOK",
+                    "DEAN",
+                    "HARDEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN FAMILY WORDS",
+                "members": [
+                    "ALKALINE",
+                    "DECLAN",
+                    "DIATRIBE",
+                    "NAPKIN"
+                ]
+            }
+        ]
     }
 ]
