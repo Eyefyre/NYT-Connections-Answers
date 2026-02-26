@@ -45446,5 +45446,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 989,
+        "date": "2026-02-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PIVOTAL POINT",
+                "members": [
+                    "CROSSROADS",
+                    "LANDMARK",
+                    "MILESTONE",
+                    "WATERSHED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GREEN THINGS",
+                "members": [
+                    "GRASSHOPPER",
+                    "SHAMROCK",
+                    "STATUE OF LIBERTY",
+                    "WASABI"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ELEMENTS OF JOKE-TELLING",
+                "members": [
+                    "CALLBACK",
+                    "PUNCHLINE",
+                    "SETUP",
+                    "TIMING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"___ PLEASE\"",
+                "members": [
+                    "ATTENTION",
+                    "CHECK",
+                    "DRUMROLL",
+                    "PRETTY"
+                ]
+            }
+        ]
     }
 ]
