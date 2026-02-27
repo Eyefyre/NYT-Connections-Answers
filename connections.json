@@ -45492,5 +45492,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 990,
+        "date": "2026-02-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BACKSTABBER",
+                "members": [
+                    "JUDAS",
+                    "SNAKE",
+                    "TRAITOR",
+                    "TURNCOAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AURA",
+                "members": [
+                    "AIR",
+                    "IMPRESSION",
+                    "MANNER",
+                    "QUALITY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CHAIN REACTION \"EFFECTS\"",
+                "members": [
+                    "BUTTERFLY",
+                    "DOMINO",
+                    "RIPPLE",
+                    "SNOWBALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ PRESS",
+                "members": [
+                    "BENCH",
+                    "DRILL",
+                    "FRENCH",
+                    "PRINTING"
+                ]
+            }
+        ]
     }
 ]
