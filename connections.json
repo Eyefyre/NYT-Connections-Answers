@@ -45538,5 +45538,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 991,
+        "date": "2026-02-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CRAVING",
+                "members": [
+                    "DESIRE",
+                    "ITCH",
+                    "THIRST",
+                    "URGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JOBS THAT INVOLVE TRAVELING",
+                "members": [
+                    "CRUISE DIRECTOR",
+                    "PILOT",
+                    "ROADIE",
+                    "SALESMAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NAME HOMOPHONES",
+                "members": [
+                    "EARNEST",
+                    "KNEEL",
+                    "RUSTLE",
+                    "TAILOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASTRONOMICAL TERMS PLUS A LETTER",
+                "members": [
+                    "COMETH",
+                    "NOVAK",
+                    "START",
+                    "SUNG"
+                ]
+            }
+        ]
     }
 ]
