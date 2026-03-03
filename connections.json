@@ -45676,5 +45676,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 994,
+        "date": "2026-03-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"BIG\" THINGS",
+                "members": [
+                    "APPLE",
+                    "BROTHER",
+                    "DIPPER",
+                    "MAC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BE ADJACENT TO",
+                "members": [
+                    "ABUT",
+                    "FLANK",
+                    "NEIGHBOR",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SEEN IN A CLOSET",
+                "members": [
+                    "HANGER",
+                    "HOOK",
+                    "ROD",
+                    "SHELF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"SPEEDY\"",
+                "members": [
+                    "BRISKET",
+                    "FASTIDIOUS",
+                    "FLEETWOOD",
+                    "QUICKSAND"
+                ]
+            }
+        ]
     }
 ]
