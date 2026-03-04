@@ -45722,5 +45722,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 995,
+        "date": "2026-03-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PURSUE",
+                "members": [
+                    "HOUND",
+                    "SHADOW",
+                    "TAIL",
+                    "TRACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SPORTSMANLIKE",
+                "members": [
+                    "FAIR",
+                    "HONEST",
+                    "SPORTING",
+                    "SQUARE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC KID GIFTS",
+                "members": [
+                    "BIKE",
+                    "BOOK",
+                    "TOY",
+                    "VIDEO GAME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"___ GIRL\" TITLES",
+                "members": [
+                    "GONE",
+                    "GOSSIP",
+                    "NEW",
+                    "WORKING"
+                ]
+            }
+        ]
     }
 ]
