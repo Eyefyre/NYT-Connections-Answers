@@ -45768,5 +45768,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 996,
+        "date": "2026-03-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BITS OF HARDWARE",
+                "members": [
+                    "BOLT",
+                    "NUT",
+                    "SCREW",
+                    "WASHER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WHERE IDEAS ARE DEVELOPED",
+                "members": [
+                    "INCUBATOR",
+                    "LAB",
+                    "SANDBOX",
+                    "TEST BED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GO BACK AND FORTH",
+                "members": [
+                    "ALTERNATE",
+                    "SEESAW",
+                    "SWITCH",
+                    "TOGGLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"SUB\" MIGHT REFER TO",
+                "members": [
+                    "BELOW",
+                    "HERO",
+                    "REPLACEMENT",
+                    "SUBMARINE"
+                ]
+            }
+        ]
     }
 ]
