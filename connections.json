@@ -45814,5 +45814,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 997,
+        "date": "2026-03-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FREELOADER",
+                "members": [
+                    "LEECH",
+                    "MOOCH",
+                    "PARASITE",
+                    "SPONGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONCEALING COVER",
+                "members": [
+                    "BLANKET",
+                    "CLOAK",
+                    "CURTAIN",
+                    "LAYER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS ONE MIGHT REFER TO #",
+                "members": [
+                    "HASH",
+                    "NUMBER",
+                    "POUND",
+                    "SHARP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS FOR LUCIDITY, IN THE SINGULAR",
+                "members": [
+                    "FACULTY",
+                    "MARBLE",
+                    "SENSE",
+                    "WIT"
+                ]
+            }
+        ]
     }
 ]
