@@ -45860,5 +45860,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 998,
+        "date": "2026-03-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CITIES",
+                "members": [
+                    "LIMA",
+                    "NICE",
+                    "OSAKA",
+                    "PHOENIX"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PALINDROMES",
+                "members": [
+                    "EYE",
+                    "REFER",
+                    "ROTATOR",
+                    "SELES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HORROR MOVIES MINUS \"S\"",
+                "members": [
+                    "GREMLIN",
+                    "JAW",
+                    "SINNER",
+                    "TREMOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SLANG FOR ZERO",
+                "members": [
+                    "JACKET",
+                    "NADAL",
+                    "SQUATTER",
+                    "ZIPPER"
+                ]
+            }
+        ]
     }
 ]
