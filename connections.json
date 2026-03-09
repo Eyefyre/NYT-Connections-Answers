@@ -45906,5 +45906,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 999,
+        "date": "2026-03-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STARTING WITH THE SAME SOUND, SPELLED DIFFERENTLY",
+                "members": [
+                    "WAREHOUSE",
+                    "WEARABLE",
+                    "WEREWOLF",
+                    "WHEREFORE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "METAPHORS FOR PUBLIC SCRUTINY",
+                "members": [
+                    "FISHBOWL",
+                    "HOT SEAT",
+                    "MICROSCOPE",
+                    "SPOTLIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUPPETS",
+                "members": [
+                    "ANIMAL",
+                    "BEAKER",
+                    "FOZZIE",
+                    "GONZO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THEY FEATURE A BOSS",
+                "members": [
+                    "COMPANY",
+                    "E STREET BAND",
+                    "MAFIA",
+                    "VIDEO GAME"
+                ]
+            }
+        ]
     }
 ]
