@@ -45952,5 +45952,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1000,
+        "date": "2026-03-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COOK WITH DRY HEAT",
+                "members": [
+                    "BROWN",
+                    "ROAST",
+                    "SEAR",
+                    "TOAST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMILIAL NICKNAMES",
+                "members": [
+                    "CUZ",
+                    "GRAM",
+                    "POP",
+                    "UNC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "U.S. STATE ABBREVIATIONS",
+                "members": [
+                    "MASS",
+                    "MISS",
+                    "PENN",
+                    "WASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PUNCH",
+                "members": [
+                    "BOX",
+                    "DUKE",
+                    "SLUG",
+                    "SOCK"
+                ]
+            }
+        ]
     }
 ]
