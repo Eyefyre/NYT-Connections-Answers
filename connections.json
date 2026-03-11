@@ -45998,5 +45998,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1001,
+        "date": "2026-03-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STEAL",
+                "members": [
+                    "LIFT",
+                    "PALM",
+                    "PINCH",
+                    "POCKET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MAKE NICER, WITH \"UP\"",
+                "members": [
+                    "DRESS",
+                    "JAZZ",
+                    "SPIFF",
+                    "SPRUCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CONES",
+                "members": [
+                    "ICE CREAM",
+                    "PINE",
+                    "SNOW",
+                    "TRAFFIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PRONOUN HOMOPHONES",
+                "members": [
+                    "HEE",
+                    "MI",
+                    "OUI",
+                    "YEW"
+                ]
+            }
+        ]
     }
 ]
