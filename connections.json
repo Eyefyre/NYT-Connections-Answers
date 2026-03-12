@@ -46044,5 +46044,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1002,
+        "date": "2026-03-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PLACES TO FIND SAND",
+                "members": [
+                    "BUNKER",
+                    "DESERT",
+                    "HOURGLASS",
+                    "SANDBOX"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT MOVE BACK AND FORTH",
+                "members": [
+                    "METRONOME",
+                    "PENDULUM",
+                    "SWING",
+                    "WINDSHIELD WIPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "APPARATUS-BASED EXERCISE CLASSES",
+                "members": [
+                    "BARRE",
+                    "REFORMER",
+                    "SPIN",
+                    "STEP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURING BIRDS",
+                "members": [
+                    "CUCKOO CLOCK",
+                    "FROOT LOOPS",
+                    "MEXICAN FLAG",
+                    "WEATHER VANE"
+                ]
+            }
+        ]
     }
 ]
