@@ -46090,5 +46090,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1003,
+        "date": "2026-03-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"NO THANKS\"",
+                "members": [
+                    "LATER",
+                    "NAH",
+                    "NEXT TIME",
+                    "PASS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF NUMBERS",
+                "members": [
+                    "EVEN",
+                    "IRRATIONAL",
+                    "PERFECT",
+                    "PRIME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF WALLS",
+                "members": [
+                    "BERLIN",
+                    "BRICK",
+                    "FOURTH",
+                    "GREAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF NON-NUMERIC AMOUNTS",
+                "members": [
+                    "AWL",
+                    "NUN",
+                    "PHEW",
+                    "SUM"
+                ]
+            }
+        ]
     }
 ]
