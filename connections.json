@@ -46136,5 +46136,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1004,
+        "date": "2026-03-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HYPNOTIC STATE",
+                "members": [
+                    "DREAM",
+                    "HAZE",
+                    "SPELL",
+                    "TRANCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH PREFIXES MEANING \"TWO\"",
+                "members": [
+                    "BINARY",
+                    "DIOXIDE",
+                    "DUOLINGO",
+                    "TWILIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FICTIONAL INSPECTORS",
+                "members": [
+                    "CLOUSEAU",
+                    "GADGET",
+                    "JAVERT",
+                    "MORSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN FEMALE ANIMALS",
+                "members": [
+                    "HOOTENANNY",
+                    "LICHEN",
+                    "MOSCOW",
+                    "NIGHTMARE"
+                ]
+            }
+        ]
     }
 ]
