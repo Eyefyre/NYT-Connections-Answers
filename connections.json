@@ -46182,5 +46182,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1005,
+        "date": "2026-03-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GREEDILY CONTROL",
+                "members": [
+                    "BOGART",
+                    "CORNER",
+                    "HOG",
+                    "MONOPOLIZE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TOOTHED WHEELS",
+                "members": [
+                    "COG",
+                    "GEAR",
+                    "PINION",
+                    "SPROCKET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PORTMANTEAUX",
+                "members": [
+                    "BLOG",
+                    "MOTEL",
+                    "SMOG",
+                    "SPORK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BULL___",
+                "members": [
+                    "DOG",
+                    "DOZE",
+                    "FROG",
+                    "HORN"
+                ]
+            }
+        ]
     }
 ]
