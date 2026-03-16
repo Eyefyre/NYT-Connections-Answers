@@ -46228,5 +46228,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1006,
+        "date": "2026-03-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ANIMAL GROUP NAMES",
+                "members": [
+                    "GAGGLE",
+                    "PACK",
+                    "POD",
+                    "PRIDE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS ASSOCIATED WITH BEING SLOW",
+                "members": [
+                    "GLACIER",
+                    "MOLASSES",
+                    "SLOTH",
+                    "TRAFFIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT \"W\"",
+                "members": [
+                    "CARTWRIGHT",
+                    "TWO",
+                    "WRATH",
+                    "WRESTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS THAT SOUND LIKE STATE ABBREVIATIONS",
+                "members": [
+                    "ANY",
+                    "EMMY",
+                    "ENVY",
+                    "OKAY"
+                ]
+            }
+        ]
     }
 ]
