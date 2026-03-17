@@ -46274,5 +46274,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1007,
+        "date": "2026-03-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "METAPHORS FOR TROUBLE",
+                "members": [
+                    "BIND",
+                    "HOT WATER",
+                    "JAM",
+                    "PICKLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSIC THEORY CONCEPTS",
+                "members": [
+                    "KEY",
+                    "PITCH",
+                    "SCALE",
+                    "TONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH STRINGS",
+                "members": [
+                    "BALLOON",
+                    "KITE",
+                    "TEA BAG",
+                    "YO-YO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "METAPHORS FOR QUICKNESS",
+                "members": [
+                    "ARROW",
+                    "LIGHTNING",
+                    "ROCKET",
+                    "WIND"
+                ]
+            }
+        ]
     }
 ]
