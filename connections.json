@@ -46320,5 +46320,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1008,
+        "date": "2026-03-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INTERVAL",
+                "members": [
+                    "PATCH",
+                    "PERIOD",
+                    "SPELL",
+                    "STRETCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REACT TO A STUBBED TOE",
+                "members": [
+                    "CURSE",
+                    "HOP",
+                    "WINCE",
+                    "YELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GUITAR EFFECTS PEDALS",
+                "members": [
+                    "DELAY",
+                    "REVERB",
+                    "WAH",
+                    "WHAMMY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ CHECK",
+                "members": [
+                    "BLANK",
+                    "COAT",
+                    "RAIN",
+                    "REALITY"
+                ]
+            }
+        ]
     }
 ]
