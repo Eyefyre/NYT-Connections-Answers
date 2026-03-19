@@ -46366,5 +46366,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1009,
+        "date": "2026-03-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FOLK TALE CHARACTERS",
+                "members": [
+                    "CHICKEN LITTLE",
+                    "FROG PRINCE",
+                    "GINGERBREAD MAN",
+                    "GOLDILOCKS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GOOD LUCK SYMBOLS",
+                "members": [
+                    "EVIL EYE",
+                    "FOUR-LEAF CLOVER",
+                    "HORSESHOE",
+                    "RABBIT'S FOOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT CHANGE COLOR",
+                "members": [
+                    "CHAMELEON",
+                    "MOOD RING",
+                    "SUNSET",
+                    "TRAFFIC LIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN MUSIC GENRES",
+                "members": [
+                    "BABY BLUES",
+                    "PET ROCK",
+                    "SCRAP METAL",
+                    "SODA POP"
+                ]
+            }
+        ]
     }
 ]
