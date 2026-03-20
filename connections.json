@@ -46412,5 +46412,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1010,
+        "date": "2026-03-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DISTURB",
+                "members": [
+                    "ALARM",
+                    "CONCERN",
+                    "RATTLE",
+                    "SHAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS ON A MONOPOLY BOARD",
+                "members": [
+                    "BOARDWALK",
+                    "CHANCE",
+                    "LUXURY",
+                    "PARKING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIGURE IN GREEK MYTH",
+                "members": [
+                    "FATE",
+                    "FURY",
+                    "MUSE",
+                    "SIREN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EGG ___",
+                "members": [
+                    "CARTON",
+                    "NOODLE",
+                    "ROLL",
+                    "TIMER"
+                ]
+            }
+        ]
     }
 ]
