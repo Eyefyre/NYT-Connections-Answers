@@ -46458,5 +46458,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1011,
+        "date": "2026-03-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DIRECT",
+                "members": [
+                    "BLUNT",
+                    "FRANK",
+                    "PLAIN",
+                    "STRAIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TARGET",
+                "members": [
+                    "GOAL",
+                    "MARK",
+                    "OBJECT",
+                    "POINT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHECKERS TERMS",
+                "members": [
+                    "CAPTURE",
+                    "CROWN",
+                    "JUMP",
+                    "KING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "20TH CENTURY AMERICAN POETS",
+                "members": [
+                    "BISHOP",
+                    "FROST",
+                    "POUND",
+                    "RICH"
+                ]
+            }
+        ]
     }
 ]
