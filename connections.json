@@ -46550,5 +46550,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1013,
+        "date": "2026-03-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PRINCIPLED",
+                "members": [
+                    "DECENT",
+                    "HONEST",
+                    "MORAL",
+                    "STAND-UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GAME-CHANGING INVENTIONS",
+                "members": [
+                    "LIGHT BULB",
+                    "PRINTING PRESS",
+                    "SLICED BREAD",
+                    "WHEEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"VIRGIN\" THINGS",
+                "members": [
+                    "MARY",
+                    "MOCKTAIL",
+                    "OLIVE OIL",
+                    "VIRGO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN NICKNAME HOMOPHONES",
+                "members": [
+                    "BRAIN STEW",
+                    "BROCCOLI RABE",
+                    "JUNGLE GYM",
+                    "OPEN MIC"
+                ]
+            }
+        ]
     }
 ]
