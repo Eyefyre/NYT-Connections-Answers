@@ -46596,5 +46596,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1014,
+        "date": "2026-03-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DESPICABLE",
+                "members": [
+                    "BASE",
+                    "LOW",
+                    "MEAN",
+                    "VILE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A WEDDING",
+                "members": [
+                    "CAKE",
+                    "KISS",
+                    "RING",
+                    "VOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF TRUCKS",
+                "members": [
+                    "DUMP",
+                    "FIRE",
+                    "FOOD",
+                    "TOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HETERONYMS",
+                "members": [
+                    "BOW",
+                    "ROW",
+                    "SOW",
+                    "WIND"
+                ]
+            }
+        ]
     }
 ]
