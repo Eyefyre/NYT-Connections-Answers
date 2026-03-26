@@ -46688,5 +46688,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1016,
+        "date": "2026-03-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FOOD PROCUREMENT METHODS",
+                "members": [
+                    "AGRICULTURE",
+                    "FISHING",
+                    "GATHERING",
+                    "HUNTING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MEMBER OF A DETROIT SPORTS TEAM",
+                "members": [
+                    "LION",
+                    "PISTON",
+                    "RED WING",
+                    "TIGER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A CLASSIC VOTING BOOTH",
+                "members": [
+                    "BALLOT",
+                    "BOOTH",
+                    "CURTAIN",
+                    "LEVER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THEY HAVE BOLTS",
+                "members": [
+                    "FRANKENSTEIN'S MONSTER",
+                    "HARDWARE STORE",
+                    "LIGHTNING",
+                    "LOCK"
+                ]
+            }
+        ]
     }
 ]
