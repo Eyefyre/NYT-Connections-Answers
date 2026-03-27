@@ -46734,5 +46734,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1017,
+        "date": "2026-03-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "WHAT IT ALL BOILS DOWN TO",
+                "members": [
+                    "BASIC FACTS",
+                    "BOTTOM LINE",
+                    "BRASS TACKS",
+                    "NITTY-GRITTY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF AN AIRPORT TERMINAL",
+                "members": [
+                    "BAGGAGE CLAIM",
+                    "DUTY-FREE",
+                    "FOOD COURT",
+                    "TICKET COUNTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE ORANGE",
+                "members": [
+                    "GOLDFISH CRACKER",
+                    "MONARCH BUTTERFLY",
+                    "THE LORAX",
+                    "TRAFFIC CONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN WORDS FOR CELLULAR CONNECTIVITY",
+                "members": [
+                    "LIP SERVICE",
+                    "MONKEY BARS",
+                    "TURN SIGNAL",
+                    "WEDDING RECEPTION"
+                ]
+            }
+        ]
     }
 ]
