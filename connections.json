@@ -46780,5 +46780,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1018,
+        "date": "2026-03-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STEP ONTO, AS A VEHICLE",
+                "members": [
+                    "BOARD",
+                    "EMBARK",
+                    "ENTER",
+                    "MOUNT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "QUANTITIES IN MECHANICS",
+                "members": [
+                    "ACCELERATION",
+                    "FORCE",
+                    "MASS",
+                    "MOMENTUM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TEXTBOOK IMAGES",
+                "members": [
+                    "FIGURE",
+                    "ILLUSTRATION",
+                    "PICTURE",
+                    "PLATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ PLANT",
+                "members": [
+                    "FACE",
+                    "PITCHER",
+                    "POWER",
+                    "ROBERT"
+                ]
+            }
+        ]
     }
 ]
