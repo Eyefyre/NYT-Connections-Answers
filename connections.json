@@ -46826,5 +46826,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1019,
+        "date": "2026-03-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "IMAGES SEEN ON THE STREET",
+                "members": [
+                    "GRAFFITI",
+                    "MURAL",
+                    "POSTER",
+                    "STENCIL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RETRO DANCE CRAZES",
+                "members": [
+                    "HUSTLE",
+                    "MASHED POTATO",
+                    "ROBOT",
+                    "TWIST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT \"P\"",
+                "members": [
+                    "CORPS",
+                    "COUP",
+                    "PSYCHO",
+                    "RECEIPT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ MARK",
+                "members": [
+                    "BEAUTY",
+                    "CHECK",
+                    "QUESTION",
+                    "STRETCH"
+                ]
+            }
+        ]
     }
 ]
