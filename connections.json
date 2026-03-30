@@ -46872,5 +46872,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1020,
+        "date": "2026-03-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "IMITATION",
+                "members": [
+                    "DUMMY",
+                    "ERSATZ",
+                    "FAUX",
+                    "MOCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLAY AROUND (WITH)",
+                "members": [
+                    "FUTZ",
+                    "MESS",
+                    "TINKER",
+                    "TOY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CAR RENTAL COMPANIES",
+                "members": [
+                    "AVIS",
+                    "BUDGET",
+                    "DOLLAR",
+                    "HERTZ"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SNACK BRANDS PLUS STARTING LETTER",
+                "members": [
+                    "FRITZ",
+                    "PLAYS",
+                    "TRUFFLES",
+                    "YUTZ"
+                ]
+            }
+        ]
     }
 ]
