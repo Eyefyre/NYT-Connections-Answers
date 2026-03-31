@@ -46918,5 +46918,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1021,
+        "date": "2026-03-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SHORTAGE",
+                "members": [
+                    "ABSENCE",
+                    "CRUNCH",
+                    "DEFICIT",
+                    "PINCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A PIRATE SHIP",
+                "members": [
+                    "CANNON",
+                    "CROW'S NEST",
+                    "JOLLY ROGER",
+                    "PLANK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BRAS",
+                "members": [
+                    "PLUNGE",
+                    "PUSH-UP",
+                    "SPORTS",
+                    "WIRELESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BABY ANIMALS",
+                "members": [
+                    "CALF RAISE",
+                    "CHICK FLICK",
+                    "FRY COOK",
+                    "KIT KAT"
+                ]
+            }
+        ]
     }
 ]
