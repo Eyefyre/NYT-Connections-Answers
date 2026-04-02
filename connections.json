@@ -46964,5 +46964,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1022,
+        "date": "2026-04-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SUPPORT",
+                "members": [
+                    "BACK",
+                    "CHAMPION",
+                    "ENDORSE",
+                    "SECOND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OPPORTUNITY",
+                "members": [
+                    "CHANCE",
+                    "MOMENT",
+                    "OPENING",
+                    "WINDOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MALE ANIMALS",
+                "members": [
+                    "BUCK",
+                    "DRAKE",
+                    "DRONE",
+                    "STALLION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDS OF LIQUOR BRANDS",
+                "members": [
+                    "CARDI",
+                    "EATER",
+                    "MESON",
+                    "MIGOS"
+                ]
+            }
+        ]
     }
 ]
