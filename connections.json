@@ -47010,5 +47010,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1023,
+        "date": "2026-04-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CATTY",
+                "members": [
+                    "MEAN",
+                    "PETTY",
+                    "SMALL",
+                    "SNIDE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HANKER (FOR)",
+                "members": [
+                    "JONES",
+                    "LONG",
+                    "LUST",
+                    "THIRST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COCKTAIL GLASSES",
+                "members": [
+                    "COLLINS",
+                    "HURRICANE",
+                    "ROCKS",
+                    "ZOMBIE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ CONTROL",
+                "members": [
+                    "CRUISE",
+                    "DAMAGE",
+                    "GROUND",
+                    "MISSION"
+                ]
+            }
+        ]
     }
 ]
