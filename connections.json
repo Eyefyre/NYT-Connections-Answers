@@ -47056,5 +47056,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1024,
+        "date": "2026-04-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"LET SLEEPING DOGS LIE\"",
+                "members": [
+                    "DOGS",
+                    "LET",
+                    "LIE",
+                    "SLEEPING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OBSCURE",
+                "members": [
+                    "COVER",
+                    "MASK",
+                    "SCREEN",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COASTAL LANDFORMS",
+                "members": [
+                    "BLUFF",
+                    "CAPE",
+                    "POINT",
+                    "SPIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ CAMP",
+                "members": [
+                    "BAND",
+                    "BASE",
+                    "BOOT",
+                    "SUMMER"
+                ]
+            }
+        ]
     }
 ]
