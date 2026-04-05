@@ -47102,5 +47102,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1025,
+        "date": "2026-04-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ATOMIC STRUCTURE TERMS",
+                "members": [
+                    "ELECTRON",
+                    "NUCLEUS",
+                    "ORBIT",
+                    "SHELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A SHERLOCK HOLMES COSTUME",
+                "members": [
+                    "DEERSTALKER",
+                    "MAGNIFYING GLASS",
+                    "PIPE",
+                    "VIOLIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS TO FLIP",
+                "members": [
+                    "COIN",
+                    "LIGHT SWITCH",
+                    "PANCAKE",
+                    "THE BIRD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"SLUSH\"",
+                "members": [
+                    "GOOGOL",
+                    "MUSHROOM",
+                    "PASTEURIZE",
+                    "PULPIT"
+                ]
+            }
+        ]
     }
 ]
