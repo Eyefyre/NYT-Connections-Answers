@@ -47194,5 +47194,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1027,
+        "date": "2026-04-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMPETITION",
+                "members": [
+                    "BATTLE",
+                    "CLASH",
+                    "CONTEST",
+                    "MATCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ON BOARD",
+                "members": [
+                    "DOWN",
+                    "GAME",
+                    "IN",
+                    "WILLING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS FOR UNSPECIFIED CHOICES",
+                "members": [
+                    "ANOTHER",
+                    "EITHER",
+                    "NEITHER",
+                    "ONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___LIFE",
+                "members": [
+                    "AFTER",
+                    "LOW",
+                    "NIGHT",
+                    "WILD"
+                ]
+            }
+        ]
     }
 ]
