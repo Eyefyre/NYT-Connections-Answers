@@ -47240,5 +47240,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1028,
+        "date": "2026-04-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COHORT MEMBER",
+                "members": [
+                    "ASSOCIATE",
+                    "COLLEAGUE",
+                    "FELLOW",
+                    "PEER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AESTHETIC",
+                "members": [
+                    "DESIGN",
+                    "LOOK",
+                    "SCHEME",
+                    "STYLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BAR APPARATUSES",
+                "members": [
+                    "MONKEY",
+                    "PARALLEL",
+                    "PULL-UP",
+                    "UNEVEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EYEWEAR IN THE SINGULAR",
+                "members": [
+                    "CONTACT",
+                    "GOGGLE",
+                    "SHADE",
+                    "SPECTACLE"
+                ]
+            }
+        ]
     }
 ]
