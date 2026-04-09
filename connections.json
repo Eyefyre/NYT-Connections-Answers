@@ -47286,5 +47286,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1029,
+        "date": "2026-04-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GLOOMY",
+                "members": [
+                    "BLUE",
+                    "DARK",
+                    "DOWN",
+                    "LOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OINTMENT",
+                "members": [
+                    "BALM",
+                    "CREAM",
+                    "PASTE",
+                    "RUB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ZODIAC SYMBOLS",
+                "members": [
+                    "ARCHER",
+                    "FISH",
+                    "GOAT",
+                    "RAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSCULAR, MINUS \"ED\" SOUND",
+                "members": [
+                    "JACK",
+                    "RIP",
+                    "SHRED",
+                    "YOKE"
+                ]
+            }
+        ]
     }
 ]
