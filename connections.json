@@ -47332,5 +47332,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1030,
+        "date": "2026-04-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PEPPERS",
+                "members": [
+                    "BELL PEPPER",
+                    "CAROLINA REAPER",
+                    "CHIPOTLE",
+                    "PEPPERONCINO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT POP UP",
+                "members": [
+                    "EJECTOR SEAT",
+                    "JACK-IN-THE-BOX",
+                    "POP-UP BOOK",
+                    "TOASTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESCRIPTORS FOR SWISS CHEESE",
+                "members": [
+                    "FIRM",
+                    "HOLEY",
+                    "NUTTY",
+                    "SWISS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BLUE CHARACTERS",
+                "members": [
+                    "BLUE",
+                    "GENIE",
+                    "GONZO",
+                    "SONIC"
+                ]
+            }
+        ]
     }
 ]
