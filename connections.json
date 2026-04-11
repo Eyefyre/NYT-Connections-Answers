@@ -47378,5 +47378,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1031,
+        "date": "2026-04-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FOUND IN THE TRUNK OF A CAR",
+                "members": [
+                    "ICE SCRAPER",
+                    "JACK",
+                    "JUMPER CABLES",
+                    "SPARE TIRE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BENEFACTOR",
+                "members": [
+                    "ANGEL",
+                    "CHAMPION",
+                    "PATRON",
+                    "SPONSOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRUCTURAL SUPPORTS",
+                "members": [
+                    "BEAM",
+                    "BRACE",
+                    "COLUMN",
+                    "STRUT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN BODIES OF WATER",
+                "members": [
+                    "BOMBAY",
+                    "CHELSEA",
+                    "SCREWDRIVER",
+                    "SNOWFLAKE"
+                ]
+            }
+        ]
     }
 ]
