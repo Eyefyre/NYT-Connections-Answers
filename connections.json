@@ -47424,5 +47424,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1032,
+        "date": "2026-04-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PANTS FEATURES",
+                "members": [
+                    "BELT LOOP",
+                    "CUFF",
+                    "FLY",
+                    "POCKET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PERSPECTIVE",
+                "members": [
+                    "ANGLE",
+                    "POSITION",
+                    "STANCE",
+                    "TAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EMIT",
+                "members": [
+                    "CAST",
+                    "PROJECT",
+                    "RADIATE",
+                    "SHED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ DOLL",
+                "members": [
+                    "PAPER",
+                    "RAG",
+                    "RUSSIAN",
+                    "TROLL"
+                ]
+            }
+        ]
     }
 ]
