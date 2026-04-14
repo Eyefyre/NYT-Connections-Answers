@@ -47516,5 +47516,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1034,
+        "date": "2026-04-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS STORED BY A BROWSER",
+                "members": [
+                    "BOOKMARK",
+                    "CACHE",
+                    "COOKIE",
+                    "HISTORY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BOXING TERMS",
+                "members": [
+                    "BELL",
+                    "GLOVES",
+                    "RING",
+                    "ROUND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TILT",
+                "members": [
+                    "LEAN",
+                    "LIST",
+                    "PITCH",
+                    "TIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FREE___",
+                "members": [
+                    "LANCE",
+                    "MASON",
+                    "STYLE",
+                    "WAY"
+                ]
+            }
+        ]
     }
 ]
