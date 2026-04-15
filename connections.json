@@ -47562,5 +47562,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1035,
+        "date": "2026-04-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GRADUATION GEAR",
+                "members": [
+                    "CAP",
+                    "DIPLOMA",
+                    "GOWN",
+                    "TASSEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TEDIOUS UNDERTAKING",
+                "members": [
+                    "CHORE",
+                    "GRIND",
+                    "HASSLE",
+                    "TRIAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OVERSIMPLISTIC",
+                "members": [
+                    "FACILE",
+                    "FLIP",
+                    "SHALLOW",
+                    "TRITE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHAPES OF CHESS PIECES",
+                "members": [
+                    "CASTLE",
+                    "CROWN",
+                    "HORSE",
+                    "MITER"
+                ]
+            }
+        ]
     }
 ]
