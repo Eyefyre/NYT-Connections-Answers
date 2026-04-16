@@ -47608,5 +47608,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1036,
+        "date": "2026-04-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TEASE",
+                "members": [
+                    "NEEDLE",
+                    "RIB",
+                    "RIDE",
+                    "ROAST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THERMOSTAT SETTINGS",
+                "members": [
+                    "AUTO",
+                    "COOL",
+                    "FAN",
+                    "HEAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A CATWOMAN COSTUME",
+                "members": [
+                    "BODYSUIT",
+                    "CLAWS",
+                    "MASK",
+                    "WHIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TRAINING ___",
+                "members": [
+                    "BRA",
+                    "CAMP",
+                    "DAY",
+                    "WHEELS"
+                ]
+            }
+        ]
     }
 ]
