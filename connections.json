@@ -47654,5 +47654,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1037,
+        "date": "2026-04-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "VEGETABLE PARTS",
+                "members": [
+                    "BULB",
+                    "LEAF",
+                    "ROOT",
+                    "STEM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PREVAILING",
+                "members": [
+                    "COMMON",
+                    "DOMINANT",
+                    "GENERAL",
+                    "POPULAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A PIANO",
+                "members": [
+                    "HAMMER",
+                    "KEY",
+                    "PEDAL",
+                    "STRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SECOND HALVES OF DRINK NAMES",
+                "members": [
+                    "SODA",
+                    "STORMY",
+                    "TAN",
+                    "TONIC"
+                ]
+            }
+        ]
     }
 ]
