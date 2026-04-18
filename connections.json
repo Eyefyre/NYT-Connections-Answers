@@ -47700,5 +47700,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1038,
+        "date": "2026-04-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LOOK AT WITH AWE",
+                "members": [
+                    "GOGGLE",
+                    "MARVEL",
+                    "STARE",
+                    "WONDER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BASIC ELECTRICITY TERMS",
+                "members": [
+                    "AC",
+                    "DC",
+                    "POWER",
+                    "VOLTAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNEXPECTED WINNER",
+                "members": [
+                    "DARK HORSE",
+                    "LONG SHOT",
+                    "SLEEPER",
+                    "UNDERDOG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SODA BRANDS",
+                "members": [
+                    "CRUSHWORTHY",
+                    "FANTAGRAPHICS",
+                    "FRESCADE",
+                    "PEPSINOGEN"
+                ]
+            }
+        ]
     }
 ]
