@@ -47746,5 +47746,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1039,
+        "date": "2026-04-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CHEEKY",
+                "members": [
+                    "ARCH",
+                    "FRESH",
+                    "SASSY",
+                    "WISE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DRESS MEASUREMENTS",
+                "members": [
+                    "BUST",
+                    "HIPS",
+                    "LENGTH",
+                    "WAIST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CARDS IN TEXAS HOLD 'EM",
+                "members": [
+                    "FLOP",
+                    "HOLE",
+                    "RIVER",
+                    "TURN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LAST WORDS OF CANDY BRANDS IN THE SINGULAR",
+                "members": [
+                    "CAP",
+                    "DUD",
+                    "KID",
+                    "MINT"
+                ]
+            }
+        ]
     }
 ]
