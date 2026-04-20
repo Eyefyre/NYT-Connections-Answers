@@ -47792,5 +47792,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1040,
+        "date": "2026-04-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MASS OF SMOKE",
+                "members": [
+                    "BILLOW",
+                    "CLOUD",
+                    "PLUME",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FISHING GEAR",
+                "members": [
+                    "BAIT",
+                    "HOOK",
+                    "NET",
+                    "ROD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH BLACK WIDOW SPIDERS",
+                "members": [
+                    "CANNIBALISM",
+                    "HOURGLASS",
+                    "VENOM",
+                    "WEB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ MONDAY",
+                "members": [
+                    "BLUE",
+                    "CYBER",
+                    "MANIC",
+                    "MEATLESS"
+                ]
+            }
+        ]
     }
 ]
