@@ -47838,5 +47838,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1041,
+        "date": "2026-04-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "AMBLE (IN)",
+                "members": [
+                    "BREEZE",
+                    "MOSEY",
+                    "STROLL",
+                    "WALTZ"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BALDERDASH",
+                "members": [
+                    "BALONEY",
+                    "BILGE",
+                    "BULL",
+                    "BUNK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BAGS",
+                "members": [
+                    "CROSSBODY",
+                    "HOBO",
+                    "MESSENGER",
+                    "SADDLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF ONE-WORD JAMES BOND MOVIE TITLES",
+                "members": [
+                    "GOLD",
+                    "MOON",
+                    "OCTOPUS",
+                    "THUNDER"
+                ]
+            }
+        ]
     }
 ]
