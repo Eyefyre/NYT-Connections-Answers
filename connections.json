@@ -47930,5 +47930,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1043,
+        "date": "2026-04-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BORDER",
+                "members": [
+                    "FLANK",
+                    "NEIGHBOR",
+                    "SKIRT",
+                    "TOUCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF FICTION",
+                "members": [
+                    "HISTORICAL",
+                    "LITERARY",
+                    "PULP",
+                    "SCIENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS IN A PLANETARY MNEMONIC",
+                "members": [
+                    "EDUCATED",
+                    "MOTHER",
+                    "MY",
+                    "VERY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH FOUR-LETTER '80S BANDS",
+                "members": [
+                    "ASIAGO",
+                    "DEVOTE",
+                    "TOTORO",
+                    "WHAMMY"
+                ]
+            }
+        ]
     }
 ]
