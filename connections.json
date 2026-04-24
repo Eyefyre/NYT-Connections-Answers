@@ -47976,5 +47976,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1044,
+        "date": "2026-04-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PIZZA INGREDIENTS",
+                "members": [
+                    "CHEESE",
+                    "DOUGH",
+                    "PEPPERONI",
+                    "TOMATO SAUCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH OCTOPUSES",
+                "members": [
+                    "ARMS",
+                    "INK",
+                    "INTELLIGENCE",
+                    "SUCTION CUPS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THEY HAVE BLADES",
+                "members": [
+                    "GRASS",
+                    "HELICOPTER",
+                    "ICE SKATES",
+                    "LAWN MOWER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"CAB\" MIGHT REFER TO",
+                "members": [
+                    "CABIN",
+                    "CALLOWAY",
+                    "RED WINE",
+                    "TAXI"
+                ]
+            }
+        ]
     }
 ]
