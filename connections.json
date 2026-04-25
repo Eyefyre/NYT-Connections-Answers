@@ -48022,5 +48022,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1045,
+        "date": "2026-04-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BODY COVERINGS",
+                "members": [
+                    "ENAMEL",
+                    "HAIR",
+                    "NAIL",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MASSES, IN IDIOMS",
+                "members": [
+                    "CROWD",
+                    "HAYSTACK",
+                    "MILLION",
+                    "OCEAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OLD TIMEY SLANG FOR LAW ENFORCEMENT",
+                "members": [
+                    "COPPER",
+                    "DICK",
+                    "FLATFOOT",
+                    "GUMSHOE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"THROW\"",
+                "members": [
+                    "CAST IRON",
+                    "CHUCK E. CHEESE",
+                    "HURLY-BURLY",
+                    "PITCHFORK"
+                ]
+            }
+        ]
     }
 ]
