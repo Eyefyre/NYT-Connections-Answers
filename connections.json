@@ -48068,5 +48068,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1046,
+        "date": "2026-04-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STIPULATION",
+                "members": [
+                    "CATCH",
+                    "CAVEAT",
+                    "FINE PRINT",
+                    "STRINGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VOCAL CHARACTERISTICS",
+                "members": [
+                    "PITCH",
+                    "RANGE",
+                    "REGISTER",
+                    "TONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHARACTERS IN \"DICK AND JANE\"",
+                "members": [
+                    "DICK",
+                    "JANE",
+                    "MOTHER",
+                    "SPOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH FACES",
+                "members": [
+                    "BUILDING",
+                    "CLIFF",
+                    "CLOCK",
+                    "POLYHEDRON"
+                ]
+            }
+        ]
     }
 ]
