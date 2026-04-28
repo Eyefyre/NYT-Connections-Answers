@@ -48160,5 +48160,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1048,
+        "date": "2026-04-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ENTREATY",
+                "members": [
+                    "APPEAL",
+                    "BID",
+                    "CALL",
+                    "REQUEST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LAUNDRY DAY VERBS",
+                "members": [
+                    "DRY",
+                    "FOLD",
+                    "SORT",
+                    "WASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT COME IN \"BOOKS\"",
+                "members": [
+                    "CHECK",
+                    "COUPON",
+                    "MATCH",
+                    "STAMP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUN___",
+                "members": [
+                    "DIAL",
+                    "FLOWER",
+                    "SCREEN",
+                    "TAN"
+                ]
+            }
+        ]
     }
 ]
