@@ -48206,5 +48206,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1049,
+        "date": "2026-04-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STEP IN A PROCESS",
+                "members": [
+                    "LEVEL",
+                    "PHASE",
+                    "ROUND",
+                    "STAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOUND LIKE THUNDER",
+                "members": [
+                    "BOOM",
+                    "CLAP",
+                    "ROLL",
+                    "RUMBLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF PUPPETS",
+                "members": [
+                    "HAND",
+                    "SHADOW",
+                    "SOCK",
+                    "STRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STANDING ___",
+                "members": [
+                    "JOKE",
+                    "ORDERS",
+                    "OVATION",
+                    "ROOM"
+                ]
+            }
+        ]
     }
 ]
