@@ -48252,5 +48252,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1050,
+        "date": "2026-04-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UNNERVE",
+                "members": [
+                    "ALARM",
+                    "DISTURB",
+                    "SHAKE",
+                    "SHOCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "REMOVE, AS AN ITEM FROM A LIST, WITH \"OFF\"",
+                "members": [
+                    "CHECK",
+                    "CROSS",
+                    "MARK",
+                    "TICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"T\" MIGHT STAND FOR",
+                "members": [
+                    "TESLA",
+                    "TIME",
+                    "TRUE",
+                    "TYRANNOSAURUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF POSSESSIVE ADJECTIVES",
+                "members": [
+                    "HOUR",
+                    "HUR",
+                    "THERE",
+                    "YORE"
+                ]
+            }
+        ]
     }
 ]
