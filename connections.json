@@ -48298,5 +48298,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1051,
+        "date": "2026-05-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MAKE GLOSSY",
+                "members": [
+                    "BUFF",
+                    "POLISH",
+                    "SHINE",
+                    "WAX"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TRANSLUSCENT GOLDEN THINGS",
+                "members": [
+                    "ALE",
+                    "AMBER",
+                    "CITRINE",
+                    "HONEY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A BIRD'S HEAD",
+                "members": [
+                    "BEAK",
+                    "COMB",
+                    "CREST",
+                    "WATTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NUMBERS WITH FIRST LETTER CHANGED",
+                "members": [
+                    "HIVE",
+                    "MIX",
+                    "POUR",
+                    "WIGHT"
+                ]
+            }
+        ]
     }
 ]
