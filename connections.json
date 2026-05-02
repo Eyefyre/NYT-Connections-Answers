@@ -48344,5 +48344,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1052,
+        "date": "2026-05-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CLAIRVOYANT",
+                "members": [
+                    "EXTRASENSORY",
+                    "MENTAL",
+                    "PSYCHIC",
+                    "TELEPATHIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STAGED PERFORMANCES",
+                "members": [
+                    "BALLET",
+                    "MUSICAL",
+                    "OPERA",
+                    "PLAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "U.S. CABINET DEPARTMENTS",
+                "members": [
+                    "EDUCATION",
+                    "INTERIOR",
+                    "STATE",
+                    "TREASURY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH NEWSPAPER NAMES",
+                "members": [
+                    "GLOBETROTTER",
+                    "HERALDRY",
+                    "POST-IT",
+                    "TIMES TABLES"
+                ]
+            }
+        ]
     }
 ]
