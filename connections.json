@@ -48390,5 +48390,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1053,
+        "date": "2026-05-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HOME STRUCTURES",
+                "members": [
+                    "GARAGE",
+                    "HOUSE",
+                    "PORCH",
+                    "SHED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH 1960S COUNTERCULTURE",
+                "members": [
+                    "ACID",
+                    "COMMUNE",
+                    "FREE LOVE",
+                    "HIPPIE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMOUS REVOLUTIONS IN HISTORY",
+                "members": [
+                    "FRENCH",
+                    "GREEN",
+                    "INDUSTRIAL",
+                    "SEXUAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GESTURES MADE WITH THE INDEX AND MIDDLE FINGERS",
+                "members": [
+                    "AIR QUOTES",
+                    "BUNNY EARS",
+                    "FINGERS CROSSED",
+                    "PEACE"
+                ]
+            }
+        ]
     }
 ]
