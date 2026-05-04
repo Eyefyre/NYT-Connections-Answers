@@ -48436,5 +48436,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1054,
+        "date": "2026-05-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TENDER-HEARTED PERSON",
+                "members": [
+                    "MARSHMALLOW",
+                    "SOFTIE",
+                    "SWEETHEART",
+                    "TEDDY BEAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PELLET-FILLED THINGS",
+                "members": [
+                    "BEANIE BABY",
+                    "DESICCANT PACKET",
+                    "EYE PILLOW",
+                    "HACKY SACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH KNOBS",
+                "members": [
+                    "CONTROL PANEL",
+                    "ETCH A SKETCH",
+                    "RADIO",
+                    "STOVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH FAMILIAR NAMES FOR KINDS OF DOGS",
+                "members": [
+                    "CHOWDER",
+                    "DOODLEBUG",
+                    "LABUBU",
+                    "PITTER-PATTER"
+                ]
+            }
+        ]
     }
 ]
