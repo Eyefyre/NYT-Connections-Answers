@@ -48482,5 +48482,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1055,
+        "date": "2026-05-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GLIMMER",
+                "members": [
+                    "FLICKER",
+                    "HINT",
+                    "SUGGESTION",
+                    "WHIFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INVOLUNTARY ACTIONS",
+                "members": [
+                    "BLINK",
+                    "HICCUP",
+                    "SHIVER",
+                    "SNEEZE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF KNOTS",
+                "members": [
+                    "BEND",
+                    "BOWLINE",
+                    "HITCH",
+                    "SHEEPSHANK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH UNITS IN COMPETITIONS",
+                "members": [
+                    "GAMELAN",
+                    "MATCHSTICK",
+                    "POINTER",
+                    "SETBACK"
+                ]
+            }
+        ]
     }
 ]
