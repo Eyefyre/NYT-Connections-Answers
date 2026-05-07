@@ -48528,5 +48528,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1056,
+        "date": "2026-05-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FISHING GEAR",
+                "members": [
+                    "FLY",
+                    "HOOK",
+                    "LINE",
+                    "NET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MULTITUDE",
+                "members": [
+                    "DROVE",
+                    "HOST",
+                    "MASS",
+                    "PACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMMIT A BASKETBALL INFRACTION",
+                "members": [
+                    "CARRY",
+                    "DOUBLE-DRIBBLE",
+                    "GOALTEND",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONTROLLED WITH UP/DOWN BUTTONS",
+                "members": [
+                    "CAR WINDOW",
+                    "CHANNEL",
+                    "ELEVATOR",
+                    "VOLUME"
+                ]
+            }
+        ]
     }
 ]
