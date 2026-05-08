@@ -48574,5 +48574,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1057,
+        "date": "2026-05-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CANOODLING",
+                "members": [
+                    "FIRST BASE",
+                    "MAKING OUT",
+                    "NECKING",
+                    "TONSIL HOCKEY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIVE-SIDED THINGS",
+                "members": [
+                    "HOME PLATE",
+                    "JEANS BACK POCKET",
+                    "SCHOOL CROSSING SIGN",
+                    "THE PENTAGON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNEXPECTED PLACES TO BE \"OUT OF\"",
+                "members": [
+                    "LEFT FIELD",
+                    "NOWHERE",
+                    "THE BLUE",
+                    "THIN AIR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN CANDY BRANDS MINUS \"S\"",
+                "members": [
+                    "BURGER KING WHOPPER",
+                    "FILM NERD",
+                    "MEMENTO",
+                    "PITCHER'S MOUND"
+                ]
+            }
+        ]
     }
 ]
