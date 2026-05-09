@@ -48620,5 +48620,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1058,
+        "date": "2026-05-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UNITS OF TV PROGRAMS",
+                "members": [
+                    "EPISODE",
+                    "FRANCHISE",
+                    "SEASON",
+                    "SERIES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WORN AROUND THE NECK",
+                "members": [
+                    "BOA",
+                    "CHAIN",
+                    "LANYARD",
+                    "TIE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRINGS TIED IN KNOTS",
+                "members": [
+                    "FRIENDSHIP BRACELET",
+                    "MACRAM\u00c9",
+                    "QUIPU",
+                    "SHOELACES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ PIECE",
+                "members": [
+                    "CONVERSATION",
+                    "PERIOD",
+                    "PUFF",
+                    "THINK"
+                ]
+            }
+        ]
     }
 ]
