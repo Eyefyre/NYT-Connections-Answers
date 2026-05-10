@@ -48666,5 +48666,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1059,
+        "date": "2026-05-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MUSIC PLAYER BUTTONS",
+                "members": [
+                    "PLAY",
+                    "REPEAT",
+                    "SHUFFLE",
+                    "SKIP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESTINED",
+                "members": [
+                    "BOUND",
+                    "CERTAIN",
+                    "FATED",
+                    "SURE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VERBS IN MAKING A MOJITO",
+                "members": [
+                    "GARNISH",
+                    "MUDDLE",
+                    "POUR",
+                    "STIR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"SPRING\" MIGHT REFER TO",
+                "members": [
+                    "COIL",
+                    "FOUNTAIN",
+                    "LEAP",
+                    "SEASON"
+                ]
+            }
+        ]
     }
 ]
