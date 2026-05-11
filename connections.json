@@ -48712,5 +48712,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1060,
+        "date": "2026-05-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MOVE STEALTHILY, WITH \"IN\"",
+                "members": [
+                    "CREEP",
+                    "SLIP",
+                    "SNEAK",
+                    "STEAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF SCHEMES",
+                "members": [
+                    "COLOR",
+                    "PONZI",
+                    "PYRAMID",
+                    "RHYME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DETECTIVE MOVIES",
+                "members": [
+                    "CHINATOWN",
+                    "KNIVES OUT",
+                    "SEVEN",
+                    "VERTIGO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BODY PARTS SURROUNDED BY TWO LETTERS",
+                "members": [
+                    "ELEGY",
+                    "KARMA",
+                    "KEYED",
+                    "SHANDY"
+                ]
+            }
+        ]
     }
 ]
