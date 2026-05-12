@@ -48758,5 +48758,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1061,
+        "date": "2026-05-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SUBSTANTIAL BOOK",
+                "members": [
+                    "OPUS",
+                    "TOME",
+                    "VOLUME",
+                    "WORK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"SAINT\" CITIES",
+                "members": [
+                    "MONICA",
+                    "PAULO",
+                    "PETERSBURG",
+                    "SALVADOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"LONG\" THINGS",
+                "members": [
+                    "DISTANCE",
+                    "DIVISION",
+                    "JOHNS",
+                    "WEEKEND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CURRENCIES PLUS A LETTER",
+                "members": [
+                    "FRANCI",
+                    "RANDO",
+                    "REALM",
+                    "WONK"
+                ]
+            }
+        ]
     }
 ]
