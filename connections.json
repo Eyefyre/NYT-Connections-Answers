@@ -48804,5 +48804,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1062,
+        "date": "2026-05-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LONG SANDWICH",
+                "members": [
+                    "GRINDER",
+                    "HERO",
+                    "HOAGIE",
+                    "SUB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PRETEXT",
+                "members": [
+                    "ARGUMENT",
+                    "BASIS",
+                    "CAUSE",
+                    "GROUNDS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SMARTPHONE PHOTO EDITING OPTIONS",
+                "members": [
+                    "ADJUST",
+                    "CROP",
+                    "FILTERS",
+                    "MARKUP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JELLY ___",
+                "members": [
+                    "BEAN",
+                    "BELLY",
+                    "DONUT",
+                    "ROLL"
+                ]
+            }
+        ]
     }
 ]
