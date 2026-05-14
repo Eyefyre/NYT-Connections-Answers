@@ -48850,5 +48850,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1063,
+        "date": "2026-05-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PREMONITION",
+                "members": [
+                    "GUT FEELING",
+                    "HUNCH",
+                    "INTUITION",
+                    "SIXTH SENSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CELLPHONE MODES",
+                "members": [
+                    "DO NOT DISTURB",
+                    "RING",
+                    "SILENT",
+                    "VIBRATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BAD THINGS TO DO IN MODERN DATING",
+                "members": [
+                    "BREADCRUMB",
+                    "CATFISH",
+                    "GHOST",
+                    "LOVE BOMB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PHRASES WHOSE SECOND WORDS INCLUDE THEIR FIRST WORD",
+                "members": [
+                    "AIR CAIRO",
+                    "ALL HALLOWS",
+                    "ARM WARMER",
+                    "THE OTHERS"
+                ]
+            }
+        ]
     }
 ]
