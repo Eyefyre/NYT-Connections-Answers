@@ -48896,5 +48896,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1064,
+        "date": "2026-05-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "NAVIGATE THROUGH, AS A RIVER",
+                "members": [
+                    "CROSS",
+                    "FORD",
+                    "TRAVERSE",
+                    "WADE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MULTI-TIME NBA MVPS",
+                "members": [
+                    "BIRD",
+                    "CURRY",
+                    "JAMES",
+                    "JORDAN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NON-PALINDROMIC WORDS IN A FAMOUS PALINDROME",
+                "members": [
+                    "ABLE",
+                    "ELBA",
+                    "SAW",
+                    "WAS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF KINDS OF DOGS, FAMILIARLY",
+                "members": [
+                    "CIAO",
+                    "PALM",
+                    "PEEK",
+                    "PITT"
+                ]
+            }
+        ]
     }
 ]
