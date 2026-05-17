@@ -48988,5 +48988,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1066,
+        "date": "2026-05-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONDUIT",
+                "members": [
+                    "DUCT",
+                    "LINE",
+                    "MAIN",
+                    "PIPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SWINDLE",
+                "members": [
+                    "FLEECE",
+                    "HOSE",
+                    "SQUEEZE",
+                    "STIFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TEA-MAKING VERBS",
+                "members": [
+                    "BOIL",
+                    "POUR",
+                    "STEEP",
+                    "STRAIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"SCHOOL\" MODIFIERS",
+                "members": [
+                    "GRADE",
+                    "GRAMMAR",
+                    "HIGH",
+                    "PRIMARY"
+                ]
+            }
+        ]
     }
 ]
