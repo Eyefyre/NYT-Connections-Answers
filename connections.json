@@ -49080,5 +49080,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1068,
+        "date": "2026-05-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS BABIES DO",
+                "members": [
+                    "BABBLE",
+                    "CRY",
+                    "NURSE",
+                    "TEETHE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MODIFY DECEPTIVELY",
+                "members": [
+                    "ALTER",
+                    "COOK",
+                    "DOCTOR",
+                    "FUDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JUDY BLUME BOOKS",
+                "members": [
+                    "BLUBBER",
+                    "DEENIE",
+                    "FOREVER",
+                    "SUPERFUDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FISH MINUS A LETTER",
+                "members": [
+                    "FOUNDER",
+                    "SALON",
+                    "SURGEON",
+                    "TROT"
+                ]
+            }
+        ]
     }
 ]
