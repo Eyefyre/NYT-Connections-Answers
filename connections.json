@@ -49126,5 +49126,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1069,
+        "date": "2026-05-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STOVE KNOB SETTINGS",
+                "members": [
+                    "HIGH",
+                    "MEDIUM",
+                    "OFF",
+                    "SIMMER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POTENCY",
+                "members": [
+                    "CONCENTRATION",
+                    "FORCE",
+                    "INTENSITY",
+                    "MIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSIC THEORY CONCEPTS",
+                "members": [
+                    "INTERVAL",
+                    "KEY",
+                    "MODE",
+                    "SCALE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"___ DAY\" MOVIES",
+                "members": [
+                    "GROUNDHOG",
+                    "INDEPENDENCE",
+                    "THE LONGEST",
+                    "TRAINING"
+                ]
+            }
+        ]
     }
 ]
