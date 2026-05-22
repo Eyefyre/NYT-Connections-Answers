@@ -49218,5 +49218,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1071,
+        "date": "2026-05-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "REACH BACK OUT",
+                "members": [
+                    "CHECK IN",
+                    "FOLLOW UP",
+                    "RECONNECT",
+                    "TOUCH BASE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THE WAY THINGS ARE DONE",
+                "members": [
+                    "CONVENTION",
+                    "CUSTOM",
+                    "SOCIAL NORM",
+                    "UNWRITTEN RULE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WITH CONVEYOR BELTS",
+                "members": [
+                    "ASSEMBLY LINE",
+                    "BAGGAGE CLAIM",
+                    "CHECKOUT LANE",
+                    "REVOLVING SUSHI BAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH NAME HOMOPHONES",
+                "members": [
+                    "CARRY-ON",
+                    "EL NI\u00d1O",
+                    "LOOSEY-GOOSEY",
+                    "TAILOR-MADE"
+                ]
+            }
+        ]
     }
 ]
