@@ -49264,5 +49264,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1072,
+        "date": "2026-05-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HAIRDOS",
+                "members": [
+                    "BEEHIVE",
+                    "BOUFFANT",
+                    "CHIGNON",
+                    "POMPADOUR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MORE READILY",
+                "members": [
+                    "FIRST",
+                    "PREFERABLY",
+                    "RATHER",
+                    "SOONER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MARVEL CHARACTERS",
+                "members": [
+                    "DAREDEVIL",
+                    "HAWKEYE",
+                    "NIGHTCRAWLER",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER \"THE\" IN \"STAR WARS\" MOVIE TITLES",
+                "members": [
+                    "EMPIRE",
+                    "FORCE",
+                    "LAST",
+                    "PHANTOM"
+                ]
+            }
+        ]
     }
 ]
