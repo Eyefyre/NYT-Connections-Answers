@@ -49310,5 +49310,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1073,
+        "date": "2026-05-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FARM FIXTURES",
+                "members": [
+                    "COOP",
+                    "PEN",
+                    "SHED",
+                    "STABLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LABOR PROTEST ACTIONS",
+                "members": [
+                    "MARCH",
+                    "PICKET",
+                    "RALLY",
+                    "STRIKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OBJECTS USED IN RITUAL PERFORMANCES",
+                "members": [
+                    "DRUM",
+                    "MASK",
+                    "RATTLE",
+                    "STAFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POSSESSIVE ADJECTIVES PLUS A LETTER",
+                "members": [
+                    "HERB",
+                    "HISS",
+                    "ITSY",
+                    "MYA"
+                ]
+            }
+        ]
     }
 ]
