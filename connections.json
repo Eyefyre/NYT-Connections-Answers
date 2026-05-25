@@ -49356,5 +49356,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1074,
+        "date": "2026-05-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMMON PROMO ITEMS",
+                "members": [
+                    "CAP",
+                    "PIN",
+                    "SHIRT",
+                    "STICKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TINY BIT",
+                "members": [
+                    "JOT",
+                    "SCRAP",
+                    "SHRED",
+                    "WHIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TEXTING ABBREVIATIONS",
+                "members": [
+                    "ATM",
+                    "CYA",
+                    "LOL",
+                    "TIA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EYE___",
+                "members": [
+                    "BALL",
+                    "BROW",
+                    "LASH",
+                    "LID"
+                ]
+            }
+        ]
     }
 ]
