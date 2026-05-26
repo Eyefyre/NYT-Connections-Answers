@@ -49402,5 +49402,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1075,
+        "date": "2026-05-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CHAMPIONSHIP AWARDS",
+                "members": [
+                    "CUP",
+                    "MEDAL",
+                    "PENNANT",
+                    "RING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MATTER AT HAND",
+                "members": [
+                    "CONCERN",
+                    "FOCUS",
+                    "POINT",
+                    "SUBJECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "'80S COMEDIES",
+                "members": [
+                    "AIRPLANE",
+                    "BIG",
+                    "CLUE",
+                    "TWINS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "ENLIST",
+                    "LISTEN",
+                    "SILENT",
+                    "TINSEL"
+                ]
+            }
+        ]
     }
 ]
