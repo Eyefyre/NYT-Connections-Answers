@@ -49448,5 +49448,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1076,
+        "date": "2026-05-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SMALL COMMUNITY",
+                "members": [
+                    "COMMUNE",
+                    "HAMLET",
+                    "TOWNSHIP",
+                    "VILLAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC BOARD GAMES",
+                "members": [
+                    "BATTLESHIP",
+                    "OPERATION",
+                    "OTHELLO",
+                    "TROUBLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF WAYS OF LOOKING",
+                "members": [
+                    "AYE",
+                    "LEAR",
+                    "PIER",
+                    "STAIR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN THE \"LITTLE WOMEN\" MARCH SISTERS",
+                "members": [
+                    "BANJO",
+                    "MACBETH",
+                    "MONOGAMY",
+                    "NUTMEG"
+                ]
+            }
+        ]
     }
 ]
