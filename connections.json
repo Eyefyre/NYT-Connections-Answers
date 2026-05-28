@@ -49494,5 +49494,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1077,
+        "date": "2026-05-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GET LOW",
+                "members": [
+                    "DUCK",
+                    "HUNCH",
+                    "SQUAT",
+                    "STOOP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FOURTH ESTATE",
+                "members": [
+                    "MEDIA",
+                    "NEWS",
+                    "PAPERS",
+                    "PRESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A COURTROOM",
+                "members": [
+                    "BAR",
+                    "BENCH",
+                    "PODIUM",
+                    "STAND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SKI ___",
+                "members": [
+                    "JUMP",
+                    "LIFT",
+                    "LODGE",
+                    "SLOPE"
+                ]
+            }
+        ]
     }
 ]
