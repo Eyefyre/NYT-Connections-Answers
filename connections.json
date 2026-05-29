@@ -49540,5 +49540,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1078,
+        "date": "2026-05-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "OCEANS",
+                "members": [
+                    "ARCTIC",
+                    "ATLANTIC",
+                    "PACIFIC",
+                    "SOUTHERN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SOURCES OF DISTINCTIVE SMELLS",
+                "members": [
+                    "AMMONIA",
+                    "BO",
+                    "DURIAN",
+                    "WET DOG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF ROOMS IN A MANSION",
+                "members": [
+                    "BILLIARD",
+                    "DRAWING",
+                    "POWDER",
+                    "READING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"PA\" MIGHT REFER TO",
+                "members": [
+                    "FATHER",
+                    "PENNSYLVANIA",
+                    "PROTACTINIUM",
+                    "PUBLIC ADDRESS"
+                ]
+            }
+        ]
     }
 ]
