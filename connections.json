@@ -49586,5 +49586,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1079,
+        "date": "2026-05-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"IN YOUR DREAMS\"",
+                "members": [
+                    "IMPOSSIBLE",
+                    "NEVER",
+                    "NO WAY",
+                    "SORRY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SENSIBLE",
+                "members": [
+                    "CLEAR",
+                    "LUCID",
+                    "RIGHT",
+                    "SOUND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TYPOGRAPHICAL SYMBOLS",
+                "members": [
+                    "BRACE",
+                    "CARET",
+                    "PIPE",
+                    "TILDE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SONG OF THE YEAR NOMINEES AT THE FIRST GRAMMY AWARDS",
+                "members": [
+                    "FEVER",
+                    "GIGI",
+                    "VOLARE",
+                    "WITCHCRAFT"
+                ]
+            }
+        ]
     }
 ]
