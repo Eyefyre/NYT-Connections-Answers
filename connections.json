@@ -49632,5 +49632,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1080,
+        "date": "2026-05-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE YELLOW",
+                "members": [
+                    "BUTTER",
+                    "PIKACHU",
+                    "RUBBER DUCK",
+                    "SCHOOL BUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BILLIARDS TERMS",
+                "members": [
+                    "BREAK",
+                    "CUE",
+                    "POCKET",
+                    "RACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SLANG FOR A SAILOR",
+                "members": [
+                    "JACK",
+                    "SALT",
+                    "SEA DOG",
+                    "TAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF WOOD PLUS \"S\"",
+                "members": [
+                    "SASH",
+                    "SOAK",
+                    "SPINE",
+                    "STEAK"
+                ]
+            }
+        ]
     }
 ]
