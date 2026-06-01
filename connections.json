@@ -49678,5 +49678,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1081,
+        "date": "2026-06-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ROOM FEATURES",
+                "members": [
+                    "CEILING",
+                    "DOOR",
+                    "WALL",
+                    "WINDOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OLD-TIMEY LOUNGING ACCESSORIES",
+                "members": [
+                    "NEWSPAPER",
+                    "PIPE",
+                    "ROBE",
+                    "SLIPPERS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUBJECTS IN TENNESSEE WILLIAMS TITLES",
+                "members": [
+                    "STREETCAR",
+                    "CAT",
+                    "MENAGERIE",
+                    "TATTOO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ RING",
+                "members": [
+                    "KEY",
+                    "ONION",
+                    "TREE",
+                    "WEDDING"
+                ]
+            }
+        ]
     }
 ]
