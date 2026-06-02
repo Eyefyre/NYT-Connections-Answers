@@ -49724,5 +49724,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1082,
+        "date": "2026-06-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CLANDESTINE",
+                "members": [
+                    "CLOAK-AND-DAGGER",
+                    "COVERT",
+                    "HUSH-HUSH",
+                    "TOP SECRET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BRITISH POTATO DISHES",
+                "members": [
+                    "BUBBLE AND SQUEAK",
+                    "CHIPS",
+                    "JACKET POTATO",
+                    "MASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HERALDIC ACHIEVEMENTS",
+                "members": [
+                    "COAT OF ARMS",
+                    "CREST",
+                    "HELMET",
+                    "SHIELD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN MODAL AUXILIARY VERBS",
+                "members": [
+                    "CAPE MAY",
+                    "FREE WILL",
+                    "GRAPE MUST",
+                    "TIN CAN"
+                ]
+            }
+        ]
     }
 ]
