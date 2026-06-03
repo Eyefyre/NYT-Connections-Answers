@@ -49770,5 +49770,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1083,
+        "date": "2026-06-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF RICE",
+                "members": [
+                    "BROWN",
+                    "JASMINE",
+                    "STICKY",
+                    "SUSHI"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GUMMY BEAR DESCRIPTORS",
+                "members": [
+                    "COLORFUL",
+                    "GUMMY",
+                    "SUGARY",
+                    "URSINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAVORY STUFFED PASTRIES",
+                "members": [
+                    "EMPANADA",
+                    "FATAYER",
+                    "PASTY",
+                    "SAMOSA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DISNEY PRINCESSES MINUS LAST LETTER",
+                "members": [
+                    "ARIE",
+                    "BELL",
+                    "MOAN",
+                    "RAY"
+                ]
+            }
+        ]
     }
 ]
