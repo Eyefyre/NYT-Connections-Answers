@@ -49816,5 +49816,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1084,
+        "date": "2026-06-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PAINTING MEDIA",
+                "members": [
+                    "ACRYLIC",
+                    "GOUACHE",
+                    "OIL",
+                    "TEMPERA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ESPRIT",
+                "members": [
+                    "GUSTO",
+                    "PANACHE",
+                    "VERVE",
+                    "VINEGAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF CLASSIC HIP-HOP GROUPS",
+                "members": [
+                    "BEASTIE",
+                    "PUBLIC",
+                    "RUN",
+                    "SALT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GHOST ___",
+                "members": [
+                    "KITCHEN",
+                    "PEPPER",
+                    "TOWN",
+                    "WRITER"
+                ]
+            }
+        ]
     }
 ]
