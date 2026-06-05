@@ -49862,5 +49862,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1085,
+        "date": "2026-06-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH HANSEL AND GRETEL",
+                "members": [
+                    "BREADCRUMB",
+                    "FOREST",
+                    "OVEN",
+                    "WITCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIT OF CEREAL",
+                "members": [
+                    "CLUSTER",
+                    "FLAKE",
+                    "LOOP",
+                    "PUFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DEMI MOORE MOVIES",
+                "members": [
+                    "DISCLOSURE",
+                    "GHOST",
+                    "STRIPTEASE",
+                    "THE SUBSTANCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN METHODS OF TRANSPORTATION",
+                "members": [
+                    "INCUBUS",
+                    "OSCAR",
+                    "QUATRAIN",
+                    "SITUATIONSHIP"
+                ]
+            }
+        ]
     }
 ]
