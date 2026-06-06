@@ -49908,5 +49908,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1086,
+        "date": "2026-06-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PILLAR",
+                "members": [
+                    "POLE",
+                    "POST",
+                    "SHAFT",
+                    "STAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INDICATE, AS EMOTIONS",
+                "members": [
+                    "BETRAY",
+                    "DISPLAY",
+                    "EXPRESS",
+                    "REGISTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF LIZARDS",
+                "members": [
+                    "BASILISK",
+                    "DRAGON",
+                    "MONITOR",
+                    "SKINK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ TABLE",
+                "members": [
+                    "DINNER",
+                    "DRAFTING",
+                    "ROUND",
+                    "TIMES"
+                ]
+            }
+        ]
     }
 ]
