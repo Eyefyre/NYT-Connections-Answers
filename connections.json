@@ -49954,5 +49954,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1087,
+        "date": "2026-06-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TRANSLUCENT, AS FABRIC",
+                "members": [
+                    "GAUZY",
+                    "GOSSAMER",
+                    "SHEER",
+                    "THIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SPEAK",
+                "members": [
+                    "EXPRESS",
+                    "STATE",
+                    "UTTER",
+                    "VOICE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DEMOLISH",
+                "members": [
+                    "GUT",
+                    "LEVEL",
+                    "TOTAL",
+                    "TRASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSIC GENRE SUFFIXES",
+                "members": [
+                    "CORE",
+                    "POP",
+                    "STEP",
+                    "WAVE"
+                ]
+            }
+        ]
     }
 ]
