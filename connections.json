@@ -50000,5 +50000,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1088,
+        "date": "2026-06-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LANDFORMS BY WATER",
+                "members": [
+                    "DELTA",
+                    "ISLAND",
+                    "ISTHMUS",
+                    "PENINSULA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SLANG FOR HEAD",
+                "members": [
+                    "COCONUT",
+                    "DOME",
+                    "MELON",
+                    "PATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT CAN BE SPIKED",
+                "members": [
+                    "MOHAWK",
+                    "PUNCH",
+                    "SEA URCHIN",
+                    "VOLLEYBALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"THE ___ MAN\" MOVIES",
+                "members": [
+                    "ELEPHANT",
+                    "INVISIBLE",
+                    "OMEGA",
+                    "RUNNING"
+                ]
+            }
+        ]
     }
 ]
