@@ -50046,5 +50046,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1089,
+        "date": "2026-06-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SYMBOLS OF INNOCENCE",
+                "members": [
+                    "ANGEL",
+                    "BABE",
+                    "DOVE",
+                    "LAMB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS YOU'RE NOT SUPPOSED TO REVEAL",
+                "members": [
+                    "PASSWORD",
+                    "SECRET",
+                    "SPOILER",
+                    "SURPRISE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS REPRESENTED IN SUPERSCRIPT",
+                "members": [
+                    "ASTERISK",
+                    "DEGREE",
+                    "EXPONENT",
+                    "TRADEMARK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SLANG FOR MUSICAL INSTRUMENTS",
+                "members": [
+                    "AXE",
+                    "BONE",
+                    "KEYS",
+                    "SKINS"
+                ]
+            }
+        ]
     }
 ]
