@@ -50092,5 +50092,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1090,
+        "date": "2026-06-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TECHNIQUE",
+                "members": [
+                    "FASHION",
+                    "MANNER",
+                    "METHOD",
+                    "WAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GROSS THINGS THAT FORM ON WET SURFACES",
+                "members": [
+                    "CRUST",
+                    "FILM",
+                    "SCUM",
+                    "SKIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A THEATER",
+                "members": [
+                    "CATWALK",
+                    "PIT",
+                    "STAGE",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COUNTED IN DOCUMENT WORD COUNTS",
+                "members": [
+                    "CHARACTER",
+                    "LINE",
+                    "PAGE",
+                    "WORD"
+                ]
+            }
+        ]
     }
 ]
