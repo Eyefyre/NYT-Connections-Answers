@@ -50138,5 +50138,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1091,
+        "date": "2026-06-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS OF A WORKOUT ROUTINE",
+                "members": [
+                    "BALANCE",
+                    "CARDIO",
+                    "STRETCHING",
+                    "WEIGHTS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH HORNS",
+                "members": [
+                    "BRASS BAND",
+                    "DEVIL",
+                    "RHINO",
+                    "VIKING HELMET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF SUVS",
+                "members": [
+                    "BRONCHO",
+                    "FORERUNNER",
+                    "TROUPER",
+                    "UCONN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PAYMENT APPS MINUS A LETTER",
+                "members": [
+                    "ELLE",
+                    "PAPAL",
+                    "STRIP",
+                    "VENO"
+                ]
+            }
+        ]
     }
 ]
