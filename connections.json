@@ -50184,5 +50184,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1092,
+        "date": "2026-06-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STARTING WITH INCANTATIONS",
+                "members": [
+                    "CHARM BRACELET",
+                    "CURSE WORD",
+                    "HEX KEY",
+                    "SPELL CHECKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH ANIMAL GROUP NAMES",
+                "members": [
+                    "MURDER MYSTERY",
+                    "PACK RAT",
+                    "PRIDE ROCK",
+                    "SCHOOL DAYS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"REPEAT\"",
+                "members": [
+                    "COPY EDITOR",
+                    "ECHO PARK",
+                    "MIRROR SELFIE",
+                    "QUOTE UNQUOTE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH PARTS OF A RIVER",
+                "members": [
+                    "BANK TELLER",
+                    "BED HEAD",
+                    "DELTA AIRLINES",
+                    "MOUTH GUARD"
+                ]
+            }
+        ]
     }
 ]
