@@ -50230,5 +50230,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1093,
+        "date": "2026-06-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SEEN AT A TEA SERVICE",
+                "members": [
+                    "SAUCER",
+                    "SPOON",
+                    "TEACUP",
+                    "TONGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDURING SONG",
+                "members": [
+                    "CLASSIC",
+                    "HIT",
+                    "OLDIE",
+                    "STANDARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "USED IN MOVIE PRACTICAL EFFECTS",
+                "members": [
+                    "MAKEUP",
+                    "MINIATURE",
+                    "PROSTHETIC",
+                    "PUPPET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"STORY\" IN MOVIE TITLES",
+                "members": [
+                    "CHRISTMAS",
+                    "NEVERENDING",
+                    "TOY",
+                    "WEST SIDE"
+                ]
+            }
+        ]
     }
 ]
