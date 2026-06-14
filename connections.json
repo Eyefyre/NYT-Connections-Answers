@@ -50276,5 +50276,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1094,
+        "date": "2026-06-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CLASSIC SLAPSTICK PROPS",
+                "members": [
+                    "BANANA PEEL",
+                    "CREAM PIE",
+                    "RUBBER CHICKEN",
+                    "SELTZER BOTTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT SPIN",
+                "members": [
+                    "GLOBE",
+                    "GRINDSTONE",
+                    "GYROSCOPE",
+                    "ROULETTE WHEEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURED IN \"ALICE'S ADVENTURES IN WONDERLAND\"",
+                "members": [
+                    "CATERPILLAR",
+                    "POCKET WATCH",
+                    "RABBIT HOLE",
+                    "TEA PARTY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"MA\" MIGHT REFER TO",
+                "members": [
+                    "MASSACHUSETTS",
+                    "MASTER OF ARTS",
+                    "MILLIAMPERE",
+                    "MOTHER"
+                ]
+            }
+        ]
     }
 ]
