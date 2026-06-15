@@ -50322,5 +50322,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1095,
+        "date": "2026-06-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STAYING POWER",
+                "members": [
+                    "LEGS",
+                    "MOMENTUM",
+                    "STAMINA",
+                    "TRACTION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GET READY FOR A NIGHT OUT",
+                "members": [
+                    "ACCESSORIZE",
+                    "CHANGE",
+                    "PRIMP",
+                    "SHOWER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHINESE ZODIAC ANIMALS",
+                "members": [
+                    "DOG",
+                    "DRAGON",
+                    "HORSE",
+                    "SNAKE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FLOWERS",
+                "members": [
+                    "ANEMONE",
+                    "LARKSPUR",
+                    "MONKSHOOD",
+                    "PHLOX"
+                ]
+            }
+        ]
     }
 ]
