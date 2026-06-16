@@ -50368,5 +50368,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1096,
+        "date": "2026-06-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CREAMY SALAD DRESSINGS",
+                "members": [
+                    "BLUE CHEESE",
+                    "CAESAR",
+                    "GREEN GODDESS",
+                    "RANCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ATTENDANTS",
+                "members": [
+                    "COURT",
+                    "ENTOURAGE",
+                    "RETINUE",
+                    "SUITE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RARE THINGS, IDIOMATICALLY",
+                "members": [
+                    "BLACK SWAN",
+                    "BLUE MOON",
+                    "PERFECT STORM",
+                    "UNICORN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"HOOPS\" MIGHT REFER TO",
+                "members": [
+                    "BASKETBALL",
+                    "EARRINGS",
+                    "RED TAPE",
+                    "RHYTHMIC GYMNASTICS GEAR"
+                ]
+            }
+        ]
     }
 ]
