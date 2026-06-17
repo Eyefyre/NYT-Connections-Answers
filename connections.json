@@ -50414,5 +50414,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1097,
+        "date": "2026-06-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ALCOVE",
+                "members": [
+                    "CAVITY",
+                    "NICHE",
+                    "NOOK",
+                    "RECESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BODILY WORDS FOR ATTITUDE",
+                "members": [
+                    "CHEEK",
+                    "LIP",
+                    "MOUTH",
+                    "NERVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIGURES IN GREEK MYTH",
+                "members": [
+                    "CALLIOPE",
+                    "ECHO",
+                    "IRIS",
+                    "NEMESIS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"ILK\"",
+                "members": [
+                    "CLASSIC",
+                    "KINDLE",
+                    "SORTIE",
+                    "TYPEFACE"
+                ]
+            }
+        ]
     }
 ]
