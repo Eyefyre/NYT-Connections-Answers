@@ -50460,5 +50460,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1098,
+        "date": "2026-06-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FITNESS CLASS TYPES",
+                "members": [
+                    "AEROBICS",
+                    "BARRE",
+                    "BOOTCAMP",
+                    "PILATES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DEMEANOR",
+                "members": [
+                    "ATTITUDE",
+                    "BEARING",
+                    "CARRIAGE",
+                    "PRESENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PEACE ACTIVISTS",
+                "members": [
+                    "GANDHI",
+                    "KING",
+                    "MANDELA",
+                    "TUTU"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TOOLS MINUS LAST TWO LETTERS",
+                "members": [
+                    "HAMM",
+                    "JIGS",
+                    "PLIE",
+                    "WREN"
+                ]
+            }
+        ]
     }
 ]
