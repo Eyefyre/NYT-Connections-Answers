@@ -50506,5 +50506,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1099,
+        "date": "2026-06-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UMAMI-RICH FOODS",
+                "members": [
+                    "MISO PASTE",
+                    "PARMESAN",
+                    "SOY SAUCE",
+                    "VEGEMITE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS A BEGINNER MIGHT LEARN ON THE PIANO",
+                "members": [
+                    "CHOPSTICKS",
+                    "F\u00dcR ELISE",
+                    "HEART AND SOUL",
+                    "THE ENTERTAINER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH MAGAZINES",
+                "members": [
+                    "FORTUNE COOKIE",
+                    "PEOPLE PERSON",
+                    "SPINDERELLA",
+                    "TIME MACHINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN SYNONYMS FOR \"AGGREGATE\"",
+                "members": [
+                    "COINCIDENTALLY",
+                    "DIM SUM",
+                    "TEETOTAL",
+                    "VISCOUNT"
+                ]
+            }
+        ]
     }
 ]
