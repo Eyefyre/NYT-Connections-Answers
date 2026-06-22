@@ -50644,5 +50644,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1102,
+        "date": "2026-06-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DOMINANT",
+                "members": [
+                    "ALPHA",
+                    "HEAD",
+                    "LEAD",
+                    "PRIMARY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MULTIPLICATION INDICATORS",
+                "members": [
+                    "BY",
+                    "TIMES",
+                    "X",
+                    "\u25cf"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PRONUNCIATION DESCRIPTORS",
+                "members": [
+                    "SHORT",
+                    "SILENT",
+                    "SOFT",
+                    "STRESSED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH EXPLOSIVE ONOMATOPOEIA",
+                "members": [
+                    "BANGKOK",
+                    "BOOMER",
+                    "POPSICLE",
+                    "POWDER"
+                ]
+            }
+        ]
     }
 ]
