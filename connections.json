@@ -50690,5 +50690,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1103,
+        "date": "2026-06-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DANCE STYLES",
+                "members": [
+                    "FOXTROT",
+                    "MODERN",
+                    "SWING",
+                    "TAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "IN A MONOPOLY BOX",
+                "members": [
+                    "DEED",
+                    "HOTEL",
+                    "MONEY",
+                    "TOKEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONTENT SORTING OPTIONS ONLINE",
+                "members": [
+                    "FEATURED",
+                    "POPULAR",
+                    "RECENT",
+                    "TRENDING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH MANTLES/MANTELS",
+                "members": [
+                    "EARTH",
+                    "EMPEROR",
+                    "FIREPLACE",
+                    "YANKEES"
+                ]
+            }
+        ]
     }
 ]
