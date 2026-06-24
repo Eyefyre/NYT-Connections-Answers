@@ -50736,5 +50736,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1104,
+        "date": "2026-06-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PROG BANDS",
+                "members": [
+                    "GENESIS",
+                    "KING CRIMSON",
+                    "PINK FLOYD",
+                    "RUSH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CLASSIC WEDDING GIFTS",
+                "members": [
+                    "CHINA",
+                    "LUGGAGE",
+                    "MONEY",
+                    "TOASTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RED CHARACTERS",
+                "members": [
+                    "CLIFFORD",
+                    "DEADPOOL",
+                    "KOOL-AID MAN",
+                    "MR. KRABS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RHYMING COMPOUND WORDS",
+                "members": [
+                    "CHICK FLICK",
+                    "HELTER SKELTER",
+                    "HUMPTY DUMPTY",
+                    "MUMBO JUMBO"
+                ]
+            }
+        ]
     }
 ]
