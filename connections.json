@@ -50782,5 +50782,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1105,
+        "date": "2026-06-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMPUTER PERIPHERALS",
+                "members": [
+                    "MICROPHONE",
+                    "MONITOR",
+                    "PRINTER",
+                    "TRACKPAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TIGHTLY PACKED",
+                "members": [
+                    "COMPACT",
+                    "COMPRESSED",
+                    "DENSE",
+                    "SQUASHED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HAZARDOUS ELEMENTAL METALS",
+                "members": [
+                    "FRANCIUM",
+                    "LEAD",
+                    "MERCURY",
+                    "POLONIUM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BIRD HOMOPHONES",
+                "members": [
+                    "CRANIUM",
+                    "CROQUETTE",
+                    "DUCTILE",
+                    "HOCKEY"
+                ]
+            }
+        ]
     }
 ]
