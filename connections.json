@@ -50828,5 +50828,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1106,
+        "date": "2026-06-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CRUNCHY SNACK ITEM",
+                "members": [
+                    "CHIP",
+                    "CRACKER",
+                    "NUT",
+                    "PRETZEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VARIOUS AMOUNTS OF WOOD",
+                "members": [
+                    "BOARD",
+                    "LOG",
+                    "SPLINTER",
+                    "TREE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AREAS OF LOW GROUND",
+                "members": [
+                    "DALE",
+                    "DELL",
+                    "GORGE",
+                    "HOLLOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COLORS PLUS A LETTER",
+                "members": [
+                    "BRONZER",
+                    "PINKY",
+                    "REDO",
+                    "TANG"
+                ]
+            }
+        ]
     }
 ]
