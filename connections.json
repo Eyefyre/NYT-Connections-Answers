@@ -50874,5 +50874,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1107,
+        "date": "2026-06-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MONOPOLY SQUARES",
+                "members": [
+                    "BOARDWALK",
+                    "INCOME TAX",
+                    "SHORT LINE",
+                    "WATER WORKS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMPONENTS OF A FASHION SHOW",
+                "members": [
+                    "CATWALK",
+                    "COLLECTION",
+                    "DESIGNER",
+                    "MODEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMMONLY STRIPED THINGS",
+                "members": [
+                    "BARBER POLE",
+                    "BILLIARD BALL",
+                    "CREDIT CARD",
+                    "CROSSWALK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN HORSE GAITS",
+                "members": [
+                    "DECANTER",
+                    "ENVELOPE",
+                    "FIREWALK",
+                    "FOXTROT"
+                ]
+            }
+        ]
     }
 ]
