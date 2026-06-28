@@ -50920,5 +50920,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1108,
+        "date": "2026-06-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HIGH-QUALITY",
+                "members": [
+                    "CHOICE",
+                    "FINE",
+                    "PRIME",
+                    "SELECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SIGNALS TO COMMENCE",
+                "members": [
+                    "BEGIN",
+                    "GO",
+                    "NOW",
+                    "START"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACCESSORIES FOR A GUITARIST",
+                "members": [
+                    "CAPO",
+                    "PICK",
+                    "SLIDE",
+                    "STRAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THEY HAVE BOARDS",
+                "members": [
+                    "CHESS",
+                    "CORPORATION",
+                    "DARTS",
+                    "SURFER"
+                ]
+            }
+        ]
     }
 ]
