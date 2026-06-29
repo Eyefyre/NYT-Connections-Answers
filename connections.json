@@ -50966,5 +50966,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1109,
+        "date": "2026-06-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "OLD TIMEY TROUBLEMAKERS",
+                "members": [
+                    "MISCREANT",
+                    "ROGUE",
+                    "RUFFIAN",
+                    "SCOUNDREL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONSUME WITH GUSTO",
+                "members": [
+                    "CRUSH",
+                    "GUZZLE",
+                    "INHALE",
+                    "SNARF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A SPEAKER",
+                "members": [
+                    "CABINET",
+                    "CONE",
+                    "MAGNET",
+                    "WOOFER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN PARTS OF A TREE",
+                "members": [
+                    "EMBARK",
+                    "GROOT",
+                    "NUDIBRANCH",
+                    "STRUNK"
+                ]
+            }
+        ]
     }
 ]
