@@ -51058,5 +51058,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1111,
+        "date": "2026-07-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS NAMED AFTER PLACES",
+                "members": [
+                    "CHAMPAGNE",
+                    "CHINA",
+                    "COLOGNE",
+                    "LIMERICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEST PICTURE WINNERS/NOMINEES",
+                "members": [
+                    "CASABLANCA",
+                    "CHICAGO",
+                    "FARGO",
+                    "MUNICH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES IN COCKTAIL NAMES",
+                "members": [
+                    "CUBA",
+                    "LONG ISLAND",
+                    "MOSCOW",
+                    "SINGAPORE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH COUNTRIES",
+                "members": [
+                    "DOMINICAN REPUBLIC",
+                    "GUINEA-BISSAU",
+                    "INDIANAPOLIS",
+                    "NIGERIA"
+                ]
+            }
+        ]
     }
 ]
