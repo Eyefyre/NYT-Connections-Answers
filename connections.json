@@ -51104,5 +51104,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1112,
+        "date": "2026-07-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THEY IMPERSONATE OTHER THINGS",
+                "members": [
+                    "COPYCAT",
+                    "MIME",
+                    "MOCKINGBIRD",
+                    "T-1000"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OLD-TIMEY NAMES FOR THINGS WE STILL USE",
+                "members": [
+                    "LOOKING GLASS",
+                    "SPECTACLES",
+                    "TALKIE",
+                    "WATER CLOSET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH NICKNAMES",
+                "members": [
+                    "BILLY GOAT",
+                    "DAN DAN NOODLES",
+                    "RICH TEXT",
+                    "TOM-TOM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SPORTS VENUES",
+                "members": [
+                    "COURT JESTER",
+                    "DIAMOND RING",
+                    "FIELD MOUSE",
+                    "TRACK RECORD"
+                ]
+            }
+        ]
     }
 ]
