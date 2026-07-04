@@ -51196,5 +51196,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1114,
+        "date": "2026-07-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PERSIST",
+                "members": [
+                    "CONTINUE",
+                    "LAST",
+                    "LINGER",
+                    "STAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF POEMS",
+                "members": [
+                    "BALLAD",
+                    "EPIC",
+                    "ODE",
+                    "VILLANELLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TROPICAL DRINKS",
+                "members": [
+                    "HURRICANE",
+                    "PAINKILLER",
+                    "SCORPION",
+                    "ZOMBIE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SWEET ___",
+                "members": [
+                    "DREAMS",
+                    "NOTHINGS",
+                    "PEA",
+                    "SPOT"
+                ]
+            }
+        ]
     }
 ]
