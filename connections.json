@@ -51242,5 +51242,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1115,
+        "date": "2026-07-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GRANOLA INGREDIENTS",
+                "members": [
+                    "HONEY",
+                    "NUTS",
+                    "OATS",
+                    "SEEDS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PAYMENT METHODS",
+                "members": [
+                    "CARD",
+                    "CASH",
+                    "CHECK",
+                    "WIRE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AMEX CARD TYPES",
+                "members": [
+                    "CENTURION",
+                    "GOLD",
+                    "GREEN",
+                    "PLATINUM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"W\" MIGHT STAND FOR",
+                "members": [
+                    "TUNGSTEN",
+                    "WEST",
+                    "WIN",
+                    "WITH"
+                ]
+            }
+        ]
     }
 ]
