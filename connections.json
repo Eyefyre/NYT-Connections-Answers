@@ -51288,5 +51288,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1116,
+        "date": "2026-07-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STUNNING NEWS",
+                "members": [
+                    "BOMBSHELL",
+                    "REVELATION",
+                    "SHOCKER",
+                    "THUNDERBOLT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SCIENCE FAIR MODEL SUBJECTS",
+                "members": [
+                    "ATOM",
+                    "DNA",
+                    "SOLAR SYSTEM",
+                    "VOLCANO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACME PRODUCTS USED BY WILE E. COYOTE",
+                "members": [
+                    "EARTHQUAKE PILLS",
+                    "IRON BIRD SEED",
+                    "ROCKET SKATES",
+                    "TNT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH DATING APPS",
+                "members": [
+                    "BUMBLEBEE",
+                    "GRIND RAIL",
+                    "MATCHA",
+                    "TINDERBOX"
+                ]
+            }
+        ]
     }
 ]
