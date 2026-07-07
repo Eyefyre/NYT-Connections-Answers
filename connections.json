@@ -51334,5 +51334,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1117,
+        "date": "2026-07-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ROOMS IN CLUE",
+                "members": [
+                    "CONSERVATORY",
+                    "HALL",
+                    "KITCHEN",
+                    "STUDY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STUDENT-ATHLETE DESIGNATIONS",
+                "members": [
+                    "ALL-AMERICAN",
+                    "JOCK",
+                    "LETTERMAN",
+                    "TEAM CAPTAIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ TWIST",
+                "members": [
+                    "FRENCH",
+                    "LEMON",
+                    "OLIVER",
+                    "PLOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN \"SESAME STREET\" CHARACTERS",
+                "members": [
+                    "BERNIE",
+                    "COLBERT",
+                    "DISCOUNT",
+                    "SAN ANSELMO"
+                ]
+            }
+        ]
     }
 ]
