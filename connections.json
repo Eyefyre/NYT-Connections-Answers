@@ -51380,5 +51380,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1118,
+        "date": "2026-07-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CUT INTO THIN PIECES",
+                "members": [
+                    "GRATE",
+                    "PLANE",
+                    "SHAVE",
+                    "SLIVER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MOTIF",
+                "members": [
+                    "DRIFT",
+                    "PLOT",
+                    "THEME",
+                    "THREAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GUITAR-PLAYING TECHNIQUES",
+                "members": [
+                    "PICK",
+                    "PLUCK",
+                    "STRUM",
+                    "TAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOUSE OF ___",
+                "members": [
+                    "CARDS",
+                    "LORDS",
+                    "WAX",
+                    "WORSHIP"
+                ]
+            }
+        ]
     }
 ]
