@@ -51426,5 +51426,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1119,
+        "date": "2026-07-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "NON-ALCOHOLIC DESIGNATORS",
+                "members": [
+                    "NA",
+                    "SPIRIT-FREE",
+                    "VIRGIN",
+                    "ZERO-PROOF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MUSIC PUBLICATIONS",
+                "members": [
+                    "BILLBOARD",
+                    "PITCHFORK",
+                    "ROLLING STONE",
+                    "SPIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF RUGS",
+                "members": [
+                    "PERSIAN",
+                    "PRAYER",
+                    "SHAG",
+                    "THROW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PONTIAC MODELS",
+                "members": [
+                    "FIREBIRD",
+                    "G6",
+                    "GRAND PRIX",
+                    "TRANS AM"
+                ]
+            }
+        ]
     }
 ]
