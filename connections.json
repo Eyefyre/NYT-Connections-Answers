@@ -51472,5 +51472,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1120,
+        "date": "2026-07-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SMARTPHONE SETTINGS",
+                "members": [
+                    "AIRPLANE MODE",
+                    "DO NOT DISTURB",
+                    "HOTSPOT",
+                    "LOCATION SERVICES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESSERT MENU DESCRIPTORS",
+                "members": [
+                    "DECADENT",
+                    "FRESH-BAKED",
+                    "MOLTEN",
+                    "\u00c0 LA MODE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "'80S SYNTH-POP BANDS",
+                "members": [
+                    "DEPECHE MODE",
+                    "ERASURE",
+                    "NEW ORDER",
+                    "PET SHOP BOYS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BASEBALL CALLS",
+                "members": [
+                    "BALL GOWN",
+                    "OUTKAST",
+                    "SAFE MODE",
+                    "STRIKE A POSE"
+                ]
+            }
+        ]
     }
 ]
