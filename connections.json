@@ -51518,5 +51518,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1121,
+        "date": "2026-07-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CIRCUS EQUIPMENT",
+                "members": [
+                    "CANNON",
+                    "STILTS",
+                    "TRAPEZE",
+                    "UNICYCLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNDISTURBED, AS WATER",
+                "members": [
+                    "CALM",
+                    "FLAT",
+                    "GLASSY",
+                    "STILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"TOY STORY\" CHARACTERS",
+                "members": [
+                    "BO PEEP",
+                    "JESSIE",
+                    "SLINKY",
+                    "WOODY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DOUBLE LETTERS APPEARING IN THAT LETTER'S ALPHABETICAL POSITION",
+                "members": [
+                    "AARDVARK",
+                    "BOCCE",
+                    "EBBING",
+                    "TWIDDLE"
+                ]
+            }
+        ]
     }
 ]
