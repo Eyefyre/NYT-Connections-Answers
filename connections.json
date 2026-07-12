@@ -51564,5 +51564,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1122,
+        "date": "2026-07-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "REPRODUCTIVE PART OF FRUIT",
+                "members": [
+                    "PIP",
+                    "PIT",
+                    "SEED",
+                    "STONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIT OF FRUIT-FLAVORED CANDY",
+                "members": [
+                    "DOT",
+                    "NERD",
+                    "RUNT",
+                    "SPREE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VERBS IN A COLLEGE LIFE SLOGAN",
+                "members": [
+                    "PARTY",
+                    "REPEAT",
+                    "SLEEP",
+                    "STUDY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF U.S. CAPITALS",
+                "members": [
+                    "DEN",
+                    "MAD",
+                    "PHO",
+                    "SAC"
+                ]
+            }
+        ]
     }
 ]
