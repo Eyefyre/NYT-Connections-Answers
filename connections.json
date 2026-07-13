@@ -51610,5 +51610,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1123,
+        "date": "2026-07-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INTERROGATE",
+                "members": [
+                    "EXAMINE",
+                    "GRILL",
+                    "PUMP",
+                    "QUESTION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH HANDLES",
+                "members": [
+                    "BUCKET",
+                    "DRAWER",
+                    "MUG",
+                    "UMBRELLA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FICTIONAL CATS",
+                "members": [
+                    "FIGARO",
+                    "PUSS",
+                    "SALEM",
+                    "TOM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SMOOCHES",
+                "members": [
+                    "BUSSIN",
+                    "KISSER",
+                    "PECKISH",
+                    "SMACKDOWN"
+                ]
+            }
+        ]
     }
 ]
