@@ -51656,5 +51656,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1124,
+        "date": "2026-07-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONTRACT",
+                "members": [
+                    "AGREEMENT",
+                    "BARGAIN",
+                    "DEAL",
+                    "UNDERSTANDING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "EDIT MENU OPTIONS",
+                "members": [
+                    "COPY",
+                    "CUT",
+                    "DELETE",
+                    "PASTE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BASKETS",
+                "members": [
+                    "EASTER",
+                    "GROCERY",
+                    "LAUNDRY",
+                    "PICNIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SYMBOLIZED WITH ARROWS",
+                "members": [
+                    "RECYCLING",
+                    "SHUFFLE",
+                    "THIS SIDE UP",
+                    "U-TURN"
+                ]
+            }
+        ]
     }
 ]
