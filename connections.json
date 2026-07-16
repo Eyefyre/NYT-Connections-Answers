@@ -51748,5 +51748,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1126,
+        "date": "2026-07-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SKINCARE PRODUCTS",
+                "members": [
+                    "CLAY MASK",
+                    "EYE CREAM",
+                    "PEEL",
+                    "TONER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHADES OF BLACK",
+                "members": [
+                    "CHARCOAL",
+                    "INK",
+                    "JET",
+                    "PITCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH PRECISION",
+                "members": [
+                    "BULLSEYE",
+                    "CLOCKWORK",
+                    "LASER",
+                    "NEEDLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH TINY MARKS",
+                "members": [
+                    "DOT MATRIX",
+                    "PERIOD PIECE",
+                    "POINT BREAK",
+                    "SPOT REMOVER"
+                ]
+            }
+        ]
     }
 ]
