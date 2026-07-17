@@ -51794,5 +51794,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1127,
+        "date": "2026-07-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "GRAND FINALE",
+                "members": [
+                    "EPILOGUE",
+                    "FAREWELL",
+                    "LAST DANCE",
+                    "SWAN SONG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SEEN IN AN ARCADE",
+                "members": [
+                    "CRANE GAME",
+                    "PINBALL",
+                    "TICKETS",
+                    "TOKENS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FOUR GROUPS OF FOUR",
+                "members": [
+                    "CARDINAL DIRECTIONS",
+                    "CLASSICAL ELEMENTS",
+                    "SEASONS",
+                    "SUITS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN PARTS OF A CAR",
+                "members": [
+                    "PLOT SPOILER",
+                    "ROBIN HOOD",
+                    "SATIRES",
+                    "TREE TRUNK"
+                ]
+            }
+        ]
     }
 ]
