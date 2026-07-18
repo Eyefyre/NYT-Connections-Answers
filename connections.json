@@ -51840,5 +51840,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1128,
+        "date": "2026-07-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMMIT A BASKETBALL VIOLATION",
+                "members": [
+                    "CARRY",
+                    "DOUBLE DRIBBLE",
+                    "GOALTEND",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BELIEF",
+                "members": [
+                    "ATTITUDE",
+                    "MIND",
+                    "OPINION",
+                    "VIEW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS TRACKED IN VIDEO GAMES",
+                "members": [
+                    "HEALTH",
+                    "LIVES",
+                    "SCORE",
+                    "TIME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER \"POP\"",
+                "members": [
+                    "CULTURE",
+                    "FLY",
+                    "QUIZ",
+                    "TART"
+                ]
+            }
+        ]
     }
 ]
