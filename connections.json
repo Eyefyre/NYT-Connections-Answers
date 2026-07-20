@@ -51932,5 +51932,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1130,
+        "date": "2026-07-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ANNOUNCE",
+                "members": [
+                    "BLARE",
+                    "HERALD",
+                    "SOUND",
+                    "TRUMPET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS TO CLICK",
+                "members": [
+                    "BUTTON",
+                    "ICON",
+                    "LINK",
+                    "MENU"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH PEARLS",
+                "members": [
+                    "BUBBLE TEA",
+                    "OYSTER",
+                    "SWINE",
+                    "WISDOM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH ALCOHOLIC BEVERAGES",
+                "members": [
+                    "ALEXA",
+                    "MEADOW",
+                    "PORTOBELLO",
+                    "SAKES"
+                ]
+            }
+        ]
     }
 ]
