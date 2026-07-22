@@ -52024,5 +52024,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1132,
+        "date": "2026-07-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SYMPTOMS OF AN ALLERGIC REACTION",
+                "members": [
+                    "HIVES",
+                    "ITCHING",
+                    "RASH",
+                    "REDNESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ON A GOLF SCORECARD",
+                "members": [
+                    "HOLE",
+                    "PAR",
+                    "SCORE",
+                    "STROKES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLATFORM-SPECIFIC POSTS",
+                "members": [
+                    "PINS",
+                    "SNAPS",
+                    "TWEETS",
+                    "VINES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A ZEBRA",
+                "members": [
+                    "HOOVES",
+                    "MANE",
+                    "TAIL",
+                    "WHITE STRIPES"
+                ]
+            }
+        ]
     }
 ]
