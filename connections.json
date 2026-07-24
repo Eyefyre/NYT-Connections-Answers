@@ -52116,5 +52116,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1134,
+        "date": "2026-07-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TALK AT LENGTH",
+                "members": [
+                    "BABBLE",
+                    "DRONE",
+                    "RAMBLE",
+                    "YAK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OUTCOMES FOR A BATTER",
+                "members": [
+                    "HOME RUN",
+                    "SINGLE",
+                    "STRIKEOUT",
+                    "WALK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BRING TO MIND, AS A MEMORY",
+                "members": [
+                    "JOG",
+                    "PROMPT",
+                    "REFRESH",
+                    "SPARK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF RELIGIOUS ROLES",
+                "members": [
+                    "CANTER",
+                    "FRYER",
+                    "LLAMA",
+                    "NONE"
+                ]
+            }
+        ]
     }
 ]
