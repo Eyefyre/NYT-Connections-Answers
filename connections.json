@@ -52300,5 +52300,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1138,
+        "date": "2026-07-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMMAND",
+                "members": [
+                    "CAPTAIN",
+                    "DIRECT",
+                    "HEAD",
+                    "LEAD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOW DO YOU LIKE THEM APPLES",
+                "members": [
+                    "EMPIRE",
+                    "FUJI",
+                    "GALA",
+                    "HONEYCRISP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHOE BRANDS STARTING WITH \"C\"",
+                "members": [
+                    "CAMPER",
+                    "CLARKS",
+                    "CONVERSE",
+                    "CROCS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH PALINDROMIC NAMES",
+                "members": [
+                    "ANNAPOLIS",
+                    "BOBSLED",
+                    "EVEREST",
+                    "OTTOMAN"
+                ]
+            }
+        ]
     }
 ]
