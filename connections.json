@@ -52346,5 +52346,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1139,
+        "date": "2026-07-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FASTENERS",
+                "members": [
+                    "NAIL",
+                    "RIVET",
+                    "SCREW",
+                    "STAPLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NONDESCRIPT",
+                "members": [
+                    "BASIC",
+                    "MID",
+                    "PLAIN",
+                    "VANILLA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNITS OF WISDOM",
+                "members": [
+                    "GEM",
+                    "NUGGET",
+                    "PEARL",
+                    "WORD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___BOARDS IN A CLASSROOM",
+                "members": [
+                    "BLACK",
+                    "CHALK",
+                    "CORK",
+                    "WHITE"
+                ]
+            }
+        ]
     }
 ]
