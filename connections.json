@@ -52392,5 +52392,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1140,
+        "date": "2026-07-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "VIRTUOUS",
+                "members": [
+                    "FAIR",
+                    "GOOD",
+                    "JUST",
+                    "RIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ACTIVITIES WITH MULTIPLE BALLS",
+                "members": [
+                    "BEER PONG",
+                    "BINGO",
+                    "JUGGLING",
+                    "POOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CRUISE LINES",
+                "members": [
+                    "CARNIVAL",
+                    "CELEBRITY",
+                    "PRINCESS",
+                    "VIKING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ON THE ___, TO MEAN \"PRECISE\"",
+                "members": [
+                    "DOT",
+                    "MARK",
+                    "MONEY",
+                    "NOSE"
+                ]
+            }
+        ]
     }
 ]
