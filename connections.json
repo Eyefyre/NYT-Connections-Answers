@@ -52438,5 +52438,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1141,
+        "date": "2026-07-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONSTRUCT",
+                "members": [
+                    "FASHION",
+                    "MODEL",
+                    "MOLD",
+                    "SHAPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SUPER MARIO FIGURES",
+                "members": [
+                    "DINOSAUR",
+                    "MUSHROOM",
+                    "PLUMBER",
+                    "PRINCESS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FRUITS PLUS STARTING LETTER",
+                "members": [
+                    "DAPPLE",
+                    "JDATE",
+                    "SLIME",
+                    "SPEAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH MERRIMENTS",
+                "members": [
+                    "CHEERIOS",
+                    "FUNGUS",
+                    "GLEEK",
+                    "JOYSTICK"
+                ]
+            }
+        ]
     }
 ]
