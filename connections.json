@@ -52484,5 +52484,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1142,
+        "date": "2026-08-01",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BEDDING",
+                "members": [
+                    "COMFORTER",
+                    "SHAM",
+                    "SHEET",
+                    "THROW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OSCAR-WINNING ACTORS SINCE 2010",
+                "members": [
+                    "BALE",
+                    "JORDAN",
+                    "PHOENIX",
+                    "WALTZ"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PERFORM SOME HOLE MACHINING OPERATIONS",
+                "members": [
+                    "BORE",
+                    "COUNTERSINK",
+                    "DRILL",
+                    "REAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BREAD SHAPES",
+                "members": [
+                    "BOULEVARD",
+                    "BUNDLE",
+                    "LOAFER",
+                    "ROLLS-ROYCE"
+                ]
+            }
+        ]
     }
 ]
