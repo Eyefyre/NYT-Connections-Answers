@@ -52530,5 +52530,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1143,
+        "date": "2026-08-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FILLER WORDS",
+                "members": [
+                    "ACTUALLY",
+                    "LIKE",
+                    "SO",
+                    "WELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BY MEANS OF",
+                "members": [
+                    "BY",
+                    "PER",
+                    "THROUGH",
+                    "VIA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ MODE",
+                "members": [
+                    "AIRPLANE",
+                    "BEAST",
+                    "DARK",
+                    "\u00c0 LA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "U.S. AIRPORT CODES PLUS STARTING LETTER",
+                "members": [
+                    "ASEA",
+                    "FLAX",
+                    "LORD",
+                    "OLGA"
+                ]
+            }
+        ]
     }
 ]
