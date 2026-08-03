@@ -52576,5 +52576,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1144,
+        "date": "2026-08-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ROAD LESS TRAVELED",
+                "members": [
+                    "ALLEY",
+                    "BACKSTREET",
+                    "BYWAY",
+                    "LANE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHADES OF GREEN",
+                "members": [
+                    "FOREST",
+                    "HUNTER",
+                    "MINT",
+                    "SAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"Y\" IS THE ONLY VOWEL",
+                "members": [
+                    "FLY BY",
+                    "MYRRH",
+                    "NSYNC",
+                    "RHYTHM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH SYNONYMS FOR \"PESTER\"",
+                "members": [
+                    "BUG FIX",
+                    "NAG CHAMPA",
+                    "NEEDLESS",
+                    "TEA SET"
+                ]
+            }
+        ]
     }
 ]
