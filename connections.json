@@ -52622,5 +52622,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1145,
+        "date": "2026-08-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LONG CYLINDRICAL THINGS",
+                "members": [
+                    "CIGARETTE",
+                    "FOAM ROLLER",
+                    "POOL NOODLE",
+                    "PRETZEL ROD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ICONIC NYC SIGHTS",
+                "members": [
+                    "BODEGA",
+                    "PIGEON",
+                    "SUBWAY STATION",
+                    "TAXI CAB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH PEDALS",
+                "members": [
+                    "PIANO",
+                    "SEWING MACHINE",
+                    "SWAN BOAT",
+                    "UNICYCLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "V-SHAPED THINGS",
+                "members": [
+                    "ANGLE BRACKET",
+                    "CHEVRON",
+                    "GOOSE FORMATION",
+                    "PEACE SIGN"
+                ]
+            }
+        ]
     }
 ]
