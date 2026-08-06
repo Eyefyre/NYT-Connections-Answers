@@ -52714,5 +52714,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1147,
+        "date": "2026-08-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CLASSIC WOODEN TOYS",
+                "members": [
+                    "ALPHABET BLOCKS",
+                    "CUP-AND-BALL",
+                    "JACOB'S LADDER",
+                    "LINCOLN LOGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WITH LANES",
+                "members": [
+                    "BOWLING ALLEY",
+                    "FREEWAY",
+                    "SUPERMARKET",
+                    "SWIMMING POOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ICONIC ROMAN LANDMARKS",
+                "members": [
+                    "COLOSSEUM",
+                    "PANTHEON",
+                    "SPANISH STEPS",
+                    "TREVI FOUNTAIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WITH NETS",
+                "members": [
+                    "BARCLAYS CENTER",
+                    "FISHING BOAT",
+                    "HOCKEY RINK",
+                    "TENNIS COURT"
+                ]
+            }
+        ]
     }
 ]
