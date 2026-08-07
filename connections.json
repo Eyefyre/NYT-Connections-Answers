@@ -52760,5 +52760,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1148,
+        "date": "2026-08-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMPONENTS OF A CANDLE",
+                "members": [
+                    "FRAGRANCE",
+                    "JAR",
+                    "WAX",
+                    "WICK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COLD THINGS",
+                "members": [
+                    "LIQUID NITROGEN",
+                    "REFRIGERATOR",
+                    "SNOW",
+                    "SUNDAE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF AN ELEVATOR",
+                "members": [
+                    "BUTTONS",
+                    "CABLES",
+                    "MOTOR",
+                    "SHAFT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH MALE ANIMALS",
+                "members": [
+                    "BUCKYBALL",
+                    "JACKPOT",
+                    "RAMBO",
+                    "TOMATILLO"
+                ]
+            }
+        ]
     }
 ]
