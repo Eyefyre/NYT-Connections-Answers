@@ -52806,5 +52806,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1149,
+        "date": "2026-08-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "QUAINT EXPRESSIONS OF EXCITEMENT",
+                "members": [
+                    "HOT DOG",
+                    "HURRAH",
+                    "WHOOPEE",
+                    "YAHOO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONVEY",
+                "members": [
+                    "COUCH",
+                    "EXPRESS",
+                    "FRAME",
+                    "PHRASE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS ABBREVIATED WITH LETTERS AS HOMOPHONES",
+                "members": [
+                    "CUTIE",
+                    "EASY",
+                    "EFFECTS",
+                    "I OWE YOU"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAFETY ___",
+                "members": [
+                    "BELT",
+                    "GOGGLES",
+                    "PIN",
+                    "RAZOR"
+                ]
+            }
+        ]
     }
 ]
