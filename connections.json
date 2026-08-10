@@ -52898,5 +52898,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1151,
+        "date": "2026-08-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HAPHAZARDLY",
+                "members": [
+                    "ANY OLD HOW",
+                    "AT RANDOM",
+                    "HELTER-SKELTER",
+                    "WILLY-NILLY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO RECEIVE EVENT TICKETS",
+                "members": [
+                    "MAIL DELIVERY",
+                    "MOBILE TICKET",
+                    "PRINT-AT-HOME",
+                    "WILL CALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SECTIONS ON AN INVOICE",
+                "members": [
+                    "BALANCE DUE",
+                    "BILL TO",
+                    "ORDER NUMBER",
+                    "UNIT PRICE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMOUS GOATEES",
+                "members": [
+                    "BILLY GOAT",
+                    "COLONEL SANDERS",
+                    "DOCTOR STRANGE",
+                    "THE DEVIL"
+                ]
+            }
+        ]
     }
 ]
