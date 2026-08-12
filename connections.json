@@ -52990,5 +52990,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1153,
+        "date": "2026-08-12",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HOLD ONTO, AS A FEELING",
+                "members": [
+                    "FOSTER",
+                    "HARBOR",
+                    "MAINTAIN",
+                    "NURSE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF FROGS",
+                "members": [
+                    "BULL",
+                    "GREEN",
+                    "POISON DART",
+                    "TREE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NBC SITCOM SURNAMES",
+                "members": [
+                    "BENES",
+                    "BING",
+                    "LEMON",
+                    "SCOTT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH AFFIRMATIVE RESPONSES",
+                "members": [
+                    "FINE PRINT",
+                    "GOODBYE",
+                    "GREAT WHITE",
+                    "OKAYAMA"
+                ]
+            }
+        ]
     }
 ]
