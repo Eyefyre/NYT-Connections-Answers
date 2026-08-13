@@ -53036,5 +53036,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1154,
+        "date": "2026-08-13",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PERSEVERE",
+                "members": [
+                    "CARRY ON",
+                    "CONTINUE",
+                    "MAKE IT",
+                    "PERSIST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MOVE SLOWLY (UP TO)",
+                "members": [
+                    "CREEP",
+                    "EASE",
+                    "EDGE",
+                    "INCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AIRLINE STATUS PERKS",
+                "members": [
+                    "CHECKED BAGS",
+                    "LOUNGE",
+                    "MILES",
+                    "UPGRADE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"COLD\" THINGS, IN IDIOMS",
+                "members": [
+                    "COMFORT",
+                    "FEET",
+                    "SHOULDER",
+                    "TURKEY"
+                ]
+            }
+        ]
     }
 ]
