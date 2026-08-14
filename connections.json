@@ -53082,5 +53082,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1155,
+        "date": "2026-08-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BLACK-AND-YELLOW",
+                "members": [
+                    "BUMBLEBEE",
+                    "CAUTION TAPE",
+                    "CHARLIE BROWN",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PLACES WHERE EVERYONE THINKS THE SAME WAYS",
+                "members": [
+                    "BUBBLE",
+                    "ECHO CHAMBER",
+                    "HIVEMIND",
+                    "SILO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMIC BOOK ARTIST'S TOOLS",
+                "members": [
+                    "BRISTOL BOARD",
+                    "DIP PEN",
+                    "INDIA INK",
+                    "STRAIGHTEDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TRIANGLE LOGOS",
+                "members": [
+                    "BASS ALE",
+                    "CITGO",
+                    "DELTA AIRLINES",
+                    "GOOGLE DRIVE"
+                ]
+            }
+        ]
     }
 ]
