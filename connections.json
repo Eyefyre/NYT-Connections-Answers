@@ -53128,5 +53128,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1156,
+        "date": "2026-08-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EXHAUSTED",
+                "members": [
+                    "BEAT",
+                    "FRIED",
+                    "SPENT",
+                    "WORN OUT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SEGMENT",
+                "members": [
+                    "LEG",
+                    "PHASE",
+                    "STAGE",
+                    "STRETCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN UNITS OF LENGTH",
+                "members": [
+                    "CHAMOMILE",
+                    "GRINCH",
+                    "HOTFOOT",
+                    "LANYARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN SYNONYMS FOR FOLLOW SECRETLY",
+                "members": [
+                    "BEANSTALK",
+                    "EYESHADOW",
+                    "HIGHTAIL",
+                    "SOUNDTRACK"
+                ]
+            }
+        ]
     }
 ]
