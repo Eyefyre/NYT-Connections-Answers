@@ -53312,5 +53312,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1160,
+        "date": "2026-08-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PIECE OF CAKE",
+                "members": [
+                    "BREEZE",
+                    "CINCH",
+                    "PICNIC",
+                    "SNAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONCEAL",
+                "members": [
+                    "BLANKET",
+                    "HIDE",
+                    "MASK",
+                    "OBSCURE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"BALL\" IN SPORT NAMES",
+                "members": [
+                    "BASE",
+                    "BASKET",
+                    "FOOT",
+                    "PICKLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF CGI-ANIMATED FILMS",
+                "members": [
+                    "ANTS",
+                    "COCOA",
+                    "RHEO",
+                    "SEOUL"
+                ]
+            }
+        ]
     }
 ]
