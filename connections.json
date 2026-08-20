@@ -53358,5 +53358,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1161,
+        "date": "2026-08-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF PIZZA",
+                "members": [
+                    "DIAVOLA",
+                    "HAWAIIAN",
+                    "MEAT LOVERS",
+                    "WHITE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF NUMBERS",
+                "members": [
+                    "ATOMIC",
+                    "SERIAL",
+                    "SOCIAL SECURITY",
+                    "TELEPHONE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SIMILARLY SHAPED TYPOGRAPHICAL MARKS",
+                "members": [
+                    "APOSTROPHE",
+                    "CEDILLA",
+                    "COMMA",
+                    "OKINA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH CHINESE ZODIAC ANIMALS",
+                "members": [
+                    "DRAGONFLY",
+                    "OXFORD",
+                    "PIGMENT",
+                    "RATCHET"
+                ]
+            }
+        ]
     }
 ]
