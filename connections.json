@@ -53404,5 +53404,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1162,
+        "date": "2026-08-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS MOST ANIMALS NEED",
+                "members": [
+                    "NUTRITION",
+                    "OXYGEN",
+                    "SLEEP",
+                    "WATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CALLS TO BEGIN A PERFORMANCE",
+                "members": [
+                    "ACTION",
+                    "CURTAIN UP",
+                    "PLACES",
+                    "SHOWTIME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ KIDS",
+                "members": [
+                    "COMEBACK",
+                    "KARATE",
+                    "SUNDANCE",
+                    "WIMPY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ONCE IN A ___",
+                "members": [
+                    "BLUE MOON",
+                    "GENERATION",
+                    "LIFETIME",
+                    "WHILE"
+                ]
+            }
+        ]
     }
 ]
