@@ -53588,5 +53588,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1166,
+        "date": "2026-08-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SURFACE-LEVEL",
+                "members": [
+                    "COSMETIC",
+                    "ONE-DIMENSIONAL",
+                    "SKIN-DEEP",
+                    "SUPERFICIAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SCI-FI PHENOMENA",
+                "members": [
+                    "HYPERSPACE",
+                    "PARALLEL UNIVERSE",
+                    "TELEPORTATION",
+                    "TIME WARP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STEPHEN KING FILM ADAPTATIONS, WITH \"THE\"",
+                "members": [
+                    "GREEN MILE",
+                    "LONG WALK",
+                    "RUNNING MAN",
+                    "SHAWSHANK REDEMPTION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN ICE CREAM ORDERS",
+                "members": [
+                    "HARLEM SHAKE",
+                    "INSIDE SCOOP",
+                    "LICKETY-SPLIT",
+                    "TRAFFIC CONE"
+                ]
+            }
+        ]
     }
 ]
