@@ -53634,5 +53634,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1167,
+        "date": "2026-08-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "\"THERE YOU HAVE IT!\"",
+                "members": [
+                    "BEHOLD",
+                    "PRESTO",
+                    "SHAZAM",
+                    "VOIL\u00c0"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KNACK",
+                "members": [
+                    "FORTE",
+                    "GIFT",
+                    "STRENGTH",
+                    "TALENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WHAT \"P\" MIGHT STAND FOR",
+                "members": [
+                    "PAGE",
+                    "PARK",
+                    "PHOSPHORUS",
+                    "PIANO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KEY ___",
+                "members": [
+                    "CHAIN",
+                    "LARGO",
+                    "LIME",
+                    "SIGNATURE"
+                ]
+            }
+        ]
     }
 ]
