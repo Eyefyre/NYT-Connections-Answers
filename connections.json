@@ -53772,5 +53772,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1170,
+        "date": "2026-08-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UNDER THE HOOD OF A CAR",
+                "members": [
+                    "ALTERNATOR",
+                    "BATTERY",
+                    "ENGINE",
+                    "RADIATOR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF SALAD",
+                "members": [
+                    "CHOPPED",
+                    "GREEK",
+                    "HOUSE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KEYBOARD KEYS",
+                "members": [
+                    "CONTROL",
+                    "ESCAPE",
+                    "SHIFT",
+                    "SPACE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH FIGURES FROM GREEK MYTH",
+                "members": [
+                    "AT LAST",
+                    "HERALD",
+                    "HYDRANT",
+                    "TRITONE"
+                ]
+            }
+        ]
     }
 ]
