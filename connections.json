@@ -53864,5 +53864,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1172,
+        "date": "2026-08-31",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS THAT COME IN TUBES",
+                "members": [
+                    "LIPSTICK",
+                    "POSTER",
+                    "TENNIS BALLS",
+                    "TOOTHPASTE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WARNINGS ON A SHIPPING BOX",
+                "members": [
+                    "FRAGILE",
+                    "HEAVY",
+                    "PERISHABLE",
+                    "THIS SIDE UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HISTORICAL SOVEREIGN TITLES",
+                "members": [
+                    "CALIPH",
+                    "KHAN",
+                    "PHARAOH",
+                    "SHOGUN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ BOWL",
+                "members": [
+                    "DUST",
+                    "POKE",
+                    "SALAD",
+                    "SUPER"
+                ]
+            }
+        ]
     }
 ]
