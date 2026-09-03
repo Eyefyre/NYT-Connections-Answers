@@ -54002,5 +54002,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1175,
+        "date": "2026-09-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TWO SHAKES OF A LAMB'S TAIL",
+                "members": [
+                    "BLINK",
+                    "FLASH",
+                    "HEARTBEAT",
+                    "TRICE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SHADES OF RED",
+                "members": [
+                    "CARMINE",
+                    "CINNABAR",
+                    "MAROON",
+                    "VERMILLION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TOY CAR BRANDS",
+                "members": [
+                    "HOT WHEELS",
+                    "MATCHBOX",
+                    "MICRO MACHINES",
+                    "TONKA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SPREADSHEET FUNCTIONS",
+                "members": [
+                    "AVERAGE",
+                    "COUNT",
+                    "MAX",
+                    "SUM"
+                ]
+            }
+        ]
     }
 ]
