@@ -54094,5 +54094,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1177,
+        "date": "2026-09-05",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MOVE UNSTEADILY",
+                "members": [
+                    "SWAY",
+                    "TODDLE",
+                    "TOTTER",
+                    "WOBBLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BIRD ONOMATOPOEIA",
+                "members": [
+                    "COO",
+                    "GOBBLE",
+                    "HONK",
+                    "WARBLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___HEAD",
+                "members": [
+                    "BOBBLE",
+                    "HAMMER",
+                    "JUG",
+                    "SLEEPY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESSERTS MINUS LAST LETTER",
+                "members": [
+                    "COBBLE",
+                    "PI",
+                    "TAR",
+                    "TORT"
+                ]
+            }
+        ]
     }
 ]
