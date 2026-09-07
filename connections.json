@@ -54186,5 +54186,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1179,
+        "date": "2026-09-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "QUITE THE SAGA",
+                "members": [
+                    "FABRICATION",
+                    "FISH STORY",
+                    "TALL TALE",
+                    "YARN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A BRA",
+                "members": [
+                    "CUP",
+                    "HOOK",
+                    "STRAP",
+                    "UNDERWIRE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH PINE TREES",
+                "members": [
+                    "CAR AIR FRESHENER",
+                    "CHRISTMAS",
+                    "NEEDLES",
+                    "TURPENTINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH DISNEY CHARACTERS",
+                "members": [
+                    "PLUTONIUM",
+                    "SCAR TISSUE",
+                    "STITCH MARKER",
+                    "TRAMPOLINE"
+                ]
+            }
+        ]
     }
 ]
