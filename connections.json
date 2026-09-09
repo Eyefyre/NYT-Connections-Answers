@@ -54278,5 +54278,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1181,
+        "date": "2026-09-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HARD TO UNDERSTAND",
+                "members": [
+                    "BEWILDERING",
+                    "ESOTERIC",
+                    "INCOMPREHENSIBLE",
+                    "OPAQUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS WITH \"SMALL\" PREFIXES",
+                "members": [
+                    "MICROBREWERY",
+                    "MINIVAN",
+                    "NANOTECHNOLOGY",
+                    "PICOSECOND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HORROR MOVIES",
+                "members": [
+                    "ARACHNOPHOBIA",
+                    "HALLOWEEN",
+                    "IT",
+                    "SAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS BEFORE \"FORCE\"",
+                "members": [
+                    "BRUTE",
+                    "ELECTROMAGNETIC",
+                    "G",
+                    "TASK"
+                ]
+            }
+        ]
     }
 ]
