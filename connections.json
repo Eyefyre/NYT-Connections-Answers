@@ -54370,5 +54370,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1183,
+        "date": "2026-09-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PEOPLE HIRED FOR AN EVENT",
+                "members": [
+                    "BAND",
+                    "FLORIST",
+                    "PHOTOGRAPHER",
+                    "PLANNER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INTERNALIZE",
+                "members": [
+                    "ABSORB",
+                    "DIGEST",
+                    "PROCESS",
+                    "TAKE IN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO PRACTICE SELF-CARE",
+                "members": [
+                    "EXERCISE",
+                    "JOURNAL",
+                    "MEDITATE",
+                    "UNPLUG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE PUSHED METAPHORICALLY",
+                "members": [
+                    "AGENDA",
+                    "ENVELOPE",
+                    "LIMITS",
+                    "LUCK"
+                ]
+            }
+        ]
     }
 ]
