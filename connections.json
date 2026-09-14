@@ -54508,5 +54508,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1186,
+        "date": "2026-09-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "WATERBIRDS",
+                "members": [
+                    "COOT",
+                    "GOOSE",
+                    "LOON",
+                    "TEAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INFORMANT",
+                "members": [
+                    "CANARY",
+                    "RAT",
+                    "SNITCH",
+                    "STOOLIE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMMON SINGLE-USE PLASTIC ITEMS",
+                "members": [
+                    "BAG",
+                    "CUTLERY",
+                    "STIRRER",
+                    "STRAW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___GRASS",
+                "members": [
+                    "BLUE",
+                    "CRAB",
+                    "LEMON",
+                    "WHEAT"
+                ]
+            }
+        ]
     }
 ]
