@@ -54554,5 +54554,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1187,
+        "date": "2026-09-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "INSTRUCT",
+                "members": [
+                    "COACH",
+                    "DIRECT",
+                    "GUIDE",
+                    "TRAIN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A WHISTLING KETTLE",
+                "members": [
+                    "HANDLE",
+                    "LID",
+                    "SPOUT",
+                    "WHISTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "UNDERCOVER OPERATIVE",
+                "members": [
+                    "ASSET",
+                    "MOLE",
+                    "PLANT",
+                    "SLEEPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT APPEAR AT THE END",
+                "members": [
+                    "CABOOSE",
+                    "DECEMBER",
+                    "DESSERT",
+                    "EPILOGUE"
+                ]
+            }
+        ]
     }
 ]
