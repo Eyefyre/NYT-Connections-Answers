@@ -54600,5 +54600,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1188,
+        "date": "2026-09-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ENDING IN METAL ELEMENTS",
+                "members": [
+                    "LATIN",
+                    "LONG JOHN SILVER",
+                    "MARIGOLD",
+                    "STEAM IRON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH U.S. COINS",
+                "members": [
+                    "DIMENSION",
+                    "NICKELODEON",
+                    "PENNYWISE",
+                    "QUARTERBACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "POETS' MIDDLE NAMES",
+                "members": [
+                    "BARRETT",
+                    "CARLOS",
+                    "ST. VINCENT",
+                    "WADSWORTH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SAUSAGES PLUS A LETTER",
+                "members": [
+                    "BORAT",
+                    "CLINK",
+                    "FRANK-N-FURTER",
+                    "WIDENER"
+                ]
+            }
+        ]
     }
 ]
