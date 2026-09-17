@@ -54646,5 +54646,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1189,
+        "date": "2026-09-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ELASTICITY",
+                "members": [
+                    "BOUNCE",
+                    "FLEXIBILITY",
+                    "GIVE",
+                    "SPRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE UNDERGROUND",
+                "members": [
+                    "MINE SHAFT",
+                    "SEWER LINE",
+                    "SUBWAY STATION",
+                    "WELL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HUGH JACKMAN MOVIES, WITH \"THE\"",
+                "members": [
+                    "FOUNTAIN",
+                    "PRESTIGE",
+                    "SHEEP DETECTIVES",
+                    "WOLVERINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LOVE ___",
+                "members": [
+                    "HANDLES",
+                    "LANGUAGE",
+                    "TAP",
+                    "TRIANGLE"
+                ]
+            }
+        ]
     }
 ]
