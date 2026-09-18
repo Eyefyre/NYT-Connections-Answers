@@ -54692,5 +54692,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1190,
+        "date": "2026-09-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SEGMENT OF A PROCESS",
+                "members": [
+                    "PHASE",
+                    "ROUND",
+                    "STAGE",
+                    "STEP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSORTMENTS OF FOOD/DRINK",
+                "members": [
+                    "FLIGHT",
+                    "MEDLEY",
+                    "PLATTER",
+                    "SAMPLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A FLIGHT",
+                "members": [
+                    "BOARDING",
+                    "CRUISE",
+                    "LANDING",
+                    "TAKEOFF"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___CASE",
+                "members": [
+                    "BRIEF",
+                    "PILLOW",
+                    "STAIR",
+                    "UPPER"
+                ]
+            }
+        ]
     }
 ]
