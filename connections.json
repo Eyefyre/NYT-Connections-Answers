@@ -54738,5 +54738,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1191,
+        "date": "2026-09-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "WIDEN ONE'S SCOPE",
+                "members": [
+                    "BRANCH OUT",
+                    "DIVERSIFY",
+                    "EXPAND",
+                    "GROW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A KID'S DRAWING",
+                "members": [
+                    "HOUSE",
+                    "STICK FIGURE",
+                    "SUN",
+                    "TREE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH SWINGING LONDON IN THE 1960S",
+                "members": [
+                    "CARNABY STREET",
+                    "MINISKIRT",
+                    "MOD",
+                    "TWIGGY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH ABBREVIATED MATH FUNCTIONS",
+                "members": [
+                    "COS LETTUCE",
+                    "LOG CABIN",
+                    "SIN CITY",
+                    "TAN LINE"
+                ]
+            }
+        ]
     }
 ]
