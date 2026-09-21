@@ -54830,5 +54830,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1193,
+        "date": "2026-09-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "EMAIL BUTTONS",
+                "members": [
+                    "COMPOSE",
+                    "DRAFTS",
+                    "SENT",
+                    "SPAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WAYS TO ATTRACT FISH",
+                "members": [
+                    "CHUM",
+                    "FLY",
+                    "SPINNER",
+                    "WORM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CHESS VERBS",
+                "members": [
+                    "CAPTURE",
+                    "CASTLE",
+                    "CHECK",
+                    "MATE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF COMPOSERS' NAMES",
+                "members": [
+                    "BEET",
+                    "BRAH",
+                    "CHOP",
+                    "VIVA"
+                ]
+            }
+        ]
     }
 ]
