@@ -54968,5 +54968,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1196,
+        "date": "2026-09-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS OF A VAMPIRE COSTUME",
+                "members": [
+                    "CAPE",
+                    "FACE PAINT",
+                    "FAKE BLOOD",
+                    "FANGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH SPRING/S",
+                "members": [
+                    "BOBBLEHEAD",
+                    "POGO STICK",
+                    "SNAKES IN A CAN",
+                    "TRAMPOLINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURING POINTING",
+                "members": [
+                    "CREATION OF ADAM",
+                    "FOAM FINGER",
+                    "I'M WITH STUPID SHIRT",
+                    "UNCLE SAM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANAGRAMS",
+                "members": [
+                    "BEER HAT",
+                    "BREATHE",
+                    "HERB TEA",
+                    "THE BEAR"
+                ]
+            }
+        ]
     }
 ]
