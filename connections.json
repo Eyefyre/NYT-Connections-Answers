@@ -55014,5 +55014,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1197,
+        "date": "2026-09-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "LUXE",
+                "members": [
+                    "BOUGIE",
+                    "FANCY",
+                    "POSH",
+                    "SWANK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A MECHANICAL CLOCK",
+                "members": [
+                    "ESCAPEMENT",
+                    "PENDULUM",
+                    "RATCHET",
+                    "SPRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FAMOUS DANS",
+                "members": [
+                    "AYKROYD",
+                    "LEVY",
+                    "RATHER",
+                    "SAVAGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TAXONOMIC RANKS PLUS A LETTER",
+                "members": [
+                    "BORDER",
+                    "CLASSY",
+                    "FOAMILY",
+                    "GENIUS"
+                ]
+            }
+        ]
     }
 ]
