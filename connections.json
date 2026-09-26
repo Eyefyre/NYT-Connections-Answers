@@ -55060,5 +55060,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1198,
+        "date": "2026-09-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "BREATH FRESHENERS",
+                "members": [
+                    "GUM",
+                    "MINT",
+                    "MOUTHWASH",
+                    "SPRAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+                "members": [
+                    "FOLD",
+                    "PRESS",
+                    "STARCH",
+                    "WASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF WOOD",
+                "members": [
+                    "BURL",
+                    "GRAIN",
+                    "KNOTS",
+                    "RINGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "\"COOL\" THINGS, IN EXPRESSIONS",
+                "members": [
+                    "BEANS",
+                    "CAT",
+                    "CUCUMBER",
+                    "CUSTOMER"
+                ]
+            }
+        ]
     }
 ]
