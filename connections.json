@@ -55106,5 +55106,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1199,
+        "date": "2026-09-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SCULPTURE MEDIA",
+                "members": [
+                    "BRONZE",
+                    "CLAY",
+                    "MARBLE",
+                    "PLASTER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RESTAURANT SEATING OPTIONS",
+                "members": [
+                    "BANQUETTE",
+                    "BOOTH",
+                    "CHAIR",
+                    "STOOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TELECOM",
+                "members": [
+                    "CARRIER",
+                    "NETWORK",
+                    "OPERATOR",
+                    "PROVIDER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN CHINESE DYNASTIES",
+                "members": [
+                    "BBQING",
+                    "HOMING",
+                    "LOHAN",
+                    "WU-TANG"
+                ]
+            }
+        ]
     }
 ]
