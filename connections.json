@@ -55152,5 +55152,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1200,
+        "date": "2026-09-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS WITH STALKS",
+                "members": [
+                    "BAMBOO",
+                    "CELERY",
+                    "CORN",
+                    "WHEAT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OYSTER CONDIMENTS",
+                "members": [
+                    "HORSERADISH",
+                    "LEMON",
+                    "MIGNONETTE",
+                    "TABASCO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DODGE MODELS",
+                "members": [
+                    "CHALLENGER",
+                    "CHARGER",
+                    "DURANGO",
+                    "VIPER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+                "members": [
+                    "ARKANSANS",
+                    "CHIHUAHUA",
+                    "POSSESSES",
+                    "SPRINGING"
+                ]
+            }
+        ]
     }
 ]
