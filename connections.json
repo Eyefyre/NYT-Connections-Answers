@@ -55198,5 +55198,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1201,
+        "date": "2026-09-29",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SECLUDED",
+                "members": [
+                    "HIDDEN",
+                    "REMOTE",
+                    "SECRET",
+                    "TUCKED AWAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RIVER FEATURES",
+                "members": [
+                    "DELTA",
+                    "DRAINAGE BASIN",
+                    "MOUTH",
+                    "STREAM BED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRST WORDS OF PIXAR FILMS",
+                "members": [
+                    "FINDING",
+                    "INSIDE",
+                    "MONSTERS",
+                    "TOY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PHRASES HIDING GREEK LETTERS",
+                "members": [
+                    "FREEZE TAG",
+                    "HOME GAME",
+                    "MODEL TANK",
+                    "ORAL PHASE"
+                ]
+            }
+        ]
     }
 ]
