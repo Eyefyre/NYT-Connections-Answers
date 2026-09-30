@@ -55244,5 +55244,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1202,
+        "date": "2026-09-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SECURITIES",
+                "members": [
+                    "BOND",
+                    "FUTURE",
+                    "OPTION",
+                    "STOCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE SHAKEN (NOT STIRRED)",
+                "members": [
+                    "ETCH A SKETCH",
+                    "MARTINI",
+                    "SPRAY PAINT",
+                    "TAMBOURINE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GANGSTER MOVIES",
+                "members": [
+                    "BUGSY",
+                    "CASINO",
+                    "DONNIE BRASCO",
+                    "SCARFACE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH MONTH ABBREVIATIONS",
+                "members": [
+                    "DECENT",
+                    "NOVELTY",
+                    "OCTOPUSSY",
+                    "SEPTUM"
+                ]
+            }
+        ]
     }
 ]
