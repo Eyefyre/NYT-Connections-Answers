@@ -55336,5 +55336,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1204,
+        "date": "2026-10-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FINANCE",
+                "members": [
+                    "BACK",
+                    "BANKROLL",
+                    "FUND",
+                    "SUPPORT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FINGERS",
+                "members": [
+                    "INDEX",
+                    "LITTLE",
+                    "MIDDLE",
+                    "RING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CUSTOMARY",
+                "members": [
+                    "COMMON",
+                    "ROUTINE",
+                    "STANDARD",
+                    "STOCK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PRIME ___",
+                "members": [
+                    "NUMBER",
+                    "REAL ESTATE",
+                    "RIB",
+                    "TIME"
+                ]
+            }
+        ]
     }
 ]
