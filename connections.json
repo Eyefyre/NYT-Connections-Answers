@@ -55428,5 +55428,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1206,
+        "date": "2026-10-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONSIDERABLE AMOUNT",
+                "members": [
+                    "BUNCH",
+                    "HEAP",
+                    "LOT",
+                    "STACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TABLE TENNIS NEEDS",
+                "members": [
+                    "BALL",
+                    "NET",
+                    "PADDLE",
+                    "TABLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A JUDGE COSTUME",
+                "members": [
+                    "COLLAR",
+                    "GAVEL",
+                    "ROBE",
+                    "WIG"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SILENT ___",
+                "members": [
+                    "AUCTION",
+                    "FILM",
+                    "PARTNER",
+                    "TREATMENT"
+                ]
+            }
+        ]
     }
 ]
