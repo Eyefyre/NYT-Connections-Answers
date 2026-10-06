@@ -55520,5 +55520,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1208,
+        "date": "2026-10-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FINANCIAL FIRMS, FOR SHORT",
+                "members": [
+                    "BERKSHIRE",
+                    "CITI",
+                    "GOLDMAN",
+                    "MERRILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CHAIRS",
+                "members": [
+                    "ADIRONDACK",
+                    "EAMES",
+                    "WINDSOR",
+                    "WINGBACK"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ INN HOTELS",
+                "members": [
+                    "COMFORT",
+                    "DAYS",
+                    "HAMPTON",
+                    "HOLIDAY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN TALENTS",
+                "members": [
+                    "CATSKILL",
+                    "KNICKKNACK",
+                    "PIANOFORTE",
+                    "STABILITY"
+                ]
+            }
+        ]
     }
 ]
