@@ -55566,5 +55566,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1209,
+        "date": "2026-10-07",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SAVE FOR LATER",
+                "members": [
+                    "BANK",
+                    "SQUIRREL",
+                    "STASH",
+                    "STORE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF BUNS",
+                "members": [
+                    "CINNAMON",
+                    "HAMBURGER",
+                    "HOT DOG",
+                    "STICKY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "GREEK NUMERICAL PREFIXES",
+                "members": [
+                    "DICHOTOMY",
+                    "MONOLOGUE",
+                    "TETRACYCLINE",
+                    "TRIDENT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BEST ___ TONY AWARDS",
+                "members": [
+                    "CHOREOGRAPHY",
+                    "MUSICAL",
+                    "ORCHESTRATIONS",
+                    "PLAY"
+                ]
+            }
+        ]
     }
 ]
