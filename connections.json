@@ -55612,5 +55612,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1210,
+        "date": "2026-10-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "FOLLOWS, AS RULES",
+                "members": [
+                    "HEEDS",
+                    "MINDS",
+                    "REGARDS",
+                    "RESPECTS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OUTDO",
+                "members": [
+                    "BEST",
+                    "ECLIPSE",
+                    "SURPASS",
+                    "TOP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT COME IN THREES",
+                "members": [
+                    "CHEERS",
+                    "STOOGES",
+                    "STRIKES",
+                    "WISHES"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN ACTORS NAMED TOM",
+                "members": [
+                    "AUTOCRUISE",
+                    "FOOLHARDY",
+                    "MULHOLLAND",
+                    "THANKS"
+                ]
+            }
+        ]
     }
 ]
