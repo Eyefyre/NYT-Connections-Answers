@@ -55658,5 +55658,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1211,
+        "date": "2026-10-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DECISIVE VICTORY",
+                "members": [
+                    "BLOWOUT",
+                    "ROMP",
+                    "ROUT",
+                    "SWEEP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CONTROLLED BY A TV REMOTE",
+                "members": [
+                    "CHANNEL",
+                    "INPUT",
+                    "POWER",
+                    "VOLUME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEATURES OF A SPORTS SHOW",
+                "members": [
+                    "HIGHLIGHTS",
+                    "RECAP",
+                    "SCORES",
+                    "STATS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AIR ___",
+                "members": [
+                    "CONDITIONER",
+                    "GUITAR",
+                    "KISS",
+                    "QUOTES"
+                ]
+            }
+        ]
     }
 ]
