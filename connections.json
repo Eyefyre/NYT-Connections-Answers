@@ -56026,5 +56026,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1219,
+        "date": "2026-10-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DIGITAL NOTIFICATIONS",
+                "members": [
+                    "ALERT",
+                    "CHIME",
+                    "DING",
+                    "PING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PHOTO",
+                "members": [
+                    "PRINT",
+                    "SHOT",
+                    "SNAP",
+                    "STILL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CRABS",
+                "members": [
+                    "FIDDLER",
+                    "HERMIT",
+                    "KING",
+                    "SNOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LA ___",
+                "members": [
+                    "BOH\u00c8ME",
+                    "BREA",
+                    "PAZ",
+                    "SCALA"
+                ]
+            }
+        ]
     }
 ]
