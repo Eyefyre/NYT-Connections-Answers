@@ -56256,5 +56256,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1224,
+        "date": "2026-10-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS TO BE GRASPED",
+                "members": [
+                    "GRIP",
+                    "HANDLE",
+                    "HILT",
+                    "KNOB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF SCULPTURES",
+                "members": [
+                    "BUST",
+                    "MOBILE",
+                    "RELIEF",
+                    "STATUE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AMERICAN FOOTBALL POSITIONS",
+                "members": [
+                    "END",
+                    "GUARD",
+                    "SAFETY",
+                    "TACKLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTS OF BEDDING",
+                "members": [
+                    "BLANK",
+                    "COMFORT",
+                    "PILL",
+                    "SHE"
+                ]
+            }
+        ]
     }
 ]
