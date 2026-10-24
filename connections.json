@@ -56348,5 +56348,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1226,
+        "date": "2026-10-24",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF STRIPS",
+                "members": [
+                    "BACON",
+                    "COMIC",
+                    "FILM",
+                    "M\u00d6BIUS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS ON STICKS",
+                "members": [
+                    "HOBBY HORSE",
+                    "PINWHEEL",
+                    "POPSICLE",
+                    "SPARKLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ONLINE AD FORMATS",
+                "members": [
+                    "BANNER",
+                    "INTERSTITIAL",
+                    "OVERLAY",
+                    "POP-UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ BAR",
+                "members": [
+                    "CANDY",
+                    "SALAD",
+                    "SPACE",
+                    "SPORTS"
+                ]
+            }
+        ]
     }
 ]
