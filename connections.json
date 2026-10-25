@@ -56394,5 +56394,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1227,
+        "date": "2026-10-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "STEAL",
+                "members": [
+                    "BOOST",
+                    "PALM",
+                    "POCKET",
+                    "SWIPE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PASTA SHAPES",
+                "members": [
+                    "BOW TIE",
+                    "ELBOW",
+                    "SHELL",
+                    "WAGON WHEEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FICTIONAL TOMS",
+                "members": [
+                    "RIPLEY",
+                    "SAWYER",
+                    "SWIFT",
+                    "THUMB"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT CAN BE SNAPPED",
+                "members": [
+                    "FINGERS",
+                    "FOOTBALL",
+                    "GLOW STICK",
+                    "RUBBER BAND"
+                ]
+            }
+        ]
     }
 ]
