@@ -56532,5 +56532,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1230,
+        "date": "2026-10-28",
+        "answers": [
+            {
+                "level": -1,
+                "group": "ROMANTIC LIKING",
+                "members": [
+                    "ATTRACTION",
+                    "CRUSH",
+                    "FEELINGS",
+                    "INTEREST"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COMPONENTS OF AN EMAIL",
+                "members": [
+                    "ATTACHMENT",
+                    "BODY",
+                    "SIGNATURE",
+                    "SUBJECT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NASA MARS ROVERS",
+                "members": [
+                    "CURIOSITY",
+                    "OPPORTUNITY",
+                    "PERSEVERANCE",
+                    "SPIRIT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF PATHS",
+                "members": [
+                    "COARSE",
+                    "RODE",
+                    "ROUT",
+                    "WEIGH"
+                ]
+            }
+        ]
     }
 ]
