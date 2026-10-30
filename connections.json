@@ -56624,5 +56624,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1232,
+        "date": "2026-10-30",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS OF A CAMERA",
+                "members": [
+                    "FLASH",
+                    "LENS",
+                    "SHUTTER",
+                    "VIEWFINDER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "AROUND A THEATER STAGE",
+                "members": [
+                    "BACKDROP",
+                    "CURTAIN",
+                    "PIT",
+                    "WINGS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THROW ___",
+                "members": [
+                    "HANDS",
+                    "PILLOW",
+                    "RUG",
+                    "SHADE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FRUIT WITH FIRST LETTER CHANGED",
+                "members": [
+                    "DEMON",
+                    "DRAPE",
+                    "GLUM",
+                    "GRANGE"
+                ]
+            }
+        ]
     }
 ]
