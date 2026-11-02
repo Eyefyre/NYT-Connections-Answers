@@ -56762,5 +56762,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1235,
+        "date": "2026-11-02",
+        "answers": [
+            {
+                "level": -1,
+                "group": "THINGS TO BRING ON A TREK",
+                "members": [
+                    "BACKPACK",
+                    "COMPASS",
+                    "HIKING BOOTS",
+                    "WATER BOTTLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ANGER",
+                "members": [
+                    "INCENSE",
+                    "NETTLE",
+                    "PIQUE",
+                    "WIND UP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MIST MAKERS",
+                "members": [
+                    "DRY ICE",
+                    "FOG MACHINE",
+                    "HUMIDIFIER",
+                    "WATERFALL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH MIRRORS",
+                "members": [
+                    "DISCO BALL",
+                    "DRESSING ROOM",
+                    "KALEIDOSCOPE",
+                    "MEDICINE CABINET"
+                ]
+            }
+        ]
     }
 ]
