@@ -56808,5 +56808,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1236,
+        "date": "2026-11-03",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KEEP GOING",
+                "members": [
+                    "CARRY ON",
+                    "CONTINUE",
+                    "PROCEED",
+                    "RESUME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH WHEELS",
+                "members": [
+                    "OFFICE CHAIR",
+                    "ROLLER BAG",
+                    "SHOPPING CART",
+                    "STROLLER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS A SERVER BRINGS AT A RESTAURANT",
+                "members": [
+                    "CHECK",
+                    "FOOD",
+                    "MENU",
+                    "TAP WATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN MENU BAR HEADINGS",
+                "members": [
+                    "CREDIT",
+                    "INTERVIEW",
+                    "PROFILE",
+                    "WHELP"
+                ]
+            }
+        ]
     }
 ]
