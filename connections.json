@@ -56854,5 +56854,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1237,
+        "date": "2026-11-04",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TRIANGULAR PRISMS WITH A SHARP EDGE",
+                "members": [
+                    "DOORSTOP",
+                    "FLATIRON BUILDING",
+                    "PIE SLICE",
+                    "WEDGE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS AFTER \"DO NOT\" ON A CARE LABEL",
+                "members": [
+                    "BLEACH",
+                    "IRON",
+                    "TUMBLE DRY",
+                    "WRING"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MOVE IDLY, WITH \"AROUND\"",
+                "members": [
+                    "LOLL",
+                    "POKE",
+                    "PUTTER",
+                    "SHUFFLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FIRE___",
+                "members": [
+                    "CRACKER",
+                    "FLY",
+                    "WOOD",
+                    "WORKS"
+                ]
+            }
+        ]
     }
 ]
