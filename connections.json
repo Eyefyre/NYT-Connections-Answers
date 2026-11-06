@@ -56946,5 +56946,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1239,
+        "date": "2026-11-06",
+        "answers": [
+            {
+                "level": -1,
+                "group": "COMPOSITION",
+                "members": [
+                    "CONSTITUTION",
+                    "FABRIC",
+                    "MAKEUP",
+                    "STRUCTURE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "COPY",
+                "members": [
+                    "BACKUP",
+                    "EXTRA",
+                    "REPLACEMENT",
+                    "SPARE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF TRUCKS",
+                "members": [
+                    "FLATBED",
+                    "PICKUP",
+                    "SEMI",
+                    "TANKER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN PARTS OF THE EYE",
+                "members": [
+                    "HOT ROD",
+                    "OSIRIS",
+                    "TRAFFIC CONE",
+                    "WOOLENS"
+                ]
+            }
+        ]
     }
 ]
