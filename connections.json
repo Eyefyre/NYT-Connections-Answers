@@ -57038,5 +57038,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1241,
+        "date": "2026-11-08",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MUSCULAR",
+                "members": [
+                    "BUILT",
+                    "CUT",
+                    "JACKED",
+                    "RIPPED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HAIR SALON SERVICES",
+                "members": [
+                    "BLOWOUT",
+                    "COLOR",
+                    "EXTENSIONS",
+                    "TRIM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT HELP MAKE SENSE OF A SITUATION",
+                "members": [
+                    "CLARITY",
+                    "CONTEXT",
+                    "INSIGHT",
+                    "PERSPECTIVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "VEGETABLE HOMOPHONES",
+                "members": [
+                    "CARAT",
+                    "CHARRED",
+                    "KORN",
+                    "LEAK"
+                ]
+            }
+        ]
     }
 ]
