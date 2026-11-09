@@ -57084,5 +57084,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1242,
+        "date": "2026-11-09",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DECEITFUL SCHEME",
+                "members": [
+                    "CON JOB",
+                    "FLIMFLAM",
+                    "RIP-OFF",
+                    "SHELL GAME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "JEANS DESCRIPTORS",
+                "members": [
+                    "BOOTCUT",
+                    "DISTRESSED",
+                    "LOW-RISE",
+                    "SKINNY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS WITH SERRATED EDGES",
+                "members": [
+                    "GRAPEFRUIT SPOON",
+                    "MINT LEAF",
+                    "STEAK KNIFE",
+                    "TAPE DISPENSER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN SEA CREATURES",
+                "members": [
+                    "CARD SHARK",
+                    "FUN SPONGE",
+                    "GAMMA RAY",
+                    "NAVY SEAL"
+                ]
+            }
+        ]
     }
 ]
