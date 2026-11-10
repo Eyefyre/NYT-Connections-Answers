@@ -57130,5 +57130,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1243,
+        "date": "2026-11-10",
+        "answers": [
+            {
+                "level": -1,
+                "group": "HUBBUB",
+                "members": [
+                    "BROUHAHA",
+                    "FOOFARAW",
+                    "HULLABALOO",
+                    "KERFUFFLE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LITERARY DEVICES",
+                "members": [
+                    "HYPERBOLE",
+                    "METONYMY",
+                    "ONOMATOPOEIA",
+                    "OXYMORON"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "OLD-TIMEY OCCUPATIONS",
+                "members": [
+                    "APOTHECARY",
+                    "HABERDASHER",
+                    "SCRIVENER",
+                    "WAINWRIGHT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WORDS WITH FIVE OF ONE VOWEL",
+                "members": [
+                    "ABRACADABRA",
+                    "BEEKEEPER",
+                    "INVISIBILITY",
+                    "PROTOZOOLOGY"
+                ]
+            }
+        ]
     }
 ]
