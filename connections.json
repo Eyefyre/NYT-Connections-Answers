@@ -57176,5 +57176,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1244,
+        "date": "2026-11-11",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF MEDICINE",
+                "members": [
+                    "FOLK",
+                    "HERBAL",
+                    "HOLISTIC",
+                    "TRADITIONAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF A GOLF COURSE",
+                "members": [
+                    "GREEN",
+                    "ROUGH",
+                    "SAND TRAP",
+                    "TEE BOX"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS FILLED WITH AIR",
+                "members": [
+                    "AIR MATTRESS",
+                    "BUBBLE",
+                    "TIRE",
+                    "WHOOPIE CUSHION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN PALINDROMES",
+                "members": [
+                    "AFTERNOON",
+                    "PATOOT",
+                    "RHEOSTATS",
+                    "SHREDDER"
+                ]
+            }
+        ]
     }
 ]
