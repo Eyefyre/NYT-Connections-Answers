@@ -57314,5 +57314,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1247,
+        "date": "2026-11-14",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CUTTING-EDGE",
+                "members": [
+                    "ADVANCED",
+                    "FOREMOST",
+                    "MODERN",
+                    "PROGRESSIVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "LOCATIONS FOR AN INSTITUTION",
+                "members": [
+                    "CAMPUS",
+                    "CENTER",
+                    "COMPLEX",
+                    "FACILITY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STRATEGY BOARD GAMES",
+                "members": [
+                    "CHESS",
+                    "GO",
+                    "OTHELLO",
+                    "STRATEGO"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BABY GEAR WITH FIRST LETTER CHANGED",
+                "members": [
+                    "BATTLE",
+                    "MARRIAGE",
+                    "MOTTLE",
+                    "TRIB"
+                ]
+            }
+        ]
     }
 ]
