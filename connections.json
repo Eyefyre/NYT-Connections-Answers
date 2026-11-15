@@ -57360,5 +57360,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1248,
+        "date": "2026-11-15",
+        "answers": [
+            {
+                "level": -1,
+                "group": "UNMATCHED",
+                "members": [
+                    "ALL-TIME",
+                    "HISTORIC",
+                    "RECORD",
+                    "UNPRECEDENTED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WEDDING WEBSITE SECTIONS",
+                "members": [
+                    "DRESS CODE",
+                    "REGISTRY",
+                    "RSVP",
+                    "TRAVEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ PLANE",
+                "members": [
+                    "ASTRAL",
+                    "CARTESIAN",
+                    "INCLINED",
+                    "JET"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN VEGETABLES IN THE ALLIUM FAMILY",
+                "members": [
+                    "ARCHIVE",
+                    "OCTONION",
+                    "RAPSCALLION",
+                    "SLEEK"
+                ]
+            }
+        ]
     }
 ]
