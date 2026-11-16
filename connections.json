@@ -57406,5 +57406,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1249,
+        "date": "2026-11-16",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SUMMER ___",
+                "members": [
+                    "BLOCKBUSTER",
+                    "CAMP",
+                    "SAUSAGE",
+                    "SCHOOL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "SPRING ___",
+                "members": [
+                    "CHICKEN",
+                    "CLEANING",
+                    "ONION",
+                    "WATER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "WINTER ___",
+                "members": [
+                    "GARDEN",
+                    "GLOVES",
+                    "MELON",
+                    "WONDERLAND"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FALL ___",
+                "members": [
+                    "ASLEEP",
+                    "FOLIAGE",
+                    "GUY",
+                    "IN LOVE"
+                ]
+            }
+        ]
     }
 ]
