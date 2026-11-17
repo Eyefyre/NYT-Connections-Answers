@@ -57452,5 +57452,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1250,
+        "date": "2026-11-17",
+        "answers": [
+            {
+                "level": -1,
+                "group": "CONVENE",
+                "members": [
+                    "ASSEMBLE",
+                    "COME TOGETHER",
+                    "FLOCK",
+                    "GATHER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS IN \"SING A SONG OF SIXPENCE\"",
+                "members": [
+                    "BLACKBIRD",
+                    "PIE",
+                    "RYE",
+                    "SIXPENCE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FILMS WITH \"!\" IN THE TITLE",
+                "members": [
+                    "AIRPLANE",
+                    "HELP",
+                    "SHAZAM",
+                    "THEM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN BOWLING TERMS",
+                "members": [
+                    "KINGPIN",
+                    "MASKED BALL",
+                    "PENNY LANE",
+                    "VALLEY"
+                ]
+            }
+        ]
     }
 ]
