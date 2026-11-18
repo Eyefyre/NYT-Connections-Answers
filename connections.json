@@ -57498,5 +57498,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1251,
+        "date": "2026-11-18",
+        "answers": [
+            {
+                "level": -1,
+                "group": "DESCRIPTORS FOR A LEMON",
+                "members": [
+                    "JUICY",
+                    "OVOID",
+                    "SOUR",
+                    "YELLOW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS BEES PRODUCE",
+                "members": [
+                    "BUZZ",
+                    "COMB",
+                    "HONEY",
+                    "VENOM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "CITIES IN FRANCE",
+                "members": [
+                    "CANNES",
+                    "DIJON",
+                    "NICE",
+                    "TOURS"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "___ FRY",
+                "members": [
+                    "DEEP",
+                    "FRENCH",
+                    "SMALL",
+                    "VOCAL"
+                ]
+            }
+        ]
     }
 ]
