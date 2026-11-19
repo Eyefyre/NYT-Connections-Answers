@@ -57544,5 +57544,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1252,
+        "date": "2026-11-19",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MAKE A HOLE IN THE GROUND",
+                "members": [
+                    "BORE",
+                    "BURROW",
+                    "DIG",
+                    "TUNNEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "MATERIALS OBTAINED FROM TREES",
+                "members": [
+                    "CORK",
+                    "RESIN",
+                    "SAP",
+                    "WOOD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "PARTS OF AN ELECTRICAL APPLIANCE",
+                "members": [
+                    "CORD",
+                    "HOUSING",
+                    "PLUG",
+                    "SWITCH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "START AND END WITH THE SAME THREE LETTERS",
+                "members": [
+                    "EINSTEIN",
+                    "GALANGAL",
+                    "HOTSHOT",
+                    "UNDERGROUND"
+                ]
+            }
+        ]
     }
 ]
