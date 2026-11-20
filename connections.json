@@ -57590,5 +57590,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1253,
+        "date": "2026-11-20",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PERSON WHO EXCELS AT SOMETHING",
+                "members": [
+                    "ACE",
+                    "BEAST",
+                    "MAVEN",
+                    "WIZARD"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "NOTICE",
+                "members": [
+                    "CATCH",
+                    "CLOCK",
+                    "REGISTER",
+                    "SPOT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DESCRIPTORS FOR SMALL ANIMALS",
+                "members": [
+                    "MINIATURE",
+                    "POCKET",
+                    "TEACUP",
+                    "TOY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN LINGERIE",
+                "members": [
+                    "CANDELABRA",
+                    "COWSLIP",
+                    "DIPHTHONG",
+                    "STUTTGARTER"
+                ]
+            }
+        ]
     }
 ]
