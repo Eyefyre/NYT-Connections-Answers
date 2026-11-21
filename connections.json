@@ -57636,5 +57636,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1254,
+        "date": "2026-11-21",
+        "answers": [
+            {
+                "level": -1,
+                "group": "KINDS OF COOKIES",
+                "members": [
+                    "BLACK AND WHITE",
+                    "BUTTER",
+                    "GIRL SCOUT",
+                    "SUGAR"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS RATED IN A CUSTOMER SURVEY",
+                "members": [
+                    "COURTESY",
+                    "HELPFULNESS",
+                    "SATISFACTION",
+                    "WAIT TIME"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "TAROT CARDS, WITH \"THE\"",
+                "members": [
+                    "DEVIL",
+                    "EMPRESS",
+                    "FOOL",
+                    "HIEROPHANT"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOLD YOUR ___",
+                "members": [
+                    "BREATH",
+                    "HORSES",
+                    "OWN",
+                    "TONGUE"
+                ]
+            }
+        ]
     }
 ]
