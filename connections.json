@@ -57682,5 +57682,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1255,
+        "date": "2026-11-22",
+        "answers": [
+            {
+                "level": -1,
+                "group": "MULTITUDE",
+                "members": [
+                    "HOST",
+                    "MASS",
+                    "SEA",
+                    "SLEW"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INTERJECTIONS BEFORE A REACTION",
+                "members": [
+                    "GEE",
+                    "SAY",
+                    "WELL",
+                    "WHY"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "BUBBLE ___",
+                "members": [
+                    "BATH",
+                    "GUM",
+                    "TEA",
+                    "WRAP"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "HOMOPHONES OF PRONOUNS",
+                "members": [
+                    "EWE",
+                    "EYE",
+                    "HEE",
+                    "WEE"
+                ]
+            }
+        ]
     }
 ]
