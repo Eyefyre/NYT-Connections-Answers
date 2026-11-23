@@ -57728,5 +57728,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1256,
+        "date": "2026-11-23",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TINY AMOUNT",
+                "members": [
+                    "IOTA",
+                    "MODICUM",
+                    "PARTICLE",
+                    "SHRED"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "INFO ON A NAVIGATION APP",
+                "members": [
+                    "DISTANCE",
+                    "ETA",
+                    "ROUTE",
+                    "TRAFFIC"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "METAL SUBGENRES",
+                "members": [
+                    "BLACK",
+                    "DOOM",
+                    "NU",
+                    "THRASH"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "STARTING WITH BABY ANIMALS",
+                "members": [
+                    "CHICKPEA",
+                    "CUBISM",
+                    "LAMBDA",
+                    "PUPIL"
+                ]
+            }
+        ]
     }
 ]
