@@ -57820,5 +57820,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1258,
+        "date": "2026-11-25",
+        "answers": [
+            {
+                "level": -1,
+                "group": "PARTS OF A FREEWAY",
+                "members": [
+                    "LANE",
+                    "MEDIAN",
+                    "RAMP",
+                    "SHOULDER"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "U-SHAPED THINGS",
+                "members": [
+                    "HALF-PIPE",
+                    "HORSESHOE",
+                    "NECK PILLOW",
+                    "PARABOLA"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "RUG SPECIFICATIONS",
+                "members": [
+                    "DIMENSIONS",
+                    "MATERIAL",
+                    "PILE",
+                    "WEAVE"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "DOGS BREEDS MINUS FIRST LETTER",
+                "members": [
+                    "EAGLE",
+                    "OBERMAN",
+                    "OLLIE",
+                    "OODLE"
+                ]
+            }
+        ]
     }
 ]
