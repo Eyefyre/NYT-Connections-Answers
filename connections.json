@@ -57866,5 +57866,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1259,
+        "date": "2026-11-26",
+        "answers": [
+            {
+                "level": -1,
+                "group": "SHADES OF PINK",
+                "members": [
+                    "BLUSH",
+                    "BUBBLEGUM",
+                    "CARNATION",
+                    "CORAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "KINDS OF CARS",
+                "members": [
+                    "COMPACT",
+                    "CONVERTIBLE",
+                    "HYBRID",
+                    "MANUAL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS HOMER SIMPSON LIKES",
+                "members": [
+                    "BEER",
+                    "BOWLING",
+                    "DONUTS",
+                    "TELEVISION"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "THINGS THAT ARE POPPED",
+                "members": [
+                    "BOTTLE OF CHAMPAGNE",
+                    "POPCORN",
+                    "THE QUESTION",
+                    "WHEELIE"
+                ]
+            }
+        ]
     }
 ]
