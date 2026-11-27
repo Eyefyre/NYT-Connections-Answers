@@ -57912,5 +57912,51 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 1260,
+        "date": "2026-11-27",
+        "answers": [
+            {
+                "level": -1,
+                "group": "TOUCH LIGHTLY",
+                "members": [
+                    "BRUSH",
+                    "GRAZE",
+                    "KISS",
+                    "SKIM"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "FEMALE ANIMALS",
+                "members": [
+                    "LEOPARDESS",
+                    "PEAHEN",
+                    "QUEEN",
+                    "VIXEN"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ENDING IN PARTS OF THE FOOT",
+                "members": [
+                    "CAMISOLE",
+                    "MISTLETOE",
+                    "MONARCH",
+                    "PINWHEEL"
+                ]
+            },
+            {
+                "level": -1,
+                "group": "ASSOCIATED WITH THE COLOR PURPLE",
+                "members": [
+                    "ALICE WALKER",
+                    "FLOWERY LANGUAGE",
+                    "PRINCE",
+                    "ROYALTY"
+                ]
+            }
+        ]
     }
 ]
